@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2
+pydantic-settings>=2
+yt-dlp
+faster-whisper
+pypinyin
+pydub
+websockets
+
+[:python_version >= "3.13"]
+audioop-lts

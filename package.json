@@ -1,0 +1,13 @@
+{
+  "name": "listening-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Standalone Chinese listening practice desktop app",
+  "scripts": {
+    "postinstall": "cd electron && npm install",
+    "dev": "cd electron && npm run start",
+    "build:linux": "cd electron && npm run build:linux",
+    "build:win": "cd electron && npm run build:win",
+    "build:rpm": "npm run build:linux && bash scripts/build_rpm.sh"
+  }
+}

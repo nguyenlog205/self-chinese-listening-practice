@@ -1,0 +1,24 @@
+# Node / Electron
+node_modules/
+npm-debug.log*
+
+# Electron build output
+dist/
+
+# Python backend
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+backend/*.egg-info/
+backend/**/*.egg-info/
+
+# Backend runtime storage (SQLite DB + cached audio/video)
+backend/storage/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Listening Practice
+Comment=Chinese listening practice desktop app
+Exec=/opt/ListeningPractice/listening-electron %U
+Icon=listening-electron
+Terminal=false
+Categories=Education;
