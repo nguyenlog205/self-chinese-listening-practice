@@ -2,33601 +2,33601 @@ export default [
   {
     "hanzi": "挨",
     "pinyin": "āi",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "挨家挨户",
     "pinyin": "āijiā-āihù",
-    "en": "",
-    "vi": ""
+    "vi": "cửa đến cửa",
+    "en": ""
   },
   {
     "hanzi": "哀求",
     "pinyin": "āiqiú",
-    "en": "",
-    "vi": ""
+    "vi": "ăn xin",
+    "en": ""
   },
   {
     "hanzi": "挨",
     "pinyin": "ái",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "癌",
     "pinyin": "ái",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh ung thư",
+    "en": ""
   },
   {
     "hanzi": "癌症",
     "pinyin": "áizhèng",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh ung thư",
+    "en": ""
   },
   {
     "hanzi": "爱不释手",
     "pinyin": "àibúshìshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể đặt nó xuống",
+    "en": ""
   },
   {
     "hanzi": "爱戴",
     "pinyin": "àidài",
-    "en": "",
-    "vi": ""
+    "vi": "yêu",
+    "en": ""
   },
   {
     "hanzi": "暧昧",
     "pinyin": "àimèi",
-    "en": "",
-    "vi": ""
+    "vi": "mơ hồ",
+    "en": ""
   },
   {
     "hanzi": "爱慕",
     "pinyin": "àimù",
-    "en": "",
-    "vi": ""
+    "vi": "Sự ngưỡng mộ",
+    "en": ""
   },
   {
     "hanzi": "碍事",
     "pinyin": "àishì",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy cản đường",
+    "en": ""
   },
   {
     "hanzi": "爱惜",
     "pinyin": "àixī",
-    "en": "",
-    "vi": ""
+    "vi": "trân trọng",
+    "en": ""
   },
   {
     "hanzi": "艾滋病",
     "pinyin": "àizībìng",
-    "en": "",
-    "vi": ""
+    "vi": "AIDS",
+    "en": ""
   },
   {
     "hanzi": "安定",
     "pinyin": "āndìng",
-    "en": "",
-    "vi": ""
+    "vi": "ổn định",
+    "en": ""
   },
   {
     "hanzi": "安抚",
     "pinyin": "ānfǔ",
-    "en": "",
-    "vi": ""
+    "vi": "xoa dịu",
+    "en": ""
   },
   {
     "hanzi": "安眠药",
     "pinyin": "ānmiányào",
-    "en": "",
-    "vi": ""
+    "vi": "thuốc ngủ",
+    "en": ""
   },
   {
     "hanzi": "安宁",
     "pinyin": "ānníng",
-    "en": "",
-    "vi": ""
+    "vi": "hoà bình",
+    "en": ""
   },
   {
     "hanzi": "安稳",
     "pinyin": "ānwěn",
-    "en": "",
-    "vi": ""
+    "vi": "ổn định",
+    "en": ""
   },
   {
     "hanzi": "安详",
     "pinyin": "ānxiáng",
-    "en": "",
-    "vi": ""
+    "vi": "thanh thản",
+    "en": ""
   },
   {
     "hanzi": "安心",
     "pinyin": "ānxīn",
-    "en": "",
-    "vi": ""
+    "vi": "yên tâm",
+    "en": ""
   },
   {
     "hanzi": "安逸",
     "pinyin": "ānyì",
-    "en": "",
-    "vi": ""
+    "vi": "thoải mái",
+    "en": ""
   },
   {
     "hanzi": "安置",
     "pinyin": "ānzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Vị trí",
+    "en": ""
   },
   {
     "hanzi": "暗地里",
     "pinyin": "àndìlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "bí mật",
+    "en": ""
   },
   {
     "hanzi": "案件",
     "pinyin": "ànjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "trường hợp",
+    "en": ""
   },
   {
     "hanzi": "按理",
     "pinyin": "ànlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Nó có lý",
+    "en": ""
   },
   {
     "hanzi": "按钮",
     "pinyin": "ànniǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cái nút",
+    "en": ""
   },
   {
     "hanzi": "按说",
     "pinyin": "ànshuō",
-    "en": "",
-    "vi": ""
+    "vi": "Thông thường",
+    "en": ""
   },
   {
     "hanzi": "暗中",
     "pinyin": "ànzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "bí mật",
+    "en": ""
   },
   {
     "hanzi": "凹",
     "pinyin": "āo",
-    "en": "",
-    "vi": ""
+    "vi": "lõm",
+    "en": ""
   },
   {
     "hanzi": "熬",
     "pinyin": "áo",
-    "en": "",
-    "vi": ""
+    "vi": "đun sôi",
+    "en": ""
   },
   {
     "hanzi": "傲",
     "pinyin": "ào",
-    "en": "",
-    "vi": ""
+    "vi": "tự hào",
+    "en": ""
   },
   {
     "hanzi": "傲慢",
     "pinyin": "àomàn",
-    "en": "",
-    "vi": ""
+    "vi": "kiêu ngạo",
+    "en": ""
   },
   {
     "hanzi": "奥秘",
     "pinyin": "àomì",
-    "en": "",
-    "vi": ""
+    "vi": "bí ẩn",
+    "en": ""
   },
   {
     "hanzi": "扒",
     "pinyin": "bā",
-    "en": "",
-    "vi": ""
+    "vi": "Nướng",
+    "en": ""
   },
   {
     "hanzi": "疤",
     "pinyin": "bā",
-    "en": "",
-    "vi": ""
+    "vi": "vết sẹo",
+    "en": ""
   },
   {
     "hanzi": "巴不得",
     "pinyin": "bābudé",
-    "en": "",
-    "vi": ""
+    "vi": "lo lắng",
+    "en": ""
   },
   {
     "hanzi": "八成",
     "pinyin": "bāchéng",
-    "en": "",
-    "vi": ""
+    "vi": "80%",
+    "en": ""
   },
   {
     "hanzi": "八卦",
     "pinyin": "bāguà",
-    "en": "",
-    "vi": ""
+    "vi": "Chuyện phiếm",
+    "en": ""
   },
   {
     "hanzi": "巴结",
     "pinyin": "bājie",
-    "en": "",
-    "vi": ""
+    "vi": "Tâng bốc hơn",
+    "en": ""
   },
   {
     "hanzi": "芭蕾",
     "pinyin": "bālěi",
-    "en": "",
-    "vi": ""
+    "vi": "múa ba lê",
+    "en": ""
   },
   {
     "hanzi": "巴掌",
     "pinyin": "bāzhang",
-    "en": "",
-    "vi": ""
+    "vi": "tay",
+    "en": ""
   },
   {
     "hanzi": "拔",
     "pinyin": "bá",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "把柄",
     "pinyin": "bǎbǐng",
-    "en": "",
-    "vi": ""
+    "vi": "xử lý",
+    "en": ""
   },
   {
     "hanzi": "把关",
     "pinyin": "bǎguān",
-    "en": "",
-    "vi": ""
+    "vi": "kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "把手",
     "pinyin": "bǎshou",
-    "en": "",
-    "vi": ""
+    "vi": "xử lý",
+    "en": ""
   },
   {
     "hanzi": "靶子",
     "pinyin": "bǎzi",
-    "en": "",
-    "vi": ""
+    "vi": "mục tiêu",
+    "en": ""
   },
   {
     "hanzi": "坝",
     "pinyin": "bà",
-    "en": "",
-    "vi": ""
+    "vi": "con đập",
+    "en": ""
   },
   {
     "hanzi": "霸道",
     "pinyin": "bàdào",
-    "en": "",
-    "vi": ""
+    "vi": "hống hách",
+    "en": ""
   },
   {
     "hanzi": "罢工",
     "pinyin": "bàgōng",
-    "en": "",
-    "vi": ""
+    "vi": "đánh đập",
+    "en": ""
   },
   {
     "hanzi": "罢了",
     "pinyin": "bàle",
-    "en": "",
-    "vi": ""
+    "vi": "Thế thôi",
+    "en": ""
   },
   {
     "hanzi": "罢免",
     "pinyin": "bàmiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "nhớ lại",
+    "en": ""
   },
   {
     "hanzi": "罢休",
     "pinyin": "bàxiū",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ cuộc",
+    "en": ""
   },
   {
     "hanzi": "霸占",
     "pinyin": "bàzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm giữ",
+    "en": ""
   },
   {
     "hanzi": "掰",
     "pinyin": "bāi",
-    "en": "",
-    "vi": ""
+    "vi": "chia tay",
+    "en": ""
   },
   {
     "hanzi": "百般",
     "pinyin": "bǎibān",
-    "en": "",
-    "vi": ""
+    "vi": "bằng mọi cách có thể",
+    "en": ""
   },
   {
     "hanzi": "摆动",
     "pinyin": "bǎidòng",
-    "en": "",
-    "vi": ""
+    "vi": "xích đu",
+    "en": ""
   },
   {
     "hanzi": "百分比",
     "pinyin": "bǎifēnbǐ",
-    "en": "",
-    "vi": ""
+    "vi": "phần trăm",
+    "en": ""
   },
   {
     "hanzi": "百合",
     "pinyin": "bǎihé",
-    "en": "",
-    "vi": ""
+    "vi": "hoa huệ",
+    "en": ""
   },
   {
     "hanzi": "百科全书",
     "pinyin": "bǎikē quánshū",
-    "en": "",
-    "vi": ""
+    "vi": "bách khoa toàn thư",
+    "en": ""
   },
   {
     "hanzi": "摆平",
     "pinyin": "bǎipíng",
-    "en": "",
-    "vi": ""
+    "vi": "vuông góc",
+    "en": ""
   },
   {
     "hanzi": "摆设",
     "pinyin": "bǎishe",
-    "en": "",
-    "vi": ""
+    "vi": "trang trí",
+    "en": ""
   },
   {
     "hanzi": "柏树",
     "pinyin": "bǎishù",
-    "en": "",
-    "vi": ""
+    "vi": "cây bách",
+    "en": ""
   },
   {
     "hanzi": "败坏",
     "pinyin": "bàihuài",
-    "en": "",
-    "vi": ""
+    "vi": "tham nhũng",
+    "en": ""
   },
   {
     "hanzi": "拜会",
     "pinyin": "bàihuì",
-    "en": "",
-    "vi": ""
+    "vi": "gọi ",
+    "en": ""
   },
   {
     "hanzi": "拜见",
     "pinyin": "bàijiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Thấy bạn",
+    "en": ""
   },
   {
     "hanzi": "拜托",
     "pinyin": "bàituō",
-    "en": "",
-    "vi": ""
+    "vi": "Xin vui lòng",
+    "en": ""
   },
   {
     "hanzi": "扳",
     "pinyin": "bān",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "颁布",
     "pinyin": "bānbù",
-    "en": "",
-    "vi": ""
+    "vi": "ban hành",
+    "en": ""
   },
   {
     "hanzi": "斑点",
     "pinyin": "bāndiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "điểm",
+    "en": ""
   },
   {
     "hanzi": "颁发",
     "pinyin": "bānfā",
-    "en": "",
-    "vi": ""
+    "vi": "ban hành",
+    "en": ""
   },
   {
     "hanzi": "颁奖",
     "pinyin": "bānjiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "giải thưởng",
+    "en": ""
   },
   {
     "hanzi": "斑马线",
     "pinyin": "bānmǎxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "vạch kẻ đường cho người đi bộ",
+    "en": ""
   },
   {
     "hanzi": "搬迁",
     "pinyin": "bānqiān",
-    "en": "",
-    "vi": ""
+    "vi": "di chuyển",
+    "en": ""
   },
   {
     "hanzi": "板块",
     "pinyin": "bǎnkuài",
-    "en": "",
-    "vi": ""
+    "vi": "đĩa",
+    "en": ""
   },
   {
     "hanzi": "版权",
     "pinyin": "bǎnquán",
-    "en": "",
-    "vi": ""
+    "vi": "bản quyền",
+    "en": ""
   },
   {
     "hanzi": "扮",
     "pinyin": "bàn",
-    "en": "",
-    "vi": ""
+    "vi": "giả vờ",
+    "en": ""
   },
   {
     "hanzi": "伴",
     "pinyin": "bàn",
-    "en": "",
-    "vi": ""
+    "vi": "bạn đồng hành",
+    "en": ""
   },
   {
     "hanzi": "拌",
     "pinyin": "bàn",
-    "en": "",
-    "vi": ""
+    "vi": "trộn",
+    "en": ""
   },
   {
     "hanzi": "绊",
     "pinyin": "bàn",
-    "en": "",
-    "vi": ""
+    "vi": "chuyến đi",
+    "en": ""
   },
   {
     "hanzi": "半边天",
     "pinyin": "bànbiāntiān",
-    "en": "",
-    "vi": ""
+    "vi": "một nửa bầu trời",
+    "en": ""
   },
   {
     "hanzi": "半岛",
     "pinyin": "bàndǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bán đảo",
+    "en": ""
   },
   {
     "hanzi": "半导体",
     "pinyin": "bàndǎotǐ",
-    "en": "",
-    "vi": ""
+    "vi": "chất bán dẫn",
+    "en": ""
   },
   {
     "hanzi": "绊脚石",
     "pinyin": "bànjiǎoshí",
-    "en": "",
-    "vi": ""
+    "vi": "trở ngại",
+    "en": ""
   },
   {
     "hanzi": "半径",
     "pinyin": "bànjìng",
-    "en": "",
-    "vi": ""
+    "vi": "bán kính",
+    "en": ""
   },
   {
     "hanzi": "伴侣",
     "pinyin": "bànlǚ",
-    "en": "",
-    "vi": ""
+    "vi": "bạn đồng hành",
+    "en": ""
   },
   {
     "hanzi": "办事处",
     "pinyin": "bànshìchù",
-    "en": "",
-    "vi": ""
+    "vi": "văn phòng",
+    "en": ""
   },
   {
     "hanzi": "半数",
     "pinyin": "bànshù",
-    "en": "",
-    "vi": ""
+    "vi": "một nửa",
+    "en": ""
   },
   {
     "hanzi": "半途而废",
     "pinyin": "bàntú’érfèi",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ cuộc giữa chừng",
+    "en": ""
   },
   {
     "hanzi": "半信半疑",
     "pinyin": "bànxìn-bànyí",
-    "en": "",
-    "vi": ""
+    "vi": "nghi ngờ",
+    "en": ""
   },
   {
     "hanzi": "办学",
     "pinyin": "bànxué",
-    "en": "",
-    "vi": ""
+    "vi": "điều hành một trường học",
+    "en": ""
   },
   {
     "hanzi": "伴奏",
     "pinyin": "bànzòu",
-    "en": "",
-    "vi": ""
+    "vi": "đệm",
+    "en": ""
   },
   {
     "hanzi": "帮手",
     "pinyin": "bāngshou",
-    "en": "",
-    "vi": ""
+    "vi": "người trợ giúp",
+    "en": ""
   },
   {
     "hanzi": "绑",
     "pinyin": "bǎng",
-    "en": "",
-    "vi": ""
+    "vi": "cà vạt",
+    "en": ""
   },
   {
     "hanzi": "绑架",
     "pinyin": "bǎngjià",
-    "en": "",
-    "vi": ""
+    "vi": "bắt cóc",
+    "en": ""
   },
   {
     "hanzi": "磅",
     "pinyin": "bàng",
-    "en": "",
-    "vi": ""
+    "vi": "pao",
+    "en": ""
   },
   {
     "hanzi": "煲",
     "pinyin": "bāo",
-    "en": "",
-    "vi": ""
+    "vi": "cái nồi",
+    "en": ""
   },
   {
     "hanzi": "剥",
     "pinyin": "bāo",
-    "en": "",
-    "vi": ""
+    "vi": "bóc",
+    "en": ""
   },
   {
     "hanzi": "包庇",
     "pinyin": "bāobì",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "褒贬",
     "pinyin": "bāobiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá",
+    "en": ""
   },
   {
     "hanzi": "包袱",
     "pinyin": "bāofu",
-    "en": "",
-    "vi": ""
+    "vi": "gánh nặng",
+    "en": ""
   },
   {
     "hanzi": "包罗万象",
     "pinyin": "bāoluó-wànxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "bao gồm tất cả",
+    "en": ""
   },
   {
     "hanzi": "包容",
     "pinyin": "bāoróng",
-    "en": "",
-    "vi": ""
+    "vi": "tha thứ",
+    "en": ""
   },
   {
     "hanzi": "包围",
     "pinyin": "bāowéi",
-    "en": "",
-    "vi": ""
+    "vi": "bao quanh",
+    "en": ""
   },
   {
     "hanzi": "包扎",
     "pinyin": "bāozā",
-    "en": "",
-    "vi": ""
+    "vi": "băng bó",
+    "en": ""
   },
   {
     "hanzi": "饱和",
     "pinyin": "bǎohé",
-    "en": "",
-    "vi": ""
+    "vi": "bão hòa",
+    "en": ""
   },
   {
     "hanzi": "饱经沧桑",
     "pinyin": "bǎojīng-cāngsāng",
-    "en": "",
-    "vi": ""
+    "vi": "trải qua nhiều thăng trầm của cuộc sống",
+    "en": ""
   },
   {
     "hanzi": "宝库",
     "pinyin": "bǎokù",
-    "en": "",
-    "vi": ""
+    "vi": "nhà kho báu",
+    "en": ""
   },
   {
     "hanzi": "堡垒",
     "pinyin": "bǎolěi",
-    "en": "",
-    "vi": ""
+    "vi": "pháo đài",
+    "en": ""
   },
   {
     "hanzi": "饱满",
     "pinyin": "bǎomǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đầy",
+    "en": ""
   },
   {
     "hanzi": "保密",
     "pinyin": "bǎomì",
-    "en": "",
-    "vi": ""
+    "vi": "Bảo mật",
+    "en": ""
   },
   {
     "hanzi": "保姆",
     "pinyin": "bǎomǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bảo mẫu",
+    "en": ""
   },
   {
     "hanzi": "宝石",
     "pinyin": "bǎoshí",
-    "en": "",
-    "vi": ""
+    "vi": "đá quý",
+    "en": ""
   },
   {
     "hanzi": "保守",
     "pinyin": "bǎoshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "giữ",
+    "en": ""
   },
   {
     "hanzi": "保卫",
     "pinyin": "bǎowèi",
-    "en": "",
-    "vi": ""
+    "vi": "phòng vệ",
+    "en": ""
   },
   {
     "hanzi": "保鲜",
     "pinyin": "bǎoxiān",
-    "en": "",
-    "vi": ""
+    "vi": "Giữ tươi",
+    "en": ""
   },
   {
     "hanzi": "保养",
     "pinyin": "bǎoyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "bảo trì",
+    "en": ""
   },
   {
     "hanzi": "保佑",
     "pinyin": "bǎoyòu",
-    "en": "",
-    "vi": ""
+    "vi": "ban phước",
+    "en": ""
   },
   {
     "hanzi": "宝藏",
     "pinyin": "bǎozàng",
-    "en": "",
-    "vi": ""
+    "vi": "kho báu",
+    "en": ""
   },
   {
     "hanzi": "保重",
     "pinyin": "bǎozhòng",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy chăm sóc bản thân",
+    "en": ""
   },
   {
     "hanzi": "报",
     "pinyin": "bào",
-    "en": "",
-    "vi": ""
+    "vi": "báo",
+    "en": ""
   },
   {
     "hanzi": "豹",
     "pinyin": "bào",
-    "en": "",
-    "vi": ""
+    "vi": "Beo",
+    "en": ""
   },
   {
     "hanzi": "报案",
     "pinyin": "bào’àn",
-    "en": "",
-    "vi": ""
+    "vi": "Trình báo tội phạm",
+    "en": ""
   },
   {
     "hanzi": "报酬",
     "pinyin": "bàochou",
-    "en": "",
-    "vi": ""
+    "vi": "thù lao",
+    "en": ""
   },
   {
     "hanzi": "报仇",
     "pinyin": "bàochóu",
-    "en": "",
-    "vi": ""
+    "vi": "sự trả thù",
+    "en": ""
   },
   {
     "hanzi": "报答",
     "pinyin": "bàodá",
-    "en": "",
-    "vi": ""
+    "vi": "trả ơn",
+    "en": ""
   },
   {
     "hanzi": "报废",
     "pinyin": "bàofèi",
-    "en": "",
-    "vi": ""
+    "vi": "bị loại bỏ",
+    "en": ""
   },
   {
     "hanzi": "暴风骤雨",
     "pinyin": "bàofēng-zhòuyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cơn bão",
+    "en": ""
   },
   {
     "hanzi": "报复",
     "pinyin": "bàofù",
-    "en": "",
-    "vi": ""
+    "vi": "sự trả thù",
+    "en": ""
   },
   {
     "hanzi": "抱负",
     "pinyin": "bàofù",
-    "en": "",
-    "vi": ""
+    "vi": "tham vọng ",
+    "en": ""
   },
   {
     "hanzi": "曝光",
     "pinyin": "bàoguāng",
-    "en": "",
-    "vi": ""
+    "vi": "phơi bày",
+    "en": ""
   },
   {
     "hanzi": "暴利",
     "pinyin": "bàolì",
-    "en": "",
-    "vi": ""
+    "vi": "Lợi nhuận khổng lồ",
+    "en": ""
   },
   {
     "hanzi": "爆满",
     "pinyin": "bàomǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Đầy",
+    "en": ""
   },
   {
     "hanzi": "报销",
     "pinyin": "bàoxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "để hoàn trả",
+    "en": ""
   },
   {
     "hanzi": "暴躁",
     "pinyin": "bàozào",
-    "en": "",
-    "vi": ""
+    "vi": "cáu kỉnh",
+    "en": ""
   },
   {
     "hanzi": "爆竹",
     "pinyin": "bàozhú",
-    "en": "",
-    "vi": ""
+    "vi": "Pháo nổ",
+    "en": ""
   },
   {
     "hanzi": "碑",
     "pinyin": "bēi",
-    "en": "",
-    "vi": ""
+    "vi": "đài kỷ niệm",
+    "en": ""
   },
   {
     "hanzi": "悲哀",
     "pinyin": "bēi’āi",
-    "en": "",
-    "vi": ""
+    "vi": "nỗi buồn",
+    "en": ""
   },
   {
     "hanzi": "卑鄙",
     "pinyin": "bēibǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩa là",
+    "en": ""
   },
   {
     "hanzi": "悲惨",
     "pinyin": "bēicǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bi thảm",
+    "en": ""
   },
   {
     "hanzi": "背负",
     "pinyin": "bēifù",
-    "en": "",
-    "vi": ""
+    "vi": "con gấu",
+    "en": ""
   },
   {
     "hanzi": "悲欢离合",
     "pinyin": "bēihuān-líhé",
-    "en": "",
-    "vi": ""
+    "vi": "niềm vui và nỗi buồn",
+    "en": ""
   },
   {
     "hanzi": "悲痛",
     "pinyin": "bēitòng",
-    "en": "",
-    "vi": ""
+    "vi": "đau buồn",
+    "en": ""
   },
   {
     "hanzi": "卑微",
     "pinyin": "bēiwēi",
-    "en": "",
-    "vi": ""
+    "vi": "khiêm tốn",
+    "en": ""
   },
   {
     "hanzi": "备",
     "pinyin": "bèi",
-    "en": "",
-    "vi": ""
+    "vi": "Chuẩn bị",
+    "en": ""
   },
   {
     "hanzi": "备份",
     "pinyin": "bèifèn",
-    "en": "",
-    "vi": ""
+    "vi": "hỗ trợ",
+    "en": ""
   },
   {
     "hanzi": "被告",
     "pinyin": "bèigào",
-    "en": "",
-    "vi": ""
+    "vi": "bị cáo",
+    "en": ""
   },
   {
     "hanzi": "贝壳",
     "pinyin": "bèiké",
-    "en": "",
-    "vi": ""
+    "vi": "vỏ bọc",
+    "en": ""
   },
   {
     "hanzi": "备课",
     "pinyin": "bèikè",
-    "en": "",
-    "vi": ""
+    "vi": "Chuẩn bị bài học",
+    "en": ""
   },
   {
     "hanzi": "背面",
     "pinyin": "bèimiàn",
-    "en": "",
-    "vi": ""
+    "vi": "mặt sau",
+    "en": ""
   },
   {
     "hanzi": "背叛",
     "pinyin": "bèipàn",
-    "en": "",
-    "vi": ""
+    "vi": "phản bội",
+    "en": ""
   },
   {
     "hanzi": "背诵",
     "pinyin": "bèisòng",
-    "en": "",
-    "vi": ""
+    "vi": "đọc thuộc lòng",
+    "en": ""
   },
   {
     "hanzi": "备忘录",
     "pinyin": "bèiwànglù",
-    "en": "",
-    "vi": ""
+    "vi": "bản ghi nhớ",
+    "en": ""
   },
   {
     "hanzi": "背影",
     "pinyin": "bèiyǐng",
-    "en": "",
-    "vi": ""
+    "vi": "xem lại",
+    "en": ""
   },
   {
     "hanzi": "备战",
     "pinyin": "bèizhàn",
-    "en": "",
-    "vi": ""
+    "vi": "Chuẩn bị cho chiến tranh",
+    "en": ""
   },
   {
     "hanzi": "奔波",
     "pinyin": "bēnbō",
-    "en": "",
-    "vi": ""
+    "vi": "chạy xung quanh",
+    "en": ""
   },
   {
     "hanzi": "奔驰",
     "pinyin": "bēnchí",
-    "en": "",
-    "vi": ""
+    "vi": "Benz",
+    "en": ""
   },
   {
     "hanzi": "奔赴",
     "pinyin": "bēnfù",
-    "en": "",
-    "vi": ""
+    "vi": "vội vàng đến",
+    "en": ""
   },
   {
     "hanzi": "本分",
     "pinyin": "běnfèn",
-    "en": "",
-    "vi": ""
+    "vi": "Nhiệm vụ",
+    "en": ""
   },
   {
     "hanzi": "本钱",
     "pinyin": "běnqián",
-    "en": "",
-    "vi": ""
+    "vi": "thủ đô",
+    "en": ""
   },
   {
     "hanzi": "本色",
     "pinyin": "běnsè",
-    "en": "",
-    "vi": ""
+    "vi": "màu sắc thật",
+    "en": ""
   },
   {
     "hanzi": "本事",
     "pinyin": "běnshi",
-    "en": "",
-    "vi": ""
+    "vi": "khả năng",
+    "en": ""
   },
   {
     "hanzi": "本性",
     "pinyin": "běnxìng",
-    "en": "",
-    "vi": ""
+    "vi": "thiên nhiên",
+    "en": ""
   },
   {
     "hanzi": "本意",
     "pinyin": "běnyì",
-    "en": "",
-    "vi": ""
+    "vi": "ý định ban đầu",
+    "en": ""
   },
   {
     "hanzi": "本着",
     "pinyin": "běnzhe",
-    "en": "",
-    "vi": ""
+    "vi": "Trong tinh thần",
+    "en": ""
   },
   {
     "hanzi": "奔",
     "pinyin": "bèn",
-    "en": "",
-    "vi": ""
+    "vi": "chạy",
+    "en": ""
   },
   {
     "hanzi": "笨蛋",
     "pinyin": "bèndàn",
-    "en": "",
-    "vi": ""
+    "vi": "Ngu xuẩn",
+    "en": ""
   },
   {
     "hanzi": "笨重",
     "pinyin": "bènzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "cồng kềnh",
+    "en": ""
   },
   {
     "hanzi": "笨拙",
     "pinyin": "bènzhuō",
-    "en": "",
-    "vi": ""
+    "vi": "hậu đậu",
+    "en": ""
   },
   {
     "hanzi": "绷",
     "pinyin": "bēng",
-    "en": "",
-    "vi": ""
+    "vi": "kéo dài",
+    "en": ""
   },
   {
     "hanzi": "绷带",
     "pinyin": "bēngdài",
-    "en": "",
-    "vi": ""
+    "vi": "băng bó",
+    "en": ""
   },
   {
     "hanzi": "崩溃",
     "pinyin": "bēngkuì",
-    "en": "",
-    "vi": ""
+    "vi": "sụp đổ",
+    "en": ""
   },
   {
     "hanzi": "蹦",
     "pinyin": "bèng",
-    "en": "",
-    "vi": ""
+    "vi": "nhảy",
+    "en": ""
   },
   {
     "hanzi": "迸发",
     "pinyin": "bèngfā",
-    "en": "",
-    "vi": ""
+    "vi": "bùng nổ",
+    "en": ""
   },
   {
     "hanzi": "逼近",
     "pinyin": "bījìn",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp cận",
+    "en": ""
   },
   {
     "hanzi": "逼迫",
     "pinyin": "bīpò",
-    "en": "",
-    "vi": ""
+    "vi": "lực lượng",
+    "en": ""
   },
   {
     "hanzi": "逼真",
     "pinyin": "bīzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "sống động như thật",
+    "en": ""
   },
   {
     "hanzi": "鼻涕",
     "pinyin": "bítì",
-    "en": "",
-    "vi": ""
+    "vi": "chảy nước mũi",
+    "en": ""
   },
   {
     "hanzi": "比比皆是",
     "pinyin": "bǐbǐ-jiēshì",
-    "en": "",
-    "vi": ""
+    "vi": "ở khắp mọi nơi",
+    "en": ""
   },
   {
     "hanzi": "笔墨",
     "pinyin": "bǐmò",
-    "en": "",
-    "vi": ""
+    "vi": "bút và mực",
+    "en": ""
   },
   {
     "hanzi": "比试",
     "pinyin": "bǐshi",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc thi",
+    "en": ""
   },
   {
     "hanzi": "鄙视",
     "pinyin": "bǐshì",
-    "en": "",
-    "vi": ""
+    "vi": "coi thường",
+    "en": ""
   },
   {
     "hanzi": "弊病",
     "pinyin": "bìbìng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhược điểm",
+    "en": ""
   },
   {
     "hanzi": "必不可少",
     "pinyin": "bìbùkěshǎo",
-    "en": "",
-    "vi": ""
+    "vi": "thiết yếu",
+    "en": ""
   },
   {
     "hanzi": "必定",
     "pinyin": "bìdìng",
-    "en": "",
-    "vi": ""
+    "vi": "phải",
+    "en": ""
   },
   {
     "hanzi": "弊端",
     "pinyin": "bìduān",
-    "en": "",
-    "vi": ""
+    "vi": "Nhược điểm",
+    "en": ""
   },
   {
     "hanzi": "壁画",
     "pinyin": "bìhuà",
-    "en": "",
-    "vi": ""
+    "vi": "bức tranh tường",
+    "en": ""
   },
   {
     "hanzi": "必将",
     "pinyin": "bìjiāng",
-    "en": "",
-    "vi": ""
+    "vi": "Chắc chắn sẽ",
+    "en": ""
   },
   {
     "hanzi": "壁垒",
     "pinyin": "bìlěi",
-    "en": "",
-    "vi": ""
+    "vi": "rào cản",
+    "en": ""
   },
   {
     "hanzi": "碧绿",
     "pinyin": "bìlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "màu xanh lá",
+    "en": ""
   },
   {
     "hanzi": "避难",
     "pinyin": "bìnàn",
-    "en": "",
-    "vi": ""
+    "vi": "trú ẩn",
+    "en": ""
   },
   {
     "hanzi": "避让",
     "pinyin": "bìràng",
-    "en": "",
-    "vi": ""
+    "vi": "tránh xa",
+    "en": ""
   },
   {
     "hanzi": "毕生",
     "pinyin": "bìshēng",
-    "en": "",
-    "vi": ""
+    "vi": "trọn đời",
+    "en": ""
   },
   {
     "hanzi": "避暑",
     "pinyin": "bìshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "kỳ nghỉ hè",
+    "en": ""
   },
   {
     "hanzi": "鞭策",
     "pinyin": "biāncè",
-    "en": "",
-    "vi": ""
+    "vi": "thúc đẩy",
+    "en": ""
   },
   {
     "hanzi": "编程",
     "pinyin": "biānchéng",
-    "en": "",
-    "vi": ""
+    "vi": "lập trình",
+    "en": ""
   },
   {
     "hanzi": "编号",
     "pinyin": "biānhào",
-    "en": "",
-    "vi": ""
+    "vi": "số seri",
+    "en": ""
   },
   {
     "hanzi": "边疆",
     "pinyin": "biānjiāng",
-    "en": "",
-    "vi": ""
+    "vi": "biên giới",
+    "en": ""
   },
   {
     "hanzi": "边界",
     "pinyin": "biānjiè",
-    "en": "",
-    "vi": ""
+    "vi": "ranh giới",
+    "en": ""
   },
   {
     "hanzi": "边境",
     "pinyin": "biānjìng",
-    "en": "",
-    "vi": ""
+    "vi": "ranh giới",
+    "en": ""
   },
   {
     "hanzi": "编剧",
     "pinyin": "biānjù",
-    "en": "",
-    "vi": ""
+    "vi": "nhà biên kịch",
+    "en": ""
   },
   {
     "hanzi": "编排",
     "pinyin": "biānpái",
-    "en": "",
-    "vi": ""
+    "vi": "Sắp xếp",
+    "en": ""
   },
   {
     "hanzi": "鞭炮",
     "pinyin": "biānpào",
-    "en": "",
-    "vi": ""
+    "vi": "pháo nổ",
+    "en": ""
   },
   {
     "hanzi": "边缘",
     "pinyin": "biānyuán",
-    "en": "",
-    "vi": ""
+    "vi": "bờ rìa",
+    "en": ""
   },
   {
     "hanzi": "边远",
     "pinyin": "biānyuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xa",
+    "en": ""
   },
   {
     "hanzi": "编造",
     "pinyin": "biānzào",
-    "en": "",
-    "vi": ""
+    "vi": "chế tạo",
+    "en": ""
   },
   {
     "hanzi": "编制",
     "pinyin": "biānzhì",
-    "en": "",
-    "vi": ""
+    "vi": "chuẩn bị bởi",
+    "en": ""
   },
   {
     "hanzi": "编织",
     "pinyin": "biānzhī",
-    "en": "",
-    "vi": ""
+    "vi": "bím tóc",
+    "en": ""
   },
   {
     "hanzi": "扁",
     "pinyin": "biǎn",
-    "en": "",
-    "vi": ""
+    "vi": "phẳng",
+    "en": ""
   },
   {
     "hanzi": "贬低",
     "pinyin": "biǎndī",
-    "en": "",
-    "vi": ""
+    "vi": "chê",
+    "en": ""
   },
   {
     "hanzi": "贬值",
     "pinyin": "biǎnzhí",
-    "en": "",
-    "vi": ""
+    "vi": "khấu hao",
+    "en": ""
   },
   {
     "hanzi": "辩",
     "pinyin": "biàn",
-    "en": "",
-    "vi": ""
+    "vi": "tranh luận",
+    "en": ""
   },
   {
     "hanzi": "辨别",
     "pinyin": "biànbié",
-    "en": "",
-    "vi": ""
+    "vi": "phân biệt",
+    "en": ""
   },
   {
     "hanzi": "遍布",
     "pinyin": "biànbù",
-    "en": "",
-    "vi": ""
+    "vi": "lan rộng khắp nơi",
+    "en": ""
   },
   {
     "hanzi": "便饭",
     "pinyin": "biànfàn",
-    "en": "",
-    "vi": ""
+    "vi": "món ăn may mắn",
+    "en": ""
   },
   {
     "hanzi": "变革",
     "pinyin": "biàngé",
-    "en": "",
-    "vi": ""
+    "vi": "thay đổi",
+    "en": ""
   },
   {
     "hanzi": "变更",
     "pinyin": "biàngēng",
-    "en": "",
-    "vi": ""
+    "vi": "thay đổi",
+    "en": ""
   },
   {
     "hanzi": "变故",
     "pinyin": "biàngù",
-    "en": "",
-    "vi": ""
+    "vi": "bất hạnh",
+    "en": ""
   },
   {
     "hanzi": "辩护",
     "pinyin": "biànhù",
-    "en": "",
-    "vi": ""
+    "vi": "phòng vệ",
+    "en": ""
   },
   {
     "hanzi": "变换",
     "pinyin": "biànhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "biến đổi",
+    "en": ""
   },
   {
     "hanzi": "变幻莫测",
     "pinyin": "biànhuàn-mòcè",
-    "en": "",
-    "vi": ""
+    "vi": "không thể đoán trước",
+    "en": ""
   },
   {
     "hanzi": "辩解",
     "pinyin": "biànjiě",
-    "en": "",
-    "vi": ""
+    "vi": "thứ lỗi",
+    "en": ""
   },
   {
     "hanzi": "辩论",
     "pinyin": "biànlùn",
-    "en": "",
-    "vi": ""
+    "vi": "tranh luận",
+    "en": ""
   },
   {
     "hanzi": "变迁",
     "pinyin": "biànqiān",
-    "en": "",
-    "vi": ""
+    "vi": "thay đổi",
+    "en": ""
   },
   {
     "hanzi": "辨认",
     "pinyin": "biànrèn",
-    "en": "",
-    "vi": ""
+    "vi": "nhận dạng",
+    "en": ""
   },
   {
     "hanzi": "变通",
     "pinyin": "biàntōng",
-    "en": "",
-    "vi": ""
+    "vi": "Làm việc xung quanh",
+    "en": ""
   },
   {
     "hanzi": "便携式",
     "pinyin": "biànxiéshì",
-    "en": "",
-    "vi": ""
+    "vi": "Cầm tay",
+    "en": ""
   },
   {
     "hanzi": "变形",
     "pinyin": "biànxíng",
-    "en": "",
-    "vi": ""
+    "vi": "sự biến dạng",
+    "en": ""
   },
   {
     "hanzi": "变异",
     "pinyin": "biànyì",
-    "en": "",
-    "vi": ""
+    "vi": "Đột biến",
+    "en": ""
   },
   {
     "hanzi": "辩证",
     "pinyin": "biànzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "biện chứng",
+    "en": ""
   },
   {
     "hanzi": "辫子",
     "pinyin": "biànzi",
-    "en": "",
-    "vi": ""
+    "vi": "bím tóc",
+    "en": ""
   },
   {
     "hanzi": "标",
     "pinyin": "biāo",
-    "en": "",
-    "vi": ""
+    "vi": "đánh dấu",
+    "en": ""
   },
   {
     "hanzi": "标榜",
     "pinyin": "biāobǎng",
-    "en": "",
-    "vi": ""
+    "vi": "phô trương",
+    "en": ""
   },
   {
     "hanzi": "标本",
     "pinyin": "biāoběn",
-    "en": "",
-    "vi": ""
+    "vi": "mẫu vật",
+    "en": ""
   },
   {
     "hanzi": "标点",
     "pinyin": "biāodiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "dấu câu",
+    "en": ""
   },
   {
     "hanzi": "标记",
     "pinyin": "biāojì",
-    "en": "",
-    "vi": ""
+    "vi": "đánh dấu",
+    "en": ""
   },
   {
     "hanzi": "标签",
     "pinyin": "biāoqiān",
-    "en": "",
-    "vi": ""
+    "vi": "Nhãn",
+    "en": ""
   },
   {
     "hanzi": "飙升",
     "pinyin": "biāoshēng",
-    "en": "",
-    "vi": ""
+    "vi": "bay lên",
+    "en": ""
   },
   {
     "hanzi": "标识",
     "pinyin": "biāoshí",
-    "en": "",
-    "vi": ""
+    "vi": "biểu tượng",
+    "en": ""
   },
   {
     "hanzi": "标示",
     "pinyin": "biāoshì",
-    "en": "",
-    "vi": ""
+    "vi": "đánh dấu",
+    "en": ""
   },
   {
     "hanzi": "标语",
     "pinyin": "biāoyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "khẩu hiệu",
+    "en": ""
   },
   {
     "hanzi": "标致",
     "pinyin": "biāozhì",
-    "en": "",
-    "vi": ""
+    "vi": "Peugeot",
+    "en": ""
   },
   {
     "hanzi": "表白",
     "pinyin": "biǎobái",
-    "en": "",
-    "vi": ""
+    "vi": "Lời thú tội",
+    "en": ""
   },
   {
     "hanzi": "表决",
     "pinyin": "biǎojué",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ phiếu",
+    "en": ""
   },
   {
     "hanzi": "表述",
     "pinyin": "biǎoshù",
-    "en": "",
-    "vi": ""
+    "vi": "thể hiện",
+    "en": ""
   },
   {
     "hanzi": "表率",
     "pinyin": "biǎoshuài",
-    "en": "",
-    "vi": ""
+    "vi": "ví dụ",
+    "en": ""
   },
   {
     "hanzi": "表态",
     "pinyin": "biǎotài",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy đứng lên",
+    "en": ""
   },
   {
     "hanzi": "表彰",
     "pinyin": "biǎozhāng",
-    "en": "",
-    "vi": ""
+    "vi": "khen ngợi",
+    "en": ""
   },
   {
     "hanzi": "憋",
     "pinyin": "biē",
-    "en": "",
-    "vi": ""
+    "vi": "giữ lại",
+    "en": ""
   },
   {
     "hanzi": "别具匠心",
     "pinyin": "biéjù-jiàngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Độc nhất",
+    "en": ""
   },
   {
     "hanzi": "别看",
     "pinyin": "biékàn",
-    "en": "",
-    "vi": ""
+    "vi": "Đừng nhìn",
+    "en": ""
   },
   {
     "hanzi": "别墅",
     "pinyin": "biéshù",
-    "en": "",
-    "vi": ""
+    "vi": "biệt thự",
+    "en": ""
   },
   {
     "hanzi": "别说",
     "pinyin": "biéshuō",
-    "en": "",
-    "vi": ""
+    "vi": "Đừng nói",
+    "en": ""
   },
   {
     "hanzi": "别致",
     "pinyin": "biézhì",
-    "en": "",
-    "vi": ""
+    "vi": "sang trọng",
+    "en": ""
   },
   {
     "hanzi": "别扭",
     "pinyin": "bièniu",
-    "en": "",
-    "vi": ""
+    "vi": "vụng về",
+    "en": ""
   },
   {
     "hanzi": "彬彬有礼",
     "pinyin": "bīnbīn-yǒulǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lịch sự",
+    "en": ""
   },
   {
     "hanzi": "缤纷",
     "pinyin": "bīnfēn",
-    "en": "",
-    "vi": ""
+    "vi": "đầy màu sắc",
+    "en": ""
   },
   {
     "hanzi": "濒临",
     "pinyin": "bīnlín",
-    "en": "",
-    "vi": ""
+    "vi": "trên bờ vực của",
+    "en": ""
   },
   {
     "hanzi": "濒危",
     "pinyin": "bīnwēi",
-    "en": "",
-    "vi": ""
+    "vi": "bị đe dọa",
+    "en": ""
   },
   {
     "hanzi": "冰雹",
     "pinyin": "bīngbáo",
-    "en": "",
-    "vi": ""
+    "vi": "kêu",
+    "en": ""
   },
   {
     "hanzi": "冰棍儿",
     "pinyin": "bīnggùnr",
-    "en": "",
-    "vi": ""
+    "vi": "kem que",
+    "en": ""
   },
   {
     "hanzi": "冰山一角",
     "pinyin": "bīngshān-yìjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "phần nổi của tảng băng trôi",
+    "en": ""
   },
   {
     "hanzi": "冰天雪地",
     "pinyin": "bīngtiān-xuědì",
-    "en": "",
-    "vi": ""
+    "vi": "Băng và tuyết",
+    "en": ""
   },
   {
     "hanzi": "丙",
     "pinyin": "bǐng",
-    "en": "",
-    "vi": ""
+    "vi": "C",
+    "en": ""
   },
   {
     "hanzi": "秉承",
     "pinyin": "bǐngchéng",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "秉持",
     "pinyin": "bǐngchí",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "并发症",
     "pinyin": "bìngfāzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "sự phức tạp",
+    "en": ""
   },
   {
     "hanzi": "并非",
     "pinyin": "bìngfēi",
-    "en": "",
-    "vi": ""
+    "vi": "Không",
+    "en": ""
   },
   {
     "hanzi": "并购",
     "pinyin": "bìnggòu",
-    "en": "",
-    "vi": ""
+    "vi": "sáp nhập và mua lại",
+    "en": ""
   },
   {
     "hanzi": "并肩",
     "pinyin": "bìngjiān",
-    "en": "",
-    "vi": ""
+    "vi": "bên cạnh nhau",
+    "en": ""
   },
   {
     "hanzi": "病历",
     "pinyin": "bìnglì",
-    "en": "",
-    "vi": ""
+    "vi": "Hồ sơ y tế",
+    "en": ""
   },
   {
     "hanzi": "并列",
     "pinyin": "bìngliè",
-    "en": "",
-    "vi": ""
+    "vi": "đặt cạnh nhau",
+    "en": ""
   },
   {
     "hanzi": "并行",
     "pinyin": "bìngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "song song",
+    "en": ""
   },
   {
     "hanzi": "病症",
     "pinyin": "bìngzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh",
+    "en": ""
   },
   {
     "hanzi": "拨",
     "pinyin": "bō",
-    "en": "",
-    "vi": ""
+    "vi": "quay số",
+    "en": ""
   },
   {
     "hanzi": "波动",
     "pinyin": "bōdòng",
-    "en": "",
-    "vi": ""
+    "vi": "sự dao động",
+    "en": ""
   },
   {
     "hanzi": "剥夺",
     "pinyin": "bōduó",
-    "en": "",
-    "vi": ""
+    "vi": "thiếu thốn",
+    "en": ""
   },
   {
     "hanzi": "波及",
     "pinyin": "bōjí",
-    "en": "",
-    "vi": ""
+    "vi": "lây lan",
+    "en": ""
   },
   {
     "hanzi": "拨款",
     "pinyin": "bōkuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sự chiếm đoạt",
+    "en": ""
   },
   {
     "hanzi": "波澜",
     "pinyin": "bōlán",
-    "en": "",
-    "vi": ""
+    "vi": "Sóng",
+    "en": ""
   },
   {
     "hanzi": "波浪",
     "pinyin": "bōlàng",
-    "en": "",
-    "vi": ""
+    "vi": "sóng",
+    "en": ""
   },
   {
     "hanzi": "波涛",
     "pinyin": "bōtāo",
-    "en": "",
-    "vi": ""
+    "vi": "sóng biển",
+    "en": ""
   },
   {
     "hanzi": "剥削",
     "pinyin": "bōxuē",
-    "en": "",
-    "vi": ""
+    "vi": "khai thác",
+    "en": ""
   },
   {
     "hanzi": "波折",
     "pinyin": "bōzhé",
-    "en": "",
-    "vi": ""
+    "vi": "xoắn và quay",
+    "en": ""
   },
   {
     "hanzi": "伯伯",
     "pinyin": "bóbo",
-    "en": "",
-    "vi": ""
+    "vi": "chú ",
+    "en": ""
   },
   {
     "hanzi": "博大精深",
     "pinyin": "bódà-jīngshēn",
-    "en": "",
-    "vi": ""
+    "vi": "Rộng rãi và sâu sắc",
+    "en": ""
   },
   {
     "hanzi": "搏斗",
     "pinyin": "bódòu",
-    "en": "",
-    "vi": ""
+    "vi": "trận đánh",
+    "en": ""
   },
   {
     "hanzi": "伯父",
     "pinyin": "bófù",
-    "en": "",
-    "vi": ""
+    "vi": "chú ",
+    "en": ""
   },
   {
     "hanzi": "驳回",
     "pinyin": "bóhuí",
-    "en": "",
-    "vi": ""
+    "vi": "từ chối",
+    "en": ""
   },
   {
     "hanzi": "伯母",
     "pinyin": "bómǔ",
-    "en": "",
-    "vi": ""
+    "vi": "dì",
+    "en": ""
   },
   {
     "hanzi": "博学",
     "pinyin": "bóxué",
-    "en": "",
-    "vi": ""
+    "vi": "đã học",
+    "en": ""
   },
   {
     "hanzi": "博弈",
     "pinyin": "bóyì",
-    "en": "",
-    "vi": ""
+    "vi": "Trò chơi",
+    "en": ""
   },
   {
     "hanzi": "不算",
     "pinyin": "bú suàn",
-    "en": "",
-    "vi": ""
+    "vi": "Không tính",
+    "en": ""
   },
   {
     "hanzi": "不当",
     "pinyin": "búdàng",
-    "en": "",
-    "vi": ""
+    "vi": "không thích hợp",
+    "en": ""
   },
   {
     "hanzi": "不定",
     "pinyin": "búdìng",
-    "en": "",
-    "vi": ""
+    "vi": "không xác định",
+    "en": ""
   },
   {
     "hanzi": "不动产",
     "pinyin": "búdòngchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bất động sản",
+    "en": ""
   },
   {
     "hanzi": "不见得",
     "pinyin": "bújiàndé",
-    "en": "",
-    "vi": ""
+    "vi": "không nhất thiết",
+    "en": ""
   },
   {
     "hanzi": "不愧",
     "pinyin": "búkuì",
-    "en": "",
-    "vi": ""
+    "vi": "xứng đáng",
+    "en": ""
   },
   {
     "hanzi": "不力",
     "pinyin": "búlì",
-    "en": "",
-    "vi": ""
+    "vi": "Không hiệu quả",
+    "en": ""
   },
   {
     "hanzi": "不妙",
     "pinyin": "búmiào",
-    "en": "",
-    "vi": ""
+    "vi": "Không tốt",
+    "en": ""
   },
   {
     "hanzi": "不慎",
     "pinyin": "búshèn",
-    "en": "",
-    "vi": ""
+    "vi": "vô tình",
+    "en": ""
   },
   {
     "hanzi": "不下",
     "pinyin": "búxià",
-    "en": "",
-    "vi": ""
+    "vi": "không kém",
+    "en": ""
   },
   {
     "hanzi": "不像话",
     "pinyin": "búxiànghuà",
-    "en": "",
-    "vi": ""
+    "vi": "thái quá",
+    "en": ""
   },
   {
     "hanzi": "不肖",
     "pinyin": "búxiào",
-    "en": "",
-    "vi": ""
+    "vi": "không xứng đáng",
+    "en": ""
   },
   {
     "hanzi": "不屑",
     "pinyin": "búxiè",
-    "en": "",
-    "vi": ""
+    "vi": "khinh thường",
+    "en": ""
   },
   {
     "hanzi": "不懈",
     "pinyin": "búxiè",
-    "en": "",
-    "vi": ""
+    "vi": "không ngừng nghỉ",
+    "en": ""
   },
   {
     "hanzi": "不厌其烦",
     "pinyin": "búyàn-qífán",
-    "en": "",
-    "vi": ""
+    "vi": "Chịu khó",
+    "en": ""
   },
   {
     "hanzi": "不亚于",
     "pinyin": "búyàyú",
-    "en": "",
-    "vi": ""
+    "vi": "không ít hơn",
+    "en": ""
   },
   {
     "hanzi": "不翼而飞",
     "pinyin": "búyì’érfēi",
-    "en": "",
-    "vi": ""
+    "vi": "biến mất",
+    "en": ""
   },
   {
     "hanzi": "不亦乐乎",
     "pinyin": "búyìlèhū",
-    "en": "",
-    "vi": ""
+    "vi": "Rất hạnh phúc",
+    "en": ""
   },
   {
     "hanzi": "不正之风",
     "pinyin": "búzhèngzhīfēng",
-    "en": "",
-    "vi": ""
+    "vi": "xu hướng không lành mạnh",
+    "en": ""
   },
   {
     "hanzi": "捕获",
     "pinyin": "bǔhuò",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm lấy",
+    "en": ""
   },
   {
     "hanzi": "补给",
     "pinyin": "bǔjǐ",
-    "en": "",
-    "vi": ""
+    "vi": "cung cấp",
+    "en": ""
   },
   {
     "hanzi": "补救",
     "pinyin": "bǔjiù",
-    "en": "",
-    "vi": ""
+    "vi": "phương thuốc",
+    "en": ""
   },
   {
     "hanzi": "哺乳",
     "pinyin": "bǔrǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cho con bú",
+    "en": ""
   },
   {
     "hanzi": "捕食",
     "pinyin": "bǔshí",
-    "en": "",
-    "vi": ""
+    "vi": "con mồi",
+    "en": ""
   },
   {
     "hanzi": "哺育",
     "pinyin": "bǔyù",
-    "en": "",
-    "vi": ""
+    "vi": "nuôi dưỡng",
+    "en": ""
   },
   {
     "hanzi": "补助",
     "pinyin": "bǔzhù",
-    "en": "",
-    "vi": ""
+    "vi": "trợ cấp",
+    "en": ""
   },
   {
     "hanzi": "捕捉",
     "pinyin": "bǔzhuō",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm lấy",
+    "en": ""
   },
   {
     "hanzi": "不经意",
     "pinyin": "bù jīngyì",
-    "en": "",
-    "vi": ""
+    "vi": "vô tình",
+    "en": ""
   },
   {
     "hanzi": "不予",
     "pinyin": "bù yǔ",
-    "en": "",
-    "vi": ""
+    "vi": "từ chối đưa",
+    "en": ""
   },
   {
     "hanzi": "不准",
     "pinyin": "bù zhǔn",
-    "en": "",
-    "vi": ""
+    "vi": "Không được phép",
+    "en": ""
   },
   {
     "hanzi": "不耻下问",
     "pinyin": "bùchǐ-xiàwèn",
-    "en": "",
-    "vi": ""
+    "vi": "Không xấu hổ khi hỏi",
+    "en": ""
   },
   {
     "hanzi": "不辞而别",
     "pinyin": "bùcí’érbié",
-    "en": "",
-    "vi": ""
+    "vi": "ra đi không lời từ biệt",
+    "en": ""
   },
   {
     "hanzi": "不得而知",
     "pinyin": "bùdé’érzhī",
-    "en": "",
-    "vi": ""
+    "vi": "không rõ",
+    "en": ""
   },
   {
     "hanzi": "不得已",
     "pinyin": "bùdéyǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Như một phương sách cuối cùng",
+    "en": ""
   },
   {
     "hanzi": "不乏",
     "pinyin": "bùfá",
-    "en": "",
-    "vi": ""
+    "vi": "không thiếu",
+    "en": ""
   },
   {
     "hanzi": "步伐",
     "pinyin": "bùfá",
-    "en": "",
-    "vi": ""
+    "vi": "nhịp độ",
+    "en": ""
   },
   {
     "hanzi": "不法",
     "pinyin": "bùfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "bất hợp pháp",
+    "en": ""
   },
   {
     "hanzi": "不妨",
     "pinyin": "bùfáng",
-    "en": "",
-    "vi": ""
+    "vi": "Cũng có thể",
+    "en": ""
   },
   {
     "hanzi": "不服",
     "pinyin": "bùfú",
-    "en": "",
-    "vi": ""
+    "vi": "Không hài lòng",
+    "en": ""
   },
   {
     "hanzi": "不敢当",
     "pinyin": "bùgǎndāng",
-    "en": "",
-    "vi": ""
+    "vi": "Không dám lấy nó",
+    "en": ""
   },
   {
     "hanzi": "不及",
     "pinyin": "bùjí",
-    "en": "",
-    "vi": ""
+    "vi": "Không tốt bằng",
+    "en": ""
   },
   {
     "hanzi": "部件",
     "pinyin": "bùjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "phần",
+    "en": ""
   },
   {
     "hanzi": "不假思索",
     "pinyin": "bùjiǎ-sīsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "Không cần suy nghĩ",
+    "en": ""
   },
   {
     "hanzi": "不解",
     "pinyin": "bùjiě",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "不景气",
     "pinyin": "bùjǐngqì",
-    "en": "",
-    "vi": ""
+    "vi": "suy thoái kinh tế",
+    "en": ""
   },
   {
     "hanzi": "布局",
     "pinyin": "bùjú",
-    "en": "",
-    "vi": ""
+    "vi": "cách trình bày",
+    "en": ""
   },
   {
     "hanzi": "不堪",
     "pinyin": "bùkān",
-    "en": "",
-    "vi": ""
+    "vi": "không thể chịu nổi",
+    "en": ""
   },
   {
     "hanzi": "不可或缺",
     "pinyin": "bùkě-huòquē",
-    "en": "",
-    "vi": ""
+    "vi": "không thể thiếu",
+    "en": ""
   },
   {
     "hanzi": "不可思议",
     "pinyin": "bùkě-sīyì",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể tin được",
+    "en": ""
   },
   {
     "hanzi": "不了了之",
     "pinyin": "bùliǎo-liǎozhī",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy để nó đi",
+    "en": ""
   },
   {
     "hanzi": "不免",
     "pinyin": "bùmiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể tránh khỏi",
+    "en": ""
   },
   {
     "hanzi": "不平",
     "pinyin": "bùpíng",
-    "en": "",
-    "vi": ""
+    "vi": "không công bằng",
+    "en": ""
   },
   {
     "hanzi": "不容",
     "pinyin": "bùróng",
-    "en": "",
-    "vi": ""
+    "vi": "Không được dung thứ",
+    "en": ""
   },
   {
     "hanzi": "步入",
     "pinyin": "bùrù",
-    "en": "",
-    "vi": ""
+    "vi": "bước vào",
+    "en": ""
   },
   {
     "hanzi": "部首",
     "pinyin": "bùshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "cấp tiến",
+    "en": ""
   },
   {
     "hanzi": "部署",
     "pinyin": "bùshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "triển khai",
+    "en": ""
   },
   {
     "hanzi": "不惜",
     "pinyin": "bùxī",
-    "en": "",
-    "vi": ""
+    "vi": "bằng mọi giá",
+    "en": ""
   },
   {
     "hanzi": "不相上下",
     "pinyin": "bùxiāng-shàngxià",
-    "en": "",
-    "vi": ""
+    "vi": "Về giống nhau",
+    "en": ""
   },
   {
     "hanzi": "不言而喻",
     "pinyin": "bùyán’éryù",
-    "en": "",
-    "vi": ""
+    "vi": "không cần phải nói",
+    "en": ""
   },
   {
     "hanzi": "不以为然",
     "pinyin": "bùyǐwéirán",
-    "en": "",
-    "vi": ""
+    "vi": "Không chấp thuận",
+    "en": ""
   },
   {
     "hanzi": "不由得",
     "pinyin": "bùyóude",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể không",
+    "en": ""
   },
   {
     "hanzi": "不由自主",
     "pinyin": "bùyóuzìzhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "vô tình",
+    "en": ""
   },
   {
     "hanzi": "不约而同",
     "pinyin": "bùyuē’értóng",
-    "en": "",
-    "vi": ""
+    "vi": "tình cờ",
+    "en": ""
   },
   {
     "hanzi": "不折不扣",
     "pinyin": "bùzhé-búkòu",
-    "en": "",
-    "vi": ""
+    "vi": "Không thỏa hiệp",
+    "en": ""
   },
   {
     "hanzi": "不知不觉",
     "pinyin": "bùzhī-bùjué",
-    "en": "",
-    "vi": ""
+    "vi": "một cách vô thức",
+    "en": ""
   },
   {
     "hanzi": "不知所措",
     "pinyin": "bùzhī-suǒcuò",
-    "en": "",
-    "vi": ""
+    "vi": "thua lỗ",
+    "en": ""
   },
   {
     "hanzi": "猜想",
     "pinyin": "cāixiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "đoán",
+    "en": ""
   },
   {
     "hanzi": "裁",
     "pinyin": "cái",
-    "en": "",
-    "vi": ""
+    "vi": "cắt",
+    "en": ""
   },
   {
     "hanzi": "裁定",
     "pinyin": "cáidìng",
-    "en": "",
-    "vi": ""
+    "vi": "cầm quyền",
+    "en": ""
   },
   {
     "hanzi": "裁缝",
     "pinyin": "cáifeng",
-    "en": "",
-    "vi": ""
+    "vi": "thợ may",
+    "en": ""
   },
   {
     "hanzi": "才干",
     "pinyin": "cáigàn",
-    "en": "",
-    "vi": ""
+    "vi": "năng lực",
+    "en": ""
   },
   {
     "hanzi": "财经",
     "pinyin": "cáijīng",
-    "en": "",
-    "vi": ""
+    "vi": "Tài chính",
+    "en": ""
   },
   {
     "hanzi": "裁决",
     "pinyin": "cáijué",
-    "en": "",
-    "vi": ""
+    "vi": "cầm quyền",
+    "en": ""
   },
   {
     "hanzi": "财力",
     "pinyin": "cáilì",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn tài chính",
+    "en": ""
   },
   {
     "hanzi": "裁员",
     "pinyin": "cáiyuán",
-    "en": "",
-    "vi": ""
+    "vi": "sa thải",
+    "en": ""
   },
   {
     "hanzi": "财政",
     "pinyin": "cáizhèng",
-    "en": "",
-    "vi": ""
+    "vi": "tài chính",
+    "en": ""
   },
   {
     "hanzi": "采",
     "pinyin": "cǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Nhặt",
+    "en": ""
   },
   {
     "hanzi": "采矿",
     "pinyin": "cǎikuàng",
-    "en": "",
-    "vi": ""
+    "vi": "khai thác mỏ",
+    "en": ""
   },
   {
     "hanzi": "采摘",
     "pinyin": "cǎizhāi",
-    "en": "",
-    "vi": ""
+    "vi": "nhặt",
+    "en": ""
   },
   {
     "hanzi": "菜肴",
     "pinyin": "càiyáo",
-    "en": "",
-    "vi": ""
+    "vi": "Đĩa",
+    "en": ""
   },
   {
     "hanzi": "参见",
     "pinyin": "cānjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Nhìn thấy",
+    "en": ""
   },
   {
     "hanzi": "参谋",
     "pinyin": "cānmóu",
-    "en": "",
-    "vi": ""
+    "vi": "nhân viên",
+    "en": ""
   },
   {
     "hanzi": "参照",
     "pinyin": "cānzhào",
-    "en": "",
-    "vi": ""
+    "vi": "Thẩm quyền giải quyết",
+    "en": ""
   },
   {
     "hanzi": "残",
     "pinyin": "cán",
-    "en": "",
-    "vi": ""
+    "vi": "tàn tật",
+    "en": ""
   },
   {
     "hanzi": "残酷",
     "pinyin": "cánkù",
-    "en": "",
-    "vi": ""
+    "vi": "tàn nhẫn",
+    "en": ""
   },
   {
     "hanzi": "惭愧",
     "pinyin": "cánkuì",
-    "en": "",
-    "vi": ""
+    "vi": "xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "残留",
     "pinyin": "cánliú",
-    "en": "",
-    "vi": ""
+    "vi": "dư lượng",
+    "en": ""
   },
   {
     "hanzi": "残缺",
     "pinyin": "cánquē",
-    "en": "",
-    "vi": ""
+    "vi": "không đầy đủ",
+    "en": ""
   },
   {
     "hanzi": "残忍",
     "pinyin": "cánrěn",
-    "en": "",
-    "vi": ""
+    "vi": "tàn nhẫn",
+    "en": ""
   },
   {
     "hanzi": "惨",
     "pinyin": "cǎn",
-    "en": "",
-    "vi": ""
+    "vi": "khổ sở",
+    "en": ""
   },
   {
     "hanzi": "惨白",
     "pinyin": "cǎnbái",
-    "en": "",
-    "vi": ""
+    "vi": "tái nhợt",
+    "en": ""
   },
   {
     "hanzi": "惨痛",
     "pinyin": "cǎntòng",
-    "en": "",
-    "vi": ""
+    "vi": "vị đắng",
+    "en": ""
   },
   {
     "hanzi": "惨重",
     "pinyin": "cǎnzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "nặng",
+    "en": ""
   },
   {
     "hanzi": "灿烂",
     "pinyin": "cànlàn",
-    "en": "",
-    "vi": ""
+    "vi": "xuất sắc",
+    "en": ""
   },
   {
     "hanzi": "舱",
     "pinyin": "cāng",
-    "en": "",
-    "vi": ""
+    "vi": "cabin",
+    "en": ""
   },
   {
     "hanzi": "苍白",
     "pinyin": "cāngbái",
-    "en": "",
-    "vi": ""
+    "vi": "tái nhợt",
+    "en": ""
   },
   {
     "hanzi": "仓促",
     "pinyin": "cāngcù",
-    "en": "",
-    "vi": ""
+    "vi": "vội vàng",
+    "en": ""
   },
   {
     "hanzi": "沧桑",
     "pinyin": "cāngsāng",
-    "en": "",
-    "vi": ""
+    "vi": "thăng trầm của cuộc sống",
+    "en": ""
   },
   {
     "hanzi": "苍蝇",
     "pinyin": "cāngying",
-    "en": "",
-    "vi": ""
+    "vi": "bay",
+    "en": ""
   },
   {
     "hanzi": "藏匿",
     "pinyin": "cángnì",
-    "en": "",
-    "vi": ""
+    "vi": "trốn",
+    "en": ""
   },
   {
     "hanzi": "藏品",
     "pinyin": "cángpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "Bộ sưu tập",
+    "en": ""
   },
   {
     "hanzi": "藏身",
     "pinyin": "cángshēn",
-    "en": "",
-    "vi": ""
+    "vi": "trốn",
+    "en": ""
   },
   {
     "hanzi": "操控",
     "pinyin": "cāokòng",
-    "en": "",
-    "vi": ""
+    "vi": "điều khiển",
+    "en": ""
   },
   {
     "hanzi": "操劳",
     "pinyin": "cāoláo",
-    "en": "",
-    "vi": ""
+    "vi": "làm việc chăm chỉ",
+    "en": ""
   },
   {
     "hanzi": "操练",
     "pinyin": "cāoliàn",
-    "en": "",
-    "vi": ""
+    "vi": "luyện tập",
+    "en": ""
   },
   {
     "hanzi": "操心",
     "pinyin": "cāoxīn",
-    "en": "",
-    "vi": ""
+    "vi": "lo lắng",
+    "en": ""
   },
   {
     "hanzi": "操纵",
     "pinyin": "cāozòng",
-    "en": "",
-    "vi": ""
+    "vi": "thao túng",
+    "en": ""
   },
   {
     "hanzi": "嘈杂",
     "pinyin": "cáozá",
-    "en": "",
-    "vi": ""
+    "vi": "ồn ào",
+    "en": ""
   },
   {
     "hanzi": "草案",
     "pinyin": "cǎo’àn",
-    "en": "",
-    "vi": ""
+    "vi": "bản nháp",
+    "en": ""
   },
   {
     "hanzi": "草丛",
     "pinyin": "cǎocóng",
-    "en": "",
-    "vi": ""
+    "vi": "Cỏ",
+    "en": ""
   },
   {
     "hanzi": "草坪",
     "pinyin": "cǎopíng",
-    "en": "",
-    "vi": ""
+    "vi": "bãi cỏ",
+    "en": ""
   },
   {
     "hanzi": "草率",
     "pinyin": "cǎoshuài",
-    "en": "",
-    "vi": ""
+    "vi": "vội vàng",
+    "en": ""
   },
   {
     "hanzi": "草药",
     "pinyin": "cǎoyào",
-    "en": "",
-    "vi": ""
+    "vi": "thuốc thảo dược",
+    "en": ""
   },
   {
     "hanzi": "测定",
     "pinyin": "cèdìng",
-    "en": "",
-    "vi": ""
+    "vi": "Sự quyết tâm",
+    "en": ""
   },
   {
     "hanzi": "侧面",
     "pinyin": "cèmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "bên",
+    "en": ""
   },
   {
     "hanzi": "测算",
     "pinyin": "cèsuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Tính toán",
+    "en": ""
   },
   {
     "hanzi": "测验",
     "pinyin": "cèyàn",
-    "en": "",
-    "vi": ""
+    "vi": "Bài kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "侧重",
     "pinyin": "cèzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "Tập trung vào",
+    "en": ""
   },
   {
     "hanzi": "层出不穷",
     "pinyin": "céngchū-bùqióng",
-    "en": "",
-    "vi": ""
+    "vi": "xuất hiện vô tận",
+    "en": ""
   },
   {
     "hanzi": "蹭",
     "pinyin": "cèng",
-    "en": "",
-    "vi": ""
+    "vi": "chà xát",
+    "en": ""
   },
   {
     "hanzi": "差错",
     "pinyin": "chācuò",
-    "en": "",
-    "vi": ""
+    "vi": "lỗi",
+    "en": ""
   },
   {
     "hanzi": "差额",
     "pinyin": "chā’é",
-    "en": "",
-    "vi": ""
+    "vi": "sự khác biệt",
+    "en": ""
   },
   {
     "hanzi": "插曲",
     "pinyin": "chāqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "tập phim",
+    "en": ""
   },
   {
     "hanzi": "插手",
     "pinyin": "chāshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "can thiệp",
+    "en": ""
   },
   {
     "hanzi": "插图",
     "pinyin": "chātú",
-    "en": "",
-    "vi": ""
+    "vi": "hình minh họa",
+    "en": ""
   },
   {
     "hanzi": "插嘴",
     "pinyin": "chāzuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "ngắt",
+    "en": ""
   },
   {
     "hanzi": "查处",
     "pinyin": "cháchǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Khảo sát",
+    "en": ""
   },
   {
     "hanzi": "查获",
     "pinyin": "cháhuò",
-    "en": "",
-    "vi": ""
+    "vi": "bị tịch thu",
+    "en": ""
   },
   {
     "hanzi": "察觉",
     "pinyin": "chájué",
-    "en": "",
-    "vi": ""
+    "vi": "nhận thức",
+    "en": ""
   },
   {
     "hanzi": "察看",
     "pinyin": "chákàn",
-    "en": "",
-    "vi": ""
+    "vi": "quan sát",
+    "en": ""
   },
   {
     "hanzi": "查明",
     "pinyin": "chámíng",
-    "en": "",
-    "vi": ""
+    "vi": "Tìm ra",
+    "en": ""
   },
   {
     "hanzi": "岔",
     "pinyin": "chà",
-    "en": "",
-    "vi": ""
+    "vi": "cái nĩa",
+    "en": ""
   },
   {
     "hanzi": "刹那",
     "pinyin": "chànà",
-    "en": "",
-    "vi": ""
+    "vi": "chốc lát",
+    "en": ""
   },
   {
     "hanzi": "诧异",
     "pinyin": "chàyì",
-    "en": "",
-    "vi": ""
+    "vi": "Ngạc nhiên",
+    "en": ""
   },
   {
     "hanzi": "拆迁",
     "pinyin": "chāiqiān",
-    "en": "",
-    "vi": ""
+    "vi": "Phá hủy",
+    "en": ""
   },
   {
     "hanzi": "柴油",
     "pinyin": "cháiyóu",
-    "en": "",
-    "vi": ""
+    "vi": "nhiên liệu diesel",
+    "en": ""
   },
   {
     "hanzi": "掺",
     "pinyin": "chān",
-    "en": "",
-    "vi": ""
+    "vi": "gây nghiện",
+    "en": ""
   },
   {
     "hanzi": "搀",
     "pinyin": "chān",
-    "en": "",
-    "vi": ""
+    "vi": "trộn",
+    "en": ""
   },
   {
     "hanzi": "馋",
     "pinyin": "chán",
-    "en": "",
-    "vi": ""
+    "vi": "tham",
+    "en": ""
   },
   {
     "hanzi": "缠",
     "pinyin": "chán",
-    "en": "",
-    "vi": ""
+    "vi": "vướng víu",
+    "en": ""
   },
   {
     "hanzi": "缠绕",
     "pinyin": "chánrào",
-    "en": "",
-    "vi": ""
+    "vi": "vướng víu",
+    "en": ""
   },
   {
     "hanzi": "铲",
     "pinyin": "chǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xẻng",
+    "en": ""
   },
   {
     "hanzi": "产权",
     "pinyin": "chǎnquán",
-    "en": "",
-    "vi": ""
+    "vi": "tài sản",
+    "en": ""
   },
   {
     "hanzi": "阐释",
     "pinyin": "chǎnshì",
-    "en": "",
-    "vi": ""
+    "vi": "diễn giải",
+    "en": ""
   },
   {
     "hanzi": "阐述",
     "pinyin": "chǎnshù",
-    "en": "",
-    "vi": ""
+    "vi": "Phức tạp",
+    "en": ""
   },
   {
     "hanzi": "产物",
     "pinyin": "chǎnwù",
-    "en": "",
-    "vi": ""
+    "vi": "sản phẩm",
+    "en": ""
   },
   {
     "hanzi": "产业链",
     "pinyin": "chǎnyèliàn",
-    "en": "",
-    "vi": ""
+    "vi": "Dây chuyền công nghiệp",
+    "en": ""
   },
   {
     "hanzi": "产值",
     "pinyin": "chǎnzhí",
-    "en": "",
-    "vi": ""
+    "vi": "giá trị đầu ra",
+    "en": ""
   },
   {
     "hanzi": "颤抖",
     "pinyin": "chàndǒu",
-    "en": "",
-    "vi": ""
+    "vi": "run rẩy",
+    "en": ""
   },
   {
     "hanzi": "猖狂",
     "pinyin": "chāngkuáng",
-    "en": "",
-    "vi": ""
+    "vi": "giận dữ",
+    "en": ""
   },
   {
     "hanzi": "昌盛",
     "pinyin": "chāngshèng",
-    "en": "",
-    "vi": ""
+    "vi": "sự phồn vinh",
+    "en": ""
   },
   {
     "hanzi": "偿还",
     "pinyin": "chánghuán",
-    "en": "",
-    "vi": ""
+    "vi": "trả ơn",
+    "en": ""
   },
   {
     "hanzi": "常理",
     "pinyin": "chánglǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lẽ thường",
+    "en": ""
   },
   {
     "hanzi": "长期以来",
     "pinyin": "chángqī yǐlái",
-    "en": "",
-    "vi": ""
+    "vi": "trong một thời gian dài",
+    "en": ""
   },
   {
     "hanzi": "常人",
     "pinyin": "chángrén",
-    "en": "",
-    "vi": ""
+    "vi": "Người bình thường",
+    "en": ""
   },
   {
     "hanzi": "常态",
     "pinyin": "chángtài",
-    "en": "",
-    "vi": ""
+    "vi": "Bình thường",
+    "en": ""
   },
   {
     "hanzi": "长效",
     "pinyin": "chángxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Lâu dài",
+    "en": ""
   },
   {
     "hanzi": "长征",
     "pinyin": "chángzhēng",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc hành quân dài",
+    "en": ""
   },
   {
     "hanzi": "长足",
     "pinyin": "chángzú",
-    "en": "",
-    "vi": ""
+    "vi": "lâu dài",
+    "en": ""
   },
   {
     "hanzi": "敞开",
     "pinyin": "chǎngkāi",
-    "en": "",
-    "vi": ""
+    "vi": "mở",
+    "en": ""
   },
   {
     "hanzi": "倡导",
     "pinyin": "chàngdǎo",
-    "en": "",
-    "vi": ""
+    "vi": "người bào chữa",
+    "en": ""
   },
   {
     "hanzi": "唱片",
     "pinyin": "chàngpiàn",
-    "en": "",
-    "vi": ""
+    "vi": "ghi ",
+    "en": ""
   },
   {
     "hanzi": "畅谈",
     "pinyin": "chàngtán",
-    "en": "",
-    "vi": ""
+    "vi": "Nói chuyện thoải mái",
+    "en": ""
   },
   {
     "hanzi": "倡议",
     "pinyin": "chàngyì",
-    "en": "",
-    "vi": ""
+    "vi": "sáng kiến",
+    "en": ""
   },
   {
     "hanzi": "超标",
     "pinyin": "chāobiāo",
-    "en": "",
-    "vi": ""
+    "vi": "Vượt quá tiêu chuẩn",
+    "en": ""
   },
   {
     "hanzi": "钞票",
     "pinyin": "chāopiào",
-    "en": "",
-    "vi": ""
+    "vi": "tiền giấy",
+    "en": ""
   },
   {
     "hanzi": "超前",
     "pinyin": "chāoqián",
-    "en": "",
-    "vi": ""
+    "vi": "Trước thời hạn",
+    "en": ""
   },
   {
     "hanzi": "抄袭",
     "pinyin": "chāoxí",
-    "en": "",
-    "vi": ""
+    "vi": "Đạo văn",
+    "en": ""
   },
   {
     "hanzi": "潮",
     "pinyin": "cháo",
-    "en": "",
-    "vi": ""
+    "vi": "thủy triều",
+    "en": ""
   },
   {
     "hanzi": "嘲弄",
     "pinyin": "cháonòng",
-    "en": "",
-    "vi": ""
+    "vi": "giả vờ",
+    "en": ""
   },
   {
     "hanzi": "潮水",
     "pinyin": "cháoshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "thủy triều",
+    "en": ""
   },
   {
     "hanzi": "巢穴",
     "pinyin": "cháoxué",
-    "en": "",
-    "vi": ""
+    "vi": "tổ",
+    "en": ""
   },
   {
     "hanzi": "炒作",
     "pinyin": "chǎozuò",
-    "en": "",
-    "vi": ""
+    "vi": "cường điệu",
+    "en": ""
   },
   {
     "hanzi": "车间",
     "pinyin": "chējiān",
-    "en": "",
-    "vi": ""
+    "vi": "xưởng",
+    "en": ""
   },
   {
     "hanzi": "扯",
     "pinyin": "chě",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "撤",
     "pinyin": "chè",
-    "en": "",
-    "vi": ""
+    "vi": "rút",
+    "en": ""
   },
   {
     "hanzi": "撤离",
     "pinyin": "chèlí",
-    "en": "",
-    "vi": ""
+    "vi": "Sơ tán",
+    "en": ""
   },
   {
     "hanzi": "撤退",
     "pinyin": "chètuì",
-    "en": "",
-    "vi": ""
+    "vi": "rút lui",
+    "en": ""
   },
   {
     "hanzi": "彻夜",
     "pinyin": "chèyè",
-    "en": "",
-    "vi": ""
+    "vi": "cả đêm",
+    "en": ""
   },
   {
     "hanzi": "沉淀",
     "pinyin": "chéndiàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự kết tủa",
+    "en": ""
   },
   {
     "hanzi": "沉甸甸",
     "pinyin": "chéndiàndiàn",
-    "en": "",
-    "vi": ""
+    "vi": "nặng",
+    "en": ""
   },
   {
     "hanzi": "沉浸",
     "pinyin": "chénjìn",
-    "en": "",
-    "vi": ""
+    "vi": "đắm chìm",
+    "en": ""
   },
   {
     "hanzi": "陈旧",
     "pinyin": "chénjiù",
-    "en": "",
-    "vi": ""
+    "vi": "lỗi thời",
+    "en": ""
   },
   {
     "hanzi": "陈列",
     "pinyin": "chénliè",
-    "en": "",
-    "vi": ""
+    "vi": "trưng bày",
+    "en": ""
   },
   {
     "hanzi": "沉闷",
     "pinyin": "chénmèn",
-    "en": "",
-    "vi": ""
+    "vi": "đần độn",
+    "en": ""
   },
   {
     "hanzi": "沉迷",
     "pinyin": "chénmí",
-    "en": "",
-    "vi": ""
+    "vi": "nghiện",
+    "en": ""
   },
   {
     "hanzi": "陈述",
     "pinyin": "chénshù",
-    "en": "",
-    "vi": ""
+    "vi": "tuyên bố",
+    "en": ""
   },
   {
     "hanzi": "沉睡",
     "pinyin": "chénshuì",
-    "en": "",
-    "vi": ""
+    "vi": "đang ngủ",
+    "en": ""
   },
   {
     "hanzi": "沉思",
     "pinyin": "chénsī",
-    "en": "",
-    "vi": ""
+    "vi": "thiền định",
+    "en": ""
   },
   {
     "hanzi": "沉稳",
     "pinyin": "chénwěn",
-    "en": "",
-    "vi": ""
+    "vi": "Điềm tĩnh",
+    "en": ""
   },
   {
     "hanzi": "沉着",
     "pinyin": "chénzhuó",
-    "en": "",
-    "vi": ""
+    "vi": "điềm tĩnh",
+    "en": ""
   },
   {
     "hanzi": "趁机",
     "pinyin": "chènjī",
-    "en": "",
-    "vi": ""
+    "vi": "Tận dụng cơ hội",
+    "en": ""
   },
   {
     "hanzi": "衬托",
     "pinyin": "chèntuō",
-    "en": "",
-    "vi": ""
+    "vi": "khởi hành",
+    "en": ""
   },
   {
     "hanzi": "称心如意",
     "pinyin": "chènxīn-rúyì",
-    "en": "",
-    "vi": ""
+    "vi": "Đạt yêu cầu",
+    "en": ""
   },
   {
     "hanzi": "趁早",
     "pinyin": "chènzǎo",
-    "en": "",
-    "vi": ""
+    "vi": "càng sớm càng tốt",
+    "en": ""
   },
   {
     "hanzi": "呈",
     "pinyin": "chéng",
-    "en": "",
-    "vi": ""
+    "vi": "nộp",
+    "en": ""
   },
   {
     "hanzi": "承包",
     "pinyin": "chéngbāo",
-    "en": "",
-    "vi": ""
+    "vi": "hợp đồng",
+    "en": ""
   },
   {
     "hanzi": "成才",
     "pinyin": "chéngcái",
-    "en": "",
-    "vi": ""
+    "vi": "trở nên tài năng",
+    "en": ""
   },
   {
     "hanzi": "成家",
     "pinyin": "chéngjiā",
-    "en": "",
-    "vi": ""
+    "vi": "kết hôn",
+    "en": ""
   },
   {
     "hanzi": "成家立业",
     "pinyin": "chéngjiā-lìyè",
-    "en": "",
-    "vi": ""
+    "vi": "Kết hôn và bắt đầu sự nghiệp",
+    "en": ""
   },
   {
     "hanzi": "承接",
     "pinyin": "chéngjiē",
-    "en": "",
-    "vi": ""
+    "vi": "đảm nhận",
+    "en": ""
   },
   {
     "hanzi": "诚恳",
     "pinyin": "chéngkěn",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "成年2",
     "pinyin": "chéngnián",
-    "en": "",
-    "vi": ""
+    "vi": "Người lớn 2",
+    "en": ""
   },
   {
     "hanzi": "成品",
     "pinyin": "chéngpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "thành phẩm",
+    "en": ""
   },
   {
     "hanzi": "城墙",
     "pinyin": "chéngqiáng",
-    "en": "",
-    "vi": ""
+    "vi": "bức tường thành phố",
+    "en": ""
   },
   {
     "hanzi": "澄清",
     "pinyin": "chéngqīng",
-    "en": "",
-    "vi": ""
+    "vi": "làm rõ",
+    "en": ""
   },
   {
     "hanzi": "成全",
     "pinyin": "chéngquán",
-    "en": "",
-    "vi": ""
+    "vi": "Hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "成群结队",
     "pinyin": "chéngqún-jiéduì",
-    "en": "",
-    "vi": ""
+    "vi": "đám đông",
+    "en": ""
   },
   {
     "hanzi": "成天",
     "pinyin": "chéngtiān",
-    "en": "",
-    "vi": ""
+    "vi": "suốt cả ngày",
+    "en": ""
   },
   {
     "hanzi": "成心",
     "pinyin": "chéngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "cố ý",
+    "en": ""
   },
   {
     "hanzi": "成型",
     "pinyin": "chéngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "hình thành",
+    "en": ""
   },
   {
     "hanzi": "诚意",
     "pinyin": "chéngyì",
-    "en": "",
-    "vi": ""
+    "vi": "sự chân thành",
+    "en": ""
   },
   {
     "hanzi": "承载",
     "pinyin": "chéngzài",
-    "en": "",
-    "vi": ""
+    "vi": "con gấu",
+    "en": ""
   },
   {
     "hanzi": "诚挚",
     "pinyin": "chéngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "逞强",
     "pinyin": "chěngqiáng",
-    "en": "",
-    "vi": ""
+    "vi": "thể hiện sức mạnh của mình",
+    "en": ""
   },
   {
     "hanzi": "秤",
     "pinyin": "chèng",
-    "en": "",
-    "vi": ""
+    "vi": "cân",
+    "en": ""
   },
   {
     "hanzi": "痴呆",
     "pinyin": "chīdāi",
-    "en": "",
-    "vi": ""
+    "vi": "mất trí nhớ",
+    "en": ""
   },
   {
     "hanzi": "吃喝玩乐",
     "pinyin": "chī-hē-wán-lè",
-    "en": "",
-    "vi": ""
+    "vi": "Ăn, uống và vui vẻ",
+    "en": ""
   },
   {
     "hanzi": "吃苦",
     "pinyin": "chīkǔ",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng khó khăn",
+    "en": ""
   },
   {
     "hanzi": "吃亏",
     "pinyin": "chīkuī",
-    "en": "",
-    "vi": ""
+    "vi": "chịu tổn thất",
+    "en": ""
   },
   {
     "hanzi": "吃力",
     "pinyin": "chīlì",
-    "en": "",
-    "vi": ""
+    "vi": "vất vả",
+    "en": ""
   },
   {
     "hanzi": "痴迷",
     "pinyin": "chīmí",
-    "en": "",
-    "vi": ""
+    "vi": "bị ám ảnh",
+    "en": ""
   },
   {
     "hanzi": "痴心",
     "pinyin": "chīxīn",
-    "en": "",
-    "vi": ""
+    "vi": "say mê",
+    "en": ""
   },
   {
     "hanzi": "持",
     "pinyin": "chí",
-    "en": "",
-    "vi": ""
+    "vi": "giữ",
+    "en": ""
   },
   {
     "hanzi": "迟迟",
     "pinyin": "chíchí",
-    "en": "",
-    "vi": ""
+    "vi": "Chí Chí",
+    "en": ""
   },
   {
     "hanzi": "迟钝",
     "pinyin": "chídùn",
-    "en": "",
-    "vi": ""
+    "vi": "chậm",
+    "en": ""
   },
   {
     "hanzi": "迟缓",
     "pinyin": "chíhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chậm",
+    "en": ""
   },
   {
     "hanzi": "驰名",
     "pinyin": "chímíng",
-    "en": "",
-    "vi": ""
+    "vi": "nổi tiếng",
+    "en": ""
   },
   {
     "hanzi": "持平",
     "pinyin": "chípíng",
-    "en": "",
-    "vi": ""
+    "vi": "phẳng",
+    "en": ""
   },
   {
     "hanzi": "池塘",
     "pinyin": "chítáng",
-    "en": "",
-    "vi": ""
+    "vi": "ao",
+    "en": ""
   },
   {
     "hanzi": "迟疑",
     "pinyin": "chíyí",
-    "en": "",
-    "vi": ""
+    "vi": "do dự",
+    "en": ""
   },
   {
     "hanzi": "迟早",
     "pinyin": "chízǎo",
-    "en": "",
-    "vi": ""
+    "vi": "sớm hay muộn",
+    "en": ""
   },
   {
     "hanzi": "持之以恒",
     "pinyin": "chízhī-yǐhéng",
-    "en": "",
-    "vi": ""
+    "vi": "kiên trì",
+    "en": ""
   },
   {
     "hanzi": "尺度",
     "pinyin": "chǐdù",
-    "en": "",
-    "vi": ""
+    "vi": "tỉ lệ",
+    "en": ""
   },
   {
     "hanzi": "耻辱",
     "pinyin": "chǐrǔ",
-    "en": "",
-    "vi": ""
+    "vi": "nỗi tủi nhục",
+    "en": ""
   },
   {
     "hanzi": "耻笑",
     "pinyin": "chǐxiào",
-    "en": "",
-    "vi": ""
+    "vi": "chế giễu",
+    "en": ""
   },
   {
     "hanzi": "赤道",
     "pinyin": "chìdào",
-    "en": "",
-    "vi": ""
+    "vi": "xích đạo",
+    "en": ""
   },
   {
     "hanzi": "赤字",
     "pinyin": "chìzì",
-    "en": "",
-    "vi": ""
+    "vi": "thâm hụt",
+    "en": ""
   },
   {
     "hanzi": "充",
     "pinyin": "chōng",
-    "en": "",
-    "vi": ""
+    "vi": "thù lao",
+    "en": ""
   },
   {
     "hanzi": "充斥",
     "pinyin": "chōngchì",
-    "en": "",
-    "vi": ""
+    "vi": "bị ngập lụt",
+    "en": ""
   },
   {
     "hanzi": "冲刺",
     "pinyin": "chōngcì",
-    "en": "",
-    "vi": ""
+    "vi": "chạy nước rút",
+    "en": ""
   },
   {
     "hanzi": "充当",
     "pinyin": "chōngdāng",
-    "en": "",
-    "vi": ""
+    "vi": "hành động như",
+    "en": ""
   },
   {
     "hanzi": "憧憬",
     "pinyin": "chōngjǐng",
-    "en": "",
-    "vi": ""
+    "vi": "khao khát",
+    "en": ""
   },
   {
     "hanzi": "冲浪",
     "pinyin": "chōnglàng",
-    "en": "",
-    "vi": ""
+    "vi": "lướt sóng",
+    "en": ""
   },
   {
     "hanzi": "充沛",
     "pinyin": "chōngpèi",
-    "en": "",
-    "vi": ""
+    "vi": "dồi dào",
+    "en": ""
   },
   {
     "hanzi": "冲洗",
     "pinyin": "chōngxǐ",
-    "en": "",
-    "vi": ""
+    "vi": "rửa sạch",
+    "en": ""
   },
   {
     "hanzi": "充裕",
     "pinyin": "chōngyù",
-    "en": "",
-    "vi": ""
+    "vi": "dồi dào",
+    "en": ""
   },
   {
     "hanzi": "冲撞",
     "pinyin": "chōngzhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "va chạm",
+    "en": ""
   },
   {
     "hanzi": "重重",
     "pinyin": "chóngchóng",
-    "en": "",
-    "vi": ""
+    "vi": "Nặng",
+    "en": ""
   },
   {
     "hanzi": "重叠",
     "pinyin": "chóngdié",
-    "en": "",
-    "vi": ""
+    "vi": "chồng chéo",
+    "en": ""
   },
   {
     "hanzi": "重返",
     "pinyin": "chóngfǎn",
-    "en": "",
-    "vi": ""
+    "vi": "trở lại",
+    "en": ""
   },
   {
     "hanzi": "崇高",
     "pinyin": "chónggāo",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt vời",
+    "en": ""
   },
   {
     "hanzi": "重合",
     "pinyin": "chónghé",
-    "en": "",
-    "vi": ""
+    "vi": "trùng hợp",
+    "en": ""
   },
   {
     "hanzi": "崇敬",
     "pinyin": "chóngjìng",
-    "en": "",
-    "vi": ""
+    "vi": "sự tôn trọng",
+    "en": ""
   },
   {
     "hanzi": "崇尚",
     "pinyin": "chóngshàng",
-    "en": "",
-    "vi": ""
+    "vi": "người bào chữa",
+    "en": ""
   },
   {
     "hanzi": "重申",
     "pinyin": "chóngshēn",
-    "en": "",
-    "vi": ""
+    "vi": "nhắc lại",
+    "en": ""
   },
   {
     "hanzi": "重现",
     "pinyin": "chóngxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xuất hiện lại",
+    "en": ""
   },
   {
     "hanzi": "重组",
     "pinyin": "chóngzǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Tổ chức lại",
+    "en": ""
   },
   {
     "hanzi": "宠",
     "pinyin": "chǒng",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "宠爱",
     "pinyin": "chǒng’ài",
-    "en": "",
-    "vi": ""
+    "vi": "thú cưng",
+    "en": ""
   },
   {
     "hanzi": "抽查",
     "pinyin": "chōuchá",
-    "en": "",
-    "vi": ""
+    "vi": "Kiểm tra tại chỗ",
+    "en": ""
   },
   {
     "hanzi": "抽签",
     "pinyin": "chōuqiān",
-    "en": "",
-    "vi": ""
+    "vi": "rút thăm",
+    "en": ""
   },
   {
     "hanzi": "抽屉",
     "pinyin": "chōuti",
-    "en": "",
-    "vi": ""
+    "vi": "ngăn kéo",
+    "en": ""
   },
   {
     "hanzi": "抽样",
     "pinyin": "chōuyàng",
-    "en": "",
-    "vi": ""
+    "vi": "lấy mẫu",
+    "en": ""
   },
   {
     "hanzi": "仇",
     "pinyin": "chóu",
-    "en": "",
-    "vi": ""
+    "vi": "hận thù",
+    "en": ""
   },
   {
     "hanzi": "稠",
     "pinyin": "chóu",
-    "en": "",
-    "vi": ""
+    "vi": "dày",
+    "en": ""
   },
   {
     "hanzi": "筹",
     "pinyin": "chóu",
-    "en": "",
-    "vi": ""
+    "vi": "nâng lên",
+    "en": ""
   },
   {
     "hanzi": "筹办",
     "pinyin": "chóubàn",
-    "en": "",
-    "vi": ""
+    "vi": "tổ chức",
+    "en": ""
   },
   {
     "hanzi": "筹措",
     "pinyin": "chóucuò",
-    "en": "",
-    "vi": ""
+    "vi": "nâng lên",
+    "en": ""
   },
   {
     "hanzi": "仇恨",
     "pinyin": "chóuhèn",
-    "en": "",
-    "vi": ""
+    "vi": "hận thù",
+    "en": ""
   },
   {
     "hanzi": "筹划",
     "pinyin": "chóuhuà",
-    "en": "",
-    "vi": ""
+    "vi": "lập kế hoạch",
+    "en": ""
   },
   {
     "hanzi": "筹集",
     "pinyin": "chóují",
-    "en": "",
-    "vi": ""
+    "vi": "nâng lên",
+    "en": ""
   },
   {
     "hanzi": "筹码",
     "pinyin": "chóumǎ",
-    "en": "",
-    "vi": ""
+    "vi": "chip",
+    "en": ""
   },
   {
     "hanzi": "愁眉苦脸",
     "pinyin": "chóuméi-kǔliǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cau mày",
+    "en": ""
   },
   {
     "hanzi": "稠密",
     "pinyin": "chóumì",
-    "en": "",
-    "vi": ""
+    "vi": "dày đặc",
+    "en": ""
   },
   {
     "hanzi": "仇人",
     "pinyin": "chóurén",
-    "en": "",
-    "vi": ""
+    "vi": "kẻ thù",
+    "en": ""
   },
   {
     "hanzi": "瞅",
     "pinyin": "chǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Nhìn",
+    "en": ""
   },
   {
     "hanzi": "丑恶",
     "pinyin": "chǒu’è",
-    "en": "",
-    "vi": ""
+    "vi": "xấu xí",
+    "en": ""
   },
   {
     "hanzi": "丑陋",
     "pinyin": "chǒulòu",
-    "en": "",
-    "vi": ""
+    "vi": "xấu xí",
+    "en": ""
   },
   {
     "hanzi": "丑闻",
     "pinyin": "chǒuwén",
-    "en": "",
-    "vi": ""
+    "vi": "vụ bê bối",
+    "en": ""
   },
   {
     "hanzi": "出厂",
     "pinyin": "chūchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhà máy",
+    "en": ""
   },
   {
     "hanzi": "出丑",
     "pinyin": "chūchǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy tự biến mình thành kẻ ngốc",
+    "en": ""
   },
   {
     "hanzi": "出动",
     "pinyin": "chūdòng",
-    "en": "",
-    "vi": ""
+    "vi": "gửi đi",
+    "en": ""
   },
   {
     "hanzi": "出发点",
     "pinyin": "chūfādiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "điểm bắt đầu",
+    "en": ""
   },
   {
     "hanzi": "出访",
     "pinyin": "chūfǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Du lịch nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "出局",
     "pinyin": "chūjú",
-    "en": "",
-    "vi": ""
+    "vi": "Ngoài",
+    "en": ""
   },
   {
     "hanzi": "出具",
     "pinyin": "chūjù",
-    "en": "",
-    "vi": ""
+    "vi": "vấn đề",
+    "en": ""
   },
   {
     "hanzi": "出又成章",
     "pinyin": "chūkǒu-chéngzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "Mọi thứ đến với nhau",
+    "en": ""
   },
   {
     "hanzi": "出路",
     "pinyin": "chūlù",
-    "en": "",
-    "vi": ""
+    "vi": "lối thoát",
+    "en": ""
   },
   {
     "hanzi": "出卖",
     "pinyin": "chūmài",
-    "en": "",
-    "vi": ""
+    "vi": "bán",
+    "en": ""
   },
   {
     "hanzi": "出面",
     "pinyin": "chūmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tiến về phía trước",
+    "en": ""
   },
   {
     "hanzi": "出任",
     "pinyin": "chūrèn",
-    "en": "",
-    "vi": ""
+    "vi": "nhậm chức",
+    "en": ""
   },
   {
     "hanzi": "出人意料",
     "pinyin": "chūrényìliào",
-    "en": "",
-    "vi": ""
+    "vi": "Không ngờ tới",
+    "en": ""
   },
   {
     "hanzi": "出神",
     "pinyin": "chūshén",
-    "en": "",
-    "vi": ""
+    "vi": "xuất thần",
+    "en": ""
   },
   {
     "hanzi": "出身",
     "pinyin": "chūshēn",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn gốc",
+    "en": ""
   },
   {
     "hanzi": "出手",
     "pinyin": "chūshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy hành động",
+    "en": ""
   },
   {
     "hanzi": "出台",
     "pinyin": "chūtái",
-    "en": "",
-    "vi": ""
+    "vi": "được giới thiệu",
+    "en": ""
   },
   {
     "hanzi": "出头",
     "pinyin": "chūtóu",
-    "en": "",
-    "vi": ""
+    "vi": "nổi bật",
+    "en": ""
   },
   {
     "hanzi": "出土",
     "pinyin": "chūtǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Khai quật",
+    "en": ""
   },
   {
     "hanzi": "出息",
     "pinyin": "chūxi",
-    "en": "",
-    "vi": ""
+    "vi": "Hứa",
+    "en": ""
   },
   {
     "hanzi": "出征",
     "pinyin": "chūzhēng",
-    "en": "",
-    "vi": ""
+    "vi": "Đi thám hiểm",
+    "en": ""
   },
   {
     "hanzi": "出众",
     "pinyin": "chūzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "Nổi bật",
+    "en": ""
   },
   {
     "hanzi": "初衷",
     "pinyin": "chūzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "ý định ban đầu",
+    "en": ""
   },
   {
     "hanzi": "出资",
     "pinyin": "chūzī",
-    "en": "",
-    "vi": ""
+    "vi": "Sự đóng góp",
+    "en": ""
   },
   {
     "hanzi": "出走",
     "pinyin": "chūzǒu",
-    "en": "",
-    "vi": ""
+    "vi": "chạy trốn",
+    "en": ""
   },
   {
     "hanzi": "锄",
     "pinyin": "chú",
-    "en": "",
-    "vi": ""
+    "vi": "cuốc",
+    "en": ""
   },
   {
     "hanzi": "橱窗",
     "pinyin": "chúchuāng",
-    "en": "",
-    "vi": ""
+    "vi": "trưng bày",
+    "en": ""
   },
   {
     "hanzi": "除去",
     "pinyin": "chúqù",
-    "en": "",
-    "vi": ""
+    "vi": "di dời",
+    "en": ""
   },
   {
     "hanzi": "除外",
     "pinyin": "chúwài",
-    "en": "",
-    "vi": ""
+    "vi": "ngoại trừ",
+    "en": ""
   },
   {
     "hanzi": "储备",
     "pinyin": "chǔbèi",
-    "en": "",
-    "vi": ""
+    "vi": "dự trữ",
+    "en": ""
   },
   {
     "hanzi": "处方",
     "pinyin": "chǔfāng",
-    "en": "",
-    "vi": ""
+    "vi": "toa thuốc",
+    "en": ""
   },
   {
     "hanzi": "处分",
     "pinyin": "chǔfèn",
-    "en": "",
-    "vi": ""
+    "vi": "Trừng phạt",
+    "en": ""
   },
   {
     "hanzi": "处境",
     "pinyin": "chǔjìng",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "储量",
     "pinyin": "chǔliàng",
-    "en": "",
-    "vi": ""
+    "vi": "dự trữ",
+    "en": ""
   },
   {
     "hanzi": "处事",
     "pinyin": "chǔshì",
-    "en": "",
-    "vi": ""
+    "vi": "làm mọi việc",
+    "en": ""
   },
   {
     "hanzi": "处置",
     "pinyin": "chǔzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Vứt bỏ",
+    "en": ""
   },
   {
     "hanzi": "触动",
     "pinyin": "chùdòng",
-    "en": "",
-    "vi": ""
+    "vi": "chạm",
+    "en": ""
   },
   {
     "hanzi": "触犯",
     "pinyin": "chùfàn",
-    "en": "",
-    "vi": ""
+    "vi": "xúc phạm",
+    "en": ""
   },
   {
     "hanzi": "触觉",
     "pinyin": "chùjué",
-    "en": "",
-    "vi": ""
+    "vi": "chạm",
+    "en": ""
   },
   {
     "hanzi": "矗立",
     "pinyin": "chùlì",
-    "en": "",
-    "vi": ""
+    "vi": "đứng",
+    "en": ""
   },
   {
     "hanzi": "触摸",
     "pinyin": "chùmō",
-    "en": "",
-    "vi": ""
+    "vi": "chạm",
+    "en": ""
   },
   {
     "hanzi": "触目惊心",
     "pinyin": "chùmù-jīngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "gây sốc",
+    "en": ""
   },
   {
     "hanzi": "揣",
     "pinyin": "chuāi",
-    "en": "",
-    "vi": ""
+    "vi": "phỏng đoán",
+    "en": ""
   },
   {
     "hanzi": "揣测",
     "pinyin": "chuǎicè",
-    "en": "",
-    "vi": ""
+    "vi": "suy đoán",
+    "en": ""
   },
   {
     "hanzi": "揣摩",
     "pinyin": "chuǎimó",
-    "en": "",
-    "vi": ""
+    "vi": "cố gắng tìm ra",
+    "en": ""
   },
   {
     "hanzi": "踹",
     "pinyin": "chuài",
-    "en": "",
-    "vi": ""
+    "vi": "đá",
+    "en": ""
   },
   {
     "hanzi": "川流不息",
     "pinyin": "chuānliú-bùxī",
-    "en": "",
-    "vi": ""
+    "vi": "Dòng chảy liên tục",
+    "en": ""
   },
   {
     "hanzi": "穿梭",
     "pinyin": "chuānsuō",
-    "en": "",
-    "vi": ""
+    "vi": "đưa đón",
+    "en": ""
   },
   {
     "hanzi": "穿越",
     "pinyin": "chuānyuè",
-    "en": "",
-    "vi": ""
+    "vi": "du hành thời gian",
+    "en": ""
   },
   {
     "hanzi": "穿着",
     "pinyin": "chuānzhuó",
-    "en": "",
-    "vi": ""
+    "vi": "mặc",
+    "en": ""
   },
   {
     "hanzi": "船舶",
     "pinyin": "chuánbó",
-    "en": "",
-    "vi": ""
+    "vi": "tàu thủy",
+    "en": ""
   },
   {
     "hanzi": "传单",
     "pinyin": "chuándān",
-    "en": "",
-    "vi": ""
+    "vi": "tờ rơi",
+    "en": ""
   },
   {
     "hanzi": "传媒",
     "pinyin": "chuánméi",
-    "en": "",
-    "vi": ""
+    "vi": "phương tiện truyền thông",
+    "en": ""
   },
   {
     "hanzi": "传奇",
     "pinyin": "chuánqí",
-    "en": "",
-    "vi": ""
+    "vi": "huyền thoại",
+    "en": ""
   },
   {
     "hanzi": "传人",
     "pinyin": "chuánrén",
-    "en": "",
-    "vi": ""
+    "vi": "người kế nhiệm",
+    "en": ""
   },
   {
     "hanzi": "传闻",
     "pinyin": "chuánwén",
-    "en": "",
-    "vi": ""
+    "vi": "tin đồn",
+    "en": ""
   },
   {
     "hanzi": "传言",
     "pinyin": "chuányán",
-    "en": "",
-    "vi": ""
+    "vi": "tin đồn",
+    "en": ""
   },
   {
     "hanzi": "喘",
     "pinyin": "chuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh hen suyễn",
+    "en": ""
   },
   {
     "hanzi": "喘息",
     "pinyin": "chuǎnxī",
-    "en": "",
-    "vi": ""
+    "vi": "thời gian nghỉ ngơi",
+    "en": ""
   },
   {
     "hanzi": "串门",
     "pinyin": "chuànmén",
-    "en": "",
-    "vi": ""
+    "vi": "Ghé qua",
+    "en": ""
   },
   {
     "hanzi": "窗帘",
     "pinyin": "chuānglián",
-    "en": "",
-    "vi": ""
+    "vi": "tấm màn",
+    "en": ""
   },
   {
     "hanzi": "创伤",
     "pinyin": "chuāngshāng",
-    "en": "",
-    "vi": ""
+    "vi": "tổn thương",
+    "en": ""
   },
   {
     "hanzi": "床位",
     "pinyin": "chuángwèi",
-    "en": "",
-    "vi": ""
+    "vi": "giường",
+    "en": ""
   },
   {
     "hanzi": "创",
     "pinyin": "chuàng",
-    "en": "",
-    "vi": ""
+    "vi": "tạo nên",
+    "en": ""
   },
   {
     "hanzi": "创始人",
     "pinyin": "chuàngshǐrén",
-    "en": "",
-    "vi": ""
+    "vi": "Người sáng lập",
+    "en": ""
   },
   {
     "hanzi": "吹牛",
     "pinyin": "chuīniú",
-    "en": "",
-    "vi": ""
+    "vi": "khoe khoan",
+    "en": ""
   },
   {
     "hanzi": "吹捧",
     "pinyin": "chuīpěng",
-    "en": "",
-    "vi": ""
+    "vi": "phẳng hơn",
+    "en": ""
   },
   {
     "hanzi": "炊烟",
     "pinyin": "chuīyān",
-    "en": "",
-    "vi": ""
+    "vi": "khói",
+    "en": ""
   },
   {
     "hanzi": "垂",
     "pinyin": "chuí",
-    "en": "",
-    "vi": ""
+    "vi": "treo xuống",
+    "en": ""
   },
   {
     "hanzi": "捶",
     "pinyin": "chuí",
-    "en": "",
-    "vi": ""
+    "vi": "cái búa",
+    "en": ""
   },
   {
     "hanzi": "锤",
     "pinyin": "chuí",
-    "en": "",
-    "vi": ""
+    "vi": "cái búa",
+    "en": ""
   },
   {
     "hanzi": "垂头丧气",
     "pinyin": "chuítóu-sàngqì",
-    "en": "",
-    "vi": ""
+    "vi": "chán nản",
+    "en": ""
   },
   {
     "hanzi": "纯粹",
     "pinyin": "chúncuì",
-    "en": "",
-    "vi": ""
+    "vi": "hoàn toàn",
+    "en": ""
   },
   {
     "hanzi": "醇厚",
     "pinyin": "chúnhòu",
-    "en": "",
-    "vi": ""
+    "vi": "êm dịu",
+    "en": ""
   },
   {
     "hanzi": "纯洁",
     "pinyin": "chúnjié",
-    "en": "",
-    "vi": ""
+    "vi": "nguyên chất",
+    "en": ""
   },
   {
     "hanzi": "纯朴",
     "pinyin": "chúnpǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Đơn giản",
+    "en": ""
   },
   {
     "hanzi": "淳朴",
     "pinyin": "chúnpǔ",
-    "en": "",
-    "vi": ""
+    "vi": "đơn giản",
+    "en": ""
   },
   {
     "hanzi": "蠢",
     "pinyin": "chǔn",
-    "en": "",
-    "vi": ""
+    "vi": "ngốc nghếch",
+    "en": ""
   },
   {
     "hanzi": "戳",
     "pinyin": "chuō",
-    "en": "",
-    "vi": ""
+    "vi": "con tem",
+    "en": ""
   },
   {
     "hanzi": "绰号",
     "pinyin": "chuòhào",
-    "en": "",
-    "vi": ""
+    "vi": "biệt hiệu",
+    "en": ""
   },
   {
     "hanzi": "辞",
     "pinyin": "cí",
-    "en": "",
-    "vi": ""
+    "vi": "Ci",
+    "en": ""
   },
   {
     "hanzi": "辞呈",
     "pinyin": "cíchéng",
-    "en": "",
-    "vi": ""
+    "vi": "sự từ chức",
+    "en": ""
   },
   {
     "hanzi": "磁带",
     "pinyin": "cídài",
-    "en": "",
-    "vi": ""
+    "vi": "băng",
+    "en": ""
   },
   {
     "hanzi": "辞典",
     "pinyin": "cídiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "từ điển",
+    "en": ""
   },
   {
     "hanzi": "慈善",
     "pinyin": "císhàn",
-    "en": "",
-    "vi": ""
+    "vi": "từ thiện",
+    "en": ""
   },
   {
     "hanzi": "磁铁",
     "pinyin": "cítiě",
-    "en": "",
-    "vi": ""
+    "vi": "nam châm",
+    "en": ""
   },
   {
     "hanzi": "辞退",
     "pinyin": "cítuì",
-    "en": "",
-    "vi": ""
+    "vi": "miễn nhiệm",
+    "en": ""
   },
   {
     "hanzi": "慈祥",
     "pinyin": "cíxiáng",
-    "en": "",
-    "vi": ""
+    "vi": "tử tế",
+    "en": ""
   },
   {
     "hanzi": "雌性",
     "pinyin": "cíxìng",
-    "en": "",
-    "vi": ""
+    "vi": "nữ giới",
+    "en": ""
   },
   {
     "hanzi": "此起彼伏",
     "pinyin": "cǐqǐ-bǐfú",
-    "en": "",
-    "vi": ""
+    "vi": "Lần lượt",
+    "en": ""
   },
   {
     "hanzi": "此致",
     "pinyin": "cǐzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Trân trọng",
+    "en": ""
   },
   {
     "hanzi": "赐",
     "pinyin": "cì",
-    "en": "",
-    "vi": ""
+    "vi": "ban cho",
+    "en": ""
   },
   {
     "hanzi": "刺耳",
     "pinyin": "cì’ěr",
-    "en": "",
-    "vi": ""
+    "vi": "Thô ráp",
+    "en": ""
   },
   {
     "hanzi": "刺骨",
     "pinyin": "cìgǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cắn",
+    "en": ""
   },
   {
     "hanzi": "伺候",
     "pinyin": "cìhou",
-    "en": "",
-    "vi": ""
+    "vi": "phục vụ",
+    "en": ""
   },
   {
     "hanzi": "赐教",
     "pinyin": "cìjiào",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy cho tôi lời khuyên",
+    "en": ""
   },
   {
     "hanzi": "次品",
     "pinyin": "cìpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "Hàng lỗi",
+    "en": ""
   },
   {
     "hanzi": "次日",
     "pinyin": "cìrì",
-    "en": "",
-    "vi": ""
+    "vi": "ngày hôm sau",
+    "en": ""
   },
   {
     "hanzi": "刺绣",
     "pinyin": "cìxiù",
-    "en": "",
-    "vi": ""
+    "vi": "nghề thêu",
+    "en": ""
   },
   {
     "hanzi": "次序",
     "pinyin": "cìxù",
-    "en": "",
-    "vi": ""
+    "vi": "đặt hàng",
+    "en": ""
   },
   {
     "hanzi": "刺眼",
     "pinyin": "cìyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "rực rỡ",
+    "en": ""
   },
   {
     "hanzi": "次要",
     "pinyin": "cìyào",
-    "en": "",
-    "vi": ""
+    "vi": "sơ trung",
+    "en": ""
   },
   {
     "hanzi": "葱",
     "pinyin": "cōng",
-    "en": "",
-    "vi": ""
+    "vi": "củ hành",
+    "en": ""
   },
   {
     "hanzi": "丛",
     "pinyin": "cóng",
-    "en": "",
-    "vi": ""
+    "vi": "Cụm",
+    "en": ""
   },
   {
     "hanzi": "丛林",
     "pinyin": "cónglín",
-    "en": "",
-    "vi": ""
+    "vi": "rừng",
+    "en": ""
   },
   {
     "hanzi": "从容",
     "pinyin": "cóngróng",
-    "en": "",
-    "vi": ""
+    "vi": "bình tĩnh",
+    "en": ""
   },
   {
     "hanzi": "从容不迫",
     "pinyin": "cóngróng-búpò",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy dành thời gian của bạn",
+    "en": ""
   },
   {
     "hanzi": "从头",
     "pinyin": "cóngtóu",
-    "en": "",
-    "vi": ""
+    "vi": "từ đầu",
+    "en": ""
   },
   {
     "hanzi": "凑",
     "pinyin": "còu",
-    "en": "",
-    "vi": ""
+    "vi": "hòa nhập",
+    "en": ""
   },
   {
     "hanzi": "凑合",
     "pinyin": "còuhe",
-    "en": "",
-    "vi": ""
+    "vi": "ứng biến",
+    "en": ""
   },
   {
     "hanzi": "凑巧",
     "pinyin": "còuqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Tình cờ",
+    "en": ""
   },
   {
     "hanzi": "粗暴",
     "pinyin": "cūbào",
-    "en": "",
-    "vi": ""
+    "vi": "thô",
+    "en": ""
   },
   {
     "hanzi": "粗糙",
     "pinyin": "cūcāo",
-    "en": "",
-    "vi": ""
+    "vi": "Thô",
+    "en": ""
   },
   {
     "hanzi": "粗鲁",
     "pinyin": "cūlǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bất lịch sự",
+    "en": ""
   },
   {
     "hanzi": "粗略",
     "pinyin": "cūlüè",
-    "en": "",
-    "vi": ""
+    "vi": "thô",
+    "en": ""
   },
   {
     "hanzi": "粗心大意",
     "pinyin": "cūxīn-dàyì",
-    "en": "",
-    "vi": ""
+    "vi": "bất cẩn",
+    "en": ""
   },
   {
     "hanzi": "促成",
     "pinyin": "cùchéng",
-    "en": "",
-    "vi": ""
+    "vi": "góp phần vào",
+    "en": ""
   },
   {
     "hanzi": "簇拥",
     "pinyin": "cùyōng",
-    "en": "",
-    "vi": ""
+    "vi": "bầy đàn",
+    "en": ""
   },
   {
     "hanzi": "窜",
     "pinyin": "cuàn",
-    "en": "",
-    "vi": ""
+    "vi": "hối hả",
+    "en": ""
   },
   {
     "hanzi": "摧残",
     "pinyin": "cuīcán",
-    "en": "",
-    "vi": ""
+    "vi": "Hủy hoại",
+    "en": ""
   },
   {
     "hanzi": "催促",
     "pinyin": "cuīcù",
-    "en": "",
-    "vi": ""
+    "vi": "thúc giục",
+    "en": ""
   },
   {
     "hanzi": "摧毁",
     "pinyin": "cuīhuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hủy hoại",
+    "en": ""
   },
   {
     "hanzi": "催眠",
     "pinyin": "cuīmián",
-    "en": "",
-    "vi": ""
+    "vi": "Thôi miên",
+    "en": ""
   },
   {
     "hanzi": "璀璨",
     "pinyin": "cuǐcàn",
-    "en": "",
-    "vi": ""
+    "vi": "rực rỡ",
+    "en": ""
   },
   {
     "hanzi": "翠绿",
     "pinyin": "cuìlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "xanh tươi",
+    "en": ""
   },
   {
     "hanzi": "存活",
     "pinyin": "cúnhuó",
-    "en": "",
-    "vi": ""
+    "vi": "tồn tại",
+    "en": ""
   },
   {
     "hanzi": "存货",
     "pinyin": "cúnhuò",
-    "en": "",
-    "vi": ""
+    "vi": "Cổ phần",
+    "en": ""
   },
   {
     "hanzi": "存心",
     "pinyin": "cúnxīn",
-    "en": "",
-    "vi": ""
+    "vi": "cố ý",
+    "en": ""
   },
   {
     "hanzi": "存折",
     "pinyin": "cúnzhé",
-    "en": "",
-    "vi": ""
+    "vi": "Sổ tiết kiệm",
+    "en": ""
   },
   {
     "hanzi": "搓",
     "pinyin": "cuō",
-    "en": "",
-    "vi": ""
+    "vi": "xoắn",
+    "en": ""
   },
   {
     "hanzi": "磋商",
     "pinyin": "cuōshāng",
-    "en": "",
-    "vi": ""
+    "vi": "tư vấn",
+    "en": ""
   },
   {
     "hanzi": "挫败",
     "pinyin": "cuòbài",
-    "en": "",
-    "vi": ""
+    "vi": "đánh bại",
+    "en": ""
   },
   {
     "hanzi": "错别字",
     "pinyin": "cuòbiézì",
-    "en": "",
-    "vi": ""
+    "vi": "lỗi đánh máy",
+    "en": ""
   },
   {
     "hanzi": "错觉",
     "pinyin": "cuòjué",
-    "en": "",
-    "vi": ""
+    "vi": "ảo tưởng",
+    "en": ""
   },
   {
     "hanzi": "措手不及",
     "pinyin": "cuòshǒu-bùjí",
-    "en": "",
-    "vi": ""
+    "vi": "mất cảnh giác",
+    "en": ""
   },
   {
     "hanzi": "错位",
     "pinyin": "cuòwèi",
-    "en": "",
-    "vi": ""
+    "vi": "trật khớp",
+    "en": ""
   },
   {
     "hanzi": "错综复杂",
     "pinyin": "cuòzōng-fùzá",
-    "en": "",
-    "vi": ""
+    "vi": "tổ hợp",
+    "en": ""
   },
   {
     "hanzi": "搭乘",
     "pinyin": "dāchéng",
-    "en": "",
-    "vi": ""
+    "vi": "đi xe",
+    "en": ""
   },
   {
     "hanzi": "搭档",
     "pinyin": "dādàng",
-    "en": "",
-    "vi": ""
+    "vi": "cộng sự",
+    "en": ""
   },
   {
     "hanzi": "搭建",
     "pinyin": "dājiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xây dựng",
+    "en": ""
   },
   {
     "hanzi": "答辩",
     "pinyin": "dábiàn",
-    "en": "",
-    "vi": ""
+    "vi": "hồi đáp",
+    "en": ""
   },
   {
     "hanzi": "达标",
     "pinyin": "dábiāo",
-    "en": "",
-    "vi": ""
+    "vi": "Đáp ứng tiêu chuẩn",
+    "en": ""
   },
   {
     "hanzi": "打2",
     "pinyin": "dǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Lượt 2",
+    "en": ""
   },
   {
     "hanzi": "打喷嚏",
     "pinyin": "dǎ pēntì",
-    "en": "",
-    "vi": ""
+    "vi": "hắt hơi",
+    "en": ""
   },
   {
     "hanzi": "打下手",
     "pinyin": "dǎ xiàshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "giáng một đòn",
+    "en": ""
   },
   {
     "hanzi": "打岔",
     "pinyin": "dǎchà",
-    "en": "",
-    "vi": ""
+    "vi": "ngắt",
+    "en": ""
   },
   {
     "hanzi": "打倒",
     "pinyin": "dǎdǎo",
-    "en": "",
-    "vi": ""
+    "vi": "đánh ngã",
+    "en": ""
   },
   {
     "hanzi": "打赌",
     "pinyin": "dǎdǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cá cược",
+    "en": ""
   },
   {
     "hanzi": "打盹儿",
     "pinyin": "dǎdǔnr",
-    "en": "",
-    "vi": ""
+    "vi": "ngủ trưa",
+    "en": ""
   },
   {
     "hanzi": "打发",
     "pinyin": "dǎfa",
-    "en": "",
-    "vi": ""
+    "vi": "gửi đi",
+    "en": ""
   },
   {
     "hanzi": "打搅",
     "pinyin": "dǎjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "quấy rầy",
+    "en": ""
   },
   {
     "hanzi": "打捞",
     "pinyin": "dǎlāo",
-    "en": "",
-    "vi": ""
+    "vi": "cứu hộ",
+    "en": ""
   },
   {
     "hanzi": "打量",
     "pinyin": "dǎliang",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn vào",
+    "en": ""
   },
   {
     "hanzi": "打猎",
     "pinyin": "dǎliè",
-    "en": "",
-    "vi": ""
+    "vi": "đi săn",
+    "en": ""
   },
   {
     "hanzi": "打磨",
     "pinyin": "dǎmó",
-    "en": "",
-    "vi": ""
+    "vi": "đánh bóng",
+    "en": ""
   },
   {
     "hanzi": "打消",
     "pinyin": "dǎxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "xua tan",
+    "en": ""
   },
   {
     "hanzi": "大不了",
     "pinyin": "dàbuliǎo",
-    "en": "",
-    "vi": ""
+    "vi": "vấn đề lớn",
+    "en": ""
   },
   {
     "hanzi": "大大咧咧",
     "pinyin": "dàdaliēliē",
-    "en": "",
-    "vi": ""
+    "vi": "vô tư",
+    "en": ""
   },
   {
     "hanzi": "大纲",
     "pinyin": "dàgāng",
-    "en": "",
-    "vi": ""
+    "vi": "phác thảo",
+    "en": ""
   },
   {
     "hanzi": "大公无私",
     "pinyin": "dàgōng-wúsī",
-    "en": "",
-    "vi": ""
+    "vi": "vị tha",
+    "en": ""
   },
   {
     "hanzi": "大街小巷",
     "pinyin": "dàjiē-xiǎoxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "đường phố và ngõ hẻm",
+    "en": ""
   },
   {
     "hanzi": "大惊小怪",
     "pinyin": "dàjīng-xiǎoguài",
-    "en": "",
-    "vi": ""
+    "vi": "ồn ào",
+    "en": ""
   },
   {
     "hanzi": "大局",
     "pinyin": "dàjú",
-    "en": "",
-    "vi": ""
+    "vi": "tình hình chung",
+    "en": ""
   },
   {
     "hanzi": "大陆",
     "pinyin": "dàlù",
-    "en": "",
-    "vi": ""
+    "vi": "đất liền",
+    "en": ""
   },
   {
     "hanzi": "大名鼎鼎",
     "pinyin": "dàmíng-dǐngdǐng",
-    "en": "",
-    "vi": ""
+    "vi": "nổi tiếng",
+    "en": ""
   },
   {
     "hanzi": "大片",
     "pinyin": "dàpiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Bom tấn",
+    "en": ""
   },
   {
     "hanzi": "大气",
     "pinyin": "dàqì",
-    "en": "",
-    "vi": ""
+    "vi": "bầu không khí",
+    "en": ""
   },
   {
     "hanzi": "大数据",
     "pinyin": "dàshùjù",
-    "en": "",
-    "vi": ""
+    "vi": "dữ liệu lớn",
+    "en": ""
   },
   {
     "hanzi": "大肆",
     "pinyin": "dàsì",
-    "en": "",
-    "vi": ""
+    "vi": "bừa bãi",
+    "en": ""
   },
   {
     "hanzi": "大体",
     "pinyin": "dàtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nói chung",
+    "en": ""
   },
   {
     "hanzi": "大同小异",
     "pinyin": "dàtóng-xiǎoyì",
-    "en": "",
-    "vi": ""
+    "vi": "Giống nhau nhiều",
+    "en": ""
   },
   {
     "hanzi": "大为",
     "pinyin": "dàwéi",
-    "en": "",
-    "vi": ""
+    "vi": "Đại Vi",
+    "en": ""
   },
   {
     "hanzi": "大雁",
     "pinyin": "dàyàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngỗng hoang dã",
+    "en": ""
   },
   {
     "hanzi": "大意",
     "pinyin": "dàyi",
-    "en": "",
-    "vi": ""
+    "vi": "ý chính",
+    "en": ""
   },
   {
     "hanzi": "大意",
     "pinyin": "dàyì",
-    "en": "",
-    "vi": ""
+    "vi": "ý chính",
+    "en": ""
   },
   {
     "hanzi": "大有可为",
     "pinyin": "dàyǒu-kěwéi",
-    "en": "",
-    "vi": ""
+    "vi": "Có rất nhiều việc phải làm",
+    "en": ""
   },
   {
     "hanzi": "大宗",
     "pinyin": "dàzōng",
-    "en": "",
-    "vi": ""
+    "vi": "số lượng lớn",
+    "en": ""
   },
   {
     "hanzi": "逮",
     "pinyin": "dǎi",
-    "en": "",
-    "vi": ""
+    "vi": "nắm lấy",
+    "en": ""
   },
   {
     "hanzi": "歹徒",
     "pinyin": "dǎitú",
-    "en": "",
-    "vi": ""
+    "vi": "xã hội đen",
+    "en": ""
   },
   {
     "hanzi": "逮捕",
     "pinyin": "dàibǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bắt giữ",
+    "en": ""
   },
   {
     "hanzi": "带队",
     "pinyin": "dàiduì",
-    "en": "",
-    "vi": ""
+    "vi": "Dẫn dắt đội",
+    "en": ""
   },
   {
     "hanzi": "怠工",
     "pinyin": "dàigōng",
-    "en": "",
-    "vi": ""
+    "vi": "sự phá hoại",
+    "en": ""
   },
   {
     "hanzi": "代号",
     "pinyin": "dàihào",
-    "en": "",
-    "vi": ""
+    "vi": "tên mã",
+    "en": ""
   },
   {
     "hanzi": "代理人",
     "pinyin": "dàilǐrén",
-    "en": "",
-    "vi": ""
+    "vi": "đại lý",
+    "en": ""
   },
   {
     "hanzi": "带路",
     "pinyin": "dàilù",
-    "en": "",
-    "vi": ""
+    "vi": "dẫn đường",
+    "en": ""
   },
   {
     "hanzi": "怠慢",
     "pinyin": "dàimàn",
-    "en": "",
-    "vi": ""
+    "vi": "sao nhãng",
+    "en": ""
   },
   {
     "hanzi": "带头",
     "pinyin": "dàitóu",
-    "en": "",
-    "vi": ""
+    "vi": "dẫn đầu",
+    "en": ""
   },
   {
     "hanzi": "代言",
     "pinyin": "dàiyán",
-    "en": "",
-    "vi": ""
+    "vi": "Xác nhận",
+    "en": ""
   },
   {
     "hanzi": "担",
     "pinyin": "dān",
-    "en": "",
-    "vi": ""
+    "vi": "con gấu",
+    "en": ""
   },
   {
     "hanzi": "担保",
     "pinyin": "dānbǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bảo đảm",
+    "en": ""
   },
   {
     "hanzi": "单边",
     "pinyin": "dānbiān",
-    "en": "",
-    "vi": ""
+    "vi": "đơn phương",
+    "en": ""
   },
   {
     "hanzi": "单薄",
     "pinyin": "dānbó",
-    "en": "",
-    "vi": ""
+    "vi": "gầy",
+    "en": ""
   },
   {
     "hanzi": "担当",
     "pinyin": "dāndāng",
-    "en": "",
-    "vi": ""
+    "vi": "Chịu trách nhiệm",
+    "en": ""
   },
   {
     "hanzi": "单方面",
     "pinyin": "dānfāngmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "đơn phương",
+    "en": ""
   },
   {
     "hanzi": "担负",
     "pinyin": "dānfù",
-    "en": "",
-    "vi": ""
+    "vi": "chịu gánh nặng",
+    "en": ""
   },
   {
     "hanzi": "耽搁",
     "pinyin": "dānge",
-    "en": "",
-    "vi": ""
+    "vi": "trì hoãn",
+    "en": ""
   },
   {
     "hanzi": "单价",
     "pinyin": "dānjià",
-    "en": "",
-    "vi": ""
+    "vi": "đơn giá",
+    "en": ""
   },
   {
     "hanzi": "单身",
     "pinyin": "dānshēn",
-    "en": "",
-    "vi": ""
+    "vi": "đơn",
+    "en": ""
   },
   {
     "hanzi": "胆量",
     "pinyin": "dǎnliàng",
-    "en": "",
-    "vi": ""
+    "vi": "lòng can đảm",
+    "en": ""
   },
   {
     "hanzi": "胆怯",
     "pinyin": "dǎnqiè",
-    "en": "",
-    "vi": ""
+    "vi": "rụt rè",
+    "en": ""
   },
   {
     "hanzi": "胆小鬼",
     "pinyin": "dǎnxiǎoguǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hèn nhát",
+    "en": ""
   },
   {
     "hanzi": "担",
     "pinyin": "dàn",
-    "en": "",
-    "vi": ""
+    "vi": "con gấu",
+    "en": ""
   },
   {
     "hanzi": "诞辰",
     "pinyin": "dànchén",
-    "en": "",
-    "vi": ""
+    "vi": "sinh nhật",
+    "en": ""
   },
   {
     "hanzi": "淡化",
     "pinyin": "dànhuà",
-    "en": "",
-    "vi": ""
+    "vi": "pha loãng",
+    "en": ""
   },
   {
     "hanzi": "淡季",
     "pinyin": "dànjì",
-    "en": "",
-    "vi": ""
+    "vi": "trái mùa",
+    "en": ""
   },
   {
     "hanzi": "淡水",
     "pinyin": "dànshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nước ngọt",
+    "en": ""
   },
   {
     "hanzi": "但愿",
     "pinyin": "dànyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "tôi hy vọng",
+    "en": ""
   },
   {
     "hanzi": "担子",
     "pinyin": "dànzi",
-    "en": "",
-    "vi": ""
+    "vi": "gánh nặng",
+    "en": ""
   },
   {
     "hanzi": "当即",
     "pinyin": "dāngjí",
-    "en": "",
-    "vi": ""
+    "vi": "Ngay lập tức",
+    "en": ""
   },
   {
     "hanzi": "当机立断",
     "pinyin": "dāngjī-lìduàn",
-    "en": "",
-    "vi": ""
+    "vi": "đưa ra quyết định nhanh chóng",
+    "en": ""
   },
   {
     "hanzi": "当日",
     "pinyin": "dāngrì",
-    "en": "",
-    "vi": ""
+    "vi": "cùng ngày",
+    "en": ""
   },
   {
     "hanzi": "当事人",
     "pinyin": "dāngshìrén",
-    "en": "",
-    "vi": ""
+    "vi": "buổi tiệc",
+    "en": ""
   },
   {
     "hanzi": "当务之急",
     "pinyin": "dāngwùzhījí",
-    "en": "",
-    "vi": ""
+    "vi": "vấn đề khẩn cấp",
+    "en": ""
   },
   {
     "hanzi": "当心",
     "pinyin": "dāngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy cẩn thận",
+    "en": ""
   },
   {
     "hanzi": "当之无愧",
     "pinyin": "dāngzhīwúkuì",
-    "en": "",
-    "vi": ""
+    "vi": "Rất xứng đáng",
+    "en": ""
   },
   {
     "hanzi": "当众",
     "pinyin": "dāngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "ở nơi công cộng",
+    "en": ""
   },
   {
     "hanzi": "党",
     "pinyin": "dǎng",
-    "en": "",
-    "vi": ""
+    "vi": "buổi tiệc",
+    "en": ""
   },
   {
     "hanzi": "档次",
     "pinyin": "dàngcì",
-    "en": "",
-    "vi": ""
+    "vi": "cấp",
+    "en": ""
   },
   {
     "hanzi": "当晚",
     "pinyin": "dàngwǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đêm đó",
+    "en": ""
   },
   {
     "hanzi": "荡漾",
     "pinyin": "dàngyàng",
-    "en": "",
-    "vi": ""
+    "vi": "gợn sóng",
+    "en": ""
   },
   {
     "hanzi": "当真",
     "pinyin": "dàngzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "Thực ra",
+    "en": ""
   },
   {
     "hanzi": "导弹",
     "pinyin": "dǎodàn",
-    "en": "",
-    "vi": ""
+    "vi": "tên lửa",
+    "en": ""
   },
   {
     "hanzi": "导航",
     "pinyin": "dǎoháng",
-    "en": "",
-    "vi": ""
+    "vi": "điều hướng",
+    "en": ""
   },
   {
     "hanzi": "导火索",
     "pinyin": "dǎohuǒsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "cầu chì",
+    "en": ""
   },
   {
     "hanzi": "捣乱",
     "pinyin": "dǎoluàn",
-    "en": "",
-    "vi": ""
+    "vi": "gây rắc rối",
+    "en": ""
   },
   {
     "hanzi": "倒霉",
     "pinyin": "dǎoméi",
-    "en": "",
-    "vi": ""
+    "vi": "Không may",
+    "en": ""
   },
   {
     "hanzi": "倒塌",
     "pinyin": "dǎotā",
-    "en": "",
-    "vi": ""
+    "vi": "sụp đổ",
+    "en": ""
   },
   {
     "hanzi": "导向",
     "pinyin": "dǎoxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "hướng dẫn",
+    "en": ""
   },
   {
     "hanzi": "岛屿",
     "pinyin": "dǎoyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "hòn đảo",
+    "en": ""
   },
   {
     "hanzi": "盗",
     "pinyin": "dào",
-    "en": "",
-    "vi": ""
+    "vi": "ăn cắp",
+    "en": ""
   },
   {
     "hanzi": "盗版",
     "pinyin": "dàobǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cướp biển",
+    "en": ""
   },
   {
     "hanzi": "道别",
     "pinyin": "dàobié",
-    "en": "",
-    "vi": ""
+    "vi": "Nói lời tạm biệt",
+    "en": ""
   },
   {
     "hanzi": "稻草",
     "pinyin": "dàocǎo",
-    "en": "",
-    "vi": ""
+    "vi": "rơm",
+    "en": ""
   },
   {
     "hanzi": "倒计时",
     "pinyin": "dàojìshí",
-    "en": "",
-    "vi": ""
+    "vi": "Đếm ngược",
+    "en": ""
   },
   {
     "hanzi": "道具",
     "pinyin": "dàojù",
-    "en": "",
-    "vi": ""
+    "vi": "đạo cụ",
+    "en": ""
   },
   {
     "hanzi": "悼念",
     "pinyin": "dàoniàn",
-    "en": "",
-    "vi": ""
+    "vi": "chia buồn",
+    "en": ""
   },
   {
     "hanzi": "盗窃",
     "pinyin": "dàoqiè",
-    "en": "",
-    "vi": ""
+    "vi": "trộm cắp",
+    "en": ""
   },
   {
     "hanzi": "倒数",
     "pinyin": "dàoshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "tương hỗ",
+    "en": ""
   },
   {
     "hanzi": "到头来",
     "pinyin": "dàotóulái",
-    "en": "",
-    "vi": ""
+    "vi": "cuối cùng",
+    "en": ""
   },
   {
     "hanzi": "倒退",
     "pinyin": "dàotuì",
-    "en": "",
-    "vi": ""
+    "vi": "lùi lại",
+    "en": ""
   },
   {
     "hanzi": "到位",
     "pinyin": "dàowèi",
-    "en": "",
-    "vi": ""
+    "vi": "tại chỗ",
+    "en": ""
   },
   {
     "hanzi": "得不偿失",
     "pinyin": "débùchángshī",
-    "en": "",
-    "vi": ""
+    "vi": "Cái được nhiều hơn cái mất",
+    "en": ""
   },
   {
     "hanzi": "德才兼备",
     "pinyin": "décái-jiānbèi",
-    "en": "",
-    "vi": ""
+    "vi": "Có đủ năng lực và liêm chính chính trị",
+    "en": ""
   },
   {
     "hanzi": "得当",
     "pinyin": "dédàng",
-    "en": "",
-    "vi": ""
+    "vi": "phù hợp",
+    "en": ""
   },
   {
     "hanzi": "得力",
     "pinyin": "délì",
-    "en": "",
-    "vi": ""
+    "vi": "đồ nguội",
+    "en": ""
   },
   {
     "hanzi": "得失",
     "pinyin": "déshī",
-    "en": "",
-    "vi": ""
+    "vi": "được và mất",
+    "en": ""
   },
   {
     "hanzi": "得手",
     "pinyin": "déshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "thành công",
+    "en": ""
   },
   {
     "hanzi": "得体",
     "pinyin": "détǐ",
-    "en": "",
-    "vi": ""
+    "vi": "tử tế",
+    "en": ""
   },
   {
     "hanzi": "得天独厚",
     "pinyin": "détiāndúhòu",
-    "en": "",
-    "vi": ""
+    "vi": "Phước lành độc nhất",
+    "en": ""
   },
   {
     "hanzi": "得心应手",
     "pinyin": "déxīn-yìngshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Tiện dụng",
+    "en": ""
   },
   {
     "hanzi": "得益",
     "pinyin": "déyì",
-    "en": "",
-    "vi": ""
+    "vi": "lợi ích",
+    "en": ""
   },
   {
     "hanzi": "得意扬扬",
     "pinyin": "déyì-yángyáng",
-    "en": "",
-    "vi": ""
+    "vi": "tự hào",
+    "en": ""
   },
   {
     "hanzi": "得罪",
     "pinyin": "dézuì",
-    "en": "",
-    "vi": ""
+    "vi": "xúc phạm",
+    "en": ""
   },
   {
     "hanzi": "蹬",
     "pinyin": "dēng",
-    "en": "",
-    "vi": ""
+    "vi": "bàn đạp",
+    "en": ""
   },
   {
     "hanzi": "登场",
     "pinyin": "dēngchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "lên sân khấu",
+    "en": ""
   },
   {
     "hanzi": "登顶",
     "pinyin": "dēngdǐng",
-    "en": "",
-    "vi": ""
+    "vi": "Leo lên đỉnh",
+    "en": ""
   },
   {
     "hanzi": "登陆",
     "pinyin": "dēnglù",
-    "en": "",
-    "vi": ""
+    "vi": "Đăng nhập",
+    "en": ""
   },
   {
     "hanzi": "灯泡",
     "pinyin": "dēngpào",
-    "en": "",
-    "vi": ""
+    "vi": "bóng đèn",
+    "en": ""
   },
   {
     "hanzi": "瞪",
     "pinyin": "dèng",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn chằm chằm",
+    "en": ""
   },
   {
     "hanzi": "凳子",
     "pinyin": "dèngzi",
-    "en": "",
-    "vi": ""
+    "vi": "ghế đẩu",
+    "en": ""
   },
   {
     "hanzi": "堤",
     "pinyin": "dī",
-    "en": "",
-    "vi": ""
+    "vi": "bờ kè",
+    "en": ""
   },
   {
     "hanzi": "堤坝",
     "pinyin": "dībà",
-    "en": "",
-    "vi": ""
+    "vi": "đê",
+    "en": ""
   },
   {
     "hanzi": "低调",
     "pinyin": "dīdiào",
-    "en": "",
-    "vi": ""
+    "vi": "cấu hình thấp",
+    "en": ""
   },
   {
     "hanzi": "提防",
     "pinyin": "dīfang",
-    "en": "",
-    "vi": ""
+    "vi": "cẩn thận",
+    "en": ""
   },
   {
     "hanzi": "低谷",
     "pinyin": "dīgǔ",
-    "en": "",
-    "vi": ""
+    "vi": "điểm thấp",
+    "en": ""
   },
   {
     "hanzi": "低估",
     "pinyin": "dīgū",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá thấp",
+    "en": ""
   },
   {
     "hanzi": "低落",
     "pinyin": "dīluò",
-    "en": "",
-    "vi": ""
+    "vi": "thấp",
+    "en": ""
   },
   {
     "hanzi": "低迷",
     "pinyin": "dīmí",
-    "en": "",
-    "vi": ""
+    "vi": "suy thoái",
+    "en": ""
   },
   {
     "hanzi": "低下",
     "pinyin": "dīxià",
-    "en": "",
-    "vi": ""
+    "vi": "thấp",
+    "en": ""
   },
   {
     "hanzi": "嘀咕",
     "pinyin": "dígu",
-    "en": "",
-    "vi": ""
+    "vi": "lẩm bẩm",
+    "en": ""
   },
   {
     "hanzi": "敌视",
     "pinyin": "díshì",
-    "en": "",
-    "vi": ""
+    "vi": "Thù địch",
+    "en": ""
   },
   {
     "hanzi": "笛子",
     "pinyin": "dízi",
-    "en": "",
-    "vi": ""
+    "vi": "sáo",
+    "en": ""
   },
   {
     "hanzi": "抵",
     "pinyin": "dǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đến",
+    "en": ""
   },
   {
     "hanzi": "底层",
     "pinyin": "dǐcéng",
-    "en": "",
-    "vi": ""
+    "vi": "Tầng trệt",
+    "en": ""
   },
   {
     "hanzi": "抵触",
     "pinyin": "dǐchù",
-    "en": "",
-    "vi": ""
+    "vi": "xung đột",
+    "en": ""
   },
   {
     "hanzi": "抵挡",
     "pinyin": "dǐdǎng",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng được",
+    "en": ""
   },
   {
     "hanzi": "底线",
     "pinyin": "dǐxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "điểm mấu chốt",
+    "en": ""
   },
   {
     "hanzi": "抵消",
     "pinyin": "dǐxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "bù lại",
+    "en": ""
   },
   {
     "hanzi": "抵押",
     "pinyin": "dǐyā",
-    "en": "",
-    "vi": ""
+    "vi": "thế chấp",
+    "en": ""
   },
   {
     "hanzi": "抵御",
     "pinyin": "dǐyù",
-    "en": "",
-    "vi": ""
+    "vi": "kháng cự",
+    "en": ""
   },
   {
     "hanzi": "底蕴",
     "pinyin": "dǐyùn",
-    "en": "",
-    "vi": ""
+    "vi": "sự thành lập",
+    "en": ""
   },
   {
     "hanzi": "抵制",
     "pinyin": "dǐzhì",
-    "en": "",
-    "vi": ""
+    "vi": "kháng cự",
+    "en": ""
   },
   {
     "hanzi": "底子",
     "pinyin": "dǐzi",
-    "en": "",
-    "vi": ""
+    "vi": "sự thành lập",
+    "en": ""
   },
   {
     "hanzi": "地板",
     "pinyin": "dìbǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sàn nhà",
+    "en": ""
   },
   {
     "hanzi": "地步",
     "pinyin": "dìbù",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "地带",
     "pinyin": "dìdài",
-    "en": "",
-    "vi": ""
+    "vi": "vùng",
+    "en": ""
   },
   {
     "hanzi": "地道",
     "pinyin": "dìdào",
-    "en": "",
-    "vi": ""
+    "vi": "đặc trưng",
+    "en": ""
   },
   {
     "hanzi": "地段",
     "pinyin": "dìduàn",
-    "en": "",
-    "vi": ""
+    "vi": "vị trí",
+    "en": ""
   },
   {
     "hanzi": "帝国",
     "pinyin": "dìguó",
-    "en": "",
-    "vi": ""
+    "vi": "đế chế",
+    "en": ""
   },
   {
     "hanzi": "递交",
     "pinyin": "dìjiāo",
-    "en": "",
-    "vi": ""
+    "vi": "nộp",
+    "en": ""
   },
   {
     "hanzi": "地势",
     "pinyin": "dìshì",
-    "en": "",
-    "vi": ""
+    "vi": "địa hình",
+    "en": ""
   },
   {
     "hanzi": "地毯",
     "pinyin": "dìtǎn",
-    "en": "",
-    "vi": ""
+    "vi": "thảm",
+    "en": ""
   },
   {
     "hanzi": "地下水",
     "pinyin": "dìxiàshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nước ngầm",
+    "en": ""
   },
   {
     "hanzi": "第一手",
     "pinyin": "dìyīshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "đầu tiên",
+    "en": ""
   },
   {
     "hanzi": "地狱",
     "pinyin": "dìyù",
-    "en": "",
-    "vi": ""
+    "vi": "địa ngục",
+    "en": ""
   },
   {
     "hanzi": "递增",
     "pinyin": "dìzēng",
-    "en": "",
-    "vi": ""
+    "vi": "Tăng",
+    "en": ""
   },
   {
     "hanzi": "弟子",
     "pinyin": "dìzǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đệ tử",
+    "en": ""
   },
   {
     "hanzi": "颠簸",
     "pinyin": "diānbǒ",
-    "en": "",
-    "vi": ""
+    "vi": "mấp mô",
+    "en": ""
   },
   {
     "hanzi": "颠倒",
     "pinyin": "diāndǎo",
-    "en": "",
-    "vi": ""
+    "vi": "đảo ngược",
+    "en": ""
   },
   {
     "hanzi": "颠倒黑白",
     "pinyin": "diāndǎo-hēibái",
-    "en": "",
-    "vi": ""
+    "vi": "Nhầm lẫn đúng sai",
+    "en": ""
   },
   {
     "hanzi": "巅峰",
     "pinyin": "diānfēng",
-    "en": "",
-    "vi": ""
+    "vi": "đỉnh cao",
+    "en": ""
   },
   {
     "hanzi": "颠覆",
     "pinyin": "diānfù",
-    "en": "",
-    "vi": ""
+    "vi": "lật đổ",
+    "en": ""
   },
   {
     "hanzi": "典范",
     "pinyin": "diǎnfàn",
-    "en": "",
-    "vi": ""
+    "vi": "người mẫu",
+    "en": ""
   },
   {
     "hanzi": "点火",
     "pinyin": "diǎnhuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "đánh lửa",
+    "en": ""
   },
   {
     "hanzi": "点评",
     "pinyin": "diǎnpíng",
-    "en": "",
-    "vi": ""
+    "vi": "Ôn tập",
+    "en": ""
   },
   {
     "hanzi": "点缀",
     "pinyin": "diǎnzhuì",
-    "en": "",
-    "vi": ""
+    "vi": "sự tô điểm",
+    "en": ""
   },
   {
     "hanzi": "点子",
     "pinyin": "diǎnzi",
-    "en": "",
-    "vi": ""
+    "vi": "ý tưởng",
+    "en": ""
   },
   {
     "hanzi": "垫",
     "pinyin": "diàn",
-    "en": "",
-    "vi": ""
+    "vi": "đệm",
+    "en": ""
   },
   {
     "hanzi": "垫底",
     "pinyin": "diàndǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Đáy",
+    "en": ""
   },
   {
     "hanzi": "奠定",
     "pinyin": "diàndìng",
-    "en": "",
-    "vi": ""
+    "vi": "đặt nằm",
+    "en": ""
   },
   {
     "hanzi": "淀粉",
     "pinyin": "diànfěn",
-    "en": "",
-    "vi": ""
+    "vi": "tinh bột",
+    "en": ""
   },
   {
     "hanzi": "惦记",
     "pinyin": "diànjì",
-    "en": "",
-    "vi": ""
+    "vi": "cô",
+    "en": ""
   },
   {
     "hanzi": "电台",
     "pinyin": "diàntái",
-    "en": "",
-    "vi": ""
+    "vi": "Radio",
+    "en": ""
   },
   {
     "hanzi": "殿堂",
     "pinyin": "diàntáng",
-    "en": "",
-    "vi": ""
+    "vi": "cung điện",
+    "en": ""
   },
   {
     "hanzi": "电网",
     "pinyin": "diànwǎng",
-    "en": "",
-    "vi": ""
+    "vi": "lưới điện",
+    "en": ""
   },
   {
     "hanzi": "电线",
     "pinyin": "diànxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "dây điện",
+    "en": ""
   },
   {
     "hanzi": "电信",
     "pinyin": "diànxìn",
-    "en": "",
-    "vi": ""
+    "vi": "viễn thông",
+    "en": ""
   },
   {
     "hanzi": "电讯",
     "pinyin": "diànxùn",
-    "en": "",
-    "vi": ""
+    "vi": "viễn thông",
+    "en": ""
   },
   {
     "hanzi": "垫子",
     "pinyin": "diànzi",
-    "en": "",
-    "vi": ""
+    "vi": "chiếu",
+    "en": ""
   },
   {
     "hanzi": "叼",
     "pinyin": "diāo",
-    "en": "",
-    "vi": ""
+    "vi": "ngậm miệng",
+    "en": ""
   },
   {
     "hanzi": "雕",
     "pinyin": "diāo",
-    "en": "",
-    "vi": ""
+    "vi": "chạm khắc",
+    "en": ""
   },
   {
     "hanzi": "雕刻",
     "pinyin": "diāokè",
-    "en": "",
-    "vi": ""
+    "vi": "khắc",
+    "en": ""
   },
   {
     "hanzi": "刁难",
     "pinyin": "diāonàn",
-    "en": "",
-    "vi": ""
+    "vi": "Làm mọi việc trở nên khó khăn",
+    "en": ""
   },
   {
     "hanzi": "雕塑",
     "pinyin": "diāosù",
-    "en": "",
-    "vi": ""
+    "vi": "điêu khắc",
+    "en": ""
   },
   {
     "hanzi": "雕像",
     "pinyin": "diāoxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "bức tượng",
+    "en": ""
   },
   {
     "hanzi": "凋谢",
     "pinyin": "diāoxiè",
-    "en": "",
-    "vi": ""
+    "vi": "Héo",
+    "en": ""
   },
   {
     "hanzi": "调2",
     "pinyin": "diào",
-    "en": "",
-    "vi": ""
+    "vi": "Giai điệu 2",
+    "en": ""
   },
   {
     "hanzi": "调度",
     "pinyin": "diàodù",
-    "en": "",
-    "vi": ""
+    "vi": "Lên lịch",
+    "en": ""
   },
   {
     "hanzi": "掉队",
     "pinyin": "diàoduì",
-    "en": "",
-    "vi": ""
+    "vi": "tụt lại phía sau",
+    "en": ""
   },
   {
     "hanzi": "掉头",
     "pinyin": "diàotóu",
-    "en": "",
-    "vi": ""
+    "vi": "quay lại",
+    "en": ""
   },
   {
     "hanzi": "吊销",
     "pinyin": "diàoxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "thu hồi",
+    "en": ""
   },
   {
     "hanzi": "爹",
     "pinyin": "diē",
-    "en": "",
-    "vi": ""
+    "vi": "bố",
+    "en": ""
   },
   {
     "hanzi": "跌幅",
     "pinyin": "diēfú",
-    "en": "",
-    "vi": ""
+    "vi": "Sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "叠",
     "pinyin": "dié",
-    "en": "",
-    "vi": ""
+    "vi": "chồng",
+    "en": ""
   },
   {
     "hanzi": "碟",
     "pinyin": "dié",
-    "en": "",
-    "vi": ""
+    "vi": "món ăn",
+    "en": ""
   },
   {
     "hanzi": "迭起",
     "pinyin": "diéqǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hết lần này đến lần khác",
+    "en": ""
   },
   {
     "hanzi": "丁",
     "pinyin": "dīng",
-    "en": "",
-    "vi": ""
+    "vi": "Người đàn ông",
+    "en": ""
   },
   {
     "hanzi": "盯",
     "pinyin": "dīng",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn chằm chằm",
+    "en": ""
   },
   {
     "hanzi": "叮嘱",
     "pinyin": "dīngzhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "khuyên răn",
+    "en": ""
   },
   {
     "hanzi": "钉子",
     "pinyin": "dīngzi",
-    "en": "",
-    "vi": ""
+    "vi": "móng tay",
+    "en": ""
   },
   {
     "hanzi": "顶多",
     "pinyin": "dǐngduō",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều nhất",
+    "en": ""
   },
   {
     "hanzi": "顶级",
     "pinyin": "dǐngjí",
-    "en": "",
-    "vi": ""
+    "vi": "Đứng đầu",
+    "en": ""
   },
   {
     "hanzi": "顶尖",
     "pinyin": "dǐngjiān",
-    "en": "",
-    "vi": ""
+    "vi": "đỉnh cao",
+    "en": ""
   },
   {
     "hanzi": "钉",
     "pinyin": "dìng",
-    "en": "",
-    "vi": ""
+    "vi": "móng tay",
+    "en": ""
   },
   {
     "hanzi": "订购",
     "pinyin": "dìnggòu",
-    "en": "",
-    "vi": ""
+    "vi": "đặt hàng",
+    "en": ""
   },
   {
     "hanzi": "定金",
     "pinyin": "dìngjīn",
-    "en": "",
-    "vi": ""
+    "vi": "tiền gửi",
+    "en": ""
   },
   {
     "hanzi": "定居",
     "pinyin": "dìngjū",
-    "en": "",
-    "vi": ""
+    "vi": "ổn định",
+    "en": ""
   },
   {
     "hanzi": "订立",
     "pinyin": "dìnglì",
-    "en": "",
-    "vi": ""
+    "vi": "đi vào",
+    "en": ""
   },
   {
     "hanzi": "定律",
     "pinyin": "dìnglǜ",
-    "en": "",
-    "vi": ""
+    "vi": "pháp luật",
+    "en": ""
   },
   {
     "hanzi": "定论",
     "pinyin": "dìnglùn",
-    "en": "",
-    "vi": ""
+    "vi": "Phần kết luận",
+    "en": ""
   },
   {
     "hanzi": "定向",
     "pinyin": "dìngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Định hướng",
+    "en": ""
   },
   {
     "hanzi": "定心丸",
     "pinyin": "dìngxīnwán",
-    "en": "",
-    "vi": ""
+    "vi": "sự trấn an",
+    "en": ""
   },
   {
     "hanzi": "订阅",
     "pinyin": "dìngyuè",
-    "en": "",
-    "vi": ""
+    "vi": "đăng ký",
+    "en": ""
   },
   {
     "hanzi": "定做",
     "pinyin": "dìngzuò",
-    "en": "",
-    "vi": ""
+    "vi": "tùy chỉnh",
+    "en": ""
   },
   {
     "hanzi": "丢脸",
     "pinyin": "diūliǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đáng xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "丢弃",
     "pinyin": "diūqì",
-    "en": "",
-    "vi": ""
+    "vi": "vứt đi",
+    "en": ""
   },
   {
     "hanzi": "丢人",
     "pinyin": "diūrén",
-    "en": "",
-    "vi": ""
+    "vi": "đáng xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "丢三落四",
     "pinyin": "diūsān-làsì",
-    "en": "",
-    "vi": ""
+    "vi": "Hay quên",
+    "en": ""
   },
   {
     "hanzi": "东奔西走",
     "pinyin": "dōngbēn-xīzǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Chạy xung quanh",
+    "en": ""
   },
   {
     "hanzi": "东道主",
     "pinyin": "dōngdàozhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "chủ nhà",
+    "en": ""
   },
   {
     "hanzi": "东张西望",
     "pinyin": "dōngzhāng-xīwàng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhìn xung quanh",
+    "en": ""
   },
   {
     "hanzi": "董事",
     "pinyin": "dǒngshì",
-    "en": "",
-    "vi": ""
+    "vi": "giám đốc",
+    "en": ""
   },
   {
     "hanzi": "懂事",
     "pinyin": "dǒngshì",
-    "en": "",
-    "vi": ""
+    "vi": "hợp lý",
+    "en": ""
   },
   {
     "hanzi": "董事会",
     "pinyin": "dǒngshìhuì",
-    "en": "",
-    "vi": ""
+    "vi": "Ban Giám đốc",
+    "en": ""
   },
   {
     "hanzi": "董事长",
     "pinyin": "dǒngshìzhǎng",
-    "en": "",
-    "vi": ""
+    "vi": "chủ tịch",
+    "en": ""
   },
   {
     "hanzi": "动不动",
     "pinyin": "dòngbudòng",
-    "en": "",
-    "vi": ""
+    "vi": "ở mỗi lượt",
+    "en": ""
   },
   {
     "hanzi": "动荡",
     "pinyin": "dòngdàng",
-    "en": "",
-    "vi": ""
+    "vi": "sự hỗn loạn",
+    "en": ""
   },
   {
     "hanzi": "动感",
     "pinyin": "dònggǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Năng động",
+    "en": ""
   },
   {
     "hanzi": "动工",
     "pinyin": "dònggōng",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt đầu xây dựng",
+    "en": ""
   },
   {
     "hanzi": "冻结",
     "pinyin": "dòngjié",
-    "en": "",
-    "vi": ""
+    "vi": "đông cứng",
+    "en": ""
   },
   {
     "hanzi": "动静",
     "pinyin": "dòngjing",
-    "en": "",
-    "vi": ""
+    "vi": "sự chuyển động",
+    "en": ""
   },
   {
     "hanzi": "栋梁",
     "pinyin": "dòngliáng",
-    "en": "",
-    "vi": ""
+    "vi": "trụ cột",
+    "en": ""
   },
   {
     "hanzi": "动脉",
     "pinyin": "dòngmài",
-    "en": "",
-    "vi": ""
+    "vi": "động mạch",
+    "en": ""
   },
   {
     "hanzi": "动身",
     "pinyin": "dòngshēn",
-    "en": "",
-    "vi": ""
+    "vi": "rời khỏi",
+    "en": ""
   },
   {
     "hanzi": "动弹",
     "pinyin": "dòngtan",
-    "en": "",
-    "vi": ""
+    "vi": "di chuyển",
+    "en": ""
   },
   {
     "hanzi": "动向",
     "pinyin": "dòngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "xu hướng",
+    "en": ""
   },
   {
     "hanzi": "洞穴",
     "pinyin": "dòngxué",
-    "en": "",
-    "vi": ""
+    "vi": "hang",
+    "en": ""
   },
   {
     "hanzi": "动摇",
     "pinyin": "dòngyáo",
-    "en": "",
-    "vi": ""
+    "vi": "lắc",
+    "en": ""
   },
   {
     "hanzi": "动用",
     "pinyin": "dòngyòng",
-    "en": "",
-    "vi": ""
+    "vi": "sử dụng",
+    "en": ""
   },
   {
     "hanzi": "动员",
     "pinyin": "dòngyuán",
-    "en": "",
-    "vi": ""
+    "vi": "huy động",
+    "en": ""
   },
   {
     "hanzi": "兜",
     "pinyin": "dōu",
-    "en": "",
-    "vi": ""
+    "vi": "túi",
+    "en": ""
   },
   {
     "hanzi": "兜售",
     "pinyin": "dōushòu",
-    "en": "",
-    "vi": ""
+    "vi": "bán rong",
+    "en": ""
   },
   {
     "hanzi": "抖",
     "pinyin": "dǒu",
-    "en": "",
-    "vi": ""
+    "vi": "lắc",
+    "en": ""
   },
   {
     "hanzi": "陡",
     "pinyin": "dǒu",
-    "en": "",
-    "vi": ""
+    "vi": "dốc",
+    "en": ""
   },
   {
     "hanzi": "陡峭",
     "pinyin": "dǒuqiào",
-    "en": "",
-    "vi": ""
+    "vi": "dốc",
+    "en": ""
   },
   {
     "hanzi": "斗",
     "pinyin": "dòu",
-    "en": "",
-    "vi": ""
+    "vi": "trận đánh",
+    "en": ""
   },
   {
     "hanzi": "逗留",
     "pinyin": "dòuliú",
-    "en": "",
-    "vi": ""
+    "vi": "ở lại",
+    "en": ""
   },
   {
     "hanzi": "斗志",
     "pinyin": "dòuzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Tinh thần chiến đấu",
+    "en": ""
   },
   {
     "hanzi": "豆子",
     "pinyin": "dòuzi",
-    "en": "",
-    "vi": ""
+    "vi": "đậu",
+    "en": ""
   },
   {
     "hanzi": "督促",
     "pinyin": "dūcù",
-    "en": "",
-    "vi": ""
+    "vi": "thúc giục",
+    "en": ""
   },
   {
     "hanzi": "都会",
     "pinyin": "dūhuì",
-    "en": "",
-    "vi": ""
+    "vi": "đô thị",
+    "en": ""
   },
   {
     "hanzi": "独",
     "pinyin": "dú",
-    "en": "",
-    "vi": ""
+    "vi": "một mình",
+    "en": ""
   },
   {
     "hanzi": "独家",
     "pinyin": "dújiā",
-    "en": "",
-    "vi": ""
+    "vi": "loại trừ",
+    "en": ""
   },
   {
     "hanzi": "毒品",
     "pinyin": "dúpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "chất độc",
+    "en": ""
   },
   {
     "hanzi": "独身",
     "pinyin": "dúshēn",
-    "en": "",
-    "vi": ""
+    "vi": "đơn",
+    "en": ""
   },
   {
     "hanzi": "读物",
     "pinyin": "dúwù",
-    "en": "",
-    "vi": ""
+    "vi": "Bài đọc",
+    "en": ""
   },
   {
     "hanzi": "独一无二",
     "pinyin": "dúyī-wú’èr",
-    "en": "",
-    "vi": ""
+    "vi": "độc nhất",
+    "en": ""
   },
   {
     "hanzi": "赌",
     "pinyin": "dǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cá cược",
+    "en": ""
   },
   {
     "hanzi": "赌博",
     "pinyin": "dǔbó",
-    "en": "",
-    "vi": ""
+    "vi": "cờ bạc",
+    "en": ""
   },
   {
     "hanzi": "堵塞",
     "pinyin": "dǔsè",
-    "en": "",
-    "vi": ""
+    "vi": "bị tắc",
+    "en": ""
   },
   {
     "hanzi": "杜绝",
     "pinyin": "dùjué",
-    "en": "",
-    "vi": ""
+    "vi": "chấm dứt",
+    "en": ""
   },
   {
     "hanzi": "端正",
     "pinyin": "duānzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Chính xác",
+    "en": ""
   },
   {
     "hanzi": "短暂",
     "pinyin": "duǎnzàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngắn",
+    "en": ""
   },
   {
     "hanzi": "断定",
     "pinyin": "duàndìng",
-    "en": "",
-    "vi": ""
+    "vi": "kết luận",
+    "en": ""
   },
   {
     "hanzi": "断断续续",
     "pinyin": "duànduànxùxù",
-    "en": "",
-    "vi": ""
+    "vi": "tắt và bật",
+    "en": ""
   },
   {
     "hanzi": "断绝",
     "pinyin": "duànjué",
-    "en": "",
-    "vi": ""
+    "vi": "cắt đứt",
+    "en": ""
   },
   {
     "hanzi": "断裂",
     "pinyin": "duànliè",
-    "en": "",
-    "vi": ""
+    "vi": "gãy xương",
+    "en": ""
   },
   {
     "hanzi": "段落",
     "pinyin": "duànluò",
-    "en": "",
-    "vi": ""
+    "vi": "đoạn văn",
+    "en": ""
   },
   {
     "hanzi": "断然",
     "pinyin": "duànrán",
-    "en": "",
-    "vi": ""
+    "vi": "thẳng thừng",
+    "en": ""
   },
   {
     "hanzi": "断章取义",
     "pinyin": "duànzhāng-qǔyì",
-    "en": "",
-    "vi": ""
+    "vi": "Đưa ra khỏi bối cảnh",
+    "en": ""
   },
   {
     "hanzi": "堆积",
     "pinyin": "duījī",
-    "en": "",
-    "vi": ""
+    "vi": "sự tích lũy",
+    "en": ""
   },
   {
     "hanzi": "堆砌",
     "pinyin": "duīqì",
-    "en": "",
-    "vi": ""
+    "vi": "chất đống lên",
+    "en": ""
   },
   {
     "hanzi": "兑",
     "pinyin": "duì",
-    "en": "",
-    "vi": ""
+    "vi": "chuộc lại",
+    "en": ""
   },
   {
     "hanzi": "对岸",
     "pinyin": "duì’àn",
-    "en": "",
-    "vi": ""
+    "vi": "phía bên kia",
+    "en": ""
   },
   {
     "hanzi": "对白",
     "pinyin": "duìbái",
-    "en": "",
-    "vi": ""
+    "vi": "đối thoại",
+    "en": ""
   },
   {
     "hanzi": "对策",
     "pinyin": "duìcè",
-    "en": "",
-    "vi": ""
+    "vi": "Biện pháp đối phó",
+    "en": ""
   },
   {
     "hanzi": "对得起",
     "pinyin": "duìdeqǐ",
-    "en": "",
-    "vi": ""
+    "vi": "xứng đáng",
+    "en": ""
   },
   {
     "hanzi": "对付",
     "pinyin": "duìfu",
-    "en": "",
-    "vi": ""
+    "vi": "đối phó với",
+    "en": ""
   },
   {
     "hanzi": "兑换",
     "pinyin": "duìhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "trao đổi",
+    "en": ""
   },
   {
     "hanzi": "对联",
     "pinyin": "duìlián",
-    "en": "",
-    "vi": ""
+    "vi": "câu đối",
+    "en": ""
   },
   {
     "hanzi": "对流",
     "pinyin": "duìliú",
-    "en": "",
-    "vi": ""
+    "vi": "sự đối lưu",
+    "en": ""
   },
   {
     "hanzi": "对牛弹琴",
     "pinyin": "duìniú-tánqín",
-    "en": "",
-    "vi": ""
+    "vi": "Chơi đàn piano cho bò",
+    "en": ""
   },
   {
     "hanzi": "兑现",
     "pinyin": "duìxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tiền mặt",
+    "en": ""
   },
   {
     "hanzi": "队形",
     "pinyin": "duìxíng",
-    "en": "",
-    "vi": ""
+    "vi": "sự hình thành",
+    "en": ""
   },
   {
     "hanzi": "对弈",
     "pinyin": "duìyì",
-    "en": "",
-    "vi": ""
+    "vi": "Trò chơi cờ vua",
+    "en": ""
   },
   {
     "hanzi": "对照",
     "pinyin": "duìzhào",
-    "en": "",
-    "vi": ""
+    "vi": "điều khiển",
+    "en": ""
   },
   {
     "hanzi": "对症下药",
     "pinyin": "duìzhèng-xiàyào",
-    "en": "",
-    "vi": ""
+    "vi": "Kê đơn thuốc phù hợp",
+    "en": ""
   },
   {
     "hanzi": "对峙",
     "pinyin": "duìzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Đối đầu",
+    "en": ""
   },
   {
     "hanzi": "敦促",
     "pinyin": "dūncù",
-    "en": "",
-    "vi": ""
+    "vi": "thúc giục",
+    "en": ""
   },
   {
     "hanzi": "敦厚",
     "pinyin": "dūnhòu",
-    "en": "",
-    "vi": ""
+    "vi": "trung thực",
+    "en": ""
   },
   {
     "hanzi": "炖",
     "pinyin": "dùn",
-    "en": "",
-    "vi": ""
+    "vi": "món hầm",
+    "en": ""
   },
   {
     "hanzi": "多年来",
     "pinyin": "duō nián lái",
-    "en": "",
-    "vi": ""
+    "vi": "qua nhiều năm",
+    "en": ""
   },
   {
     "hanzi": "多半",
     "pinyin": "duōbàn",
-    "en": "",
-    "vi": ""
+    "vi": "hầu hết",
+    "en": ""
   },
   {
     "hanzi": "多边",
     "pinyin": "duōbiān",
-    "en": "",
-    "vi": ""
+    "vi": "đa phương",
+    "en": ""
   },
   {
     "hanzi": "哆嗦",
     "pinyin": "duōsuo",
-    "en": "",
-    "vi": ""
+    "vi": "Run rẩy",
+    "en": ""
   },
   {
     "hanzi": "多心",
     "pinyin": "duōxīn",
-    "en": "",
-    "vi": ""
+    "vi": "khả nghi",
+    "en": ""
   },
   {
     "hanzi": "夺冠",
     "pinyin": "duóguàn",
-    "en": "",
-    "vi": ""
+    "vi": "giành chức vô địch",
+    "en": ""
   },
   {
     "hanzi": "夺魁",
     "pinyin": "duókuí",
-    "en": "",
-    "vi": ""
+    "vi": "Giành được giải nhất",
+    "en": ""
   },
   {
     "hanzi": "堕落",
     "pinyin": "duòluò",
-    "en": "",
-    "vi": ""
+    "vi": "Rơi",
+    "en": ""
   },
   {
     "hanzi": "鹅",
     "pinyin": "é",
-    "en": "",
-    "vi": ""
+    "vi": "Ngỗng",
+    "en": ""
   },
   {
     "hanzi": "额度",
     "pinyin": "édù",
-    "en": "",
-    "vi": ""
+    "vi": "hạn ngạch",
+    "en": ""
   },
   {
     "hanzi": "额外",
     "pinyin": "éwài",
-    "en": "",
-    "vi": ""
+    "vi": "thêm vào",
+    "en": ""
   },
   {
     "hanzi": "讹诈",
     "pinyin": "ézhà",
-    "en": "",
-    "vi": ""
+    "vi": "tống tiền",
+    "en": ""
   },
   {
     "hanzi": "恶",
     "pinyin": "è",
-    "en": "",
-    "vi": ""
+    "vi": "độc ác",
+    "en": ""
   },
   {
     "hanzi": "噩耗",
     "pinyin": "èhào",
-    "en": "",
-    "vi": ""
+    "vi": "Tin xấu",
+    "en": ""
   },
   {
     "hanzi": "恶化",
     "pinyin": "èhuà",
-    "en": "",
-    "vi": ""
+    "vi": "sự xuống cấp",
+    "en": ""
   },
   {
     "hanzi": "恶性",
     "pinyin": "èxìng",
-    "en": "",
-    "vi": ""
+    "vi": "ác tính",
+    "en": ""
   },
   {
     "hanzi": "恶意",
     "pinyin": "èyì",
-    "en": "",
-    "vi": ""
+    "vi": "độc hại",
+    "en": ""
   },
   {
     "hanzi": "鳄鱼",
     "pinyin": "èyú",
-    "en": "",
-    "vi": ""
+    "vi": "cá sấu",
+    "en": ""
   },
   {
     "hanzi": "厄运",
     "pinyin": "èyùn",
-    "en": "",
-    "vi": ""
+    "vi": "sự diệt vong",
+    "en": ""
   },
   {
     "hanzi": "遏制",
     "pinyin": "èzhì",
-    "en": "",
-    "vi": ""
+    "vi": "bao gồm",
+    "en": ""
   },
   {
     "hanzi": "恶作剧",
     "pinyin": "èzuòjù",
-    "en": "",
-    "vi": ""
+    "vi": "sự tinh quái",
+    "en": ""
   },
   {
     "hanzi": "恩爱",
     "pinyin": "ēn’ài",
-    "en": "",
-    "vi": ""
+    "vi": "sự yêu mến",
+    "en": ""
   },
   {
     "hanzi": "恩情",
     "pinyin": "ēnqíng",
-    "en": "",
-    "vi": ""
+    "vi": "lòng tốt",
+    "en": ""
   },
   {
     "hanzi": "恩人",
     "pinyin": "ēnrén",
-    "en": "",
-    "vi": ""
+    "vi": "ân nhân",
+    "en": ""
   },
   {
     "hanzi": "恩怨",
     "pinyin": "ēnyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "oán giận",
+    "en": ""
   },
   {
     "hanzi": "而已",
     "pinyin": "éryǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Thế thôi",
+    "en": ""
   },
   {
     "hanzi": "耳光",
     "pinyin": "ěrguāng",
-    "en": "",
-    "vi": ""
+    "vi": "cái tát",
+    "en": ""
   },
   {
     "hanzi": "耳目一新",
     "pinyin": "ěrmù-yìxīn",
-    "en": "",
-    "vi": ""
+    "vi": "sảng khoái",
+    "en": ""
   },
   {
     "hanzi": "耳熟能详",
     "pinyin": "ěrshú-néngxiáng",
-    "en": "",
-    "vi": ""
+    "vi": "thân thuộc",
+    "en": ""
   },
   {
     "hanzi": "发财",
     "pinyin": "fācái",
-    "en": "",
-    "vi": ""
+    "vi": "làm giàu",
+    "en": ""
   },
   {
     "hanzi": "发呆",
     "pinyin": "fādāi",
-    "en": "",
-    "vi": ""
+    "vi": "choáng váng",
+    "en": ""
   },
   {
     "hanzi": "发抖",
     "pinyin": "fādǒu",
-    "en": "",
-    "vi": ""
+    "vi": "run rẩy",
+    "en": ""
   },
   {
     "hanzi": "发火",
     "pinyin": "fāhuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "tức giận",
+    "en": ""
   },
   {
     "hanzi": "发酵",
     "pinyin": "fājiào",
-    "en": "",
-    "vi": ""
+    "vi": "quá trình lên men",
+    "en": ""
   },
   {
     "hanzi": "发觉",
     "pinyin": "fājué",
-    "en": "",
-    "vi": ""
+    "vi": "tìm thấy",
+    "en": ""
   },
   {
     "hanzi": "发掘",
     "pinyin": "fājué",
-    "en": "",
-    "vi": ""
+    "vi": "Khai quật",
+    "en": ""
   },
   {
     "hanzi": "发愣",
     "pinyin": "fālèng",
-    "en": "",
-    "vi": ""
+    "vi": "trong sự bàng hoàng",
+    "en": ""
   },
   {
     "hanzi": "发怒",
     "pinyin": "fānù",
-    "en": "",
-    "vi": ""
+    "vi": "tức giận",
+    "en": ""
   },
   {
     "hanzi": "发热",
     "pinyin": "fārè",
-    "en": "",
-    "vi": ""
+    "vi": "sốt",
+    "en": ""
   },
   {
     "hanzi": "发射",
     "pinyin": "fāshè",
-    "en": "",
-    "vi": ""
+    "vi": "khí thải",
+    "en": ""
   },
   {
     "hanzi": "发誓",
     "pinyin": "fāshì",
-    "en": "",
-    "vi": ""
+    "vi": "thề",
+    "en": ""
   },
   {
     "hanzi": "发泄",
     "pinyin": "fāxiè",
-    "en": "",
-    "vi": ""
+    "vi": "trút giận",
+    "en": ""
   },
   {
     "hanzi": "发芽",
     "pinyin": "fāyá",
-    "en": "",
-    "vi": ""
+    "vi": "sự nảy mầm",
+    "en": ""
   },
   {
     "hanzi": "发扬",
     "pinyin": "fāyáng",
-    "en": "",
-    "vi": ""
+    "vi": "tiến về phía trước",
+    "en": ""
   },
   {
     "hanzi": "发扬光大",
     "pinyin": "fāyáng-guāngdà",
-    "en": "",
-    "vi": ""
+    "vi": "tiến về phía trước",
+    "en": ""
   },
   {
     "hanzi": "发言人",
     "pinyin": "fāyánrén",
-    "en": "",
-    "vi": ""
+    "vi": "người phát ngôn",
+    "en": ""
   },
   {
     "hanzi": "发源",
     "pinyin": "fāyuán",
-    "en": "",
-    "vi": ""
+    "vi": "Nguồn gốc",
+    "en": ""
   },
   {
     "hanzi": "发源地",
     "pinyin": "fāyuándì",
-    "en": "",
-    "vi": ""
+    "vi": "nơi sinh",
+    "en": ""
   },
   {
     "hanzi": "发作",
     "pinyin": "fāzuò",
-    "en": "",
-    "vi": ""
+    "vi": "tấn công",
+    "en": ""
   },
   {
     "hanzi": "乏力",
     "pinyin": "fálì",
-    "en": "",
-    "vi": ""
+    "vi": "Điểm yếu",
+    "en": ""
   },
   {
     "hanzi": "阀门",
     "pinyin": "fámén",
-    "en": "",
-    "vi": ""
+    "vi": "van",
+    "en": ""
   },
   {
     "hanzi": "法人",
     "pinyin": "fǎrén",
-    "en": "",
-    "vi": ""
+    "vi": "pháp nhân",
+    "en": ""
   },
   {
     "hanzi": "法庭",
     "pinyin": "fǎtíng",
-    "en": "",
-    "vi": ""
+    "vi": "tòa án",
+    "en": ""
   },
   {
     "hanzi": "法则",
     "pinyin": "fǎzé",
-    "en": "",
-    "vi": ""
+    "vi": "pháp luật",
+    "en": ""
   },
   {
     "hanzi": "法制",
     "pinyin": "fǎzhì",
-    "en": "",
-    "vi": ""
+    "vi": "hệ thống pháp luật",
+    "en": ""
   },
   {
     "hanzi": "法治",
     "pinyin": "fǎzhì",
-    "en": "",
-    "vi": ""
+    "vi": "pháp quyền",
+    "en": ""
   },
   {
     "hanzi": "发型",
     "pinyin": "fàxíng",
-    "en": "",
-    "vi": ""
+    "vi": "kiểu tóc",
+    "en": ""
   },
   {
     "hanzi": "帆",
     "pinyin": "fān",
-    "en": "",
-    "vi": ""
+    "vi": "chèo",
+    "en": ""
   },
   {
     "hanzi": "帆船",
     "pinyin": "fānchuán",
-    "en": "",
-    "vi": ""
+    "vi": "thuyền buồm",
+    "en": ""
   },
   {
     "hanzi": "翻番",
     "pinyin": "fānfān",
-    "en": "",
-    "vi": ""
+    "vi": "Gấp đôi",
+    "en": ""
   },
   {
     "hanzi": "翻来覆去",
     "pinyin": "fānlái-fùqù",
-    "en": "",
-    "vi": ""
+    "vi": "Tung và xoay",
+    "en": ""
   },
   {
     "hanzi": "翻身",
     "pinyin": "fānshēn",
-    "en": "",
-    "vi": ""
+    "vi": "Lật lại",
+    "en": ""
   },
   {
     "hanzi": "翻天覆地",
     "pinyin": "fāntiān-fùdì",
-    "en": "",
-    "vi": ""
+    "vi": "rung chuyển trái đất",
+    "en": ""
   },
   {
     "hanzi": "翻新",
     "pinyin": "fānxīn",
-    "en": "",
-    "vi": ""
+    "vi": "cải tạo",
+    "en": ""
   },
   {
     "hanzi": "繁多",
     "pinyin": "fánduō",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều",
+    "en": ""
   },
   {
     "hanzi": "繁华",
     "pinyin": "fánhuá",
-    "en": "",
-    "vi": ""
+    "vi": "nhộn nhịp",
+    "en": ""
   },
   {
     "hanzi": "烦闷",
     "pinyin": "fánmèn",
-    "en": "",
-    "vi": ""
+    "vi": "chán",
+    "en": ""
   },
   {
     "hanzi": "繁体字",
     "pinyin": "fántǐzì",
-    "en": "",
-    "vi": ""
+    "vi": "Ký tự truyền thống Trung Quốc",
+    "en": ""
   },
   {
     "hanzi": "繁衍",
     "pinyin": "fányǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tái tạo",
+    "en": ""
   },
   {
     "hanzi": "繁杂",
     "pinyin": "fánzá",
-    "en": "",
-    "vi": ""
+    "vi": "phức tap",
+    "en": ""
   },
   {
     "hanzi": "烦躁",
     "pinyin": "fánzào",
-    "en": "",
-    "vi": ""
+    "vi": "cáu kỉnh",
+    "en": ""
   },
   {
     "hanzi": "繁重",
     "pinyin": "fánzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "khó khăn",
+    "en": ""
   },
   {
     "hanzi": "反驳",
     "pinyin": "fǎnbó",
-    "en": "",
-    "vi": ""
+    "vi": "bác bỏ",
+    "en": ""
   },
   {
     "hanzi": "反差",
     "pinyin": "fǎnchā",
-    "en": "",
-    "vi": ""
+    "vi": "Sự tương phản",
+    "en": ""
   },
   {
     "hanzi": "反常",
     "pinyin": "fǎncháng",
-    "en": "",
-    "vi": ""
+    "vi": "Bất thường",
+    "en": ""
   },
   {
     "hanzi": "反倒",
     "pinyin": "fǎndào",
-    "en": "",
-    "vi": ""
+    "vi": "Ngược lại",
+    "en": ""
   },
   {
     "hanzi": "反感",
     "pinyin": "fǎngǎn",
-    "en": "",
-    "vi": ""
+    "vi": "ghê tởm",
+    "en": ""
   },
   {
     "hanzi": "返还",
     "pinyin": "fǎnhuán",
-    "en": "",
-    "vi": ""
+    "vi": "trở lại",
+    "en": ""
   },
   {
     "hanzi": "反击",
     "pinyin": "fǎnjī",
-    "en": "",
-    "vi": ""
+    "vi": "phản công",
+    "en": ""
   },
   {
     "hanzi": "反抗",
     "pinyin": "fǎnkàng",
-    "en": "",
-    "vi": ""
+    "vi": "kháng cự",
+    "en": ""
   },
   {
     "hanzi": "反面",
     "pinyin": "fǎnmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "mặt trái",
+    "en": ""
   },
   {
     "hanzi": "反射",
     "pinyin": "fǎnshè",
-    "en": "",
-    "vi": ""
+    "vi": "sự phản xạ",
+    "en": ""
   },
   {
     "hanzi": "反弹",
     "pinyin": "fǎntán",
-    "en": "",
-    "vi": ""
+    "vi": "bật lại",
+    "en": ""
   },
   {
     "hanzi": "反问",
     "pinyin": "fǎnwèn",
-    "en": "",
-    "vi": ""
+    "vi": "câu hỏi tu từ",
+    "en": ""
   },
   {
     "hanzi": "反响",
     "pinyin": "fǎnxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "hậu quả",
+    "en": ""
   },
   {
     "hanzi": "反省",
     "pinyin": "fǎnxǐng",
-    "en": "",
-    "vi": ""
+    "vi": "Phản ánh",
+    "en": ""
   },
   {
     "hanzi": "反之",
     "pinyin": "fǎnzhī",
-    "en": "",
-    "vi": ""
+    "vi": "ngược lại",
+    "en": ""
   },
   {
     "hanzi": "犯愁",
     "pinyin": "fànchóu",
-    "en": "",
-    "vi": ""
+    "vi": "lo lắng",
+    "en": ""
   },
   {
     "hanzi": "范畴",
     "pinyin": "fànchóu",
-    "en": "",
-    "vi": ""
+    "vi": "loại",
+    "en": ""
   },
   {
     "hanzi": "犯规",
     "pinyin": "fànguī",
-    "en": "",
-    "vi": ""
+    "vi": "hôi",
+    "en": ""
   },
   {
     "hanzi": "泛滥",
     "pinyin": "fànlàn",
-    "en": "",
-    "vi": ""
+    "vi": "lụt",
+    "en": ""
   },
   {
     "hanzi": "贩卖",
     "pinyin": "fànmài",
-    "en": "",
-    "vi": ""
+    "vi": "bán",
+    "en": ""
   },
   {
     "hanzi": "饭碗",
     "pinyin": "fànwǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bát cơm",
+    "en": ""
   },
   {
     "hanzi": "犯罪",
     "pinyin": "fànzuì",
-    "en": "",
-    "vi": ""
+    "vi": "tội phạm",
+    "en": ""
   },
   {
     "hanzi": "方向盘",
     "pinyin": "fāngxiàngpán",
-    "en": "",
-    "vi": ""
+    "vi": "vô lăng",
+    "en": ""
   },
   {
     "hanzi": "方圆",
     "pinyin": "fāngyuán",
-    "en": "",
-    "vi": ""
+    "vi": "bán kính",
+    "en": ""
   },
   {
     "hanzi": "方针",
     "pinyin": "fāngzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "chính sách",
+    "en": ""
   },
   {
     "hanzi": "防盗",
     "pinyin": "fángdào",
-    "en": "",
-    "vi": ""
+    "vi": "Chống trộm",
+    "en": ""
   },
   {
     "hanzi": "房地产",
     "pinyin": "fángdìchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bất động sản",
+    "en": ""
   },
   {
     "hanzi": "防范",
     "pinyin": "fángfàn",
-    "en": "",
-    "vi": ""
+    "vi": "đề phòng",
+    "en": ""
   },
   {
     "hanzi": "防护",
     "pinyin": "fánghù",
-    "en": "",
-    "vi": ""
+    "vi": "sự bảo vệ",
+    "en": ""
   },
   {
     "hanzi": "防火墙",
     "pinyin": "fánghuǒqiáng",
-    "en": "",
-    "vi": ""
+    "vi": "tường lửa",
+    "en": ""
   },
   {
     "hanzi": "防守",
     "pinyin": "fángshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "phòng thủ",
+    "en": ""
   },
   {
     "hanzi": "防卫",
     "pinyin": "fángwèi",
-    "en": "",
-    "vi": ""
+    "vi": "phòng thủ",
+    "en": ""
   },
   {
     "hanzi": "防汛",
     "pinyin": "fángxùn",
-    "en": "",
-    "vi": ""
+    "vi": "Phòng chống lũ lụt",
+    "en": ""
   },
   {
     "hanzi": "防疫",
     "pinyin": "fángyì",
-    "en": "",
-    "vi": ""
+    "vi": "phòng ngừa dịch bệnh",
+    "en": ""
   },
   {
     "hanzi": "防御",
     "pinyin": "fángyù",
-    "en": "",
-    "vi": ""
+    "vi": "phòng thủ",
+    "en": ""
   },
   {
     "hanzi": "仿",
     "pinyin": "fǎng",
-    "en": "",
-    "vi": ""
+    "vi": "bắt chước",
+    "en": ""
   },
   {
     "hanzi": "仿真",
     "pinyin": "fǎngzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "mô phỏng",
+    "en": ""
   },
   {
     "hanzi": "仿制",
     "pinyin": "fǎngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "bắt chước",
+    "en": ""
   },
   {
     "hanzi": "纺织",
     "pinyin": "fǎngzhī",
-    "en": "",
-    "vi": ""
+    "vi": "dệt may",
+    "en": ""
   },
   {
     "hanzi": "放过",
     "pinyin": "fàngguò",
-    "en": "",
-    "vi": ""
+    "vi": "buông ra",
+    "en": ""
   },
   {
     "hanzi": "放宽",
     "pinyin": "fàngkuān",
-    "en": "",
-    "vi": ""
+    "vi": "thư giãn",
+    "en": ""
   },
   {
     "hanzi": "放射",
     "pinyin": "fàngshè",
-    "en": "",
-    "vi": ""
+    "vi": "bức xạ",
+    "en": ""
   },
   {
     "hanzi": "放水",
     "pinyin": "fàngshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Xả nước",
+    "en": ""
   },
   {
     "hanzi": "放肆",
     "pinyin": "fàngsì",
-    "en": "",
-    "vi": ""
+    "vi": "tự phụ",
+    "en": ""
   },
   {
     "hanzi": "放映",
     "pinyin": "fàngyìng",
-    "en": "",
-    "vi": ""
+    "vi": "trình diễn",
+    "en": ""
   },
   {
     "hanzi": "放置",
     "pinyin": "fàngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "địa điểm",
+    "en": ""
   },
   {
     "hanzi": "放纵",
     "pinyin": "fàngzòng",
-    "en": "",
-    "vi": ""
+    "vi": "sự nuông chiều",
+    "en": ""
   },
   {
     "hanzi": "非",
     "pinyin": "fēi",
-    "en": "",
-    "vi": ""
+    "vi": "KHÔNG",
+    "en": ""
   },
   {
     "hanzi": "飞船",
     "pinyin": "fēichuán",
-    "en": "",
-    "vi": ""
+    "vi": "tàu vũ trụ",
+    "en": ""
   },
   {
     "hanzi": "非但",
     "pinyin": "fēidàn",
-    "en": "",
-    "vi": ""
+    "vi": "Không chỉ",
+    "en": ""
   },
   {
     "hanzi": "非得",
     "pinyin": "fēiděi",
-    "en": "",
-    "vi": ""
+    "vi": "Phải",
+    "en": ""
   },
   {
     "hanzi": "飞碟",
     "pinyin": "fēidié",
-    "en": "",
-    "vi": ""
+    "vi": "UFO",
+    "en": ""
   },
   {
     "hanzi": "非法",
     "pinyin": "fēifǎ",
-    "en": "",
-    "vi": ""
+    "vi": "bất hợp pháp",
+    "en": ""
   },
   {
     "hanzi": "非凡",
     "pinyin": "fēifán",
-    "en": "",
-    "vi": ""
+    "vi": "đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "飞禽走兽",
     "pinyin": "fēiqín-zǒushòu",
-    "en": "",
-    "vi": ""
+    "vi": "chim và thú",
+    "en": ""
   },
   {
     "hanzi": "绯闻",
     "pinyin": "fēiwén",
-    "en": "",
-    "vi": ""
+    "vi": "Vụ bê bối",
+    "en": ""
   },
   {
     "hanzi": "飞翔",
     "pinyin": "fēixiáng",
-    "en": "",
-    "vi": ""
+    "vi": "bay",
+    "en": ""
   },
   {
     "hanzi": "飞跃",
     "pinyin": "fēiyuè",
-    "en": "",
-    "vi": ""
+    "vi": "bước nhảy vọt",
+    "en": ""
   },
   {
     "hanzi": "肥料",
     "pinyin": "féiliào",
-    "en": "",
-    "vi": ""
+    "vi": "phân bón",
+    "en": ""
   },
   {
     "hanzi": "肥皂",
     "pinyin": "féizào",
-    "en": "",
-    "vi": ""
+    "vi": "xà phòng",
+    "en": ""
   },
   {
     "hanzi": "诽谤",
     "pinyin": "fěibàng",
-    "en": "",
-    "vi": ""
+    "vi": "sự phỉ báng",
+    "en": ""
   },
   {
     "hanzi": "废",
     "pinyin": "fèi",
-    "en": "",
-    "vi": ""
+    "vi": "rác thải",
+    "en": ""
   },
   {
     "hanzi": "废除",
     "pinyin": "fèichú",
-    "en": "",
-    "vi": ""
+    "vi": "bãi bỏ",
+    "en": ""
   },
   {
     "hanzi": "沸沸扬扬",
     "pinyin": "fèifèiyángyáng",
-    "en": "",
-    "vi": ""
+    "vi": "sự náo động",
+    "en": ""
   },
   {
     "hanzi": "废话",
     "pinyin": "fèihuà",
-    "en": "",
-    "vi": ""
+    "vi": "điều vô nghĩa",
+    "en": ""
   },
   {
     "hanzi": "费劲",
     "pinyin": "fèijìn",
-    "en": "",
-    "vi": ""
+    "vi": "vất vả",
+    "en": ""
   },
   {
     "hanzi": "费力",
     "pinyin": "fèilì",
-    "en": "",
-    "vi": ""
+    "vi": "siêng năng",
+    "en": ""
   },
   {
     "hanzi": "废品",
     "pinyin": "fèipǐn",
-    "en": "",
-    "vi": ""
+    "vi": "phế liệu",
+    "en": ""
   },
   {
     "hanzi": "废弃",
     "pinyin": "fèiqì",
-    "en": "",
-    "vi": ""
+    "vi": "bị bỏ rơi",
+    "en": ""
   },
   {
     "hanzi": "废寝忘食",
     "pinyin": "fèiqǐn-wàngshí",
-    "en": "",
-    "vi": ""
+    "vi": "đêm mất ngủ",
+    "en": ""
   },
   {
     "hanzi": "沸腾",
     "pinyin": "fèiténg",
-    "en": "",
-    "vi": ""
+    "vi": "sôi",
+    "en": ""
   },
   {
     "hanzi": "废物",
     "pinyin": "fèiwù",
-    "en": "",
-    "vi": ""
+    "vi": "rác thải",
+    "en": ""
   },
   {
     "hanzi": "废墟",
     "pinyin": "fèixū",
-    "en": "",
-    "vi": ""
+    "vi": "tàn tích",
+    "en": ""
   },
   {
     "hanzi": "分辨",
     "pinyin": "fēnbiàn",
-    "en": "",
-    "vi": ""
+    "vi": "phân biệt",
+    "en": ""
   },
   {
     "hanzi": "分成",
     "pinyin": "fēnchéng",
-    "en": "",
-    "vi": ""
+    "vi": "chia thành",
+    "en": ""
   },
   {
     "hanzi": "分寸",
     "pinyin": "fēncun",
-    "en": "",
-    "vi": ""
+    "vi": "Cân đối",
+    "en": ""
   },
   {
     "hanzi": "分担",
     "pinyin": "fēndān",
-    "en": "",
-    "vi": ""
+    "vi": "Chia sẻ",
+    "en": ""
   },
   {
     "hanzi": "分发",
     "pinyin": "fēnfā",
-    "en": "",
-    "vi": ""
+    "vi": "phân bổ",
+    "en": ""
   },
   {
     "hanzi": "芬芳",
     "pinyin": "fēnfāng",
-    "en": "",
-    "vi": ""
+    "vi": "hương thơm",
+    "en": ""
   },
   {
     "hanzi": "吩咐",
     "pinyin": "fēnfù",
-    "en": "",
-    "vi": ""
+    "vi": "yêu cầu",
+    "en": ""
   },
   {
     "hanzi": "分割",
     "pinyin": "fēngē",
-    "en": "",
-    "vi": ""
+    "vi": "sự phân chia",
+    "en": ""
   },
   {
     "hanzi": "分红",
     "pinyin": "fēnhóng",
-    "en": "",
-    "vi": ""
+    "vi": "cổ tức",
+    "en": ""
   },
   {
     "hanzi": "分化",
     "pinyin": "fēnhuà",
-    "en": "",
-    "vi": ""
+    "vi": "sự khác biệt",
+    "en": ""
   },
   {
     "hanzi": "分解",
     "pinyin": "fēnjiě",
-    "en": "",
-    "vi": ""
+    "vi": "phá vỡ",
+    "en": ""
   },
   {
     "hanzi": "分裂",
     "pinyin": "fēnliè",
-    "en": "",
-    "vi": ""
+    "vi": "Tách ra",
+    "en": ""
   },
   {
     "hanzi": "分泌",
     "pinyin": "fēnmì",
-    "en": "",
-    "vi": ""
+    "vi": "bài tiết",
+    "en": ""
   },
   {
     "hanzi": "分明",
     "pinyin": "fēnmíng",
-    "en": "",
-    "vi": ""
+    "vi": "riêng biệt",
+    "en": ""
   },
   {
     "hanzi": "分歧",
     "pinyin": "fēnqí",
-    "en": "",
-    "vi": ""
+    "vi": "bất đồng",
+    "en": ""
   },
   {
     "hanzi": "分支",
     "pinyin": "fēnzhī",
-    "en": "",
-    "vi": ""
+    "vi": "chi nhánh",
+    "en": ""
   },
   {
     "hanzi": "坟",
     "pinyin": "fén",
-    "en": "",
-    "vi": ""
+    "vi": "phần mộ",
+    "en": ""
   },
   {
     "hanzi": "坟墓",
     "pinyin": "fénmù",
-    "en": "",
-    "vi": ""
+    "vi": "phần mộ",
+    "en": ""
   },
   {
     "hanzi": "焚烧",
     "pinyin": "fénshāo",
-    "en": "",
-    "vi": ""
+    "vi": "đốt cháy",
+    "en": ""
   },
   {
     "hanzi": "粉末",
     "pinyin": "fěnmò",
-    "en": "",
-    "vi": ""
+    "vi": "bột",
+    "en": ""
   },
   {
     "hanzi": "粉丝1",
     "pinyin": "fěnsī",
-    "en": "",
-    "vi": ""
+    "vi": "Quạt 1",
+    "en": ""
   },
   {
     "hanzi": "粉丝2",
     "pinyin": "fěnsī",
-    "en": "",
-    "vi": ""
+    "vi": "Người hâm mộ 2",
+    "en": ""
   },
   {
     "hanzi": "粉碎",
     "pinyin": "fěnsuì",
-    "en": "",
-    "vi": ""
+    "vi": "đập vỡ",
+    "en": ""
   },
   {
     "hanzi": "粪",
     "pinyin": "fèn",
-    "en": "",
-    "vi": ""
+    "vi": "phân bón",
+    "en": ""
   },
   {
     "hanzi": "粪便",
     "pinyin": "fènbiàn",
-    "en": "",
-    "vi": ""
+    "vi": "ghế đẩu",
+    "en": ""
   },
   {
     "hanzi": "份额",
     "pinyin": "fèn’é",
-    "en": "",
-    "vi": ""
+    "vi": "Chia sẻ",
+    "en": ""
   },
   {
     "hanzi": "奋力",
     "pinyin": "fènlì",
-    "en": "",
-    "vi": ""
+    "vi": "cố gắng hết sức",
+    "en": ""
   },
   {
     "hanzi": "分量",
     "pinyin": "fènliàng",
-    "en": "",
-    "vi": ""
+    "vi": "cân nặng",
+    "en": ""
   },
   {
     "hanzi": "分外",
     "pinyin": "fènwài",
-    "en": "",
-    "vi": ""
+    "vi": "Đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "奋勇",
     "pinyin": "fènyǒng",
-    "en": "",
-    "vi": ""
+    "vi": "can đảm",
+    "en": ""
   },
   {
     "hanzi": "疯",
     "pinyin": "fēng",
-    "en": "",
-    "vi": ""
+    "vi": "điên",
+    "en": ""
   },
   {
     "hanzi": "风暴",
     "pinyin": "fēngbào",
-    "en": "",
-    "vi": ""
+    "vi": "bão",
+    "en": ""
   },
   {
     "hanzi": "风波",
     "pinyin": "fēngbō",
-    "en": "",
-    "vi": ""
+    "vi": "Rắc rối",
+    "en": ""
   },
   {
     "hanzi": "风采",
     "pinyin": "fēngcǎi",
-    "en": "",
-    "vi": ""
+    "vi": "phong cách",
+    "en": ""
   },
   {
     "hanzi": "风餐露宿",
     "pinyin": "fēngcān-lùsù",
-    "en": "",
-    "vi": ""
+    "vi": "Ăn và ngủ ngoài trời",
+    "en": ""
   },
   {
     "hanzi": "风吹雨打",
     "pinyin": "fēngchuī-yǔdǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Gió và mưa",
+    "en": ""
   },
   {
     "hanzi": "封顶",
     "pinyin": "fēngdǐng",
-    "en": "",
-    "vi": ""
+    "vi": "giới hạn",
+    "en": ""
   },
   {
     "hanzi": "风度",
     "pinyin": "fēngdù",
-    "en": "",
-    "vi": ""
+    "vi": "thái độ",
+    "en": ""
   },
   {
     "hanzi": "风范",
     "pinyin": "fēngfàn",
-    "en": "",
-    "vi": ""
+    "vi": "phong cách",
+    "en": ""
   },
   {
     "hanzi": "风和日丽",
     "pinyin": "fēnghé-rìlì",
-    "en": "",
-    "vi": ""
+    "vi": "Nắng và nắng",
+    "en": ""
   },
   {
     "hanzi": "丰厚",
     "pinyin": "fēnghòu",
-    "en": "",
-    "vi": ""
+    "vi": "giàu có",
+    "en": ""
   },
   {
     "hanzi": "峰会",
     "pinyin": "fēnghuì",
-    "en": "",
-    "vi": ""
+    "vi": "đỉnh cao",
+    "en": ""
   },
   {
     "hanzi": "峰回路转",
     "pinyin": "fēnghuí-lùzhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xoắn và quay",
+    "en": ""
   },
   {
     "hanzi": "封建",
     "pinyin": "fēngjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "phong kiến",
+    "en": ""
   },
   {
     "hanzi": "风景线",
     "pinyin": "fēngjǐngxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "dòng phong cảnh",
+    "en": ""
   },
   {
     "hanzi": "风浪",
     "pinyin": "fēnglàng",
-    "en": "",
-    "vi": ""
+    "vi": "bão",
+    "en": ""
   },
   {
     "hanzi": "锋利",
     "pinyin": "fēnglì",
-    "en": "",
-    "vi": ""
+    "vi": "sắc",
+    "en": ""
   },
   {
     "hanzi": "风流",
     "pinyin": "fēngliú",
-    "en": "",
-    "vi": ""
+    "vi": "lãng mạn",
+    "en": ""
   },
   {
     "hanzi": "丰满",
     "pinyin": "fēngmǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đầy",
+    "en": ""
   },
   {
     "hanzi": "风貌",
     "pinyin": "fēngmào",
-    "en": "",
-    "vi": ""
+    "vi": "phong cách",
+    "en": ""
   },
   {
     "hanzi": "蜂蜜",
     "pinyin": "fēngmì",
-    "en": "",
-    "vi": ""
+    "vi": "Em yêu",
+    "en": ""
   },
   {
     "hanzi": "封面",
     "pinyin": "fēngmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "风气",
     "pinyin": "fēngqì",
-    "en": "",
-    "vi": ""
+    "vi": "bầu không khí",
+    "en": ""
   },
   {
     "hanzi": "风情",
     "pinyin": "fēngqíng",
-    "en": "",
-    "vi": ""
+    "vi": "phong cách",
+    "en": ""
   },
   {
     "hanzi": "风趣",
     "pinyin": "fēngqù",
-    "en": "",
-    "vi": ""
+    "vi": "buồn cười",
+    "en": ""
   },
   {
     "hanzi": "风沙",
     "pinyin": "fēngshā",
-    "en": "",
-    "vi": ""
+    "vi": "Cát gió",
+    "en": ""
   },
   {
     "hanzi": "风尚",
     "pinyin": "fēngshàng",
-    "en": "",
-    "vi": ""
+    "vi": "thời trang",
+    "en": ""
   },
   {
     "hanzi": "丰盛",
     "pinyin": "fēngshèng",
-    "en": "",
-    "vi": ""
+    "vi": "giàu có",
+    "en": ""
   },
   {
     "hanzi": "风水",
     "pinyin": "fēngshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "phong thủy",
+    "en": ""
   },
   {
     "hanzi": "丰硕",
     "pinyin": "fēngshuò",
-    "en": "",
-    "vi": ""
+    "vi": "giàu có",
+    "en": ""
   },
   {
     "hanzi": "封锁",
     "pinyin": "fēngsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "phong tỏa",
+    "en": ""
   },
   {
     "hanzi": "风土人情",
     "pinyin": "fēngtǔ-rénqíng",
-    "en": "",
-    "vi": ""
+    "vi": "hải quan",
+    "en": ""
   },
   {
     "hanzi": "风味",
     "pinyin": "fēngwèi",
-    "en": "",
-    "vi": ""
+    "vi": "hương vị",
+    "en": ""
   },
   {
     "hanzi": "风云",
     "pinyin": "fēngyún",
-    "en": "",
-    "vi": ""
+    "vi": "Bão",
+    "en": ""
   },
   {
     "hanzi": "风雨无阻",
     "pinyin": "fēngyǔ-wúzǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Mưa hay nắng",
+    "en": ""
   },
   {
     "hanzi": "风筝",
     "pinyin": "fēngzheng",
-    "en": "",
-    "vi": ""
+    "vi": "Diều",
+    "en": ""
   },
   {
     "hanzi": "疯子",
     "pinyin": "fēngzi",
-    "en": "",
-    "vi": ""
+    "vi": "người điên",
+    "en": ""
   },
   {
     "hanzi": "逢",
     "pinyin": "féng",
-    "en": "",
-    "vi": ""
+    "vi": "gặp",
+    "en": ""
   },
   {
     "hanzi": "缝",
     "pinyin": "féng",
-    "en": "",
-    "vi": ""
+    "vi": "đường may",
+    "en": ""
   },
   {
     "hanzi": "缝合",
     "pinyin": "fénghé",
-    "en": "",
-    "vi": ""
+    "vi": "khâu",
+    "en": ""
   },
   {
     "hanzi": "讽刺",
     "pinyin": "fěngcì",
-    "en": "",
-    "vi": ""
+    "vi": "châm biếm",
+    "en": ""
   },
   {
     "hanzi": "缝",
     "pinyin": "fèng",
-    "en": "",
-    "vi": ""
+    "vi": "đường may",
+    "en": ""
   },
   {
     "hanzi": "凤凰",
     "pinyin": "fènghuáng",
-    "en": "",
-    "vi": ""
+    "vi": "Phượng hoàng",
+    "en": ""
   },
   {
     "hanzi": "凤毛麟角",
     "pinyin": "fèngmáo-línjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Rất hiếm",
+    "en": ""
   },
   {
     "hanzi": "佛",
     "pinyin": "fó",
-    "en": "",
-    "vi": ""
+    "vi": "Phật",
+    "en": ""
   },
   {
     "hanzi": "否决",
     "pinyin": "fǒujué",
-    "en": "",
-    "vi": ""
+    "vi": "phủ quyết",
+    "en": ""
   },
   {
     "hanzi": "敷",
     "pinyin": "fū",
-    "en": "",
-    "vi": ""
+    "vi": "áp dụng",
+    "en": ""
   },
   {
     "hanzi": "孵化",
     "pinyin": "fūhuà",
-    "en": "",
-    "vi": ""
+    "vi": "ủ bệnh",
+    "en": ""
   },
   {
     "hanzi": "肤浅",
     "pinyin": "fūqiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "nông",
+    "en": ""
   },
   {
     "hanzi": "敷衍",
     "pinyin": "fūyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chiếu lệ",
+    "en": ""
   },
   {
     "hanzi": "扶持",
     "pinyin": "fúchí",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "浮动",
     "pinyin": "fúdòng",
-    "en": "",
-    "vi": ""
+    "vi": "trôi nổi",
+    "en": ""
   },
   {
     "hanzi": "俘获",
     "pinyin": "fúhuò",
-    "en": "",
-    "vi": ""
+    "vi": "Chiếm lấy",
+    "en": ""
   },
   {
     "hanzi": "浮力",
     "pinyin": "fúlì",
-    "en": "",
-    "vi": ""
+    "vi": "sức nổi",
+    "en": ""
   },
   {
     "hanzi": "俘虏",
     "pinyin": "fúlǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bị giam cầm",
+    "en": ""
   },
   {
     "hanzi": "福气",
     "pinyin": "fúqi",
-    "en": "",
-    "vi": ""
+    "vi": "phước lành",
+    "en": ""
   },
   {
     "hanzi": "服气",
     "pinyin": "fúqì",
-    "en": "",
-    "vi": ""
+    "vi": "bị thuyết phục",
+    "en": ""
   },
   {
     "hanzi": "辐射",
     "pinyin": "fúshè",
-    "en": "",
-    "vi": ""
+    "vi": "bức xạ",
+    "en": ""
   },
   {
     "hanzi": "服饰",
     "pinyin": "fúshì",
-    "en": "",
-    "vi": ""
+    "vi": "may mặc",
+    "en": ""
   },
   {
     "hanzi": "服务器",
     "pinyin": "fúwùqì",
-    "en": "",
-    "vi": ""
+    "vi": "máy chủ",
+    "en": ""
   },
   {
     "hanzi": "浮现",
     "pinyin": "fúxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xuất hiện",
+    "en": ""
   },
   {
     "hanzi": "浮躁",
     "pinyin": "fúzào",
-    "en": "",
-    "vi": ""
+    "vi": "hung hăng",
+    "en": ""
   },
   {
     "hanzi": "腐败",
     "pinyin": "fǔbài",
-    "en": "",
-    "vi": ""
+    "vi": "tham nhũng",
+    "en": ""
   },
   {
     "hanzi": "腐烂",
     "pinyin": "fǔlàn",
-    "en": "",
-    "vi": ""
+    "vi": "thối rữa",
+    "en": ""
   },
   {
     "hanzi": "抚摸",
     "pinyin": "fǔmō",
-    "en": "",
-    "vi": ""
+    "vi": "vuốt ve",
+    "en": ""
   },
   {
     "hanzi": "腐蚀",
     "pinyin": "fǔshí",
-    "en": "",
-    "vi": ""
+    "vi": "ăn mòn",
+    "en": ""
   },
   {
     "hanzi": "俯视",
     "pinyin": "fǔshì",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn xuống",
+    "en": ""
   },
   {
     "hanzi": "俯首",
     "pinyin": "fǔshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Cúi đầu",
+    "en": ""
   },
   {
     "hanzi": "腐朽",
     "pinyin": "fǔxiǔ",
-    "en": "",
-    "vi": ""
+    "vi": "phân hủy",
+    "en": ""
   },
   {
     "hanzi": "抚恤",
     "pinyin": "fǔxù",
-    "en": "",
-    "vi": ""
+    "vi": "lương hưu",
+    "en": ""
   },
   {
     "hanzi": "抚养",
     "pinyin": "fǔyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nâng lên",
+    "en": ""
   },
   {
     "hanzi": "斧子",
     "pinyin": "fǔzi",
-    "en": "",
-    "vi": ""
+    "vi": "rìu",
+    "en": ""
   },
   {
     "hanzi": "负",
     "pinyin": "fù",
-    "en": "",
-    "vi": ""
+    "vi": "gánh nặng",
+    "en": ""
   },
   {
     "hanzi": "附",
     "pinyin": "fù",
-    "en": "",
-    "vi": ""
+    "vi": "đính kèm",
+    "en": ""
   },
   {
     "hanzi": "赴",
     "pinyin": "fù",
-    "en": "",
-    "vi": ""
+    "vi": "đi",
+    "en": ""
   },
   {
     "hanzi": "腹",
     "pinyin": "fù",
-    "en": "",
-    "vi": ""
+    "vi": "bụng",
+    "en": ""
   },
   {
     "hanzi": "副本",
     "pinyin": "fùběn",
-    "en": "",
-    "vi": ""
+    "vi": "sao chép",
+    "en": ""
   },
   {
     "hanzi": "复查",
     "pinyin": "fùchá",
-    "en": "",
-    "vi": ""
+    "vi": "Ôn tập",
+    "en": ""
   },
   {
     "hanzi": "附带",
     "pinyin": "fùdài",
-    "en": "",
-    "vi": ""
+    "vi": "Đi kèm với",
+    "en": ""
   },
   {
     "hanzi": "复发",
     "pinyin": "fùfā",
-    "en": "",
-    "vi": ""
+    "vi": "tái phát",
+    "en": ""
   },
   {
     "hanzi": "富含",
     "pinyin": "fùhán",
-    "en": "",
-    "vi": ""
+    "vi": "giàu có",
+    "en": ""
   },
   {
     "hanzi": "富豪",
     "pinyin": "fùháo",
-    "en": "",
-    "vi": ""
+    "vi": "người đàn ông giàu có",
+    "en": ""
   },
   {
     "hanzi": "复合",
     "pinyin": "fùhé",
-    "en": "",
-    "vi": ""
+    "vi": "tổ hợp",
+    "en": ""
   },
   {
     "hanzi": "附和",
     "pinyin": "fùhè",
-    "en": "",
-    "vi": ""
+    "vi": "đi cùng",
+    "en": ""
   },
   {
     "hanzi": "复活",
     "pinyin": "fùhuó",
-    "en": "",
-    "vi": ""
+    "vi": "sự hồi sinh",
+    "en": ""
   },
   {
     "hanzi": "附加",
     "pinyin": "fùjiā",
-    "en": "",
-    "vi": ""
+    "vi": "thêm vào",
+    "en": ""
   },
   {
     "hanzi": "富强",
     "pinyin": "fùqiáng",
-    "en": "",
-    "vi": ""
+    "vi": "thịnh vượng",
+    "en": ""
   },
   {
     "hanzi": "附属",
     "pinyin": "fùshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "liên kết",
+    "en": ""
   },
   {
     "hanzi": "复苏",
     "pinyin": "fùsū",
-    "en": "",
-    "vi": ""
+    "vi": "sự hồi phục",
+    "en": ""
   },
   {
     "hanzi": "富翁",
     "pinyin": "fùwēng",
-    "en": "",
-    "vi": ""
+    "vi": "người đàn ông giàu có",
+    "en": ""
   },
   {
     "hanzi": "腹泻",
     "pinyin": "fùxiè",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu chảy",
+    "en": ""
   },
   {
     "hanzi": "复兴",
     "pinyin": "fùxīng",
-    "en": "",
-    "vi": ""
+    "vi": "sự hồi sinh",
+    "en": ""
   },
   {
     "hanzi": "复原",
     "pinyin": "fùyuán",
-    "en": "",
-    "vi": ""
+    "vi": "sự hồi phục",
+    "en": ""
   },
   {
     "hanzi": "负重",
     "pinyin": "fùzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "chịu trọng lượng",
+    "en": ""
   },
   {
     "hanzi": "富足",
     "pinyin": "fùzú",
-    "en": "",
-    "vi": ""
+    "vi": "Sự phong phú",
+    "en": ""
   },
   {
     "hanzi": "副作用",
     "pinyin": "fùzuòyòng",
-    "en": "",
-    "vi": ""
+    "vi": "tác dụng phụ",
+    "en": ""
   },
   {
     "hanzi": "改版",
     "pinyin": "gǎibǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Ôn tập",
+    "en": ""
   },
   {
     "hanzi": "改动",
     "pinyin": "gǎidòng",
-    "en": "",
-    "vi": ""
+    "vi": "thay đổi",
+    "en": ""
   },
   {
     "hanzi": "改观",
     "pinyin": "gǎiguān",
-    "en": "",
-    "vi": ""
+    "vi": "thay đổi",
+    "en": ""
   },
   {
     "hanzi": "改良",
     "pinyin": "gǎiliáng",
-    "en": "",
-    "vi": ""
+    "vi": "Cải thiện",
+    "en": ""
   },
   {
     "hanzi": "改日",
     "pinyin": "gǎirì",
-    "en": "",
-    "vi": ""
+    "vi": "một ngày khác",
+    "en": ""
   },
   {
     "hanzi": "改邪归正",
     "pinyin": "gǎixié-guīzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Thay đổi cái ác và trở về chính nghĩa",
+    "en": ""
   },
   {
     "hanzi": "改装",
     "pinyin": "gǎizhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "sửa đổi",
+    "en": ""
   },
   {
     "hanzi": "钙",
     "pinyin": "gài",
-    "en": "",
-    "vi": ""
+    "vi": "canxi",
+    "en": ""
   },
   {
     "hanzi": "概",
     "pinyin": "gài",
-    "en": "",
-    "vi": ""
+    "vi": "Tổng quan",
+    "en": ""
   },
   {
     "hanzi": "概况",
     "pinyin": "gàikuàng",
-    "en": "",
-    "vi": ""
+    "vi": "Tổng quan",
+    "en": ""
   },
   {
     "hanzi": "概论",
     "pinyin": "gàilùn",
-    "en": "",
-    "vi": ""
+    "vi": "Giới thiệu",
+    "en": ""
   },
   {
     "hanzi": "干戈",
     "pinyin": "gāngē",
-    "en": "",
-    "vi": ""
+    "vi": "cánh tay",
+    "en": ""
   },
   {
     "hanzi": "干枯",
     "pinyin": "gānkū",
-    "en": "",
-    "vi": ""
+    "vi": "khô đi",
+    "en": ""
   },
   {
     "hanzi": "干涉",
     "pinyin": "gānshè",
-    "en": "",
-    "vi": ""
+    "vi": "đặt mái chèo của mình vào",
+    "en": ""
   },
   {
     "hanzi": "甘心",
     "pinyin": "gānxīn",
-    "en": "",
-    "vi": ""
+    "vi": "sẵn sàng",
+    "en": ""
   },
   {
     "hanzi": "干预",
     "pinyin": "gānyù",
-    "en": "",
-    "vi": ""
+    "vi": "sự can thiệp",
+    "en": ""
   },
   {
     "hanzi": "杆",
     "pinyin": "gǎn",
-    "en": "",
-    "vi": ""
+    "vi": "gậy",
+    "en": ""
   },
   {
     "hanzi": "感触",
     "pinyin": "gǎnchù",
-    "en": "",
-    "vi": ""
+    "vi": "Cảm giác",
+    "en": ""
   },
   {
     "hanzi": "感恩",
     "pinyin": "gǎnēn",
-    "en": "",
-    "vi": ""
+    "vi": "tri ân",
+    "en": ""
   },
   {
     "hanzi": "赶赴",
     "pinyin": "gǎnfù",
-    "en": "",
-    "vi": ""
+    "vi": "vội vàng đến",
+    "en": ""
   },
   {
     "hanzi": "感慨",
     "pinyin": "gǎnkǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Cảm giác",
+    "en": ""
   },
   {
     "hanzi": "感叹",
     "pinyin": "gǎntàn",
-    "en": "",
-    "vi": ""
+    "vi": "thở dài",
+    "en": ""
   },
   {
     "hanzi": "感悟",
     "pinyin": "gǎnwù",
-    "en": "",
-    "vi": ""
+    "vi": "Khai sáng",
+    "en": ""
   },
   {
     "hanzi": "感性",
     "pinyin": "gǎnxìng",
-    "en": "",
-    "vi": ""
+    "vi": "Xúc động",
+    "en": ""
   },
   {
     "hanzi": "干部",
     "pinyin": "gànbù",
-    "en": "",
-    "vi": ""
+    "vi": "cán bộ",
+    "en": ""
   },
   {
     "hanzi": "干劲",
     "pinyin": "gànjìn",
-    "en": "",
-    "vi": ""
+    "vi": "Động lực",
+    "en": ""
   },
   {
     "hanzi": "干事",
     "pinyin": "gànshi",
-    "en": "",
-    "vi": ""
+    "vi": "Thư ký",
+    "en": ""
   },
   {
     "hanzi": "缸",
     "pinyin": "gāng",
-    "en": "",
-    "vi": ""
+    "vi": "xi lanh",
+    "en": ""
   },
   {
     "hanzi": "纲领",
     "pinyin": "gānglǐng",
-    "en": "",
-    "vi": ""
+    "vi": "chương trình",
+    "en": ""
   },
   {
     "hanzi": "钢铁",
     "pinyin": "gāngtiě",
-    "en": "",
-    "vi": ""
+    "vi": "thép",
+    "en": ""
   },
   {
     "hanzi": "纲要",
     "pinyin": "gāngyào",
-    "en": "",
-    "vi": ""
+    "vi": "phác thảo",
+    "en": ""
   },
   {
     "hanzi": "港",
     "pinyin": "gǎng",
-    "en": "",
-    "vi": ""
+    "vi": "hải cảng",
+    "en": ""
   },
   {
     "hanzi": "港湾",
     "pinyin": "gǎngwān",
-    "en": "",
-    "vi": ""
+    "vi": "hải cảng",
+    "en": ""
   },
   {
     "hanzi": "杠杆",
     "pinyin": "gànggǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đòn bẩy",
+    "en": ""
   },
   {
     "hanzi": "高额",
     "pinyin": "gāo’é",
-    "en": "",
-    "vi": ""
+    "vi": "số tiền cao",
+    "en": ""
   },
   {
     "hanzi": "高昂",
     "pinyin": "gāo’áng",
-    "en": "",
-    "vi": ""
+    "vi": "cao",
+    "en": ""
   },
   {
     "hanzi": "高傲",
     "pinyin": "gāo’ào",
-    "en": "",
-    "vi": ""
+    "vi": "kiêu ngạo",
+    "en": ""
   },
   {
     "hanzi": "高潮",
     "pinyin": "gāocháo",
-    "en": "",
-    "vi": ""
+    "vi": "đỉnh điểm",
+    "en": ""
   },
   {
     "hanzi": "高调",
     "pinyin": "gāodiào",
-    "en": "",
-    "vi": ""
+    "vi": "hồ sơ cao",
+    "en": ""
   },
   {
     "hanzi": "高贵",
     "pinyin": "gāoguì",
-    "en": "",
-    "vi": ""
+    "vi": "cao quý",
+    "en": ""
   },
   {
     "hanzi": "高见",
     "pinyin": "gāojiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Cao Kiện",
+    "en": ""
   },
   {
     "hanzi": "高空",
     "pinyin": "gāokōng",
-    "en": "",
-    "vi": ""
+    "vi": "độ cao",
+    "en": ""
   },
   {
     "hanzi": "高龄",
     "pinyin": "gāolíng",
-    "en": "",
-    "vi": ""
+    "vi": "tuổi già",
+    "en": ""
   },
   {
     "hanzi": "高明",
     "pinyin": "gāomíng",
-    "en": "",
-    "vi": ""
+    "vi": "thông minh",
+    "en": ""
   },
   {
     "hanzi": "高血压",
     "pinyin": "gāoxuèyā",
-    "en": "",
-    "vi": ""
+    "vi": "tăng huyết áp",
+    "en": ""
   },
   {
     "hanzi": "高雅",
     "pinyin": "gāoyǎ",
-    "en": "",
-    "vi": ""
+    "vi": "thanh lịch",
+    "en": ""
   },
   {
     "hanzi": "高压",
     "pinyin": "gāoyā",
-    "en": "",
-    "vi": ""
+    "vi": "áp suất cao",
+    "en": ""
   },
   {
     "hanzi": "高涨",
     "pinyin": "gāozhǎng",
-    "en": "",
-    "vi": ""
+    "vi": "bay lên",
+    "en": ""
   },
   {
     "hanzi": "搞鬼",
     "pinyin": "gǎoguǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy tự biến mình thành kẻ ngốc",
+    "en": ""
   },
   {
     "hanzi": "搞笑",
     "pinyin": "gǎoxiào",
-    "en": "",
-    "vi": ""
+    "vi": "buồn cười",
+    "en": ""
   },
   {
     "hanzi": "告",
     "pinyin": "gào",
-    "en": "",
-    "vi": ""
+    "vi": "kể",
+    "en": ""
   },
   {
     "hanzi": "告辞",
     "pinyin": "gàocí",
-    "en": "",
-    "vi": ""
+    "vi": "tạm biệt",
+    "en": ""
   },
   {
     "hanzi": "告诫",
     "pinyin": "gàojiè",
-    "en": "",
-    "vi": ""
+    "vi": "cảnh báo",
+    "en": ""
   },
   {
     "hanzi": "告示",
     "pinyin": "gàoshi",
-    "en": "",
-    "vi": ""
+    "vi": "Để ý",
+    "en": ""
   },
   {
     "hanzi": "告知",
     "pinyin": "gàozhī",
-    "en": "",
-    "vi": ""
+    "vi": "thông báo",
+    "en": ""
   },
   {
     "hanzi": "告状",
     "pinyin": "gàozhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "phàn nàn",
+    "en": ""
   },
   {
     "hanzi": "搁",
     "pinyin": "gē",
-    "en": "",
-    "vi": ""
+    "vi": "đặt",
+    "en": ""
   },
   {
     "hanzi": "戈壁",
     "pinyin": "gēbì",
-    "en": "",
-    "vi": ""
+    "vi": "Gobi",
+    "en": ""
   },
   {
     "hanzi": "疙瘩",
     "pinyin": "gēda",
-    "en": "",
-    "vi": ""
+    "vi": "mụn nhọt",
+    "en": ""
   },
   {
     "hanzi": "歌剧",
     "pinyin": "gējù",
-    "en": "",
-    "vi": ""
+    "vi": "opera",
+    "en": ""
   },
   {
     "hanzi": "搁浅",
     "pinyin": "gēqiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "mắc kẹt",
+    "en": ""
   },
   {
     "hanzi": "歌颂",
     "pinyin": "gēsòng",
-    "en": "",
-    "vi": ""
+    "vi": "hát ca ngợi",
+    "en": ""
   },
   {
     "hanzi": "歌舞",
     "pinyin": "gēwǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Bài hát và điệu nhảy",
+    "en": ""
   },
   {
     "hanzi": "歌谣",
     "pinyin": "gēyáo",
-    "en": "",
-    "vi": ""
+    "vi": "bản ballad",
+    "en": ""
   },
   {
     "hanzi": "搁置",
     "pinyin": "gēzhì",
-    "en": "",
-    "vi": ""
+    "vi": "tạm dừng",
+    "en": ""
   },
   {
     "hanzi": "鸽子",
     "pinyin": "gēzi",
-    "en": "",
-    "vi": ""
+    "vi": "chim bồ câu",
+    "en": ""
   },
   {
     "hanzi": "格格不入",
     "pinyin": "gégé-búrù",
-    "en": "",
-    "vi": ""
+    "vi": "lạc lõng",
+    "en": ""
   },
   {
     "hanzi": "隔阂",
     "pinyin": "géhé",
-    "en": "",
-    "vi": ""
+    "vi": "khoảng cách",
+    "en": ""
   },
   {
     "hanzi": "格局",
     "pinyin": "géjú",
-    "en": "",
-    "vi": ""
+    "vi": "mẫu",
+    "en": ""
   },
   {
     "hanzi": "隔离",
     "pinyin": "gélí",
-    "en": "",
-    "vi": ""
+    "vi": "sự cách ly",
+    "en": ""
   },
   {
     "hanzi": "阁楼",
     "pinyin": "gélóu",
-    "en": "",
-    "vi": ""
+    "vi": "gác mái",
+    "en": ""
   },
   {
     "hanzi": "格式",
     "pinyin": "géshi",
-    "en": "",
-    "vi": ""
+    "vi": "Định dạng",
+    "en": ""
   },
   {
     "hanzi": "革新",
     "pinyin": "géxīn",
-    "en": "",
-    "vi": ""
+    "vi": "sự đổi mới",
+    "en": ""
   },
   {
     "hanzi": "格子",
     "pinyin": "gézi",
-    "en": "",
-    "vi": ""
+    "vi": "lưới",
+    "en": ""
   },
   {
     "hanzi": "个案",
     "pinyin": "gè’àn",
-    "en": "",
-    "vi": ""
+    "vi": "Trường hợp",
+    "en": ""
   },
   {
     "hanzi": "各抒己见",
     "pinyin": "gèshū-jǐjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Mỗi người đều bày tỏ ý kiến ​​riêng của mình",
+    "en": ""
   },
   {
     "hanzi": "个头儿",
     "pinyin": "gètóur",
-    "en": "",
-    "vi": ""
+    "vi": "cao",
+    "en": ""
   },
   {
     "hanzi": "根基",
     "pinyin": "gēnjī",
-    "en": "",
-    "vi": ""
+    "vi": "sự thành lập",
+    "en": ""
   },
   {
     "hanzi": "跟进",
     "pinyin": "gēnjìn",
-    "en": "",
-    "vi": ""
+    "vi": "theo dõi",
+    "en": ""
   },
   {
     "hanzi": "根深蒂固",
     "pinyin": "gēnshēn-dìgù",
-    "en": "",
-    "vi": ""
+    "vi": "ăn sâu vào",
+    "en": ""
   },
   {
     "hanzi": "根源",
     "pinyin": "gēnyuán",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn",
+    "en": ""
   },
   {
     "hanzi": "根治",
     "pinyin": "gēnzhì",
-    "en": "",
-    "vi": ""
+    "vi": "sự chữa bệnh",
+    "en": ""
   },
   {
     "hanzi": "耕",
     "pinyin": "gēng",
-    "en": "",
-    "vi": ""
+    "vi": "cày",
+    "en": ""
   },
   {
     "hanzi": "耕地",
     "pinyin": "gēngdì",
-    "en": "",
-    "vi": ""
+    "vi": "đất canh tác",
+    "en": ""
   },
   {
     "hanzi": "更改",
     "pinyin": "gēnggǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Thay đổi",
+    "en": ""
   },
   {
     "hanzi": "更衣室",
     "pinyin": "gēngyīshì",
-    "en": "",
-    "vi": ""
+    "vi": "phòng thay đồ",
+    "en": ""
   },
   {
     "hanzi": "耕耘",
     "pinyin": "gēngyún",
-    "en": "",
-    "vi": ""
+    "vi": "trồng trọt",
+    "en": ""
   },
   {
     "hanzi": "更正",
     "pinyin": "gēngzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Chính xác",
+    "en": ""
   },
   {
     "hanzi": "哽咽",
     "pinyin": "gěngyè",
-    "en": "",
-    "vi": ""
+    "vi": "nghẹn ngào với những tiếng nức nở",
+    "en": ""
   },
   {
     "hanzi": "耿直",
     "pinyin": "gěngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "ngay thẳng",
+    "en": ""
   },
   {
     "hanzi": "弓",
     "pinyin": "gōng",
-    "en": "",
-    "vi": ""
+    "vi": "cây cung",
+    "en": ""
   },
   {
     "hanzi": "功",
     "pinyin": "gōng",
-    "en": "",
-    "vi": ""
+    "vi": "thành tích",
+    "en": ""
   },
   {
     "hanzi": "攻",
     "pinyin": "gōng",
-    "en": "",
-    "vi": ""
+    "vi": "tấn công",
+    "en": ""
   },
   {
     "hanzi": "供",
     "pinyin": "gōng",
-    "en": "",
-    "vi": ""
+    "vi": "vì",
+    "en": ""
   },
   {
     "hanzi": "公办",
     "pinyin": "gōngbàn",
-    "en": "",
-    "vi": ""
+    "vi": "văn phòng công cộng",
+    "en": ""
   },
   {
     "hanzi": "供不应求",
     "pinyin": "gōngbúyìngqiú",
-    "en": "",
-    "vi": ""
+    "vi": "Cầu vượt quá cung",
+    "en": ""
   },
   {
     "hanzi": "功臣",
     "pinyin": "gōngchén",
-    "en": "",
-    "vi": ""
+    "vi": "anh hùng",
+    "en": ""
   },
   {
     "hanzi": "公道",
     "pinyin": "gōngdao",
-    "en": "",
-    "vi": ""
+    "vi": "công lý",
+    "en": ""
   },
   {
     "hanzi": "功底",
     "pinyin": "gōngdǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Kỹ năng cơ bản",
+    "en": ""
   },
   {
     "hanzi": "宫殿",
     "pinyin": "gōngdiàn",
-    "en": "",
-    "vi": ""
+    "vi": "cung điện",
+    "en": ""
   },
   {
     "hanzi": "攻读",
     "pinyin": "gōngdú",
-    "en": "",
-    "vi": ""
+    "vi": "Học",
+    "en": ""
   },
   {
     "hanzi": "公费",
     "pinyin": "gōngfèi",
-    "en": "",
-    "vi": ""
+    "vi": "Chi tiêu công",
+    "en": ""
   },
   {
     "hanzi": "公关",
     "pinyin": "gōngguān",
-    "en": "",
-    "vi": ""
+    "vi": "quan hệ công chúng",
+    "en": ""
   },
   {
     "hanzi": "攻关",
     "pinyin": "gōngguān",
-    "en": "",
-    "vi": ""
+    "vi": "giải quyết các vấn đề then chốt",
+    "en": ""
   },
   {
     "hanzi": "工会",
     "pinyin": "gōnghuì",
-    "en": "",
-    "vi": ""
+    "vi": "sự đoàn kết",
+    "en": ""
   },
   {
     "hanzi": "工匠",
     "pinyin": "gōngjiàng",
-    "en": "",
-    "vi": ""
+    "vi": "thợ thủ công",
+    "en": ""
   },
   {
     "hanzi": "恭敬",
     "pinyin": "gōngjìng",
-    "en": "",
-    "vi": ""
+    "vi": "Trân trọng",
+    "en": ""
   },
   {
     "hanzi": "攻克",
     "pinyin": "gōngkè",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm lấy",
+    "en": ""
   },
   {
     "hanzi": "工科",
     "pinyin": "gōngkē",
-    "en": "",
-    "vi": ""
+    "vi": "Kỹ thuật",
+    "en": ""
   },
   {
     "hanzi": "公款",
     "pinyin": "gōngkuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "công quỹ",
+    "en": ""
   },
   {
     "hanzi": "功劳",
     "pinyin": "gōngláo",
-    "en": "",
-    "vi": ""
+    "vi": "tín dụng",
+    "en": ""
   },
   {
     "hanzi": "公立",
     "pinyin": "gōnglì",
-    "en": "",
-    "vi": ""
+    "vi": "công cộng",
+    "en": ""
   },
   {
     "hanzi": "功力",
     "pinyin": "gōnglì",
-    "en": "",
-    "vi": ""
+    "vi": "kỹ năng",
+    "en": ""
   },
   {
     "hanzi": "功利",
     "pinyin": "gōnglì",
-    "en": "",
-    "vi": ""
+    "vi": "thực dụng",
+    "en": ""
   },
   {
     "hanzi": "功率",
     "pinyin": "gōnglǜ",
-    "en": "",
-    "vi": ""
+    "vi": "quyền lực",
+    "en": ""
   },
   {
     "hanzi": "公墓",
     "pinyin": "gōngmù",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩa trang",
+    "en": ""
   },
   {
     "hanzi": "供暖",
     "pinyin": "gōngnuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sưởi ấm",
+    "en": ""
   },
   {
     "hanzi": "公仆",
     "pinyin": "gōngpú",
-    "en": "",
-    "vi": ""
+    "vi": "công chức",
+    "en": ""
   },
   {
     "hanzi": "公顷",
     "pinyin": "gōngqǐng",
-    "en": "",
-    "vi": ""
+    "vi": "ha",
+    "en": ""
   },
   {
     "hanzi": "供求",
     "pinyin": "gōngqiú",
-    "en": "",
-    "vi": ""
+    "vi": "cung và cầu",
+    "en": ""
   },
   {
     "hanzi": "公然",
     "pinyin": "gōngrán",
-    "en": "",
-    "vi": ""
+    "vi": "công khai",
+    "en": ""
   },
   {
     "hanzi": "公示",
     "pinyin": "gōngshì",
-    "en": "",
-    "vi": ""
+    "vi": "thông báo công khai",
+    "en": ""
   },
   {
     "hanzi": "公式",
     "pinyin": "gōngshì",
-    "en": "",
-    "vi": ""
+    "vi": "công thức",
+    "en": ""
   },
   {
     "hanzi": "公事",
     "pinyin": "gōngshì",
-    "en": "",
-    "vi": ""
+    "vi": "kinh doanh chính thức",
+    "en": ""
   },
   {
     "hanzi": "攻势",
     "pinyin": "gōngshì",
-    "en": "",
-    "vi": ""
+    "vi": "xúc phạm",
+    "en": ""
   },
   {
     "hanzi": "宫廷",
     "pinyin": "gōngtíng",
-    "en": "",
-    "vi": ""
+    "vi": "cung điện",
+    "en": ""
   },
   {
     "hanzi": "恭维",
     "pinyin": "gōngwéi",
-    "en": "",
-    "vi": ""
+    "vi": "lời khen",
+    "en": ""
   },
   {
     "hanzi": "公务",
     "pinyin": "gōngwù",
-    "en": "",
-    "vi": ""
+    "vi": "kinh doanh chính thức",
+    "en": ""
   },
   {
     "hanzi": "供需",
     "pinyin": "gōngxū",
-    "en": "",
-    "vi": ""
+    "vi": "cung và cầu",
+    "en": ""
   },
   {
     "hanzi": "供养",
     "pinyin": "gōngyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "供应链",
     "pinyin": "gōngyìngliàn",
-    "en": "",
-    "vi": ""
+    "vi": "chuỗi cung ứng",
+    "en": ""
   },
   {
     "hanzi": "公用",
     "pinyin": "gōngyòng",
-    "en": "",
-    "vi": ""
+    "vi": "công cộng",
+    "en": ""
   },
   {
     "hanzi": "公约",
     "pinyin": "gōngyuē",
-    "en": "",
-    "vi": ""
+    "vi": "quy ước",
+    "en": ""
   },
   {
     "hanzi": "公证",
     "pinyin": "gōngzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "công chứng",
+    "en": ""
   },
   {
     "hanzi": "工整",
     "pinyin": "gōngzhěng",
-    "en": "",
-    "vi": ""
+    "vi": "gọn gàng",
+    "en": ""
   },
   {
     "hanzi": "公职",
     "pinyin": "gōngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "văn phòng công cộng",
+    "en": ""
   },
   {
     "hanzi": "拱",
     "pinyin": "gǒng",
-    "en": "",
-    "vi": ""
+    "vi": "vòm",
+    "en": ""
   },
   {
     "hanzi": "供奉",
     "pinyin": "gòngfèng",
-    "en": "",
-    "vi": ""
+    "vi": "tôn thờ",
+    "en": ""
   },
   {
     "hanzi": "共和国",
     "pinyin": "gònghéguó",
-    "en": "",
-    "vi": ""
+    "vi": "nước cộng hòa",
+    "en": ""
   },
   {
     "hanzi": "共鸣",
     "pinyin": "gòngmíng",
-    "en": "",
-    "vi": ""
+    "vi": "sự cộng hưởng",
+    "en": ""
   },
   {
     "hanzi": "共识",
     "pinyin": "gòngshí",
-    "en": "",
-    "vi": ""
+    "vi": "sự đồng thuận",
+    "en": ""
   },
   {
     "hanzi": "共同体",
     "pinyin": "gòngtóngtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "cộng đồng",
+    "en": ""
   },
   {
     "hanzi": "共性",
     "pinyin": "gòngxìng",
-    "en": "",
-    "vi": ""
+    "vi": "sự tương đồng",
+    "en": ""
   },
   {
     "hanzi": "勾",
     "pinyin": "gōu",
-    "en": "",
-    "vi": ""
+    "vi": "cái móc",
+    "en": ""
   },
   {
     "hanzi": "钩",
     "pinyin": "gōu",
-    "en": "",
-    "vi": ""
+    "vi": "cái móc",
+    "en": ""
   },
   {
     "hanzi": "勾结",
     "pinyin": "gōujié",
-    "en": "",
-    "vi": ""
+    "vi": "thông đồng",
+    "en": ""
   },
   {
     "hanzi": "勾勒",
     "pinyin": "gōulè",
-    "en": "",
-    "vi": ""
+    "vi": "phác thảo",
+    "en": ""
   },
   {
     "hanzi": "构建",
     "pinyin": "gòujiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xây dựng",
+    "en": ""
   },
   {
     "hanzi": "够呛",
     "pinyin": "gòuqiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Đủ",
+    "en": ""
   },
   {
     "hanzi": "构思",
     "pinyin": "gòusī",
-    "en": "",
-    "vi": ""
+    "vi": "Thụ thai",
+    "en": ""
   },
   {
     "hanzi": "构想",
     "pinyin": "gòuxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Thụ thai",
+    "en": ""
   },
   {
     "hanzi": "孤单",
     "pinyin": "gūdān",
-    "en": "",
-    "vi": ""
+    "vi": "một mình",
+    "en": ""
   },
   {
     "hanzi": "孤儿",
     "pinyin": "gū’ér",
-    "en": "",
-    "vi": ""
+    "vi": "mồ côi",
+    "en": ""
   },
   {
     "hanzi": "辜负",
     "pinyin": "gūfù",
-    "en": "",
-    "vi": ""
+    "vi": "sống theo",
+    "en": ""
   },
   {
     "hanzi": "孤立",
     "pinyin": "gūlì",
-    "en": "",
-    "vi": ""
+    "vi": "bị cô lập",
+    "en": ""
   },
   {
     "hanzi": "孤零零",
     "pinyin": "gūlínglíng",
-    "en": "",
-    "vi": ""
+    "vi": "Một mình",
+    "en": ""
   },
   {
     "hanzi": "孤陋寡闻",
     "pinyin": "gūlòu-guǎwén",
-    "en": "",
-    "vi": ""
+    "vi": "ngu dốt",
+    "en": ""
   },
   {
     "hanzi": "姑且",
     "pinyin": "gūqiě",
-    "en": "",
-    "vi": ""
+    "vi": "ngập ngừng",
+    "en": ""
   },
   {
     "hanzi": "估算",
     "pinyin": "gūsuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Ước lượng",
+    "en": ""
   },
   {
     "hanzi": "股",
     "pinyin": "gǔ",
-    "en": "",
-    "vi": ""
+    "vi": "chia sẻ",
+    "en": ""
   },
   {
     "hanzi": "鼓动",
     "pinyin": "gǔdòng",
-    "en": "",
-    "vi": ""
+    "vi": "xúi giục",
+    "en": ""
   },
   {
     "hanzi": "古董",
     "pinyin": "gǔdǒng",
-    "en": "",
-    "vi": ""
+    "vi": "đồ cổ",
+    "en": ""
   },
   {
     "hanzi": "股东",
     "pinyin": "gǔdōng",
-    "en": "",
-    "vi": ""
+    "vi": "cổ đông",
+    "en": ""
   },
   {
     "hanzi": "股份",
     "pinyin": "gǔfèn",
-    "en": "",
-    "vi": ""
+    "vi": "cổ phần",
+    "en": ""
   },
   {
     "hanzi": "骨干",
     "pinyin": "gǔgàn",
-    "en": "",
-    "vi": ""
+    "vi": "xương sống",
+    "en": ""
   },
   {
     "hanzi": "骨骼",
     "pinyin": "gǔgé",
-    "en": "",
-    "vi": ""
+    "vi": "bộ xương",
+    "en": ""
   },
   {
     "hanzi": "古怪",
     "pinyin": "gǔguài",
-    "en": "",
-    "vi": ""
+    "vi": "lập dị",
+    "en": ""
   },
   {
     "hanzi": "古籍",
     "pinyin": "gǔjí",
-    "en": "",
-    "vi": ""
+    "vi": "sách cổ",
+    "en": ""
   },
   {
     "hanzi": "骨架",
     "pinyin": "gǔjià",
-    "en": "",
-    "vi": ""
+    "vi": "bộ xương",
+    "en": ""
   },
   {
     "hanzi": "古今中外",
     "pinyin": "gǔjīn-zhōngwài",
-    "en": "",
-    "vi": ""
+    "vi": "Cổ đại và hiện đại, Trung Quốc và nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "股民",
     "pinyin": "gǔmín",
-    "en": "",
-    "vi": ""
+    "vi": "cổ đông",
+    "en": ""
   },
   {
     "hanzi": "古朴",
     "pinyin": "gǔpǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cổ kính",
+    "en": ""
   },
   {
     "hanzi": "骨气",
     "pinyin": "gǔqì",
-    "en": "",
-    "vi": ""
+    "vi": "xương sống",
+    "en": ""
   },
   {
     "hanzi": "谷物",
     "pinyin": "gǔwù",
-    "en": "",
-    "vi": ""
+    "vi": "ngũ cốc",
+    "en": ""
   },
   {
     "hanzi": "骨折",
     "pinyin": "gǔzhé",
-    "en": "",
-    "vi": ""
+    "vi": "gãy xương",
+    "en": ""
   },
   {
     "hanzi": "故",
     "pinyin": "gù",
-    "en": "",
-    "vi": ""
+    "vi": "Vì thế",
+    "en": ""
   },
   {
     "hanzi": "雇",
     "pinyin": "gù",
-    "en": "",
-    "vi": ""
+    "vi": "thuê",
+    "en": ""
   },
   {
     "hanzi": "固化",
     "pinyin": "gùhuà",
-    "en": "",
-    "vi": ""
+    "vi": "làm cứng lại",
+    "en": ""
   },
   {
     "hanzi": "顾及",
     "pinyin": "gùjí",
-    "en": "",
-    "vi": ""
+    "vi": "tính đến",
+    "en": ""
   },
   {
     "hanzi": "顾虑",
     "pinyin": "gùlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "bận tâm",
+    "en": ""
   },
   {
     "hanzi": "顾名思义",
     "pinyin": "gùmíng-sīyì",
-    "en": "",
-    "vi": ""
+    "vi": "Như tên cho thấy",
+    "en": ""
   },
   {
     "hanzi": "顾全大局",
     "pinyin": "gùquán-dàjú",
-    "en": "",
-    "vi": ""
+    "vi": "Xem xét tình hình chung",
+    "en": ""
   },
   {
     "hanzi": "固然",
     "pinyin": "gùrán",
-    "en": "",
-    "vi": ""
+    "vi": "tất nhiên rồi",
+    "en": ""
   },
   {
     "hanzi": "雇佣",
     "pinyin": "gùyōng",
-    "en": "",
-    "vi": ""
+    "vi": "Thuê",
+    "en": ""
   },
   {
     "hanzi": "固有",
     "pinyin": "gùyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "vốn có",
+    "en": ""
   },
   {
     "hanzi": "雇员",
     "pinyin": "gùyuán",
-    "en": "",
-    "vi": ""
+    "vi": "người lao động",
+    "en": ""
   },
   {
     "hanzi": "固执",
     "pinyin": "gùzhi",
-    "en": "",
-    "vi": ""
+    "vi": "Bướng bỉnh",
+    "en": ""
   },
   {
     "hanzi": "雇主",
     "pinyin": "gùzhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "nhà tuyển dụng",
+    "en": ""
   },
   {
     "hanzi": "瓜分",
     "pinyin": "guāfēn",
-    "en": "",
-    "vi": ""
+    "vi": "khắc lên",
+    "en": ""
   },
   {
     "hanzi": "刮目相看",
     "pinyin": "guāmù-xiāngkàn",
-    "en": "",
-    "vi": ""
+    "vi": "ấn tượng",
+    "en": ""
   },
   {
     "hanzi": "瓜子",
     "pinyin": "guāzǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hạt dưa",
+    "en": ""
   },
   {
     "hanzi": "寡妇",
     "pinyin": "guǎfu",
-    "en": "",
-    "vi": ""
+    "vi": "góa phụ",
+    "en": ""
   },
   {
     "hanzi": "挂钩",
     "pinyin": "guàgōu",
-    "en": "",
-    "vi": ""
+    "vi": "treo lên",
+    "en": ""
   },
   {
     "hanzi": "挂念",
     "pinyin": "guàniàn",
-    "en": "",
-    "vi": ""
+    "vi": "cô",
+    "en": ""
   },
   {
     "hanzi": "挂失",
     "pinyin": "guàshī",
-    "en": "",
-    "vi": ""
+    "vi": "Báo mất",
+    "en": ""
   },
   {
     "hanzi": "乖",
     "pinyin": "guāi",
-    "en": "",
-    "vi": ""
+    "vi": "Tốt",
+    "en": ""
   },
   {
     "hanzi": "乖巧",
     "pinyin": "guāiqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Thông minh",
+    "en": ""
   },
   {
     "hanzi": "拐杖",
     "pinyin": "guǎizhàng",
-    "en": "",
-    "vi": ""
+    "vi": "cái nạng",
+    "en": ""
   },
   {
     "hanzi": "怪不得",
     "pinyin": "guàibude",
-    "en": "",
-    "vi": ""
+    "vi": "Không có gì ngạc nhiên",
+    "en": ""
   },
   {
     "hanzi": "怪物",
     "pinyin": "guàiwu",
-    "en": "",
-    "vi": ""
+    "vi": "quái vật",
+    "en": ""
   },
   {
     "hanzi": "怪异",
     "pinyin": "guàiyì",
-    "en": "",
-    "vi": ""
+    "vi": "kỳ quặc",
+    "en": ""
   },
   {
     "hanzi": "官兵",
     "pinyin": "guānbīng",
-    "en": "",
-    "vi": ""
+    "vi": "sĩ quan và binh sĩ",
+    "en": ""
   },
   {
     "hanzi": "棺材",
     "pinyin": "guāncai",
-    "en": "",
-    "vi": ""
+    "vi": "quan tài",
+    "en": ""
   },
   {
     "hanzi": "观测",
     "pinyin": "guāncè",
-    "en": "",
-    "vi": ""
+    "vi": "quan sát",
+    "en": ""
   },
   {
     "hanzi": "观感",
     "pinyin": "guāngǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Sự nhận thức",
+    "en": ""
   },
   {
     "hanzi": "关节",
     "pinyin": "guānjié",
-    "en": "",
-    "vi": ""
+    "vi": "chung",
+    "en": ""
   },
   {
     "hanzi": "官吏",
     "pinyin": "guānlì",
-    "en": "",
-    "vi": ""
+    "vi": "quan chức",
+    "en": ""
   },
   {
     "hanzi": "官僚",
     "pinyin": "guānliáo",
-    "en": "",
-    "vi": ""
+    "vi": "sự quan liêu",
+    "en": ""
   },
   {
     "hanzi": "观摩",
     "pinyin": "guānmó",
-    "en": "",
-    "vi": ""
+    "vi": "Quan sát",
+    "en": ""
   },
   {
     "hanzi": "关切",
     "pinyin": "guānqiè",
-    "en": "",
-    "vi": ""
+    "vi": "bận tâm",
+    "en": ""
   },
   {
     "hanzi": "关税",
     "pinyin": "guānshuì",
-    "en": "",
-    "vi": ""
+    "vi": "thuế quan",
+    "en": ""
   },
   {
     "hanzi": "官司",
     "pinyin": "guānsi",
-    "en": "",
-    "vi": ""
+    "vi": "vụ kiện",
+    "en": ""
   },
   {
     "hanzi": "关头",
     "pinyin": "guāntóu",
-    "en": "",
-    "vi": ""
+    "vi": "thời điểm quan trọng",
+    "en": ""
   },
   {
     "hanzi": "观望",
     "pinyin": "guānwàng",
-    "en": "",
-    "vi": ""
+    "vi": "chờ xem",
+    "en": ""
   },
   {
     "hanzi": "关照",
     "pinyin": "guānzhào",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "管家",
     "pinyin": "guǎnjiā",
-    "en": "",
-    "vi": ""
+    "vi": "quản gia",
+    "en": ""
   },
   {
     "hanzi": "管教",
     "pinyin": "guǎnjiào",
-    "en": "",
-    "vi": ""
+    "vi": "Kỷ luật",
+    "en": ""
   },
   {
     "hanzi": "管辖",
     "pinyin": "guǎnxiá",
-    "en": "",
-    "vi": ""
+    "vi": "Quyền tài phán",
+    "en": ""
   },
   {
     "hanzi": "管用",
     "pinyin": "guǎnyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Nó hoạt động",
+    "en": ""
   },
   {
     "hanzi": "惯",
     "pinyin": "guàn",
-    "en": "",
-    "vi": ""
+    "vi": "đã sử dụng",
+    "en": ""
   },
   {
     "hanzi": "灌",
     "pinyin": "guàn",
-    "en": "",
-    "vi": ""
+    "vi": "Đổ đầy",
+    "en": ""
   },
   {
     "hanzi": "贯彻",
     "pinyin": "guànchè",
-    "en": "",
-    "vi": ""
+    "vi": "thực hiện",
+    "en": ""
   },
   {
     "hanzi": "贯穿",
     "pinyin": "guànchuān",
-    "en": "",
-    "vi": ""
+    "vi": "thâm nhập",
+    "en": ""
   },
   {
     "hanzi": "灌溉",
     "pinyin": "guàngài",
-    "en": "",
-    "vi": ""
+    "vi": "tưới tiêu",
+    "en": ""
   },
   {
     "hanzi": "惯例",
     "pinyin": "guànlì",
-    "en": "",
-    "vi": ""
+    "vi": "quy ước",
+    "en": ""
   },
   {
     "hanzi": "灌输",
     "pinyin": "guànshū",
-    "en": "",
-    "vi": ""
+    "vi": "thấm nhuần",
+    "en": ""
   },
   {
     "hanzi": "贯通",
     "pinyin": "guàntōng",
-    "en": "",
-    "vi": ""
+    "vi": "thâm nhập",
+    "en": ""
   },
   {
     "hanzi": "罐头",
     "pinyin": "guàntou",
-    "en": "",
-    "vi": ""
+    "vi": "Có thể",
+    "en": ""
   },
   {
     "hanzi": "惯性",
     "pinyin": "guànxìng",
-    "en": "",
-    "vi": ""
+    "vi": "quán tính",
+    "en": ""
   },
   {
     "hanzi": "光彩",
     "pinyin": "guāngcǎi",
-    "en": "",
-    "vi": ""
+    "vi": "sự rực rỡ",
+    "en": ""
   },
   {
     "hanzi": "光顾",
     "pinyin": "guānggù",
-    "en": "",
-    "vi": ""
+    "vi": "bảo trợ",
+    "en": ""
   },
   {
     "hanzi": "光滑",
     "pinyin": "guānghuá",
-    "en": "",
-    "vi": ""
+    "vi": "trơn tru",
+    "en": ""
   },
   {
     "hanzi": "光环",
     "pinyin": "guānghuán",
-    "en": "",
-    "vi": ""
+    "vi": "hào quang",
+    "en": ""
   },
   {
     "hanzi": "光辉",
     "pinyin": "guānghuī",
-    "en": "",
-    "vi": ""
+    "vi": "sự rực rỡ",
+    "en": ""
   },
   {
     "hanzi": "光缆",
     "pinyin": "guānglǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Cáp quang",
+    "en": ""
   },
   {
     "hanzi": "光芒",
     "pinyin": "guāngmáng",
-    "en": "",
-    "vi": ""
+    "vi": "ánh sáng",
+    "en": ""
   },
   {
     "hanzi": "光明磊落",
     "pinyin": "guāngmíng-lěiluò",
-    "en": "",
-    "vi": ""
+    "vi": "ở trên ván",
+    "en": ""
   },
   {
     "hanzi": "光盘",
     "pinyin": "guāngpán",
-    "en": "",
-    "vi": ""
+    "vi": "đĩa CD",
+    "en": ""
   },
   {
     "hanzi": "光荣",
     "pinyin": "guāngróng",
-    "en": "",
-    "vi": ""
+    "vi": "vinh quang",
+    "en": ""
   },
   {
     "hanzi": "光泽",
     "pinyin": "guāngzé",
-    "en": "",
-    "vi": ""
+    "vi": "độ bóng",
+    "en": ""
   },
   {
     "hanzi": "广义",
     "pinyin": "guǎngyì",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩa rộng",
+    "en": ""
   },
   {
     "hanzi": "龟",
     "pinyin": "guī",
-    "en": "",
-    "vi": ""
+    "vi": "con rùa",
+    "en": ""
   },
   {
     "hanzi": "瑰宝",
     "pinyin": "guībǎo",
-    "en": "",
-    "vi": ""
+    "vi": "kho báu",
+    "en": ""
   },
   {
     "hanzi": "规格",
     "pinyin": "guīgé",
-    "en": "",
-    "vi": ""
+    "vi": "Đặc điểm kỹ thuật",
+    "en": ""
   },
   {
     "hanzi": "归根到底",
     "pinyin": "guīgēn-dàodǐ",
-    "en": "",
-    "vi": ""
+    "vi": "trong phân tích cuối cùng",
+    "en": ""
   },
   {
     "hanzi": "归结",
     "pinyin": "guījié",
-    "en": "",
-    "vi": ""
+    "vi": "đi xuống",
+    "en": ""
   },
   {
     "hanzi": "归来",
     "pinyin": "guīlái",
-    "en": "",
-    "vi": ""
+    "vi": "Trở lại",
+    "en": ""
   },
   {
     "hanzi": "归纳",
     "pinyin": "guīnà",
-    "en": "",
-    "vi": ""
+    "vi": "cảm ứng",
+    "en": ""
   },
   {
     "hanzi": "闺女",
     "pinyin": "guīnü",
-    "en": "",
-    "vi": ""
+    "vi": "con gái",
+    "en": ""
   },
   {
     "hanzi": "归属",
     "pinyin": "guīshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Thuộc về",
+    "en": ""
   },
   {
     "hanzi": "归宿",
     "pinyin": "guīsù",
-    "en": "",
-    "vi": ""
+    "vi": "điểm đến",
+    "en": ""
   },
   {
     "hanzi": "归于",
     "pinyin": "guīyú",
-    "en": "",
-    "vi": ""
+    "vi": "thuộc về",
+    "en": ""
   },
   {
     "hanzi": "规章",
     "pinyin": "guīzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "quy định",
+    "en": ""
   },
   {
     "hanzi": "鬼",
     "pinyin": "guǐ",
-    "en": "",
-    "vi": ""
+    "vi": "bóng ma",
+    "en": ""
   },
   {
     "hanzi": "轨迹",
     "pinyin": "guǐjì",
-    "en": "",
-    "vi": ""
+    "vi": "quỹ đạo",
+    "en": ""
   },
   {
     "hanzi": "诡计",
     "pinyin": "guǐjì",
-    "en": "",
-    "vi": ""
+    "vi": "lừa",
+    "en": ""
   },
   {
     "hanzi": "贵宾",
     "pinyin": "guìbīn",
-    "en": "",
-    "vi": ""
+    "vi": "VIP",
+    "en": ""
   },
   {
     "hanzi": "桂花",
     "pinyin": "guìhuā",
-    "en": "",
-    "vi": ""
+    "vi": "nước hoa Osmanthus",
+    "en": ""
   },
   {
     "hanzi": "柜台",
     "pinyin": "guìtái",
-    "en": "",
-    "vi": ""
+    "vi": "quầy tính tiền",
+    "en": ""
   },
   {
     "hanzi": "贵族",
     "pinyin": "guìzú",
-    "en": "",
-    "vi": ""
+    "vi": "cao quý",
+    "en": ""
   },
   {
     "hanzi": "滚动",
     "pinyin": "gǔndòng",
-    "en": "",
-    "vi": ""
+    "vi": "cuộn",
+    "en": ""
   },
   {
     "hanzi": "国防",
     "pinyin": "guófáng",
-    "en": "",
-    "vi": ""
+    "vi": "quốc phòng",
+    "en": ""
   },
   {
     "hanzi": "国徽",
     "pinyin": "guóhuī",
-    "en": "",
-    "vi": ""
+    "vi": "quốc huy",
+    "en": ""
   },
   {
     "hanzi": "国民",
     "pinyin": "guómín",
-    "en": "",
-    "vi": ""
+    "vi": "quốc gia",
+    "en": ""
   },
   {
     "hanzi": "国土",
     "pinyin": "guótǔ",
-    "en": "",
-    "vi": ""
+    "vi": "đất",
+    "en": ""
   },
   {
     "hanzi": "国务院",
     "pinyin": "guówùyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Hội đồng Nhà nước",
+    "en": ""
   },
   {
     "hanzi": "国学",
     "pinyin": "guóxué",
-    "en": "",
-    "vi": ""
+    "vi": "Nghiên cứu Trung Quốc",
+    "en": ""
   },
   {
     "hanzi": "国有",
     "pinyin": "guóyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "thuộc sở hữu nhà nước",
+    "en": ""
   },
   {
     "hanzi": "裹",
     "pinyin": "guǒ",
-    "en": "",
-    "vi": ""
+    "vi": "bọc",
+    "en": ""
   },
   {
     "hanzi": "果断",
     "pinyin": "guǒduàn",
-    "en": "",
-    "vi": ""
+    "vi": "quyết định",
+    "en": ""
   },
   {
     "hanzi": "果真",
     "pinyin": "guǒzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "Thực ra",
+    "en": ""
   },
   {
     "hanzi": "过意不去",
     "pinyin": "guò yì bú qù",
-    "en": "",
-    "vi": ""
+    "vi": "Lấy làm tiếc",
+    "en": ""
   },
   {
     "hanzi": "过半",
     "pinyin": "guòbàn",
-    "en": "",
-    "vi": ""
+    "vi": "Hơn một nửa",
+    "en": ""
   },
   {
     "hanzi": "过不去",
     "pinyin": "guòbuqù",
-    "en": "",
-    "vi": ""
+    "vi": "làm cho cuộc sống trở nên khó khăn",
+    "en": ""
   },
   {
     "hanzi": "过错",
     "pinyin": "guòcuò",
-    "en": "",
-    "vi": ""
+    "vi": "lỗi",
+    "en": ""
   },
   {
     "hanzi": "过道",
     "pinyin": "guòdào",
-    "en": "",
-    "vi": ""
+    "vi": "lối đi",
+    "en": ""
   },
   {
     "hanzi": "过关",
     "pinyin": "guòguān",
-    "en": "",
-    "vi": ""
+    "vi": "vượt qua",
+    "en": ""
   },
   {
     "hanzi": "过奖",
     "pinyin": "guòjiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "được trao giải",
+    "en": ""
   },
   {
     "hanzi": "过境",
     "pinyin": "guòjìng",
-    "en": "",
-    "vi": ""
+    "vi": "quá cảnh",
+    "en": ""
   },
   {
     "hanzi": "过量",
     "pinyin": "guòliàng",
-    "en": "",
-    "vi": ""
+    "vi": "thặng dư",
+    "en": ""
   },
   {
     "hanzi": "过滤",
     "pinyin": "guòlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "lọc",
+    "en": ""
   },
   {
     "hanzi": "过剩",
     "pinyin": "guòshèng",
-    "en": "",
-    "vi": ""
+    "vi": "thặng dư",
+    "en": ""
   },
   {
     "hanzi": "过失",
     "pinyin": "guòshī",
-    "en": "",
-    "vi": ""
+    "vi": "lỗi",
+    "en": ""
   },
   {
     "hanzi": "过头",
     "pinyin": "guòtóu",
-    "en": "",
-    "vi": ""
+    "vi": "quá mức",
+    "en": ""
   },
   {
     "hanzi": "过往",
     "pinyin": "guòwǎng",
-    "en": "",
-    "vi": ""
+    "vi": "quá khứ",
+    "en": ""
   },
   {
     "hanzi": "过问",
     "pinyin": "guòwèn",
-    "en": "",
-    "vi": ""
+    "vi": "hỏi",
+    "en": ""
   },
   {
     "hanzi": "过瘾",
     "pinyin": "guòyǐn",
-    "en": "",
-    "vi": ""
+    "vi": "thú vị",
+    "en": ""
   },
   {
     "hanzi": "过硬",
     "pinyin": "guòyìng",
-    "en": "",
-    "vi": ""
+    "vi": "Xuất sắc",
+    "en": ""
   },
   {
     "hanzi": "海报",
     "pinyin": "hǎibào",
-    "en": "",
-    "vi": ""
+    "vi": "áp phích",
+    "en": ""
   },
   {
     "hanzi": "海滨",
     "pinyin": "hǎibīn",
-    "en": "",
-    "vi": ""
+    "vi": "bờ biển",
+    "en": ""
   },
   {
     "hanzi": "海盗",
     "pinyin": "hǎidào",
-    "en": "",
-    "vi": ""
+    "vi": "cướp biển",
+    "en": ""
   },
   {
     "hanzi": "海军",
     "pinyin": "hǎijūn",
-    "en": "",
-    "vi": ""
+    "vi": "hải quân",
+    "en": ""
   },
   {
     "hanzi": "海量",
     "pinyin": "hǎiliàng",
-    "en": "",
-    "vi": ""
+    "vi": "To lớn",
+    "en": ""
   },
   {
     "hanzi": "海绵",
     "pinyin": "hǎimián",
-    "en": "",
-    "vi": ""
+    "vi": "miếng bọt biển",
+    "en": ""
   },
   {
     "hanzi": "海滩",
     "pinyin": "hǎitān",
-    "en": "",
-    "vi": ""
+    "vi": "bãi biển",
+    "en": ""
   },
   {
     "hanzi": "海豚",
     "pinyin": "hǎitún",
-    "en": "",
-    "vi": ""
+    "vi": "cá heo",
+    "en": ""
   },
   {
     "hanzi": "海湾",
     "pinyin": "hǎiwān",
-    "en": "",
-    "vi": ""
+    "vi": "vịnh",
+    "en": ""
   },
   {
     "hanzi": "海峡",
     "pinyin": "hǎixiá",
-    "en": "",
-    "vi": ""
+    "vi": "eo biển",
+    "en": ""
   },
   {
     "hanzi": "海啸",
     "pinyin": "hǎixiào",
-    "en": "",
-    "vi": ""
+    "vi": "sóng thần",
+    "en": ""
   },
   {
     "hanzi": "海运",
     "pinyin": "hǎiyùn",
-    "en": "",
-    "vi": ""
+    "vi": "vận chuyển",
+    "en": ""
   },
   {
     "hanzi": "海藻",
     "pinyin": "hǎizǎo",
-    "en": "",
-    "vi": ""
+    "vi": "rong biển",
+    "en": ""
   },
   {
     "hanzi": "害虫",
     "pinyin": "hàichóng",
-    "en": "",
-    "vi": ""
+    "vi": "loài gây hại",
+    "en": ""
   },
   {
     "hanzi": "骇人听闻",
     "pinyin": "hàiréntīngwén",
-    "en": "",
-    "vi": ""
+    "vi": "kinh khủng",
+    "en": ""
   },
   {
     "hanzi": "酣畅",
     "pinyin": "hānchàng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhiệt tình",
+    "en": ""
   },
   {
     "hanzi": "憨厚",
     "pinyin": "hānhòu",
-    "en": "",
-    "vi": ""
+    "vi": "trung thực",
+    "en": ""
   },
   {
     "hanzi": "酣睡",
     "pinyin": "hānshuì",
-    "en": "",
-    "vi": ""
+    "vi": "Ngủ ngon",
+    "en": ""
   },
   {
     "hanzi": "函",
     "pinyin": "hán",
-    "en": "",
-    "vi": ""
+    "vi": "thư",
+    "en": ""
   },
   {
     "hanzi": "寒带",
     "pinyin": "hándài",
-    "en": "",
-    "vi": ""
+    "vi": "vùng lạnh",
+    "en": ""
   },
   {
     "hanzi": "涵盖",
     "pinyin": "hángài",
-    "en": "",
-    "vi": ""
+    "vi": "Che phủ",
+    "en": ""
   },
   {
     "hanzi": "含糊",
     "pinyin": "hánhu",
-    "en": "",
-    "vi": ""
+    "vi": "mơ hồ",
+    "en": ""
   },
   {
     "hanzi": "含蓄",
     "pinyin": "hánxù",
-    "en": "",
-    "vi": ""
+    "vi": "ngầm",
+    "en": ""
   },
   {
     "hanzi": "寒暄",
     "pinyin": "hánxuān",
-    "en": "",
-    "vi": ""
+    "vi": "lời chào",
+    "en": ""
   },
   {
     "hanzi": "汉服",
     "pinyin": "Hànfú",
-    "en": "",
-    "vi": ""
+    "vi": "Hán phục",
+    "en": ""
   },
   {
     "hanzi": "汗马功劳",
     "pinyin": "hànmǎ-gōngláo",
-    "en": "",
-    "vi": ""
+    "vi": "sự đóng góp",
+    "en": ""
   },
   {
     "hanzi": "捍卫",
     "pinyin": "hànwèi",
-    "en": "",
-    "vi": ""
+    "vi": "phòng vệ",
+    "en": ""
   },
   {
     "hanzi": "夯实",
     "pinyin": "hāngshí",
-    "en": "",
-    "vi": ""
+    "vi": "Hợp nhất",
+    "en": ""
   },
   {
     "hanzi": "航海",
     "pinyin": "hánghǎi",
-    "en": "",
-    "vi": ""
+    "vi": "điều hướng",
+    "en": ""
   },
   {
     "hanzi": "行家",
     "pinyin": "hángjia",
-    "en": "",
-    "vi": ""
+    "vi": "chuyên gia",
+    "en": ""
   },
   {
     "hanzi": "行列",
     "pinyin": "hángliè",
-    "en": "",
-    "vi": ""
+    "vi": "cấp bậc",
+    "en": ""
   },
   {
     "hanzi": "行情",
     "pinyin": "hángqíng",
-    "en": "",
-    "vi": ""
+    "vi": "Báo giá",
+    "en": ""
   },
   {
     "hanzi": "航天",
     "pinyin": "hángtiān",
-    "en": "",
-    "vi": ""
+    "vi": "hàng không vũ trụ",
+    "en": ""
   },
   {
     "hanzi": "航天员",
     "pinyin": "hángtiānyuán",
-    "en": "",
-    "vi": ""
+    "vi": "phi hành gia",
+    "en": ""
   },
   {
     "hanzi": "航行",
     "pinyin": "hángxíng",
-    "en": "",
-    "vi": ""
+    "vi": "đi thuyền",
+    "en": ""
   },
   {
     "hanzi": "航运",
     "pinyin": "hángyùn",
-    "en": "",
-    "vi": ""
+    "vi": "vận chuyển",
+    "en": ""
   },
   {
     "hanzi": "豪华",
     "pinyin": "háohuá",
-    "en": "",
-    "vi": ""
+    "vi": "sang trọng",
+    "en": ""
   },
   {
     "hanzi": "豪迈",
     "pinyin": "háomài",
-    "en": "",
-    "vi": ""
+    "vi": "anh hùng",
+    "en": ""
   },
   {
     "hanzi": "好比",
     "pinyin": "hǎobǐ",
-    "en": "",
-    "vi": ""
+    "vi": "giống",
+    "en": ""
   },
   {
     "hanzi": "好歹",
     "pinyin": "hǎodǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Dù sao",
+    "en": ""
   },
   {
     "hanzi": "好受",
     "pinyin": "hǎoshòu",
-    "en": "",
-    "vi": ""
+    "vi": "Cảm thấy tốt",
+    "en": ""
   },
   {
     "hanzi": "好说",
     "pinyin": "hǎoshuō",
-    "en": "",
-    "vi": ""
+    "vi": "dễ nói",
+    "en": ""
   },
   {
     "hanzi": "好似",
     "pinyin": "hǎosì",
-    "en": "",
-    "vi": ""
+    "vi": "Có vẻ như",
+    "en": ""
   },
   {
     "hanzi": "好心",
     "pinyin": "hǎoxīn",
-    "en": "",
-    "vi": ""
+    "vi": "tốt bụng",
+    "en": ""
   },
   {
     "hanzi": "好意",
     "pinyin": "hǎoyì",
-    "en": "",
-    "vi": ""
+    "vi": "lòng tốt",
+    "en": ""
   },
   {
     "hanzi": "好在",
     "pinyin": "hǎozài",
-    "en": "",
-    "vi": ""
+    "vi": "May mắn thay",
+    "en": ""
   },
   {
     "hanzi": "耗",
     "pinyin": "hào",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu thụ",
+    "en": ""
   },
   {
     "hanzi": "号称",
     "pinyin": "hàochēng",
-    "en": "",
-    "vi": ""
+    "vi": "Được biết đến như",
+    "en": ""
   },
   {
     "hanzi": "耗费",
     "pinyin": "hàofèi",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu thụ",
+    "en": ""
   },
   {
     "hanzi": "浩瀚",
     "pinyin": "hàohàn",
-    "en": "",
-    "vi": ""
+    "vi": "rộng lớn",
+    "en": ""
   },
   {
     "hanzi": "浩劫",
     "pinyin": "hàojié",
-    "en": "",
-    "vi": ""
+    "vi": "thảm họa",
+    "en": ""
   },
   {
     "hanzi": "好胜",
     "pinyin": "hàoshèng",
-    "en": "",
-    "vi": ""
+    "vi": "Cạnh tranh",
+    "en": ""
   },
   {
     "hanzi": "耗时",
     "pinyin": "hàoshí",
-    "en": "",
-    "vi": ""
+    "vi": "tốn thời gian",
+    "en": ""
   },
   {
     "hanzi": "呵",
     "pinyin": "hē",
-    "en": "",
-    "vi": ""
+    "vi": "Ồ",
+    "en": ""
   },
   {
     "hanzi": "呵护",
     "pinyin": "hēhù",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "何",
     "pinyin": "hé",
-    "en": "",
-    "vi": ""
+    "vi": "Gì",
+    "en": ""
   },
   {
     "hanzi": "和2",
     "pinyin": "hé",
-    "en": "",
-    "vi": ""
+    "vi": "và 2",
+    "en": ""
   },
   {
     "hanzi": "核",
     "pinyin": "hé",
-    "en": "",
-    "vi": ""
+    "vi": "hạt nhân",
+    "en": ""
   },
   {
     "hanzi": "和蔼",
     "pinyin": "hé’ǎi",
-    "en": "",
-    "vi": ""
+    "vi": "loại",
+    "en": ""
   },
   {
     "hanzi": "何必",
     "pinyin": "hébì",
-    "en": "",
-    "vi": ""
+    "vi": "Tại sao phải bận tâm",
+    "en": ""
   },
   {
     "hanzi": "核查",
     "pinyin": "héchá",
-    "en": "",
-    "vi": ""
+    "vi": "Xác minh",
+    "en": ""
   },
   {
     "hanzi": "合唱",
     "pinyin": "héchàng",
-    "en": "",
-    "vi": ""
+    "vi": "điệp khúc",
+    "en": ""
   },
   {
     "hanzi": "何等",
     "pinyin": "héděng",
-    "en": "",
-    "vi": ""
+    "vi": "Làm sao",
+    "en": ""
   },
   {
     "hanzi": "核电站",
     "pinyin": "hédiànzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "nhà máy điện hạt nhân",
+    "en": ""
   },
   {
     "hanzi": "核对",
     "pinyin": "héduì",
-    "en": "",
-    "vi": ""
+    "vi": "Kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "和好",
     "pinyin": "héhǎo",
-    "en": "",
-    "vi": ""
+    "vi": "hòa giải",
+    "en": ""
   },
   {
     "hanzi": "合乎",
     "pinyin": "héhū",
-    "en": "",
-    "vi": ""
+    "vi": "phù hợp với",
+    "en": ""
   },
   {
     "hanzi": "荷花",
     "pinyin": "héhuā",
-    "en": "",
-    "vi": ""
+    "vi": "hoa sen",
+    "en": ""
   },
   {
     "hanzi": "合伙",
     "pinyin": "héhuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "quan hệ đối tác",
+    "en": ""
   },
   {
     "hanzi": "合计",
     "pinyin": "héjì",
-    "en": "",
-    "vi": ""
+    "vi": "tổng cộng",
+    "en": ""
   },
   {
     "hanzi": "和解",
     "pinyin": "héjiě",
-    "en": "",
-    "vi": ""
+    "vi": "hòa giải",
+    "en": ""
   },
   {
     "hanzi": "何苦",
     "pinyin": "hékǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Tại sao phải bận tâm",
+    "en": ""
   },
   {
     "hanzi": "何况",
     "pinyin": "hékuàng",
-    "en": "",
-    "vi": ""
+    "vi": "Hơn nữa",
+    "en": ""
   },
   {
     "hanzi": "禾苗",
     "pinyin": "hémiáo",
-    "en": "",
-    "vi": ""
+    "vi": "cây cỏ",
+    "en": ""
   },
   {
     "hanzi": "和睦",
     "pinyin": "hémù",
-    "en": "",
-    "vi": ""
+    "vi": "hòa hợp",
+    "en": ""
   },
   {
     "hanzi": "核能",
     "pinyin": "hénéng",
-    "en": "",
-    "vi": ""
+    "vi": "năng lượng hạt nhân",
+    "en": ""
   },
   {
     "hanzi": "河畔",
     "pinyin": "hépàn",
-    "en": "",
-    "vi": ""
+    "vi": "bờ sông",
+    "en": ""
   },
   {
     "hanzi": "和平共处",
     "pinyin": "hépíng gòngchǔ",
-    "en": "",
-    "vi": ""
+    "vi": "chung sống hòa bình",
+    "en": ""
   },
   {
     "hanzi": "和气",
     "pinyin": "héqi",
-    "en": "",
-    "vi": ""
+    "vi": "hài hòa",
+    "en": ""
   },
   {
     "hanzi": "和尚",
     "pinyin": "héshang",
-    "en": "",
-    "vi": ""
+    "vi": "nhà sư",
+    "en": ""
   },
   {
     "hanzi": "核实",
     "pinyin": "héshí",
-    "en": "",
-    "vi": ""
+    "vi": "Xác minh",
+    "en": ""
   },
   {
     "hanzi": "核桃",
     "pinyin": "hétao",
-    "en": "",
-    "vi": ""
+    "vi": "quả óc chó",
+    "en": ""
   },
   {
     "hanzi": "核武器",
     "pinyin": "héwǔqì",
-    "en": "",
-    "vi": ""
+    "vi": "vũ khí hạt nhân",
+    "en": ""
   },
   {
     "hanzi": "合约",
     "pinyin": "héyuē",
-    "en": "",
-    "vi": ""
+    "vi": "hợp đồng",
+    "en": ""
   },
   {
     "hanzi": "何止",
     "pinyin": "hézhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều hơn",
+    "en": ""
   },
   {
     "hanzi": "合资",
     "pinyin": "hézī",
-    "en": "",
-    "vi": ""
+    "vi": "liên doanh",
+    "en": ""
   },
   {
     "hanzi": "喝彩",
     "pinyin": "hècǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Chúc mừng",
+    "en": ""
   },
   {
     "hanzi": "贺电",
     "pinyin": "hèdiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tin nhắn chúc mừng",
+    "en": ""
   },
   {
     "hanzi": "鹤立鸡群",
     "pinyin": "hèlìjīqún",
-    "en": "",
-    "vi": ""
+    "vi": "Nổi bật giữa đám đông",
+    "en": ""
   },
   {
     "hanzi": "赫然",
     "pinyin": "hèrán",
-    "en": "",
-    "vi": ""
+    "vi": "gây sốc",
+    "en": ""
   },
   {
     "hanzi": "贺信",
     "pinyin": "hèxìn",
-    "en": "",
-    "vi": ""
+    "vi": "Thư chúc mừng",
+    "en": ""
   },
   {
     "hanzi": "黑客",
     "pinyin": "hēikè",
-    "en": "",
-    "vi": ""
+    "vi": "tin tặc",
+    "en": ""
   },
   {
     "hanzi": "黑马",
     "pinyin": "hēimǎ",
-    "en": "",
-    "vi": ""
+    "vi": "ngựa đen",
+    "en": ""
   },
   {
     "hanzi": "黑名单",
     "pinyin": "hēimíngdān",
-    "en": "",
-    "vi": ""
+    "vi": "danh sách đen",
+    "en": ""
   },
   {
     "hanzi": "恨不得",
     "pinyin": "hènbude",
-    "en": "",
-    "vi": ""
+    "vi": "không thể chờ đợi",
+    "en": ""
   },
   {
     "hanzi": "哼",
     "pinyin": "hēng",
-    "en": "",
-    "vi": ""
+    "vi": "khịt mũi",
+    "en": ""
   },
   {
     "hanzi": "横",
     "pinyin": "héng",
-    "en": "",
-    "vi": ""
+    "vi": "nằm ngang",
+    "en": ""
   },
   {
     "hanzi": "横向",
     "pinyin": "héngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Nằm ngang",
+    "en": ""
   },
   {
     "hanzi": "恒星",
     "pinyin": "héngxīng",
-    "en": "",
-    "vi": ""
+    "vi": "ngôi sao",
+    "en": ""
   },
   {
     "hanzi": "轰",
     "pinyin": "hōng",
-    "en": "",
-    "vi": ""
+    "vi": "bùng nổ",
+    "en": ""
   },
   {
     "hanzi": "烘",
     "pinyin": "hōng",
-    "en": "",
-    "vi": ""
+    "vi": "nướng",
+    "en": ""
   },
   {
     "hanzi": "烘焙",
     "pinyin": "hōngbèi",
-    "en": "",
-    "vi": ""
+    "vi": "nướng bánh",
+    "en": ""
   },
   {
     "hanzi": "轰动",
     "pinyin": "hōngdòng",
-    "en": "",
-    "vi": ""
+    "vi": "cảm giác",
+    "en": ""
   },
   {
     "hanzi": "烘干",
     "pinyin": "hōnggān",
-    "en": "",
-    "vi": ""
+    "vi": "sấy khô",
+    "en": ""
   },
   {
     "hanzi": "哄堂大笑",
     "pinyin": "hōngtáng-dàxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng cười",
+    "en": ""
   },
   {
     "hanzi": "烘托",
     "pinyin": "hōngtuō",
-    "en": "",
-    "vi": ""
+    "vi": "giấy bạc",
+    "en": ""
   },
   {
     "hanzi": "轰炸",
     "pinyin": "hōngzhà",
-    "en": "",
-    "vi": ""
+    "vi": "đánh bom",
+    "en": ""
   },
   {
     "hanzi": "宏观",
     "pinyin": "hóngguān",
-    "en": "",
-    "vi": ""
+    "vi": "Vĩ mô",
+    "en": ""
   },
   {
     "hanzi": "红火",
     "pinyin": "hónghuo",
-    "en": "",
-    "vi": ""
+    "vi": "thịnh vượng",
+    "en": ""
   },
   {
     "hanzi": "红利",
     "pinyin": "hónglì",
-    "en": "",
-    "vi": ""
+    "vi": "cổ tức",
+    "en": ""
   },
   {
     "hanzi": "洪亮",
     "pinyin": "hóngliàng",
-    "en": "",
-    "vi": ""
+    "vi": "Ồn ào",
+    "en": ""
   },
   {
     "hanzi": "红扑扑",
     "pinyin": "hóngpūpū",
-    "en": "",
-    "vi": ""
+    "vi": "đỏ mặt",
+    "en": ""
   },
   {
     "hanzi": "红润",
     "pinyin": "hóngrùn",
-    "en": "",
-    "vi": ""
+    "vi": "hồng hào",
+    "en": ""
   },
   {
     "hanzi": "红薯",
     "pinyin": "hóngshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "khoai lang",
+    "en": ""
   },
   {
     "hanzi": "宏伟",
     "pinyin": "hóngwěi",
-    "en": "",
-    "vi": ""
+    "vi": "tráng lệ",
+    "en": ""
   },
   {
     "hanzi": "弘扬",
     "pinyin": "hóngyáng",
-    "en": "",
-    "vi": ""
+    "vi": "tiến về phía trước",
+    "en": ""
   },
   {
     "hanzi": "哄",
     "pinyin": "hǒng",
-    "en": "",
-    "vi": ""
+    "vi": "dỗ dành",
+    "en": ""
   },
   {
     "hanzi": "喉咙",
     "pinyin": "hóulóng",
-    "en": "",
-    "vi": ""
+    "vi": "Họng",
+    "en": ""
   },
   {
     "hanzi": "吼",
     "pinyin": "hǒu",
-    "en": "",
-    "vi": ""
+    "vi": "kêu la",
+    "en": ""
   },
   {
     "hanzi": "后备",
     "pinyin": "hòubèi",
-    "en": "",
-    "vi": ""
+    "vi": "dự trữ",
+    "en": ""
   },
   {
     "hanzi": "后备箱",
     "pinyin": "hòubèixiāng",
-    "en": "",
-    "vi": ""
+    "vi": "thân cây",
+    "en": ""
   },
   {
     "hanzi": "厚道",
     "pinyin": "hòudao",
-    "en": "",
-    "vi": ""
+    "vi": "loại",
+    "en": ""
   },
   {
     "hanzi": "后盾",
     "pinyin": "hòudùn",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "后顾之忧",
     "pinyin": "hòugùzhīyōu",
-    "en": "",
-    "vi": ""
+    "vi": "Đừng lo lắng",
+    "en": ""
   },
   {
     "hanzi": "后勤",
     "pinyin": "hòuqín",
-    "en": "",
-    "vi": ""
+    "vi": "hậu cần",
+    "en": ""
   },
   {
     "hanzi": "后世",
     "pinyin": "hòushì",
-    "en": "",
-    "vi": ""
+    "vi": "thế hệ sau",
+    "en": ""
   },
   {
     "hanzi": "后台",
     "pinyin": "hòutái",
-    "en": "",
-    "vi": ""
+    "vi": "Hậu trường",
+    "en": ""
   },
   {
     "hanzi": "后续",
     "pinyin": "hòuxù",
-    "en": "",
-    "vi": ""
+    "vi": "Theo dõi",
+    "en": ""
   },
   {
     "hanzi": "候选人",
     "pinyin": "hòuxuǎnrén",
-    "en": "",
-    "vi": ""
+    "vi": "ứng viên",
+    "en": ""
   },
   {
     "hanzi": "后裔",
     "pinyin": "hòuyì",
-    "en": "",
-    "vi": ""
+    "vi": "Con cháu",
+    "en": ""
   },
   {
     "hanzi": "后遗症",
     "pinyin": "hòuyízhèng",
-    "en": "",
-    "vi": ""
+    "vi": "di chứng",
+    "en": ""
   },
   {
     "hanzi": "呼",
     "pinyin": "hū",
-    "en": "",
-    "vi": ""
+    "vi": "gọi ",
+    "en": ""
   },
   {
     "hanzi": "呼唤",
     "pinyin": "hūhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "gọi ",
+    "en": ""
   },
   {
     "hanzi": "呼救",
     "pinyin": "hūjiù",
-    "en": "",
-    "vi": ""
+    "vi": "kêu cứu",
+    "en": ""
   },
   {
     "hanzi": "忽冷忽热",
     "pinyin": "hūlěng-hūrè",
-    "en": "",
-    "vi": ""
+    "vi": "nóng và lạnh",
+    "en": ""
   },
   {
     "hanzi": "呼声",
     "pinyin": "hūshēng",
-    "en": "",
-    "vi": ""
+    "vi": "tiếng nói",
+    "en": ""
   },
   {
     "hanzi": "呼啸",
     "pinyin": "hūxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng hú",
+    "en": ""
   },
   {
     "hanzi": "呼应",
     "pinyin": "hūyìng",
-    "en": "",
-    "vi": ""
+    "vi": "tiếng vọng",
+    "en": ""
   },
   {
     "hanzi": "忽悠",
     "pinyin": "hūyou",
-    "en": "",
-    "vi": ""
+    "vi": "lừa dối",
+    "en": ""
   },
   {
     "hanzi": "呼吁",
     "pinyin": "hūyù",
-    "en": "",
-    "vi": ""
+    "vi": "gọi ",
+    "en": ""
   },
   {
     "hanzi": "糊",
     "pinyin": "hú",
-    "en": "",
-    "vi": ""
+    "vi": "dán",
+    "en": ""
   },
   {
     "hanzi": "狐狸",
     "pinyin": "húli",
-    "en": "",
-    "vi": ""
+    "vi": "cáo",
+    "en": ""
   },
   {
     "hanzi": "胡乱",
     "pinyin": "húluàn",
-    "en": "",
-    "vi": ""
+    "vi": "tình cờ",
+    "en": ""
   },
   {
     "hanzi": "胡闹",
     "pinyin": "húnào",
-    "en": "",
-    "vi": ""
+    "vi": "Vô nghĩa",
+    "en": ""
   },
   {
     "hanzi": "湖泊",
     "pinyin": "húpō",
-    "en": "",
-    "vi": ""
+    "vi": "hồ",
+    "en": ""
   },
   {
     "hanzi": "胡说",
     "pinyin": "húshuō",
-    "en": "",
-    "vi": ""
+    "vi": "điều vô nghĩa",
+    "en": ""
   },
   {
     "hanzi": "胡思乱想",
     "pinyin": "húsī-luànxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "có một con ong trong mũ của một người",
+    "en": ""
   },
   {
     "hanzi": "糊涂",
     "pinyin": "hútu",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "护",
     "pinyin": "hù",
-    "en": "",
-    "vi": ""
+    "vi": "bảo vệ",
+    "en": ""
   },
   {
     "hanzi": "互补",
     "pinyin": "hùbǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bổ sung",
+    "en": ""
   },
   {
     "hanzi": "护理",
     "pinyin": "hùlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "花瓣",
     "pinyin": "huābàn",
-    "en": "",
-    "vi": ""
+    "vi": "cánh hoa",
+    "en": ""
   },
   {
     "hanzi": "花卉",
     "pinyin": "huāhuì",
-    "en": "",
-    "vi": ""
+    "vi": "hoa",
+    "en": ""
   },
   {
     "hanzi": "花蕾",
     "pinyin": "huālěi",
-    "en": "",
-    "vi": ""
+    "vi": "nụ",
+    "en": ""
   },
   {
     "hanzi": "花纹",
     "pinyin": "huāwén",
-    "en": "",
-    "vi": ""
+    "vi": "mẫu",
+    "en": ""
   },
   {
     "hanzi": "花样",
     "pinyin": "huāyàng",
-    "en": "",
-    "vi": ""
+    "vi": "thủ thuật",
+    "en": ""
   },
   {
     "hanzi": "划不来",
     "pinyin": "huábulái",
-    "en": "",
-    "vi": ""
+    "vi": "Không đáng",
+    "en": ""
   },
   {
     "hanzi": "划得来",
     "pinyin": "huádelái",
-    "en": "",
-    "vi": ""
+    "vi": "Rất đáng",
+    "en": ""
   },
   {
     "hanzi": "滑稽",
     "pinyin": "huájī",
-    "en": "",
-    "vi": ""
+    "vi": "buồn cười",
+    "en": ""
   },
   {
     "hanzi": "华丽",
     "pinyin": "huálì",
-    "en": "",
-    "vi": ""
+    "vi": "lộng lẫy",
+    "en": ""
   },
   {
     "hanzi": "华侨",
     "pinyin": "huáqiáo",
-    "en": "",
-    "vi": ""
+    "vi": "người Hoa ở nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "哗然",
     "pinyin": "huárán",
-    "en": "",
-    "vi": ""
+    "vi": "sự náo động",
+    "en": ""
   },
   {
     "hanzi": "华人",
     "pinyin": "huárén",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng Trung",
+    "en": ""
   },
   {
     "hanzi": "划算",
     "pinyin": "huásuàn",
-    "en": "",
-    "vi": ""
+    "vi": "thỏa thuận tốt",
+    "en": ""
   },
   {
     "hanzi": "滑梯",
     "pinyin": "huátī",
-    "en": "",
-    "vi": ""
+    "vi": "cầu trượt",
+    "en": ""
   },
   {
     "hanzi": "华裔",
     "pinyin": "huáyì",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng Trung",
+    "en": ""
   },
   {
     "hanzi": "画册",
     "pinyin": "huàcè",
-    "en": "",
-    "vi": ""
+    "vi": "tập ảnh",
+    "en": ""
   },
   {
     "hanzi": "化肥",
     "pinyin": "huàféi",
-    "en": "",
-    "vi": ""
+    "vi": "phân bón",
+    "en": ""
   },
   {
     "hanzi": "化解",
     "pinyin": "huàjiě",
-    "en": "",
-    "vi": ""
+    "vi": "hòa tan",
+    "en": ""
   },
   {
     "hanzi": "画龙点睛",
     "pinyin": "huàlóng-diǎnjīng",
-    "en": "",
-    "vi": ""
+    "vi": "Sự hoàn thiện",
+    "en": ""
   },
   {
     "hanzi": "化身",
     "pinyin": "huàshēn",
-    "en": "",
-    "vi": ""
+    "vi": "hóa thân",
+    "en": ""
   },
   {
     "hanzi": "画蛇添足",
     "pinyin": "huàshé-tiānzú",
-    "en": "",
-    "vi": ""
+    "vi": "thừa",
+    "en": ""
   },
   {
     "hanzi": "划时代",
     "pinyin": "huàshídài",
-    "en": "",
-    "vi": ""
+    "vi": "tạo nên kỷ nguyên",
+    "en": ""
   },
   {
     "hanzi": "化险为夷",
     "pinyin": "huàxiǎnwéiyí",
-    "en": "",
-    "vi": ""
+    "vi": "Biến nguy hiểm thành an toàn",
+    "en": ""
   },
   {
     "hanzi": "化验",
     "pinyin": "huàyàn",
-    "en": "",
-    "vi": ""
+    "vi": "xét nghiệm",
+    "en": ""
   },
   {
     "hanzi": "话语",
     "pinyin": "huàyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Diễn ngôn",
+    "en": ""
   },
   {
     "hanzi": "怀抱",
     "pinyin": "huáibào",
-    "en": "",
-    "vi": ""
+    "vi": "ôm",
+    "en": ""
   },
   {
     "hanzi": "怀旧",
     "pinyin": "huáijiù",
-    "en": "",
-    "vi": ""
+    "vi": "nỗi nhớ",
+    "en": ""
   },
   {
     "hanzi": "槐树",
     "pinyin": "huáishù",
-    "en": "",
-    "vi": ""
+    "vi": "cây châu chấu",
+    "en": ""
   },
   {
     "hanzi": "欢呼",
     "pinyin": "huānhū",
-    "en": "",
-    "vi": ""
+    "vi": "reo hò",
+    "en": ""
   },
   {
     "hanzi": "欢聚",
     "pinyin": "huānjù",
-    "en": "",
-    "vi": ""
+    "vi": "Tập hợp",
+    "en": ""
   },
   {
     "hanzi": "欢快",
     "pinyin": "huānkuài",
-    "en": "",
-    "vi": ""
+    "vi": "Vui vẻ",
+    "en": ""
   },
   {
     "hanzi": "欢声笑语",
     "pinyin": "huānshēng-xiàoyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng cười",
+    "en": ""
   },
   {
     "hanzi": "环比",
     "pinyin": "huánbǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hàng tháng",
+    "en": ""
   },
   {
     "hanzi": "环球",
     "pinyin": "huánqiú",
-    "en": "",
-    "vi": ""
+    "vi": "toàn cầu",
+    "en": ""
   },
   {
     "hanzi": "环绕",
     "pinyin": "huánrào",
-    "en": "",
-    "vi": ""
+    "vi": "bao quanh",
+    "en": ""
   },
   {
     "hanzi": "缓",
     "pinyin": "huǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chậm",
+    "en": ""
   },
   {
     "hanzi": "缓和",
     "pinyin": "huǎnhé",
-    "en": "",
-    "vi": ""
+    "vi": "xoa dịu",
+    "en": ""
   },
   {
     "hanzi": "焕发",
     "pinyin": "huànfā",
-    "en": "",
-    "vi": ""
+    "vi": "ánh sáng",
+    "en": ""
   },
   {
     "hanzi": "幻觉",
     "pinyin": "huànjué",
-    "en": "",
-    "vi": ""
+    "vi": "ảo giác",
+    "en": ""
   },
   {
     "hanzi": "唤起",
     "pinyin": "huànqǐ",
-    "en": "",
-    "vi": ""
+    "vi": "khơi dậy",
+    "en": ""
   },
   {
     "hanzi": "换取",
     "pinyin": "huànqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "trao đổi",
+    "en": ""
   },
   {
     "hanzi": "焕然一新",
     "pinyin": "huànrán-yìxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Thương hiệu mới",
+    "en": ""
   },
   {
     "hanzi": "唤醒",
     "pinyin": "huànxǐng",
-    "en": "",
-    "vi": ""
+    "vi": "thức dậy",
+    "en": ""
   },
   {
     "hanzi": "幻影",
     "pinyin": "huànyǐng",
-    "en": "",
-    "vi": ""
+    "vi": "ma",
+    "en": ""
   },
   {
     "hanzi": "荒",
     "pinyin": "huāng",
-    "en": "",
-    "vi": ""
+    "vi": "thiếu",
+    "en": ""
   },
   {
     "hanzi": "慌",
     "pinyin": "huāng",
-    "en": "",
-    "vi": ""
+    "vi": "hoảng loạn",
+    "en": ""
   },
   {
     "hanzi": "荒诞",
     "pinyin": "huāngdàn",
-    "en": "",
-    "vi": ""
+    "vi": "vô lý",
+    "en": ""
   },
   {
     "hanzi": "荒凉",
     "pinyin": "huāngliáng",
-    "en": "",
-    "vi": ""
+    "vi": "hoang vắng",
+    "en": ""
   },
   {
     "hanzi": "慌乱",
     "pinyin": "huāngluàn",
-    "en": "",
-    "vi": ""
+    "vi": "hoảng loạn",
+    "en": ""
   },
   {
     "hanzi": "慌忙",
     "pinyin": "huāngmáng",
-    "en": "",
-    "vi": ""
+    "vi": "vội vã",
+    "en": ""
   },
   {
     "hanzi": "荒谬",
     "pinyin": "huāngmiù",
-    "en": "",
-    "vi": ""
+    "vi": "vô lý",
+    "en": ""
   },
   {
     "hanzi": "荒唐",
     "pinyin": "huāngtáng",
-    "en": "",
-    "vi": ""
+    "vi": "vô lý",
+    "en": ""
   },
   {
     "hanzi": "慌张",
     "pinyin": "huāngzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "hoảng loạn",
+    "en": ""
   },
   {
     "hanzi": "皇宫",
     "pinyin": "huánggōng",
-    "en": "",
-    "vi": ""
+    "vi": "cung điện hoàng gia",
+    "en": ""
   },
   {
     "hanzi": "皇后",
     "pinyin": "huánghòu",
-    "en": "",
-    "vi": ""
+    "vi": "Nữ hoàng",
+    "en": ""
   },
   {
     "hanzi": "黄昏",
     "pinyin": "huánghūn",
-    "en": "",
-    "vi": ""
+    "vi": "hoàng hôn",
+    "en": ""
   },
   {
     "hanzi": "皇上",
     "pinyin": "huángshang",
-    "en": "",
-    "vi": ""
+    "vi": "hoàng đế",
+    "en": ""
   },
   {
     "hanzi": "皇室",
     "pinyin": "huángshì",
-    "en": "",
-    "vi": ""
+    "vi": "gia đình hoàng gia",
+    "en": ""
   },
   {
     "hanzi": "晃",
     "pinyin": "huǎng",
-    "en": "",
-    "vi": ""
+    "vi": "lắc",
+    "en": ""
   },
   {
     "hanzi": "谎话",
     "pinyin": "huǎnghuà",
-    "en": "",
-    "vi": ""
+    "vi": "nói dối",
+    "en": ""
   },
   {
     "hanzi": "恍然大悟",
     "pinyin": "huǎngrán-dàwù",
-    "en": "",
-    "vi": ""
+    "vi": "Đột nhiên nhận ra",
+    "en": ""
   },
   {
     "hanzi": "谎言",
     "pinyin": "huǎngyán",
-    "en": "",
-    "vi": ""
+    "vi": "nói dối",
+    "en": ""
   },
   {
     "hanzi": "晃",
     "pinyin": "huàng",
-    "en": "",
-    "vi": ""
+    "vi": "lắc",
+    "en": ""
   },
   {
     "hanzi": "晃荡",
     "pinyin": "huàngdang",
-    "en": "",
-    "vi": ""
+    "vi": "đá",
+    "en": ""
   },
   {
     "hanzi": "辉煌",
     "pinyin": "huīhuáng",
-    "en": "",
-    "vi": ""
+    "vi": "xuất sắc",
+    "en": ""
   },
   {
     "hanzi": "挥霍",
     "pinyin": "huīhuò",
-    "en": "",
-    "vi": ""
+    "vi": "phung phí",
+    "en": ""
   },
   {
     "hanzi": "挥舞",
     "pinyin": "huīwǔ",
-    "en": "",
-    "vi": ""
+    "vi": "sóng",
+    "en": ""
   },
   {
     "hanzi": "回避",
     "pinyin": "huíbì",
-    "en": "",
-    "vi": ""
+    "vi": "tránh xa",
+    "en": ""
   },
   {
     "hanzi": "回归",
     "pinyin": "huíguī",
-    "en": "",
-    "vi": ""
+    "vi": "trở lại",
+    "en": ""
   },
   {
     "hanzi": "回合",
     "pinyin": "huíhé",
-    "en": "",
-    "vi": ""
+    "vi": "tròn",
+    "en": ""
   },
   {
     "hanzi": "回馈",
     "pinyin": "huíkuì",
-    "en": "",
-    "vi": ""
+    "vi": "Trả lại",
+    "en": ""
   },
   {
     "hanzi": "回落",
     "pinyin": "huíluò",
-    "en": "",
-    "vi": ""
+    "vi": "lùi lại",
+    "en": ""
   },
   {
     "hanzi": "回升",
     "pinyin": "huíshēng",
-    "en": "",
-    "vi": ""
+    "vi": "bật lại",
+    "en": ""
   },
   {
     "hanzi": "回首",
     "pinyin": "huíshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn lại",
+    "en": ""
   },
   {
     "hanzi": "回味",
     "pinyin": "huíwèi",
-    "en": "",
-    "vi": ""
+    "vi": "dư vị",
+    "en": ""
   },
   {
     "hanzi": "回想",
     "pinyin": "huíxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nhớ lại",
+    "en": ""
   },
   {
     "hanzi": "回忆录",
     "pinyin": "huíyìlù",
-    "en": "",
-    "vi": ""
+    "vi": "Hồi ký",
+    "en": ""
   },
   {
     "hanzi": "回应",
     "pinyin": "huíyìng",
-    "en": "",
-    "vi": ""
+    "vi": "trả lời",
+    "en": ""
   },
   {
     "hanzi": "毁",
     "pinyin": "huǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hủy hoại",
+    "en": ""
   },
   {
     "hanzi": "悔恨",
     "pinyin": "huǐhèn",
-    "en": "",
-    "vi": ""
+    "vi": "sự ăn năn",
+    "en": ""
   },
   {
     "hanzi": "毁坏",
     "pinyin": "huǐhuài",
-    "en": "",
-    "vi": ""
+    "vi": "sự phá hủy",
+    "en": ""
   },
   {
     "hanzi": "毁灭",
     "pinyin": "huǐmiè",
-    "en": "",
-    "vi": ""
+    "vi": "hủy hoại",
+    "en": ""
   },
   {
     "hanzi": "会场",
     "pinyin": "huìchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "địa điểm",
+    "en": ""
   },
   {
     "hanzi": "汇合",
     "pinyin": "huìhé",
-    "en": "",
-    "vi": ""
+    "vi": "hội tụ",
+    "en": ""
   },
   {
     "hanzi": "汇集",
     "pinyin": "huìjí",
-    "en": "",
-    "vi": ""
+    "vi": "bộ sưu tập",
+    "en": ""
   },
   {
     "hanzi": "汇聚",
     "pinyin": "huìjù",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung",
+    "en": ""
   },
   {
     "hanzi": "贿赂",
     "pinyin": "huìlù",
-    "en": "",
-    "vi": ""
+    "vi": "hối lộ",
+    "en": ""
   },
   {
     "hanzi": "会面",
     "pinyin": "huìmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "gặp",
+    "en": ""
   },
   {
     "hanzi": "绘声绘色",
     "pinyin": "huìshēng-huìsè",
-    "en": "",
-    "vi": ""
+    "vi": "sống động như thật",
+    "en": ""
   },
   {
     "hanzi": "会谈",
     "pinyin": "huìtán",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc nói chuyện",
+    "en": ""
   },
   {
     "hanzi": "会晤",
     "pinyin": "huìwù",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc họp",
+    "en": ""
   },
   {
     "hanzi": "会意",
     "pinyin": "huìyì",
-    "en": "",
-    "vi": ""
+    "vi": "Hiểu",
+    "en": ""
   },
   {
     "hanzi": "会诊",
     "pinyin": "huìzhěn",
-    "en": "",
-    "vi": ""
+    "vi": "tư vấn",
+    "en": ""
   },
   {
     "hanzi": "绘制",
     "pinyin": "huìzhì",
-    "en": "",
-    "vi": ""
+    "vi": "vẽ tranh",
+    "en": ""
   },
   {
     "hanzi": "昏",
     "pinyin": "hūn",
-    "en": "",
-    "vi": ""
+    "vi": "ngất xỉu",
+    "en": ""
   },
   {
     "hanzi": "荤",
     "pinyin": "hūn",
-    "en": "",
-    "vi": ""
+    "vi": "thịt",
+    "en": ""
   },
   {
     "hanzi": "昏迷",
     "pinyin": "hūnmí",
-    "en": "",
-    "vi": ""
+    "vi": "hôn mê",
+    "en": ""
   },
   {
     "hanzi": "婚纱",
     "pinyin": "hūnshā",
-    "en": "",
-    "vi": ""
+    "vi": "váy cưới",
+    "en": ""
   },
   {
     "hanzi": "浑身",
     "pinyin": "húnshēn",
-    "en": "",
-    "vi": ""
+    "vi": "khắp nơi",
+    "en": ""
   },
   {
     "hanzi": "混淆",
     "pinyin": "hùnxiáo",
-    "en": "",
-    "vi": ""
+    "vi": "Bối rối",
+    "en": ""
   },
   {
     "hanzi": "混浊",
     "pinyin": "hùnzhuó",
-    "en": "",
-    "vi": ""
+    "vi": "đục",
+    "en": ""
   },
   {
     "hanzi": "豁",
     "pinyin": "huō",
-    "en": "",
-    "vi": ""
+    "vi": "dự phòng",
+    "en": ""
   },
   {
     "hanzi": "豁出去",
     "pinyin": "huōchuqu",
-    "en": "",
-    "vi": ""
+    "vi": "mạo hiểm mọi thứ",
+    "en": ""
   },
   {
     "hanzi": "活该",
     "pinyin": "huógāi",
-    "en": "",
-    "vi": ""
+    "vi": "Xứng đáng",
+    "en": ""
   },
   {
     "hanzi": "活期",
     "pinyin": "huóqī",
-    "en": "",
-    "vi": ""
+    "vi": "hiện hành",
+    "en": ""
   },
   {
     "hanzi": "火爆",
     "pinyin": "huǒbào",
-    "en": "",
-    "vi": ""
+    "vi": "nóng",
+    "en": ""
   },
   {
     "hanzi": "火候",
     "pinyin": "huǒhou",
-    "en": "",
-    "vi": ""
+    "vi": "nhiệt",
+    "en": ""
   },
   {
     "hanzi": "火花",
     "pinyin": "huǒhuā",
-    "en": "",
-    "vi": ""
+    "vi": "tia lửa",
+    "en": ""
   },
   {
     "hanzi": "火箭",
     "pinyin": "huǒjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Tên lửa",
+    "en": ""
   },
   {
     "hanzi": "火炬",
     "pinyin": "huǒjù",
-    "en": "",
-    "vi": ""
+    "vi": "ngọn đuốc",
+    "en": ""
   },
   {
     "hanzi": "火辣辣",
     "pinyin": "huǒlàlà",
-    "en": "",
-    "vi": ""
+    "vi": "Nóng và cay",
+    "en": ""
   },
   {
     "hanzi": "火热",
     "pinyin": "huǒrè",
-    "en": "",
-    "vi": ""
+    "vi": "bốc lửa",
+    "en": ""
   },
   {
     "hanzi": "火山",
     "pinyin": "huǒshān",
-    "en": "",
-    "vi": ""
+    "vi": "núi lửa",
+    "en": ""
   },
   {
     "hanzi": "伙食",
     "pinyin": "huǒshí",
-    "en": "",
-    "vi": ""
+    "vi": "đồ ăn",
+    "en": ""
   },
   {
     "hanzi": "火速",
     "pinyin": "huǒsù",
-    "en": "",
-    "vi": ""
+    "vi": "Nhanh",
+    "en": ""
   },
   {
     "hanzi": "火腿",
     "pinyin": "huǒtuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Giăm bông",
+    "en": ""
   },
   {
     "hanzi": "火焰",
     "pinyin": "huǒyàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngọn lửa",
+    "en": ""
   },
   {
     "hanzi": "豁达",
     "pinyin": "huòdá",
-    "en": "",
-    "vi": ""
+    "vi": "Cởi mở",
+    "en": ""
   },
   {
     "hanzi": "或多或少",
     "pinyin": "huòduō-huòshǎo",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều hay ít",
+    "en": ""
   },
   {
     "hanzi": "祸害",
     "pinyin": "huòhai",
-    "en": "",
-    "vi": ""
+    "vi": "Thảm họa",
+    "en": ""
   },
   {
     "hanzi": "获悉",
     "pinyin": "huòxī",
-    "en": "",
-    "vi": ""
+    "vi": "đã học",
+    "en": ""
   },
   {
     "hanzi": "货运",
     "pinyin": "huòyùn",
-    "en": "",
-    "vi": ""
+    "vi": "vận chuyển hàng hóa",
+    "en": ""
   },
   {
     "hanzi": "积",
     "pinyin": "jī",
-    "en": "",
-    "vi": ""
+    "vi": "sản phẩm",
+    "en": ""
   },
   {
     "hanzi": "基本功",
     "pinyin": "jīběngōng",
-    "en": "",
-    "vi": ""
+    "vi": "Kỹ năng cơ bản",
+    "en": ""
   },
   {
     "hanzi": "机舱",
     "pinyin": "jīcāng",
-    "en": "",
-    "vi": ""
+    "vi": "cabin",
+    "en": ""
   },
   {
     "hanzi": "基层",
     "pinyin": "jīcéng",
-    "en": "",
-    "vi": ""
+    "vi": "Cấp cơ sở",
+    "en": ""
   },
   {
     "hanzi": "激荡",
     "pinyin": "jīdàng",
-    "en": "",
-    "vi": ""
+    "vi": "sự kích động",
+    "en": ""
   },
   {
     "hanzi": "积淀",
     "pinyin": "jīdiàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự tích lũy",
+    "en": ""
   },
   {
     "hanzi": "机动",
     "pinyin": "jīdòng",
-    "en": "",
-    "vi": ""
+    "vi": "có thể điều động được",
+    "en": ""
   },
   {
     "hanzi": "肌肤",
     "pinyin": "jīfū",
-    "en": "",
-    "vi": ""
+    "vi": "da",
+    "en": ""
   },
   {
     "hanzi": "机关",
     "pinyin": "jīguān",
-    "en": "",
-    "vi": ""
+    "vi": "cơ quan",
+    "en": ""
   },
   {
     "hanzi": "激光",
     "pinyin": "jīguāng",
-    "en": "",
-    "vi": ""
+    "vi": "tia laze",
+    "en": ""
   },
   {
     "hanzi": "激化",
     "pinyin": "jīhuà",
-    "en": "",
-    "vi": ""
+    "vi": "tăng cường",
+    "en": ""
   },
   {
     "hanzi": "激活",
     "pinyin": "jīhuó",
-    "en": "",
-    "vi": ""
+    "vi": "kích hoạt",
+    "en": ""
   },
   {
     "hanzi": "基建",
     "pinyin": "jījiàn",
-    "en": "",
-    "vi": ""
+    "vi": "cơ sở hạ tầng",
+    "en": ""
   },
   {
     "hanzi": "基金会",
     "pinyin": "jījīnhuì",
-    "en": "",
-    "vi": ""
+    "vi": "sự thành lập",
+    "en": ""
   },
   {
     "hanzi": "机灵",
     "pinyin": "jīling",
-    "en": "",
-    "vi": ""
+    "vi": "thông minh",
+    "en": ""
   },
   {
     "hanzi": "机密",
     "pinyin": "jīmì",
-    "en": "",
-    "vi": ""
+    "vi": "bảo mật",
+    "en": ""
   },
   {
     "hanzi": "激起",
     "pinyin": "jīqǐ",
-    "en": "",
-    "vi": ""
+    "vi": "khơi dậy",
+    "en": ""
   },
   {
     "hanzi": "激素",
     "pinyin": "jīsù",
-    "en": "",
-    "vi": ""
+    "vi": "nội tiết tố",
+    "en": ""
   },
   {
     "hanzi": "讥笑",
     "pinyin": "jīxiào",
-    "en": "",
-    "vi": ""
+    "vi": "chế nhạo",
+    "en": ""
   },
   {
     "hanzi": "畸形",
     "pinyin": "jīxíng",
-    "en": "",
-    "vi": ""
+    "vi": "sự biến dạng",
+    "en": ""
   },
   {
     "hanzi": "积蓄",
     "pinyin": "jīxù",
-    "en": "",
-    "vi": ""
+    "vi": "tiết kiệm",
+    "en": ""
   },
   {
     "hanzi": "基于",
     "pinyin": "jīyú",
-    "en": "",
-    "vi": ""
+    "vi": "dựa trên",
+    "en": ""
   },
   {
     "hanzi": "积攒",
     "pinyin": "jīzǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tích lũy",
+    "en": ""
   },
   {
     "hanzi": "激增",
     "pinyin": "jīzēng",
-    "en": "",
-    "vi": ""
+    "vi": "dâng trào",
+    "en": ""
   },
   {
     "hanzi": "机智",
     "pinyin": "jīzhì",
-    "en": "",
-    "vi": ""
+    "vi": "hóm hỉnh",
+    "en": ""
   },
   {
     "hanzi": "基准",
     "pinyin": "jīzhǔn",
-    "en": "",
-    "vi": ""
+    "vi": "điểm chuẩn",
+    "en": ""
   },
   {
     "hanzi": "即",
     "pinyin": "jí",
-    "en": "",
-    "vi": ""
+    "vi": "Ngay lập tức",
+    "en": ""
   },
   {
     "hanzi": "级别",
     "pinyin": "jíbié",
-    "en": "",
-    "vi": ""
+    "vi": "mức độ",
+    "en": ""
   },
   {
     "hanzi": "急促",
     "pinyin": "jícù",
-    "en": "",
-    "vi": ""
+    "vi": "nhanh",
+    "en": ""
   },
   {
     "hanzi": "极度",
     "pinyin": "jídù",
-    "en": "",
-    "vi": ""
+    "vi": "vô cùng",
+    "en": ""
   },
   {
     "hanzi": "嫉妒",
     "pinyin": "jídù",
-    "en": "",
-    "vi": ""
+    "vi": "ghen tỵ",
+    "en": ""
   },
   {
     "hanzi": "急功近利",
     "pinyin": "jígōng-jìnlì",
-    "en": "",
-    "vi": ""
+    "vi": "Mong muốn thành công nhanh chóng",
+    "en": ""
   },
   {
     "hanzi": "籍贯",
     "pinyin": "jíguàn",
-    "en": "",
-    "vi": ""
+    "vi": "Nơi sinh",
+    "en": ""
   },
   {
     "hanzi": "集会",
     "pinyin": "jíhuì",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc họp",
+    "en": ""
   },
   {
     "hanzi": "急剧",
     "pinyin": "jíjù",
-    "en": "",
-    "vi": ""
+    "vi": "sắc",
+    "en": ""
   },
   {
     "hanzi": "即可",
     "pinyin": "jíkě",
-    "en": "",
-    "vi": ""
+    "vi": "Thế thôi",
+    "en": ""
   },
   {
     "hanzi": "吉利",
     "pinyin": "jílì",
-    "en": "",
-    "vi": ""
+    "vi": "tốt lành",
+    "en": ""
   },
   {
     "hanzi": "极力",
     "pinyin": "jílì",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy cố gắng hết sức",
+    "en": ""
   },
   {
     "hanzi": "急迫",
     "pinyin": "jípò",
-    "en": "",
-    "vi": ""
+    "vi": "cấp bách",
+    "en": ""
   },
   {
     "hanzi": "汲取",
     "pinyin": "jíqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "hấp thụ",
+    "en": ""
   },
   {
     "hanzi": "即日",
     "pinyin": "jírì",
-    "en": "",
-    "vi": ""
+    "vi": "Hôm nay",
+    "en": ""
   },
   {
     "hanzi": "即时",
     "pinyin": "jíshí",
-    "en": "",
-    "vi": ""
+    "vi": "ngay lập tức",
+    "en": ""
   },
   {
     "hanzi": "集市",
     "pinyin": "jíshì",
-    "en": "",
-    "vi": ""
+    "vi": "chợ",
+    "en": ""
   },
   {
     "hanzi": "棘手",
     "pinyin": "jíshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Khôn lanh",
+    "en": ""
   },
   {
     "hanzi": "集思广益",
     "pinyin": "jísī-guǎngyì",
-    "en": "",
-    "vi": ""
+    "vi": "Động não ý tưởng",
+    "en": ""
   },
   {
     "hanzi": "吉他",
     "pinyin": "jítā",
-    "en": "",
-    "vi": ""
+    "vi": "đàn ghi-ta",
+    "en": ""
   },
   {
     "hanzi": "极限",
     "pinyin": "jíxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "giới hạn",
+    "en": ""
   },
   {
     "hanzi": "吉祥物",
     "pinyin": "jíxiángwù",
-    "en": "",
-    "vi": ""
+    "vi": "linh vật",
+    "en": ""
   },
   {
     "hanzi": "急性",
     "pinyin": "jíxìng",
-    "en": "",
-    "vi": ""
+    "vi": "cấp tính",
+    "en": ""
   },
   {
     "hanzi": "急于",
     "pinyin": "jíyú",
-    "en": "",
-    "vi": ""
+    "vi": "háo hức",
+    "en": ""
   },
   {
     "hanzi": "急于求成",
     "pinyin": "jíyú-qiúchéng",
-    "en": "",
-    "vi": ""
+    "vi": "háo hức thành công",
+    "en": ""
   },
   {
     "hanzi": "急躁",
     "pinyin": "jízào",
-    "en": "",
-    "vi": ""
+    "vi": "thiếu kiên nhẫn",
+    "en": ""
   },
   {
     "hanzi": "及早",
     "pinyin": "jízǎo",
-    "en": "",
-    "vi": ""
+    "vi": "sớm",
+    "en": ""
   },
   {
     "hanzi": "急中生智",
     "pinyin": "jízhōng-shēngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Từ sự cấp bách đến trí tuệ",
+    "en": ""
   },
   {
     "hanzi": "集装箱",
     "pinyin": "jízhuāngxiāng",
-    "en": "",
-    "vi": ""
+    "vi": "thùng chứa",
+    "en": ""
   },
   {
     "hanzi": "集资",
     "pinyin": "jízī",
-    "en": "",
-    "vi": ""
+    "vi": "Gây quỹ",
+    "en": ""
   },
   {
     "hanzi": "脊梁",
     "pinyin": "jǐliáng",
-    "en": "",
-    "vi": ""
+    "vi": "xương sống",
+    "en": ""
   },
   {
     "hanzi": "挤压",
     "pinyin": "jǐyā",
-    "en": "",
-    "vi": ""
+    "vi": "phun ra",
+    "en": ""
   },
   {
     "hanzi": "计",
     "pinyin": "jì",
-    "en": "",
-    "vi": ""
+    "vi": "đếm",
+    "en": ""
   },
   {
     "hanzi": "忌",
     "pinyin": "jì",
-    "en": "",
-    "vi": ""
+    "vi": "tránh xa",
+    "en": ""
   },
   {
     "hanzi": "剂",
     "pinyin": "jì",
-    "en": "",
-    "vi": ""
+    "vi": "đại lý",
+    "en": ""
   },
   {
     "hanzi": "继",
     "pinyin": "jì",
-    "en": "",
-    "vi": ""
+    "vi": "theo",
+    "en": ""
   },
   {
     "hanzi": "祭",
     "pinyin": "jì",
-    "en": "",
-    "vi": ""
+    "vi": "hy sinh",
+    "en": ""
   },
   {
     "hanzi": "暨",
     "pinyin": "jì",
-    "en": "",
-    "vi": ""
+    "vi": "Và",
+    "en": ""
   },
   {
     "hanzi": "继而",
     "pinyin": "jì’ér",
-    "en": "",
-    "vi": ""
+    "vi": "Sau đó",
+    "en": ""
   },
   {
     "hanzi": "计策",
     "pinyin": "jìcè",
-    "en": "",
-    "vi": ""
+    "vi": "kế hoạch",
+    "en": ""
   },
   {
     "hanzi": "祭奠",
     "pinyin": "jìdiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tỏ lòng tôn kính",
+    "en": ""
   },
   {
     "hanzi": "忌妒",
     "pinyin": "jìdu",
-    "en": "",
-    "vi": ""
+    "vi": "ghen tị",
+    "en": ""
   },
   {
     "hanzi": "继父",
     "pinyin": "jìfù",
-    "en": "",
-    "vi": ""
+    "vi": "cha dượng",
+    "en": ""
   },
   {
     "hanzi": "记号",
     "pinyin": "jìhao",
-    "en": "",
-    "vi": ""
+    "vi": "đánh dấu",
+    "en": ""
   },
   {
     "hanzi": "忌讳",
     "pinyin": "jìhuì",
-    "en": "",
-    "vi": ""
+    "vi": "điều cấm kỵ",
+    "en": ""
   },
   {
     "hanzi": "计较",
     "pinyin": "jìjiào",
-    "en": "",
-    "vi": ""
+    "vi": "Quan tâm đến",
+    "en": ""
   },
   {
     "hanzi": "寂静",
     "pinyin": "jìjìng",
-    "en": "",
-    "vi": ""
+    "vi": "im lặng",
+    "en": ""
   },
   {
     "hanzi": "忌又",
     "pinyin": "jìkǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Tránh lại",
+    "en": ""
   },
   {
     "hanzi": "剂量",
     "pinyin": "jìliàng",
-    "en": "",
-    "vi": ""
+    "vi": "liều lượng",
+    "en": ""
   },
   {
     "hanzi": "继母",
     "pinyin": "jìmǔ",
-    "en": "",
-    "vi": ""
+    "vi": "mẹ kế",
+    "en": ""
   },
   {
     "hanzi": "纪念碑",
     "pinyin": "jìniànbēi",
-    "en": "",
-    "vi": ""
+    "vi": "đài kỷ niệm",
+    "en": ""
   },
   {
     "hanzi": "纪实",
     "pinyin": "jìshí",
-    "en": "",
-    "vi": ""
+    "vi": "Phim tài liệu",
+    "en": ""
   },
   {
     "hanzi": "祭祀",
     "pinyin": "jìsì",
-    "en": "",
-    "vi": ""
+    "vi": "hy sinh",
+    "en": ""
   },
   {
     "hanzi": "寄托",
     "pinyin": "jìtuō",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn dinh dưỡng",
+    "en": ""
   },
   {
     "hanzi": "迹象",
     "pinyin": "jìxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "dấu hiệu",
+    "en": ""
   },
   {
     "hanzi": "绩效",
     "pinyin": "jìxiào",
-    "en": "",
-    "vi": ""
+    "vi": "hiệu suất",
+    "en": ""
   },
   {
     "hanzi": "记性",
     "pinyin": "jìxing",
-    "en": "",
-    "vi": ""
+    "vi": "ký ức",
+    "en": ""
   },
   {
     "hanzi": "纪要",
     "pinyin": "jìyào",
-    "en": "",
-    "vi": ""
+    "vi": "bản tóm tắt",
+    "en": ""
   },
   {
     "hanzi": "记忆犹新",
     "pinyin": "jìyì-yóuxīn",
-    "en": "",
-    "vi": ""
+    "vi": "vẫn còn tươi trong ký ức",
+    "en": ""
   },
   {
     "hanzi": "家伙",
     "pinyin": "jiāhuo",
-    "en": "",
-    "vi": ""
+    "vi": "chàng trai",
+    "en": ""
   },
   {
     "hanzi": "家教",
     "pinyin": "jiājiào",
-    "en": "",
-    "vi": ""
+    "vi": "Gia sư",
+    "en": ""
   },
   {
     "hanzi": "佳节",
     "pinyin": "jiājié",
-    "en": "",
-    "vi": ""
+    "vi": "lễ hội",
+    "en": ""
   },
   {
     "hanzi": "加紧",
     "pinyin": "jiājǐn",
-    "en": "",
-    "vi": ""
+    "vi": "tăng cường",
+    "en": ""
   },
   {
     "hanzi": "家境",
     "pinyin": "jiājìng",
-    "en": "",
-    "vi": ""
+    "vi": "nền tảng gia đình",
+    "en": ""
   },
   {
     "hanzi": "加盟",
     "pinyin": "jiāméng",
-    "en": "",
-    "vi": ""
+    "vi": "Tham gia",
+    "en": ""
   },
   {
     "hanzi": "嘉年华",
     "pinyin": "jiāniánhuá",
-    "en": "",
-    "vi": ""
+    "vi": "lễ hội",
+    "en": ""
   },
   {
     "hanzi": "家禽",
     "pinyin": "jiāqín",
-    "en": "",
-    "vi": ""
+    "vi": "gia cầm",
+    "en": ""
   },
   {
     "hanzi": "家世",
     "pinyin": "jiāshì",
-    "en": "",
-    "vi": ""
+    "vi": "Bối cảnh gia đình",
+    "en": ""
   },
   {
     "hanzi": "佳肴",
     "pinyin": "jiāyáo",
-    "en": "",
-    "vi": ""
+    "vi": "Món ăn ngon",
+    "en": ""
   },
   {
     "hanzi": "家用",
     "pinyin": "jiāyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Sử dụng trong gia đình",
+    "en": ""
   },
   {
     "hanzi": "家喻户晓",
     "pinyin": "jiāyù-hùxiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "tên hộ gia đình",
+    "en": ""
   },
   {
     "hanzi": "夹杂",
     "pinyin": "jiāzá",
-    "en": "",
-    "vi": ""
+    "vi": "hỗn hợp",
+    "en": ""
   },
   {
     "hanzi": "家政",
     "pinyin": "jiāzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "dọn phòng",
+    "en": ""
   },
   {
     "hanzi": "加之",
     "pinyin": "jiāzhī",
-    "en": "",
-    "vi": ""
+    "vi": "cộng thêm",
+    "en": ""
   },
   {
     "hanzi": "夹子",
     "pinyin": "jiāzi",
-    "en": "",
-    "vi": ""
+    "vi": "cái kẹp",
+    "en": ""
   },
   {
     "hanzi": "家族",
     "pinyin": "jiāzú",
-    "en": "",
-    "vi": ""
+    "vi": "gia đình",
+    "en": ""
   },
   {
     "hanzi": "假定",
     "pinyin": "jiǎdìng",
-    "en": "",
-    "vi": ""
+    "vi": "giả định",
+    "en": ""
   },
   {
     "hanzi": "假冒",
     "pinyin": "jiǎmào",
-    "en": "",
-    "vi": ""
+    "vi": "hàng giả",
+    "en": ""
   },
   {
     "hanzi": "假使",
     "pinyin": "jiǎshǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nếu như",
+    "en": ""
   },
   {
     "hanzi": "假装",
     "pinyin": "jiǎzhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "giả vờ",
+    "en": ""
   },
   {
     "hanzi": "驾",
     "pinyin": "jià",
-    "en": "",
-    "vi": ""
+    "vi": "lái xe",
+    "en": ""
   },
   {
     "hanzi": "架势",
     "pinyin": "jiàshi",
-    "en": "",
-    "vi": ""
+    "vi": "tư thế",
+    "en": ""
   },
   {
     "hanzi": "价位",
     "pinyin": "jiàwèi",
-    "en": "",
-    "vi": ""
+    "vi": "giá ",
+    "en": ""
   },
   {
     "hanzi": "驾驭",
     "pinyin": "jiàyù",
-    "en": "",
-    "vi": ""
+    "vi": "điều khiển",
+    "en": ""
   },
   {
     "hanzi": "价值观",
     "pinyin": "jiàzhíguān",
-    "en": "",
-    "vi": ""
+    "vi": "giá trị",
+    "en": ""
   },
   {
     "hanzi": "嫁妆",
     "pinyin": "jiàzhuang",
-    "en": "",
-    "vi": ""
+    "vi": "của hồi môn",
+    "en": ""
   },
   {
     "hanzi": "架子",
     "pinyin": "jiàzi",
-    "en": "",
-    "vi": ""
+    "vi": "cái kệ",
+    "en": ""
   },
   {
     "hanzi": "兼",
     "pinyin": "jiān",
-    "en": "",
-    "vi": ""
+    "vi": "đồng thời",
+    "en": ""
   },
   {
     "hanzi": "煎",
     "pinyin": "jiān",
-    "en": "",
-    "vi": ""
+    "vi": "chiên rán",
+    "en": ""
   },
   {
     "hanzi": "煎熬",
     "pinyin": "jiān’áo",
-    "en": "",
-    "vi": ""
+    "vi": "sự dày vò",
+    "en": ""
   },
   {
     "hanzi": "监察",
     "pinyin": "jiānchá",
-    "en": "",
-    "vi": ""
+    "vi": "giám sát",
+    "en": ""
   },
   {
     "hanzi": "尖端",
     "pinyin": "jiānduān",
-    "en": "",
-    "vi": ""
+    "vi": "mẹo",
+    "en": ""
   },
   {
     "hanzi": "肩负",
     "pinyin": "jiānfù",
-    "en": "",
-    "vi": ""
+    "vi": "vai",
+    "en": ""
   },
   {
     "hanzi": "兼顾",
     "pinyin": "jiāngù",
-    "en": "",
-    "vi": ""
+    "vi": "tính đến",
+    "en": ""
   },
   {
     "hanzi": "监管",
     "pinyin": "jiānguǎn",
-    "en": "",
-    "vi": ""
+    "vi": "giám sát",
+    "en": ""
   },
   {
     "hanzi": "坚果",
     "pinyin": "jiānguǒ",
-    "en": "",
-    "vi": ""
+    "vi": "hạt",
+    "en": ""
   },
   {
     "hanzi": "监护",
     "pinyin": "jiānhù",
-    "en": "",
-    "vi": ""
+    "vi": "quyền giám hộ",
+    "en": ""
   },
   {
     "hanzi": "艰巨",
     "pinyin": "jiānjù",
-    "en": "",
-    "vi": ""
+    "vi": "khó ",
+    "en": ""
   },
   {
     "hanzi": "监控",
     "pinyin": "jiānkòng",
-    "en": "",
-    "vi": ""
+    "vi": "màn hình",
+    "en": ""
   },
   {
     "hanzi": "歼灭",
     "pinyin": "jiānmiè",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu diệt",
+    "en": ""
   },
   {
     "hanzi": "坚韧",
     "pinyin": "jiānrèn",
-    "en": "",
-    "vi": ""
+    "vi": "sự kiên trì",
+    "en": ""
   },
   {
     "hanzi": "兼任",
     "pinyin": "jiānrèn",
-    "en": "",
-    "vi": ""
+    "vi": "đồng thời",
+    "en": ""
   },
   {
     "hanzi": "兼容",
     "pinyin": "jiānróng",
-    "en": "",
-    "vi": ""
+    "vi": "tương thích",
+    "en": ""
   },
   {
     "hanzi": "尖锐",
     "pinyin": "jiānruì",
-    "en": "",
-    "vi": ""
+    "vi": "sắc",
+    "en": ""
   },
   {
     "hanzi": "坚实",
     "pinyin": "jiānshí",
-    "en": "",
-    "vi": ""
+    "vi": "chất rắn",
+    "en": ""
   },
   {
     "hanzi": "监视",
     "pinyin": "jiānshì",
-    "en": "",
-    "vi": ""
+    "vi": "màn hình",
+    "en": ""
   },
   {
     "hanzi": "坚守",
     "pinyin": "jiānshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "giữ chặt",
+    "en": ""
   },
   {
     "hanzi": "艰险",
     "pinyin": "jiānxiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Khó khăn và nguy hiểm",
+    "en": ""
   },
   {
     "hanzi": "坚信",
     "pinyin": "jiānxìn",
-    "en": "",
-    "vi": ""
+    "vi": "tin tưởng chắc chắn",
+    "en": ""
   },
   {
     "hanzi": "监狱",
     "pinyin": "jiānyù",
-    "en": "",
-    "vi": ""
+    "vi": "nhà tù",
+    "en": ""
   },
   {
     "hanzi": "奸诈",
     "pinyin": "jiānzhà",
-    "en": "",
-    "vi": ""
+    "vi": "nguy hiểm",
+    "en": ""
   },
   {
     "hanzi": "拣",
     "pinyin": "jiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "nhặt",
+    "en": ""
   },
   {
     "hanzi": "剪彩",
     "pinyin": "jiǎncǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Cắt băng",
+    "en": ""
   },
   {
     "hanzi": "检察",
     "pinyin": "jiǎnchá",
-    "en": "",
-    "vi": ""
+    "vi": "truy tố",
+    "en": ""
   },
   {
     "hanzi": "简称",
     "pinyin": "jiǎnchēng",
-    "en": "",
-    "vi": ""
+    "vi": "viết tắt",
+    "en": ""
   },
   {
     "hanzi": "简短",
     "pinyin": "jiǎnduǎn",
-    "en": "",
-    "vi": ""
+    "vi": "ngắn",
+    "en": ""
   },
   {
     "hanzi": "减负",
     "pinyin": "jiǎnfù",
-    "en": "",
-    "vi": ""
+    "vi": "giảm bớt gánh nặng",
+    "en": ""
   },
   {
     "hanzi": "剪辑",
     "pinyin": "jiǎnjí",
-    "en": "",
-    "vi": ""
+    "vi": "cái kẹp",
+    "en": ""
   },
   {
     "hanzi": "简洁",
     "pinyin": "jiǎnjié",
-    "en": "",
-    "vi": ""
+    "vi": "ngắn gọn",
+    "en": ""
   },
   {
     "hanzi": "简练",
     "pinyin": "jiǎnliàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngắn gọn",
+    "en": ""
   },
   {
     "hanzi": "简陋",
     "pinyin": "jiǎnlòu",
-    "en": "",
-    "vi": ""
+    "vi": "Đơn giản",
+    "en": ""
   },
   {
     "hanzi": "减免",
     "pinyin": "jiǎnmiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "miễn trừ",
+    "en": ""
   },
   {
     "hanzi": "检讨",
     "pinyin": "jiǎntǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Ôn tập",
+    "en": ""
   },
   {
     "hanzi": "简体字",
     "pinyin": "jiǎntǐzì",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng Trung giản thể",
+    "en": ""
   },
   {
     "hanzi": "减退",
     "pinyin": "jiǎntuì",
-    "en": "",
-    "vi": ""
+    "vi": "giảm bớt",
+    "en": ""
   },
   {
     "hanzi": "简要",
     "pinyin": "jiǎnyào",
-    "en": "",
-    "vi": ""
+    "vi": "ngắn gọn",
+    "en": ""
   },
   {
     "hanzi": "简易",
     "pinyin": "jiǎnyì",
-    "en": "",
-    "vi": ""
+    "vi": "đơn giản",
+    "en": ""
   },
   {
     "hanzi": "贱",
     "pinyin": "jiàn",
-    "en": "",
-    "vi": ""
+    "vi": "rẻ",
+    "en": ""
   },
   {
     "hanzi": "溅",
     "pinyin": "jiàn",
-    "en": "",
-    "vi": ""
+    "vi": "giật gân",
+    "en": ""
   },
   {
     "hanzi": "鉴别",
     "pinyin": "jiànbié",
-    "en": "",
-    "vi": ""
+    "vi": "nhận dạng",
+    "en": ""
   },
   {
     "hanzi": "间谍",
     "pinyin": "jiàndié",
-    "en": "",
-    "vi": ""
+    "vi": "điệp viên",
+    "en": ""
   },
   {
     "hanzi": "间断",
     "pinyin": "jiànduàn",
-    "en": "",
-    "vi": ""
+    "vi": "Không liên tục",
+    "en": ""
   },
   {
     "hanzi": "见多识广",
     "pinyin": "jiànduō-shíguǎng",
-    "en": "",
-    "vi": ""
+    "vi": "thông tin tốt",
+    "en": ""
   },
   {
     "hanzi": "见解",
     "pinyin": "jiànjiě",
-    "en": "",
-    "vi": ""
+    "vi": "ý kiến",
+    "en": ""
   },
   {
     "hanzi": "见利忘义",
     "pinyin": "jiànlì-wàngyì",
-    "en": "",
-    "vi": ""
+    "vi": "Cầu lợi mà quên đi lẽ phải của mình",
+    "en": ""
   },
   {
     "hanzi": "健美",
     "pinyin": "jiànměi",
-    "en": "",
-    "vi": ""
+    "vi": "thể hình",
+    "en": ""
   },
   {
     "hanzi": "见仁见智",
     "pinyin": "jiànrén-jiànzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Ý kiến ​​​​khác nhau",
+    "en": ""
   },
   {
     "hanzi": "鉴赏",
     "pinyin": "jiànshǎng",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá cao",
+    "en": ""
   },
   {
     "hanzi": "见识",
     "pinyin": "jiànshi",
-    "en": "",
-    "vi": ""
+    "vi": "kinh nghiệm",
+    "en": ""
   },
   {
     "hanzi": "建树",
     "pinyin": "jiànshù",
-    "en": "",
-    "vi": ""
+    "vi": "lập thành tích",
+    "en": ""
   },
   {
     "hanzi": "践踏",
     "pinyin": "jiàntà",
-    "en": "",
-    "vi": ""
+    "vi": "chà đạp",
+    "en": ""
   },
   {
     "hanzi": "见外",
     "pinyin": "jiànwài",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn thấy bên ngoài",
+    "en": ""
   },
   {
     "hanzi": "见闻",
     "pinyin": "jiànwén",
-    "en": "",
-    "vi": ""
+    "vi": "kiến thức",
+    "en": ""
   },
   {
     "hanzi": "间隙",
     "pinyin": "jiànxì",
-    "en": "",
-    "vi": ""
+    "vi": "khoảng cách",
+    "en": ""
   },
   {
     "hanzi": "见效",
     "pinyin": "jiànxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Hiệu quả",
+    "en": ""
   },
   {
     "hanzi": "间歇",
     "pinyin": "jiànxiē",
-    "en": "",
-    "vi": ""
+    "vi": "không liên tục",
+    "en": ""
   },
   {
     "hanzi": "见义勇为",
     "pinyin": "jiànyì-yǒngwéi",
-    "en": "",
-    "vi": ""
+    "vi": "Hành động dũng cảm",
+    "en": ""
   },
   {
     "hanzi": "鉴于",
     "pinyin": "jiànyú",
-    "en": "",
-    "vi": ""
+    "vi": "Trong khi",
+    "en": ""
   },
   {
     "hanzi": "见证",
     "pinyin": "jiànzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "nhân chứng",
+    "en": ""
   },
   {
     "hanzi": "健壮",
     "pinyin": "jiànzhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "khỏe mạnh",
+    "en": ""
   },
   {
     "hanzi": "姜",
     "pinyin": "jiāng",
-    "en": "",
-    "vi": ""
+    "vi": "gừng",
+    "en": ""
   },
   {
     "hanzi": "僵",
     "pinyin": "jiāng",
-    "en": "",
-    "vi": ""
+    "vi": "cứng nhắc",
+    "en": ""
   },
   {
     "hanzi": "僵化",
     "pinyin": "jiānghuà",
-    "en": "",
-    "vi": ""
+    "vi": "cứng nhắc",
+    "en": ""
   },
   {
     "hanzi": "将就",
     "pinyin": "jiāngjiu",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy làm điều đó",
+    "en": ""
   },
   {
     "hanzi": "僵局",
     "pinyin": "jiāngjú",
-    "en": "",
-    "vi": ""
+    "vi": "sự bế tắc",
+    "en": ""
   },
   {
     "hanzi": "江山",
     "pinyin": "jiāngshān",
-    "en": "",
-    "vi": ""
+    "vi": "quốc gia",
+    "en": ""
   },
   {
     "hanzi": "僵硬",
     "pinyin": "jiāngyìng",
-    "en": "",
-    "vi": ""
+    "vi": "cứng nhắc",
+    "en": ""
   },
   {
     "hanzi": "桨",
     "pinyin": "jiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "mái chèo",
+    "en": ""
   },
   {
     "hanzi": "奖杯",
     "pinyin": "jiǎngbēi",
-    "en": "",
-    "vi": ""
+    "vi": "chiếc cúp",
+    "en": ""
   },
   {
     "hanzi": "讲理",
     "pinyin": "jiǎnglǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Hợp lý",
+    "en": ""
   },
   {
     "hanzi": "奖赏",
     "pinyin": "jiǎngshǎng",
-    "en": "",
-    "vi": ""
+    "vi": "phần thưởng",
+    "en": ""
   },
   {
     "hanzi": "奖项",
     "pinyin": "jiǎngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "giải thưởng",
+    "en": ""
   },
   {
     "hanzi": "降临",
     "pinyin": "jiànglín",
-    "en": "",
-    "vi": ""
+    "vi": "Đến",
+    "en": ""
   },
   {
     "hanzi": "焦",
     "pinyin": "jiāo",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung",
+    "en": ""
   },
   {
     "hanzi": "交叉",
     "pinyin": "jiāochā",
-    "en": "",
-    "vi": ""
+    "vi": "đi qua",
+    "en": ""
   },
   {
     "hanzi": "交代",
     "pinyin": "jiāodài",
-    "en": "",
-    "vi": ""
+    "vi": "giải thích",
+    "en": ""
   },
   {
     "hanzi": "交锋",
     "pinyin": "jiāofēng",
-    "en": "",
-    "vi": ""
+    "vi": "Đối đầu",
+    "en": ""
   },
   {
     "hanzi": "交付",
     "pinyin": "jiāofù",
-    "en": "",
-    "vi": ""
+    "vi": "giao",
+    "en": ""
   },
   {
     "hanzi": "娇惯",
     "pinyin": "jiāoguàn",
-    "en": "",
-    "vi": ""
+    "vi": "chiều chuộng",
+    "en": ""
   },
   {
     "hanzi": "交互",
     "pinyin": "jiāohù",
-    "en": "",
-    "vi": ""
+    "vi": "sự tương tác",
+    "en": ""
   },
   {
     "hanzi": "交集",
     "pinyin": "jiāojí",
-    "en": "",
-    "vi": ""
+    "vi": "ngã tư",
+    "en": ""
   },
   {
     "hanzi": "焦急",
     "pinyin": "jiāojí",
-    "en": "",
-    "vi": ""
+    "vi": "lo lắng",
+    "en": ""
   },
   {
     "hanzi": "交界",
     "pinyin": "jiāojiè",
-    "en": "",
-    "vi": ""
+    "vi": "ngã ba",
+    "en": ""
   },
   {
     "hanzi": "交接",
     "pinyin": "jiāojiē",
-    "en": "",
-    "vi": ""
+    "vi": "bàn giao",
+    "en": ""
   },
   {
     "hanzi": "交纳",
     "pinyin": "jiāonà",
-    "en": "",
-    "vi": ""
+    "vi": "chi trả",
+    "en": ""
   },
   {
     "hanzi": "胶囊",
     "pinyin": "jiāonáng",
-    "en": "",
-    "vi": ""
+    "vi": "viên nang",
+    "en": ""
   },
   {
     "hanzi": "娇气",
     "pinyin": "jiāoqì",
-    "en": "",
-    "vi": ""
+    "vi": "khó chịu",
+    "en": ""
   },
   {
     "hanzi": "交情",
     "pinyin": "jiāoqing",
-    "en": "",
-    "vi": ""
+    "vi": "tình bạn",
+    "en": ""
   },
   {
     "hanzi": "交涉",
     "pinyin": "jiāoshè",
-    "en": "",
-    "vi": ""
+    "vi": "Thương lượng",
+    "en": ""
   },
   {
     "hanzi": "礁石",
     "pinyin": "jiāoshí",
-    "en": "",
-    "vi": ""
+    "vi": "rạn san hô",
+    "en": ""
   },
   {
     "hanzi": "交替",
     "pinyin": "jiāotì",
-    "en": "",
-    "vi": ""
+    "vi": "luân phiên",
+    "en": ""
   },
   {
     "hanzi": "交头接耳",
     "pinyin": "jiāotóu-jiē’ěr",
-    "en": "",
-    "vi": ""
+    "vi": "thì thầm",
+    "en": ""
   },
   {
     "hanzi": "交响乐",
     "pinyin": "jiāoxiǎngyuè",
-    "en": "",
-    "vi": ""
+    "vi": "bản giao hưởng",
+    "en": ""
   },
   {
     "hanzi": "郊游",
     "pinyin": "jiāoyóu",
-    "en": "",
-    "vi": ""
+    "vi": "chuyến đi chơi",
+    "en": ""
   },
   {
     "hanzi": "焦躁",
     "pinyin": "jiāozào",
-    "en": "",
-    "vi": ""
+    "vi": "bồn chồn",
+    "en": ""
   },
   {
     "hanzi": "交织",
     "pinyin": "jiāozhī",
-    "en": "",
-    "vi": ""
+    "vi": "quyện vào nhau",
+    "en": ""
   },
   {
     "hanzi": "嚼",
     "pinyin": "jiáo",
-    "en": "",
-    "vi": ""
+    "vi": "nhai",
+    "en": ""
   },
   {
     "hanzi": "绞",
     "pinyin": "jiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "xoắn",
+    "en": ""
   },
   {
     "hanzi": "搅",
     "pinyin": "jiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "khuấy động",
+    "en": ""
   },
   {
     "hanzi": "缴",
     "pinyin": "jiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "chi trả",
+    "en": ""
   },
   {
     "hanzi": "搅拌",
     "pinyin": "jiǎobàn",
-    "en": "",
-    "vi": ""
+    "vi": "Khuấy",
+    "en": ""
   },
   {
     "hanzi": "狡猾",
     "pinyin": "jiǎohuá",
-    "en": "",
-    "vi": ""
+    "vi": "xảo quyệt",
+    "en": ""
   },
   {
     "hanzi": "缴纳",
     "pinyin": "jiǎonà",
-    "en": "",
-    "vi": ""
+    "vi": "chi trả",
+    "en": ""
   },
   {
     "hanzi": "脚踏实地",
     "pinyin": "jiǎotāshídì",
-    "en": "",
-    "vi": ""
+    "vi": "xuống trái đất",
+    "en": ""
   },
   {
     "hanzi": "侥幸",
     "pinyin": "jiǎoxìng",
-    "en": "",
-    "vi": ""
+    "vi": "may mắn",
+    "en": ""
   },
   {
     "hanzi": "矫正",
     "pinyin": "jiǎozhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Sửa chữa",
+    "en": ""
   },
   {
     "hanzi": "叫板",
     "pinyin": "jiàobǎn",
-    "en": "",
-    "vi": ""
+    "vi": "thử thách",
+    "en": ""
   },
   {
     "hanzi": "轿车",
     "pinyin": "jiàochē",
-    "en": "",
-    "vi": ""
+    "vi": "xe hơi",
+    "en": ""
   },
   {
     "hanzi": "叫好",
     "pinyin": "jiàohǎo",
-    "en": "",
-    "vi": ""
+    "vi": "hoan hô",
+    "en": ""
   },
   {
     "hanzi": "较劲",
     "pinyin": "jiàojìn",
-    "en": "",
-    "vi": ""
+    "vi": "Hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "教科书",
     "pinyin": "jiàokēshū",
-    "en": "",
-    "vi": ""
+    "vi": "sách giáo khoa",
+    "en": ""
   },
   {
     "hanzi": "较量",
     "pinyin": "jiàoliàng",
-    "en": "",
-    "vi": ""
+    "vi": "Cuộc thi",
+    "en": ""
   },
   {
     "hanzi": "教条",
     "pinyin": "jiàotiáo",
-    "en": "",
-    "vi": ""
+    "vi": "giáo điều",
+    "en": ""
   },
   {
     "hanzi": "教养",
     "pinyin": "jiàoyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "giáo dục",
+    "en": ""
   },
   {
     "hanzi": "皆",
     "pinyin": "jiē",
-    "en": "",
-    "vi": ""
+    "vi": "tất cả",
+    "en": ""
   },
   {
     "hanzi": "揭",
     "pinyin": "jiē",
-    "en": "",
-    "vi": ""
+    "vi": "khám phá",
+    "en": ""
   },
   {
     "hanzi": "接二连三",
     "pinyin": "jiē’èr-liánsān",
-    "en": "",
-    "vi": ""
+    "vi": "cái này nối tiếp cái khác",
+    "en": ""
   },
   {
     "hanzi": "接班",
     "pinyin": "jiēbān",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp quản",
+    "en": ""
   },
   {
     "hanzi": "接班人",
     "pinyin": "jiēbānrén",
-    "en": "",
-    "vi": ""
+    "vi": "người kế nhiệm",
+    "en": ""
   },
   {
     "hanzi": "阶层",
     "pinyin": "jiēcéng",
-    "en": "",
-    "vi": ""
+    "vi": "lớp học",
+    "en": ""
   },
   {
     "hanzi": "皆大欢喜",
     "pinyin": "jiēdàhuānxǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Mọi người đều hạnh phúc",
+    "en": ""
   },
   {
     "hanzi": "揭发",
     "pinyin": "jiēfā",
-    "en": "",
-    "vi": ""
+    "vi": "phơi ra",
+    "en": ""
   },
   {
     "hanzi": "街坊",
     "pinyin": "jiēfang",
-    "en": "",
-    "vi": ""
+    "vi": "hàng xóm",
+    "en": ""
   },
   {
     "hanzi": "接轨",
     "pinyin": "jiēguǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Trong dòng",
+    "en": ""
   },
   {
     "hanzi": "阶级",
     "pinyin": "jiējí",
-    "en": "",
-    "vi": ""
+    "vi": "lớp học",
+    "en": ""
   },
   {
     "hanzi": "接济",
     "pinyin": "jiējì",
-    "en": "",
-    "vi": ""
+    "vi": "Sự cứu tế",
+    "en": ""
   },
   {
     "hanzi": "接见",
     "pinyin": "jiējiàn",
-    "en": "",
-    "vi": ""
+    "vi": "nhận được",
+    "en": ""
   },
   {
     "hanzi": "接力",
     "pinyin": "jiēlì",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp sức",
+    "en": ""
   },
   {
     "hanzi": "揭露",
     "pinyin": "jiēlù",
-    "en": "",
-    "vi": ""
+    "vi": "phơi ra",
+    "en": ""
   },
   {
     "hanzi": "接纳",
     "pinyin": "jiēnà",
-    "en": "",
-    "vi": ""
+    "vi": "chấp nhận",
+    "en": ""
   },
   {
     "hanzi": "揭示",
     "pinyin": "jiēshì",
-    "en": "",
-    "vi": ""
+    "vi": "tiết lộ",
+    "en": ""
   },
   {
     "hanzi": "接手",
     "pinyin": "jiēshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp quản",
+    "en": ""
   },
   {
     "hanzi": "接替",
     "pinyin": "jiētì",
-    "en": "",
-    "vi": ""
+    "vi": "thành công",
+    "en": ""
   },
   {
     "hanzi": "阶梯",
     "pinyin": "jiētī",
-    "en": "",
-    "vi": ""
+    "vi": "thang",
+    "en": ""
   },
   {
     "hanzi": "揭晓",
     "pinyin": "jiēxiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "tiết lộ",
+    "en": ""
   },
   {
     "hanzi": "劫",
     "pinyin": "jié",
-    "en": "",
-    "vi": ""
+    "vi": "thiên tai",
+    "en": ""
   },
   {
     "hanzi": "截",
     "pinyin": "jié",
-    "en": "",
-    "vi": ""
+    "vi": "cắt",
+    "en": ""
   },
   {
     "hanzi": "洁白",
     "pinyin": "jiébái",
-    "en": "",
-    "vi": ""
+    "vi": "trắng",
+    "en": ""
   },
   {
     "hanzi": "劫持",
     "pinyin": "jiéchí",
-    "en": "",
-    "vi": ""
+    "vi": "cướp",
+    "en": ""
   },
   {
     "hanzi": "节俭",
     "pinyin": "jiéjiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tằn tiện",
+    "en": ""
   },
   {
     "hanzi": "洁净",
     "pinyin": "jiéjìng",
-    "en": "",
-    "vi": ""
+    "vi": "lau dọn",
+    "en": ""
   },
   {
     "hanzi": "捷径",
     "pinyin": "jiéjìng",
-    "en": "",
-    "vi": ""
+    "vi": "phím tắt",
+    "en": ""
   },
   {
     "hanzi": "结晶",
     "pinyin": "jiéjīng",
-    "en": "",
-    "vi": ""
+    "vi": "sự kết tinh",
+    "en": ""
   },
   {
     "hanzi": "竭尽全力",
     "pinyin": "jiéjìn-quánlì",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy cố gắng hết sức",
+    "en": ""
   },
   {
     "hanzi": "结局",
     "pinyin": "jiéjú",
-    "en": "",
-    "vi": ""
+    "vi": "kết thúc",
+    "en": ""
   },
   {
     "hanzi": "竭力",
     "pinyin": "jiélì",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy cố gắng hết sức",
+    "en": ""
   },
   {
     "hanzi": "节气",
     "pinyin": "jiéqì",
-    "en": "",
-    "vi": ""
+    "vi": "thuật ngữ năng lượng mặt trời",
+    "en": ""
   },
   {
     "hanzi": "截然不同",
     "pinyin": "jiérán-bùtóng",
-    "en": "",
-    "vi": ""
+    "vi": "hoàn toàn khác",
+    "en": ""
   },
   {
     "hanzi": "结识",
     "pinyin": "jiéshí",
-    "en": "",
-    "vi": ""
+    "vi": "làm quen",
+    "en": ""
   },
   {
     "hanzi": "结算",
     "pinyin": "jiésuàn",
-    "en": "",
-    "vi": ""
+    "vi": "giải quyết",
+    "en": ""
   },
   {
     "hanzi": "节衣缩食",
     "pinyin": "jiéyī-suōshí",
-    "en": "",
-    "vi": ""
+    "vi": "Tiết kiệm tiền và sống một cuộc sống thanh đạm",
+    "en": ""
   },
   {
     "hanzi": "节制",
     "pinyin": "jiézhì",
-    "en": "",
-    "vi": ""
+    "vi": "điều khiển",
+    "en": ""
   },
   {
     "hanzi": "解除",
     "pinyin": "jiěchú",
-    "en": "",
-    "vi": ""
+    "vi": "Thang máy",
+    "en": ""
   },
   {
     "hanzi": "解雇",
     "pinyin": "jiěgù",
-    "en": "",
-    "vi": ""
+    "vi": "miễn nhiệm",
+    "en": ""
   },
   {
     "hanzi": "解救",
     "pinyin": "jiějiù",
-    "en": "",
-    "vi": ""
+    "vi": "giải thoát",
+    "en": ""
   },
   {
     "hanzi": "解渴",
     "pinyin": "jiěkě",
-    "en": "",
-    "vi": ""
+    "vi": "làm dịu cơn khát",
+    "en": ""
   },
   {
     "hanzi": "解剖",
     "pinyin": "jiěpōu",
-    "en": "",
-    "vi": ""
+    "vi": "giải phẫu",
+    "en": ""
   },
   {
     "hanzi": "解散",
     "pinyin": "jiěsàn",
-    "en": "",
-    "vi": ""
+    "vi": "Giải tán",
+    "en": ""
   },
   {
     "hanzi": "解体",
     "pinyin": "jiětǐ",
-    "en": "",
-    "vi": ""
+    "vi": "sự tan rã",
+    "en": ""
   },
   {
     "hanzi": "解脱",
     "pinyin": "jiětuō",
-    "en": "",
-    "vi": ""
+    "vi": "sự cứu tế",
+    "en": ""
   },
   {
     "hanzi": "解围",
     "pinyin": "jiěwéi",
-    "en": "",
-    "vi": ""
+    "vi": "giải thoát",
+    "en": ""
   },
   {
     "hanzi": "解析",
     "pinyin": "jiěxī",
-    "en": "",
-    "vi": ""
+    "vi": "phân tích cú pháp",
+    "en": ""
   },
   {
     "hanzi": "解约",
     "pinyin": "jiěyuē",
-    "en": "",
-    "vi": ""
+    "vi": "Chấm dứt hợp đồng",
+    "en": ""
   },
   {
     "hanzi": "戒",
     "pinyin": "jiè",
-    "en": "",
-    "vi": ""
+    "vi": "từ bỏ",
+    "en": ""
   },
   {
     "hanzi": "界",
     "pinyin": "jiè",
-    "en": "",
-    "vi": ""
+    "vi": "ranh giới",
+    "en": ""
   },
   {
     "hanzi": "戒备",
     "pinyin": "jièbèi",
-    "en": "",
-    "vi": ""
+    "vi": "báo động",
+    "en": ""
   },
   {
     "hanzi": "界定",
     "pinyin": "jièdìng",
-    "en": "",
-    "vi": ""
+    "vi": "định nghĩa",
+    "en": ""
   },
   {
     "hanzi": "借又",
     "pinyin": "jièkǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Mượn lại",
+    "en": ""
   },
   {
     "hanzi": "介入",
     "pinyin": "jièrù",
-    "en": "",
-    "vi": ""
+    "vi": "sự can thiệp",
+    "en": ""
   },
   {
     "hanzi": "届时",
     "pinyin": "jièshí",
-    "en": "",
-    "vi": ""
+    "vi": "Đến lúc đó",
+    "en": ""
   },
   {
     "hanzi": "借条",
     "pinyin": "jiètiáo",
-    "en": "",
-    "vi": ""
+    "vi": "IOU",
+    "en": ""
   },
   {
     "hanzi": "界限",
     "pinyin": "jièxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "giới hạn",
+    "en": ""
   },
   {
     "hanzi": "界线",
     "pinyin": "jièxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "ranh giới",
+    "en": ""
   },
   {
     "hanzi": "介意",
     "pinyin": "jièyì",
-    "en": "",
-    "vi": ""
+    "vi": "tâm trí",
+    "en": ""
   },
   {
     "hanzi": "借用",
     "pinyin": "jièyòng",
-    "en": "",
-    "vi": ""
+    "vi": "vay mượn",
+    "en": ""
   },
   {
     "hanzi": "介于",
     "pinyin": "jièyú",
-    "en": "",
-    "vi": ""
+    "vi": "giữa",
+    "en": ""
   },
   {
     "hanzi": "筋",
     "pinyin": "jīn",
-    "en": "",
-    "vi": ""
+    "vi": "Gân",
+    "en": ""
   },
   {
     "hanzi": "禁不住",
     "pinyin": "jīnbuzhù",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể giúp được",
+    "en": ""
   },
   {
     "hanzi": "津津有味",
     "pinyin": "jīnjīn-yǒuwèi",
-    "en": "",
-    "vi": ""
+    "vi": "với sự thích thú",
+    "en": ""
   },
   {
     "hanzi": "尽",
     "pinyin": "jǐn",
-    "en": "",
-    "vi": ""
+    "vi": "khí thải",
+    "en": ""
   },
   {
     "hanzi": "紧凑",
     "pinyin": "jǐncòu",
-    "en": "",
-    "vi": ""
+    "vi": "nhỏ gọn",
+    "en": ""
   },
   {
     "hanzi": "紧迫",
     "pinyin": "jǐnpò",
-    "en": "",
-    "vi": ""
+    "vi": "cấp bách",
+    "en": ""
   },
   {
     "hanzi": "锦旗",
     "pinyin": "jǐnqí",
-    "en": "",
-    "vi": ""
+    "vi": "cờ hiệu",
+    "en": ""
   },
   {
     "hanzi": "紧缺",
     "pinyin": "jǐnquē",
-    "en": "",
-    "vi": ""
+    "vi": "thiếu",
+    "en": ""
   },
   {
     "hanzi": "锦上添花",
     "pinyin": "jǐnshàng-tiānhuā",
-    "en": "",
-    "vi": ""
+    "vi": "Lớp kem trên bánh",
+    "en": ""
   },
   {
     "hanzi": "紧缩",
     "pinyin": "jǐnsuō",
-    "en": "",
-    "vi": ""
+    "vi": "sự khắc khổ",
+    "en": ""
   },
   {
     "hanzi": "尽早",
     "pinyin": "jǐnzǎo",
-    "en": "",
-    "vi": ""
+    "vi": "càng sớm càng tốt",
+    "en": ""
   },
   {
     "hanzi": "劲",
     "pinyin": "jìn",
-    "en": "",
-    "vi": ""
+    "vi": "sức mạnh",
+    "en": ""
   },
   {
     "hanzi": "进程",
     "pinyin": "jìnchéng",
-    "en": "",
-    "vi": ""
+    "vi": "quá trình",
+    "en": ""
   },
   {
     "hanzi": "进攻",
     "pinyin": "jìngōng",
-    "en": "",
-    "vi": ""
+    "vi": "tấn công",
+    "en": ""
   },
   {
     "hanzi": "晋级",
     "pinyin": "jìnjí",
-    "en": "",
-    "vi": ""
+    "vi": "khuyến mãi",
+    "en": ""
   },
   {
     "hanzi": "禁忌",
     "pinyin": "jìnjì",
-    "en": "",
-    "vi": ""
+    "vi": "điều cấm kỵ",
+    "en": ""
   },
   {
     "hanzi": "进军",
     "pinyin": "jìnjūn",
-    "en": "",
-    "vi": ""
+    "vi": "Tháng ba vào",
+    "en": ""
   },
   {
     "hanzi": "浸泡",
     "pinyin": "jìnpào",
-    "en": "",
-    "vi": ""
+    "vi": "ngâm",
+    "en": ""
   },
   {
     "hanzi": "尽情",
     "pinyin": "jìnqíng",
-    "en": "",
-    "vi": ""
+    "vi": "thưởng thức",
+    "en": ""
   },
   {
     "hanzi": "进取",
     "pinyin": "jìnqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "dám nghĩ dám làm",
+    "en": ""
   },
   {
     "hanzi": "禁区",
     "pinyin": "jìnqū",
-    "en": "",
-    "vi": ""
+    "vi": "khu vực hạn chế",
+    "en": ""
   },
   {
     "hanzi": "晋升",
     "pinyin": "jìnshēng",
-    "en": "",
-    "vi": ""
+    "vi": "khuyến mãi",
+    "en": ""
   },
   {
     "hanzi": "尽头",
     "pinyin": "jìntóu",
-    "en": "",
-    "vi": ""
+    "vi": "kết thúc",
+    "en": ""
   },
   {
     "hanzi": "劲头",
     "pinyin": "jìntóu",
-    "en": "",
-    "vi": ""
+    "vi": "năng lượng",
+    "en": ""
   },
   {
     "hanzi": "进修",
     "pinyin": "jìnxiū",
-    "en": "",
-    "vi": ""
+    "vi": "giáo dục nâng cao",
+    "en": ""
   },
   {
     "hanzi": "茎",
     "pinyin": "jīng",
-    "en": "",
-    "vi": ""
+    "vi": "thân cây",
+    "en": ""
   },
   {
     "hanzi": "经",
     "pinyin": "jīng",
-    "en": "",
-    "vi": ""
+    "vi": "bởi vì",
+    "en": ""
   },
   {
     "hanzi": "精",
     "pinyin": "jīng",
-    "en": "",
-    "vi": ""
+    "vi": "tinh chế",
+    "en": ""
   },
   {
     "hanzi": "鲸",
     "pinyin": "jīng",
-    "en": "",
-    "vi": ""
+    "vi": "cá voi",
+    "en": ""
   },
   {
     "hanzi": "精彩纷呈",
     "pinyin": "jīngcǎi-fēnchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Tuyệt vời",
+    "en": ""
   },
   {
     "hanzi": "精打细算",
     "pinyin": "jīngdǎ-xìsuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Ngân sách khôn ngoan",
+    "en": ""
   },
   {
     "hanzi": "惊动",
     "pinyin": "jīngdòng",
-    "en": "",
-    "vi": ""
+    "vi": "quấy rầy",
+    "en": ""
   },
   {
     "hanzi": "经度",
     "pinyin": "jīngdù",
-    "en": "",
-    "vi": ""
+    "vi": "kinh độ",
+    "en": ""
   },
   {
     "hanzi": "精度",
     "pinyin": "jīngdù",
-    "en": "",
-    "vi": ""
+    "vi": "Sự chính xác",
+    "en": ""
   },
   {
     "hanzi": "经费",
     "pinyin": "jīngfèi",
-    "en": "",
-    "vi": ""
+    "vi": "Tài trợ",
+    "en": ""
   },
   {
     "hanzi": "精华",
     "pinyin": "jīnghuá",
-    "en": "",
-    "vi": ""
+    "vi": "Nước hoa",
+    "en": ""
   },
   {
     "hanzi": "惊慌",
     "pinyin": "jīnghuāng",
-    "en": "",
-    "vi": ""
+    "vi": "hoảng loạn",
+    "en": ""
   },
   {
     "hanzi": "惊慌失措",
     "pinyin": "jīnghuāng-shīcuò",
-    "en": "",
-    "vi": ""
+    "vi": "hoảng loạn",
+    "en": ""
   },
   {
     "hanzi": "荆棘",
     "pinyin": "jīngjí",
-    "en": "",
-    "vi": ""
+    "vi": "gai",
+    "en": ""
   },
   {
     "hanzi": "精简",
     "pinyin": "jīngjiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sắp xếp hợp lý",
+    "en": ""
   },
   {
     "hanzi": "兢兢业业",
     "pinyin": "jīngjīngyèyè",
-    "en": "",
-    "vi": ""
+    "vi": "tận tâm",
+    "en": ""
   },
   {
     "hanzi": "经久不息",
     "pinyin": "jīngjiǔ-bùxī",
-    "en": "",
-    "vi": ""
+    "vi": "Bền bỉ",
+    "en": ""
   },
   {
     "hanzi": "精练",
     "pinyin": "jīngliàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngắn gọn",
+    "en": ""
   },
   {
     "hanzi": "经贸",
     "pinyin": "jīngmào",
-    "en": "",
-    "vi": ""
+    "vi": "Kinh tế và thương mại",
+    "en": ""
   },
   {
     "hanzi": "精密",
     "pinyin": "jīngmì",
-    "en": "",
-    "vi": ""
+    "vi": "Độ chính xác",
+    "en": ""
   },
   {
     "hanzi": "精妙",
     "pinyin": "jīngmiào",
-    "en": "",
-    "vi": ""
+    "vi": "tinh tế",
+    "en": ""
   },
   {
     "hanzi": "精明",
     "pinyin": "jīngmíng",
-    "en": "",
-    "vi": ""
+    "vi": "thông minh",
+    "en": ""
   },
   {
     "hanzi": "精疲力竭",
     "pinyin": "jīngpí-lìjié",
-    "en": "",
-    "vi": ""
+    "vi": "kiệt sức",
+    "en": ""
   },
   {
     "hanzi": "精品",
     "pinyin": "jīngpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "Cửa hàng nhỏ",
+    "en": ""
   },
   {
     "hanzi": "惊奇",
     "pinyin": "jīngqí",
-    "en": "",
-    "vi": ""
+    "vi": "Sự ngạc nhiên",
+    "en": ""
   },
   {
     "hanzi": "精巧",
     "pinyin": "jīngqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "thanh tú",
+    "en": ""
   },
   {
     "hanzi": "精神",
     "pinyin": "jīngshén",
-    "en": "",
-    "vi": ""
+    "vi": "Tinh thần",
+    "en": ""
   },
   {
     "hanzi": "精神病",
     "pinyin": "jīngshénbìng",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh tâm thần",
+    "en": ""
   },
   {
     "hanzi": "经受",
     "pinyin": "jīngshòu",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "精髓",
     "pinyin": "jīngsuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Nước hoa",
+    "en": ""
   },
   {
     "hanzi": "惊叹",
     "pinyin": "jīngtàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngạc nhiên",
+    "en": ""
   },
   {
     "hanzi": "惊天动地",
     "pinyin": "jīngtiān-dòngdì",
-    "en": "",
-    "vi": ""
+    "vi": "rung chuyển trái đất",
+    "en": ""
   },
   {
     "hanzi": "精细",
     "pinyin": "jīngxì",
-    "en": "",
-    "vi": ""
+    "vi": "khỏe",
+    "en": ""
   },
   {
     "hanzi": "惊吓",
     "pinyin": "jīngxià",
-    "en": "",
-    "vi": ""
+    "vi": "sợ sệt",
+    "en": ""
   },
   {
     "hanzi": "惊险",
     "pinyin": "jīngxiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "ly kỳ",
+    "en": ""
   },
   {
     "hanzi": "惊心动魄",
     "pinyin": "jīngxīn-dòngpò",
-    "en": "",
-    "vi": ""
+    "vi": "ly kỳ",
+    "en": ""
   },
   {
     "hanzi": "晶莹",
     "pinyin": "jīngyíng",
-    "en": "",
-    "vi": ""
+    "vi": "tinh thể rõ ràng",
+    "en": ""
   },
   {
     "hanzi": "精英",
     "pinyin": "jīngyīng",
-    "en": "",
-    "vi": ""
+    "vi": "Ưu tú",
+    "en": ""
   },
   {
     "hanzi": "精益求精",
     "pinyin": "jīngyìqiújīng",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếp tục cải thiện",
+    "en": ""
   },
   {
     "hanzi": "精湛",
     "pinyin": "jīngzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt vời",
+    "en": ""
   },
   {
     "hanzi": "警报",
     "pinyin": "jǐngbào",
-    "en": "",
-    "vi": ""
+    "vi": "báo thức",
+    "en": ""
   },
   {
     "hanzi": "井底之蛙",
     "pinyin": "jǐngdǐzhīwā",
-    "en": "",
-    "vi": ""
+    "vi": "ếch trong giếng",
+    "en": ""
   },
   {
     "hanzi": "警戒",
     "pinyin": "jǐngjiè",
-    "en": "",
-    "vi": ""
+    "vi": "báo động",
+    "en": ""
   },
   {
     "hanzi": "警犬",
     "pinyin": "jǐngquǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chó cảnh sát",
+    "en": ""
   },
   {
     "hanzi": "警示",
     "pinyin": "jǐngshì",
-    "en": "",
-    "vi": ""
+    "vi": "cảnh báo",
+    "en": ""
   },
   {
     "hanzi": "警惕",
     "pinyin": "jǐngtì",
-    "en": "",
-    "vi": ""
+    "vi": "báo động",
+    "en": ""
   },
   {
     "hanzi": "警钟",
     "pinyin": "jǐngzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "Chuông báo động",
+    "en": ""
   },
   {
     "hanzi": "竟",
     "pinyin": "jìng",
-    "en": "",
-    "vi": ""
+    "vi": "Thực ra",
+    "en": ""
   },
   {
     "hanzi": "敬",
     "pinyin": "jìng",
-    "en": "",
-    "vi": ""
+    "vi": "sự tôn trọng",
+    "en": ""
   },
   {
     "hanzi": "敬爱",
     "pinyin": "jìng’ài",
-    "en": "",
-    "vi": ""
+    "vi": "người yêu dấu",
+    "en": ""
   },
   {
     "hanzi": "敬而远之",
     "pinyin": "jìng’éryuǎnzhī",
-    "en": "",
-    "vi": ""
+    "vi": "giữ khoảng cách tôn trọng",
+    "en": ""
   },
   {
     "hanzi": "境地",
     "pinyin": "jìngdì",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "净化",
     "pinyin": "jìnghuà",
-    "en": "",
-    "vi": ""
+    "vi": "thanh lọc",
+    "en": ""
   },
   {
     "hanzi": "竞技",
     "pinyin": "jìngjì",
-    "en": "",
-    "vi": ""
+    "vi": "các môn thể thao",
+    "en": ""
   },
   {
     "hanzi": "境界",
     "pinyin": "jìngjiè",
-    "en": "",
-    "vi": ""
+    "vi": "vương quốc",
+    "en": ""
   },
   {
     "hanzi": "敬礼",
     "pinyin": "jìnglǐ",
-    "en": "",
-    "vi": ""
+    "vi": "chào",
+    "en": ""
   },
   {
     "hanzi": "境内",
     "pinyin": "jìngnèi",
-    "en": "",
-    "vi": ""
+    "vi": "trong lãnh thổ",
+    "en": ""
   },
   {
     "hanzi": "敬佩",
     "pinyin": "jìngpèi",
-    "en": "",
-    "vi": ""
+    "vi": "ngưỡng mộ",
+    "en": ""
   },
   {
     "hanzi": "敬请",
     "pinyin": "jìngqǐng",
-    "en": "",
-    "vi": ""
+    "vi": "Vui lòng",
+    "en": ""
   },
   {
     "hanzi": "境外",
     "pinyin": "jìngwài",
-    "en": "",
-    "vi": ""
+    "vi": "ở nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "敬畏",
     "pinyin": "jìngwèi",
-    "en": "",
-    "vi": ""
+    "vi": "kinh ngạc",
+    "en": ""
   },
   {
     "hanzi": "竞相",
     "pinyin": "jìngxiāng",
-    "en": "",
-    "vi": ""
+    "vi": "cạnh tranh",
+    "en": ""
   },
   {
     "hanzi": "竞选",
     "pinyin": "jìngxuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chiến dịch",
+    "en": ""
   },
   {
     "hanzi": "敬业",
     "pinyin": "jìngyè",
-    "en": "",
-    "vi": ""
+    "vi": "Cống hiến",
+    "en": ""
   },
   {
     "hanzi": "敬意",
     "pinyin": "jìngyì",
-    "en": "",
-    "vi": ""
+    "vi": "sự tôn trọng",
+    "en": ""
   },
   {
     "hanzi": "境遇",
     "pinyin": "jìngyù",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "径直",
     "pinyin": "jìngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "Thẳng",
+    "en": ""
   },
   {
     "hanzi": "静止",
     "pinyin": "jìngzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "vẫn",
+    "en": ""
   },
   {
     "hanzi": "敬重",
     "pinyin": "jìngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "sự tôn trọng",
+    "en": ""
   },
   {
     "hanzi": "窘迫",
     "pinyin": "jiǒngpò",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "揪",
     "pinyin": "jiū",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "纠缠",
     "pinyin": "jiūchán",
-    "en": "",
-    "vi": ""
+    "vi": "vướng víu",
+    "en": ""
   },
   {
     "hanzi": "酒楼",
     "pinyin": "jiǔlóu",
-    "en": "",
-    "vi": ""
+    "vi": "Nhà hàng",
+    "en": ""
   },
   {
     "hanzi": "久违",
     "pinyin": "jiǔwéi",
-    "en": "",
-    "vi": ""
+    "vi": "lâu rồi không gặp",
+    "en": ""
   },
   {
     "hanzi": "久仰",
     "pinyin": "jiǔyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "ngưỡng mộ đã lâu",
+    "en": ""
   },
   {
     "hanzi": "就餐",
     "pinyin": "jiùcān",
-    "en": "",
-    "vi": ""
+    "vi": "Ăn uống",
+    "en": ""
   },
   {
     "hanzi": "就此",
     "pinyin": "jiùcǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Thế thôi",
+    "en": ""
   },
   {
     "hanzi": "就地",
     "pinyin": "jiùdì",
-    "en": "",
-    "vi": ""
+    "vi": "Tại chỗ",
+    "en": ""
   },
   {
     "hanzi": "救济",
     "pinyin": "jiùjì",
-    "en": "",
-    "vi": ""
+    "vi": "sự cứu tế",
+    "en": ""
   },
   {
     "hanzi": "就近",
     "pinyin": "jiùjìn",
-    "en": "",
-    "vi": ""
+    "vi": "gần đó",
+    "en": ""
   },
   {
     "hanzi": "就任",
     "pinyin": "jiùrèn",
-    "en": "",
-    "vi": ""
+    "vi": "Nhậm chức",
+    "en": ""
   },
   {
     "hanzi": "救死扶伤",
     "pinyin": "jiùsǐ-fúshāng",
-    "en": "",
-    "vi": ""
+    "vi": "Chữa lành người bị thương và cứu người sắp chết",
+    "en": ""
   },
   {
     "hanzi": "就绪",
     "pinyin": "jiùxù",
-    "en": "",
-    "vi": ""
+    "vi": "sẵn sàng",
+    "en": ""
   },
   {
     "hanzi": "就医",
     "pinyin": "jiùyī",
-    "en": "",
-    "vi": ""
+    "vi": "Tìm kiếm lời khuyên y tế",
+    "en": ""
   },
   {
     "hanzi": "就诊",
     "pinyin": "jiùzhěn",
-    "en": "",
-    "vi": ""
+    "vi": "Gặp bác sĩ",
+    "en": ""
   },
   {
     "hanzi": "就职",
     "pinyin": "jiùzhí",
-    "en": "",
-    "vi": ""
+    "vi": "Nhậm chức",
+    "en": ""
   },
   {
     "hanzi": "救治",
     "pinyin": "jiùzhì",
-    "en": "",
-    "vi": ""
+    "vi": "sự đối đãi",
+    "en": ""
   },
   {
     "hanzi": "就座",
     "pinyin": "jiùzuò",
-    "en": "",
-    "vi": ""
+    "vi": "Ngồi xuống đi",
+    "en": ""
   },
   {
     "hanzi": "居安思危",
     "pinyin": "jū’ān-sīwēi",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy chuẩn bị cho nguy hiểm trong thời bình",
+    "en": ""
   },
   {
     "hanzi": "居高不下",
     "pinyin": "jūgāo bú xià",
-    "en": "",
-    "vi": ""
+    "vi": "ở lại cao",
+    "en": ""
   },
   {
     "hanzi": "鞠躬",
     "pinyin": "jūgōng",
-    "en": "",
-    "vi": ""
+    "vi": "cây cung",
+    "en": ""
   },
   {
     "hanzi": "拘留",
     "pinyin": "jūliú",
-    "en": "",
-    "vi": ""
+    "vi": "giam giữ",
+    "en": ""
   },
   {
     "hanzi": "拘束",
     "pinyin": "jūshù",
-    "en": "",
-    "vi": ""
+    "vi": "kiềm chế",
+    "en": ""
   },
   {
     "hanzi": "居于",
     "pinyin": "jūyú",
-    "en": "",
-    "vi": ""
+    "vi": "ở trong",
+    "en": ""
   },
   {
     "hanzi": "局部",
     "pinyin": "júbù",
-    "en": "",
-    "vi": ""
+    "vi": "địa phương",
+    "en": ""
   },
   {
     "hanzi": "局势",
     "pinyin": "júshì",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "举报",
     "pinyin": "jǔbào",
-    "en": "",
-    "vi": ""
+    "vi": "báo cáo",
+    "en": ""
   },
   {
     "hanzi": "举措",
     "pinyin": "jǔcuò",
-    "en": "",
-    "vi": ""
+    "vi": "đo",
+    "en": ""
   },
   {
     "hanzi": "咀嚼",
     "pinyin": "jǔjué",
-    "en": "",
-    "vi": ""
+    "vi": "nhai",
+    "en": ""
   },
   {
     "hanzi": "举棋不定",
     "pinyin": "jǔqí-búdìng",
-    "en": "",
-    "vi": ""
+    "vi": "Chưa quyết định",
+    "en": ""
   },
   {
     "hanzi": "沮丧",
     "pinyin": "jǔsàng",
-    "en": "",
-    "vi": ""
+    "vi": "bực bội",
+    "en": ""
   },
   {
     "hanzi": "举世瞩目",
     "pinyin": "jǔshì-zhǔmù",
-    "en": "",
-    "vi": ""
+    "vi": "thu hút sự chú ý trên toàn thế giới",
+    "en": ""
   },
   {
     "hanzi": "举一反三",
     "pinyin": "jǔyī-fǎnsān",
-    "en": "",
-    "vi": ""
+    "vi": "học bằng cách tương tự",
+    "en": ""
   },
   {
     "hanzi": "举止",
     "pinyin": "jǔzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "thái độ",
+    "en": ""
   },
   {
     "hanzi": "举重",
     "pinyin": "jǔzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "cử tạ",
+    "en": ""
   },
   {
     "hanzi": "举足轻重",
     "pinyin": "jǔzú-qīngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "có tầm quan trọng lớn",
+    "en": ""
   },
   {
     "hanzi": "剧变",
     "pinyin": "jùbiàn",
-    "en": "",
-    "vi": ""
+    "vi": "thay đổi mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "巨额",
     "pinyin": "jù’é",
-    "en": "",
-    "vi": ""
+    "vi": "Số tiền khổng lồ",
+    "en": ""
   },
   {
     "hanzi": "聚焦",
     "pinyin": "jùjiāo",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung",
+    "en": ""
   },
   {
     "hanzi": "聚精会神",
     "pinyin": "jùjīng-huìshén",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung",
+    "en": ""
   },
   {
     "hanzi": "剧目",
     "pinyin": "jùmù",
-    "en": "",
-    "vi": ""
+    "vi": "tiết mục",
+    "en": ""
   },
   {
     "hanzi": "剧情",
     "pinyin": "jùqíng",
-    "en": "",
-    "vi": ""
+    "vi": "kịch bản",
+    "en": ""
   },
   {
     "hanzi": "巨人",
     "pinyin": "jùrén",
-    "en": "",
-    "vi": ""
+    "vi": "người khổng lồ",
+    "en": ""
   },
   {
     "hanzi": "巨头",
     "pinyin": "jùtóu",
-    "en": "",
-    "vi": ""
+    "vi": "người khổng lồ",
+    "en": ""
   },
   {
     "hanzi": "据悉",
     "pinyin": "jùxī",
-    "en": "",
-    "vi": ""
+    "vi": "Có thông tin cho rằng",
+    "en": ""
   },
   {
     "hanzi": "圈",
     "pinyin": "juān",
-    "en": "",
-    "vi": ""
+    "vi": "khóa lại",
+    "en": ""
   },
   {
     "hanzi": "捐献",
     "pinyin": "juānxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Quyên tặng",
+    "en": ""
   },
   {
     "hanzi": "卷入",
     "pinyin": "juǎnrù",
-    "en": "",
-    "vi": ""
+    "vi": "có liên quan",
+    "en": ""
   },
   {
     "hanzi": "圈",
     "pinyin": "juàn",
-    "en": "",
-    "vi": ""
+    "vi": "khóa lại",
+    "en": ""
   },
   {
     "hanzi": "绝",
     "pinyin": "jué",
-    "en": "",
-    "vi": ""
+    "vi": "Tuyệt đối",
+    "en": ""
   },
   {
     "hanzi": "绝技",
     "pinyin": "juéjì",
-    "en": "",
-    "vi": ""
+    "vi": "diễn viên đóng thế",
+    "en": ""
   },
   {
     "hanzi": "绝迹",
     "pinyin": "juéjì",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt chủng",
+    "en": ""
   },
   {
     "hanzi": "倔强",
     "pinyin": "juéjiàng",
-    "en": "",
-    "vi": ""
+    "vi": "bướng bỉnh",
+    "en": ""
   },
   {
     "hanzi": "崛起",
     "pinyin": "juéqǐ",
-    "en": "",
-    "vi": ""
+    "vi": "tăng lên",
+    "en": ""
   },
   {
     "hanzi": "诀窍",
     "pinyin": "juéqiào",
-    "en": "",
-    "vi": ""
+    "vi": "bí quyết",
+    "en": ""
   },
   {
     "hanzi": "觉悟",
     "pinyin": "juéwù",
-    "en": "",
-    "vi": ""
+    "vi": "ý thức",
+    "en": ""
   },
   {
     "hanzi": "觉醒",
     "pinyin": "juéxǐng",
-    "en": "",
-    "vi": ""
+    "vi": "Thức tỉnh",
+    "en": ""
   },
   {
     "hanzi": "决议",
     "pinyin": "juéyì",
-    "en": "",
-    "vi": ""
+    "vi": "nghị quyết",
+    "en": ""
   },
   {
     "hanzi": "绝缘",
     "pinyin": "juéyuán",
-    "en": "",
-    "vi": ""
+    "vi": "cách nhiệt",
+    "en": ""
   },
   {
     "hanzi": "抉择",
     "pinyin": "juézé",
-    "en": "",
-    "vi": ""
+    "vi": "sự lựa chọn",
+    "en": ""
   },
   {
     "hanzi": "角逐",
     "pinyin": "juézhú",
-    "en": "",
-    "vi": ""
+    "vi": "hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "倔",
     "pinyin": "juè",
-    "en": "",
-    "vi": ""
+    "vi": "bướng bỉnh",
+    "en": ""
   },
   {
     "hanzi": "均",
     "pinyin": "jūn",
-    "en": "",
-    "vi": ""
+    "vi": "tất cả",
+    "en": ""
   },
   {
     "hanzi": "军官",
     "pinyin": "jūnguān",
-    "en": "",
-    "vi": ""
+    "vi": "sĩ quan",
+    "en": ""
   },
   {
     "hanzi": "均衡",
     "pinyin": "jūnhéng",
-    "en": "",
-    "vi": ""
+    "vi": "cân bằng",
+    "en": ""
   },
   {
     "hanzi": "军舰",
     "pinyin": "jūnjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tàu chiến",
+    "en": ""
   },
   {
     "hanzi": "军事",
     "pinyin": "jūnshì",
-    "en": "",
-    "vi": ""
+    "vi": "quân đội",
+    "en": ""
   },
   {
     "hanzi": "君子",
     "pinyin": "jūnzǐ",
-    "en": "",
-    "vi": ""
+    "vi": "quý ông",
+    "en": ""
   },
   {
     "hanzi": "俊",
     "pinyin": "jùn",
-    "en": "",
-    "vi": ""
+    "vi": "đẹp trai",
+    "en": ""
   },
   {
     "hanzi": "竣工",
     "pinyin": "jùngōng",
-    "en": "",
-    "vi": ""
+    "vi": "Hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "骏马",
     "pinyin": "jùnmǎ",
-    "en": "",
-    "vi": ""
+    "vi": "ngựa",
+    "en": ""
   },
   {
     "hanzi": "俊俏",
     "pinyin": "jùnqiào",
-    "en": "",
-    "vi": ""
+    "vi": "Đẹp trai",
+    "en": ""
   },
   {
     "hanzi": "卡车",
     "pinyin": "kǎchē",
-    "en": "",
-    "vi": ""
+    "vi": "xe tải",
+    "en": ""
   },
   {
     "hanzi": "卡通",
     "pinyin": "kǎtōng",
-    "en": "",
-    "vi": ""
+    "vi": "Hoạt hình",
+    "en": ""
   },
   {
     "hanzi": "开办",
     "pinyin": "kāibàn",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt đầu kinh doanh",
+    "en": ""
   },
   {
     "hanzi": "开采",
     "pinyin": "kāicǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Khai thác mỏ",
+    "en": ""
   },
   {
     "hanzi": "开场",
     "pinyin": "kāichǎng",
-    "en": "",
-    "vi": ""
+    "vi": "khai mạc",
+    "en": ""
   },
   {
     "hanzi": "开场白",
     "pinyin": "kāichǎngbái",
-    "en": "",
-    "vi": ""
+    "vi": "phát biểu khai mạc",
+    "en": ""
   },
   {
     "hanzi": "开除",
     "pinyin": "kāichú",
-    "en": "",
-    "vi": ""
+    "vi": "trục xuất",
+    "en": ""
   },
   {
     "hanzi": "开动",
     "pinyin": "kāidòng",
-    "en": "",
-    "vi": ""
+    "vi": "bắt đầu",
+    "en": ""
   },
   {
     "hanzi": "开发区",
     "pinyin": "kāifāqū",
-    "en": "",
-    "vi": ""
+    "vi": "khu phát triển",
+    "en": ""
   },
   {
     "hanzi": "开发商",
     "pinyin": "kāifāshāng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhà phát triển",
+    "en": ""
   },
   {
     "hanzi": "开工",
     "pinyin": "kāigōng",
-    "en": "",
-    "vi": ""
+    "vi": "bắt đầu",
+    "en": ""
   },
   {
     "hanzi": "开垦",
     "pinyin": "kāikěn",
-    "en": "",
-    "vi": ""
+    "vi": "sự khai hoang",
+    "en": ""
   },
   {
     "hanzi": "开阔",
     "pinyin": "kāikuò",
-    "en": "",
-    "vi": ""
+    "vi": "mở",
+    "en": ""
   },
   {
     "hanzi": "开朗",
     "pinyin": "kāilǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Vui vẻ",
+    "en": ""
   },
   {
     "hanzi": "开明",
     "pinyin": "kāimíng",
-    "en": "",
-    "vi": ""
+    "vi": "giác ngộ",
+    "en": ""
   },
   {
     "hanzi": "开辟",
     "pinyin": "kāipì",
-    "en": "",
-    "vi": ""
+    "vi": "mở ra",
+    "en": ""
   },
   {
     "hanzi": "开天辟地",
     "pinyin": "kāitiān-pìdì",
-    "en": "",
-    "vi": ""
+    "vi": "Tạo một thế giới mới",
+    "en": ""
   },
   {
     "hanzi": "开庭",
     "pinyin": "kāitíng",
-    "en": "",
-    "vi": ""
+    "vi": "phiên tòa",
+    "en": ""
   },
   {
     "hanzi": "开拓",
     "pinyin": "kāituò",
-    "en": "",
-    "vi": ""
+    "vi": "mở ra",
+    "en": ""
   },
   {
     "hanzi": "开销",
     "pinyin": "kāixiāo",
-    "en": "",
-    "vi": ""
+    "vi": "trên không",
+    "en": ""
   },
   {
     "hanzi": "开张",
     "pinyin": "kāizhāng",
-    "en": "",
-    "vi": ""
+    "vi": "mở",
+    "en": ""
   },
   {
     "hanzi": "开支",
     "pinyin": "kāizhī",
-    "en": "",
-    "vi": ""
+    "vi": "chi tiêu",
+    "en": ""
   },
   {
     "hanzi": "楷模",
     "pinyin": "kǎimó",
-    "en": "",
-    "vi": ""
+    "vi": "hình mẫu",
+    "en": ""
   },
   {
     "hanzi": "凯旋",
     "pinyin": "kǎixuán",
-    "en": "",
-    "vi": ""
+    "vi": "chiến thắng",
+    "en": ""
   },
   {
     "hanzi": "堪称",
     "pinyin": "kānchēng",
-    "en": "",
-    "vi": ""
+    "vi": "Có thể được gọi",
+    "en": ""
   },
   {
     "hanzi": "刊登",
     "pinyin": "kāndēng",
-    "en": "",
-    "vi": ""
+    "vi": "xuất bản",
+    "en": ""
   },
   {
     "hanzi": "看护",
     "pinyin": "kānhù",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "看守",
     "pinyin": "kānshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "canh gác",
+    "en": ""
   },
   {
     "hanzi": "勘探",
     "pinyin": "kāntàn",
-    "en": "",
-    "vi": ""
+    "vi": "thăm dò",
+    "en": ""
   },
   {
     "hanzi": "刊物",
     "pinyin": "kānwù",
-    "en": "",
-    "vi": ""
+    "vi": "công bố",
+    "en": ""
   },
   {
     "hanzi": "砍伐",
     "pinyin": "kǎnfá",
-    "en": "",
-    "vi": ""
+    "vi": "chặt cây",
+    "en": ""
   },
   {
     "hanzi": "侃侃而谈",
     "pinyin": "kǎnkǎn’értán",
-    "en": "",
-    "vi": ""
+    "vi": "nói chuyện thoải mái",
+    "en": ""
   },
   {
     "hanzi": "坎坷",
     "pinyin": "kǎnkě",
-    "en": "",
-    "vi": ""
+    "vi": "Thăng trầm",
+    "en": ""
   },
   {
     "hanzi": "看台",
     "pinyin": "kàntái",
-    "en": "",
-    "vi": ""
+    "vi": "khán đài",
+    "en": ""
   },
   {
     "hanzi": "慷慨",
     "pinyin": "kāngkǎi",
-    "en": "",
-    "vi": ""
+    "vi": "hào phóng",
+    "en": ""
   },
   {
     "hanzi": "看管",
     "pinyin": "kānguǎn",
-    "en": "",
-    "vi": ""
+    "vi": "canh gác",
+    "en": ""
   },
   {
     "hanzi": "扛",
     "pinyin": "káng",
-    "en": "",
-    "vi": ""
+    "vi": "mang",
+    "en": ""
   },
   {
     "hanzi": "抗衡",
     "pinyin": "kànghéng",
-    "en": "",
-    "vi": ""
+    "vi": "tranh luận",
+    "en": ""
   },
   {
     "hanzi": "抗拒",
     "pinyin": "kàngjù",
-    "en": "",
-    "vi": ""
+    "vi": "kháng cự",
+    "en": ""
   },
   {
     "hanzi": "抗生素",
     "pinyin": "kàngshēngsù",
-    "en": "",
-    "vi": ""
+    "vi": "kháng sinh",
+    "en": ""
   },
   {
     "hanzi": "抗议",
     "pinyin": "kàngyì",
-    "en": "",
-    "vi": ""
+    "vi": "phản kháng",
+    "en": ""
   },
   {
     "hanzi": "抗争",
     "pinyin": "kàngzhēng",
-    "en": "",
-    "vi": ""
+    "vi": "trận đánh",
+    "en": ""
   },
   {
     "hanzi": "考查",
     "pinyin": "kǎochá",
-    "en": "",
-    "vi": ""
+    "vi": "Bài kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "考量",
     "pinyin": "kǎoliáng",
-    "en": "",
-    "vi": ""
+    "vi": "coi như",
+    "en": ""
   },
   {
     "hanzi": "靠拢",
     "pinyin": "kàolǒng",
-    "en": "",
-    "vi": ""
+    "vi": "đến gần hơn",
+    "en": ""
   },
   {
     "hanzi": "磕",
     "pinyin": "kē",
-    "en": "",
-    "vi": ""
+    "vi": "cú đánh",
+    "en": ""
   },
   {
     "hanzi": "苛刻",
     "pinyin": "kēkè",
-    "en": "",
-    "vi": ""
+    "vi": "thô ráp",
+    "en": ""
   },
   {
     "hanzi": "颗粒",
     "pinyin": "kēlì",
-    "en": "",
-    "vi": ""
+    "vi": "hạt",
+    "en": ""
   },
   {
     "hanzi": "壳",
     "pinyin": "ké",
-    "en": "",
-    "vi": ""
+    "vi": "vỏ bọc",
+    "en": ""
   },
   {
     "hanzi": "可悲",
     "pinyin": "kěbēi",
-    "en": "",
-    "vi": ""
+    "vi": "buồn",
+    "en": ""
   },
   {
     "hanzi": "可不是",
     "pinyin": "kěbúshi",
-    "en": "",
-    "vi": ""
+    "vi": "KHÔNG",
+    "en": ""
   },
   {
     "hanzi": "可乘之机",
     "pinyin": "kěchéngzhījī",
-    "en": "",
-    "vi": ""
+    "vi": "Một cơ hội để tận dụng",
+    "en": ""
   },
   {
     "hanzi": "可耻",
     "pinyin": "kěchǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đáng xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "可观",
     "pinyin": "kěguān",
-    "en": "",
-    "vi": ""
+    "vi": "đáng kể",
+    "en": ""
   },
   {
     "hanzi": "可贵",
     "pinyin": "kěguì",
-    "en": "",
-    "vi": ""
+    "vi": "có giá trị lớn",
+    "en": ""
   },
   {
     "hanzi": "可谓",
     "pinyin": "kěwèi",
-    "en": "",
-    "vi": ""
+    "vi": "Có thể nói",
+    "en": ""
   },
   {
     "hanzi": "可恶",
     "pinyin": "kěwù",
-    "en": "",
-    "vi": ""
+    "vi": "đáng ghét",
+    "en": ""
   },
   {
     "hanzi": "可想而知",
     "pinyin": "kěxiǎng’érzhī",
-    "en": "",
-    "vi": ""
+    "vi": "Nó có thể hình dung được",
+    "en": ""
   },
   {
     "hanzi": "可笑",
     "pinyin": "kěxiào",
-    "en": "",
-    "vi": ""
+    "vi": "lố bịch",
+    "en": ""
   },
   {
     "hanzi": "可疑",
     "pinyin": "kěyí",
-    "en": "",
-    "vi": ""
+    "vi": "khả nghi",
+    "en": ""
   },
   {
     "hanzi": "刻不容缓",
     "pinyin": "kèbùrónghuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "không chậm trễ",
+    "en": ""
   },
   {
     "hanzi": "客房",
     "pinyin": "kèfáng",
-    "en": "",
-    "vi": ""
+    "vi": "Phòng khách",
+    "en": ""
   },
   {
     "hanzi": "刻画",
     "pinyin": "kèhuà",
-    "en": "",
-    "vi": ""
+    "vi": "miêu tả",
+    "en": ""
   },
   {
     "hanzi": "客机",
     "pinyin": "kèjī",
-    "en": "",
-    "vi": ""
+    "vi": "máy bay chở khách",
+    "en": ""
   },
   {
     "hanzi": "刻苦",
     "pinyin": "kèkǔ",
-    "en": "",
-    "vi": ""
+    "vi": "làm việc chăm chỉ",
+    "en": ""
   },
   {
     "hanzi": "客流",
     "pinyin": "kèliú",
-    "en": "",
-    "vi": ""
+    "vi": "luồng hành khách",
+    "en": ""
   },
   {
     "hanzi": "克隆",
     "pinyin": "kèlóng",
-    "en": "",
-    "vi": ""
+    "vi": "dòng vô tính",
+    "en": ""
   },
   {
     "hanzi": "刻意",
     "pinyin": "kèyì",
-    "en": "",
-    "vi": ""
+    "vi": "cố tình",
+    "en": ""
   },
   {
     "hanzi": "客运",
     "pinyin": "kèyùn",
-    "en": "",
-    "vi": ""
+    "vi": "Vận tải hành khách",
+    "en": ""
   },
   {
     "hanzi": "克制",
     "pinyin": "kèzhì",
-    "en": "",
-    "vi": ""
+    "vi": "kiềm chế",
+    "en": ""
   },
   {
     "hanzi": "刻舟求剑",
     "pinyin": "kèzhōu-qiújiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Khắc thuyền tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "啃",
     "pinyin": "kěn",
-    "en": "",
-    "vi": ""
+    "vi": "cắn",
+    "en": ""
   },
   {
     "hanzi": "恳切",
     "pinyin": "kěnqiè",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "恳求",
     "pinyin": "kěnqiú",
-    "en": "",
-    "vi": ""
+    "vi": "cầu xin",
+    "en": ""
   },
   {
     "hanzi": "坑",
     "pinyin": "kēng",
-    "en": "",
-    "vi": ""
+    "vi": "cái hố",
+    "en": ""
   },
   {
     "hanzi": "空荡荡",
     "pinyin": "kōngdàngdàng",
-    "en": "",
-    "vi": ""
+    "vi": "trống",
+    "en": ""
   },
   {
     "hanzi": "空洞",
     "pinyin": "kōngdòng",
-    "en": "",
-    "vi": ""
+    "vi": "Rỗng",
+    "en": ""
   },
   {
     "hanzi": "空间站",
     "pinyin": "kōngjiānzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "trạm không gian",
+    "en": ""
   },
   {
     "hanzi": "空军",
     "pinyin": "kōngjūn",
-    "en": "",
-    "vi": ""
+    "vi": "lực lượng không quân",
+    "en": ""
   },
   {
     "hanzi": "空难",
     "pinyin": "kōngnàn",
-    "en": "",
-    "vi": ""
+    "vi": "tai nạn máy bay",
+    "en": ""
   },
   {
     "hanzi": "空前",
     "pinyin": "kōngqián",
-    "en": "",
-    "vi": ""
+    "vi": "chưa từng có",
+    "en": ""
   },
   {
     "hanzi": "空想",
     "pinyin": "kōngxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "tưởng tượng",
+    "en": ""
   },
   {
     "hanzi": "空虚",
     "pinyin": "kōngxū",
-    "en": "",
-    "vi": ""
+    "vi": "sự trống rỗng",
+    "en": ""
   },
   {
     "hanzi": "孔",
     "pinyin": "kǒng",
-    "en": "",
-    "vi": ""
+    "vi": "hố",
+    "en": ""
   },
   {
     "hanzi": "恐怖",
     "pinyin": "kǒngbù",
-    "en": "",
-    "vi": ""
+    "vi": "nỗi sợ",
+    "en": ""
   },
   {
     "hanzi": "恐吓",
     "pinyin": "kǒnghè",
-    "en": "",
-    "vi": ""
+    "vi": "sự hăm dọa",
+    "en": ""
   },
   {
     "hanzi": "恐慌",
     "pinyin": "kǒnghuāng",
-    "en": "",
-    "vi": ""
+    "vi": "hoảng loạn",
+    "en": ""
   },
   {
     "hanzi": "恐龙",
     "pinyin": "kǒnglóng",
-    "en": "",
-    "vi": ""
+    "vi": "khủng long",
+    "en": ""
   },
   {
     "hanzi": "空白",
     "pinyin": "kòngbái",
-    "en": "",
-    "vi": ""
+    "vi": "trống",
+    "en": ""
   },
   {
     "hanzi": "控告",
     "pinyin": "kònggào",
-    "en": "",
-    "vi": ""
+    "vi": "buộc tội",
+    "en": ""
   },
   {
     "hanzi": "空隙",
     "pinyin": "kòngxì",
-    "en": "",
-    "vi": ""
+    "vi": "trống rỗng",
+    "en": ""
   },
   {
     "hanzi": "抠",
     "pinyin": "kōu",
-    "en": "",
-    "vi": ""
+    "vi": "nhặt",
+    "en": ""
   },
   {
     "hanzi": "又岸",
     "pinyin": "kǒu’àn",
-    "en": "",
-    "vi": ""
+    "vi": "Một bờ khác",
+    "en": ""
   },
   {
     "hanzi": "又碑",
     "pinyin": "kǒubēi",
-    "en": "",
-    "vi": ""
+    "vi": "Một tượng đài khác",
+    "en": ""
   },
   {
     "hanzi": "又才",
     "pinyin": "kǒucái",
-    "en": "",
-    "vi": ""
+    "vi": "youcai",
+    "en": ""
   },
   {
     "hanzi": "又吃",
     "pinyin": "kǒuchī",
-    "en": "",
-    "vi": ""
+    "vi": "Ăn lại",
+    "en": ""
   },
   {
     "hanzi": "又径",
     "pinyin": "kǒujìng",
-    "en": "",
-    "vi": ""
+    "vi": "Lại",
+    "en": ""
   },
   {
     "hanzi": "又令",
     "pinyin": "kǒulìng",
-    "en": "",
-    "vi": ""
+    "vi": "Cũng đặt hàng",
+    "en": ""
   },
   {
     "hanzi": "又气",
     "pinyin": "kǒuqì",
-    "en": "",
-    "vi": ""
+    "vi": "Lại tức giận",
+    "en": ""
   },
   {
     "hanzi": "又哨儿",
     "pinyin": "kǒushàor",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy huýt sáo lần nữa",
+    "en": ""
   },
   {
     "hanzi": "又水",
     "pinyin": "kǒushuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Và nước",
+    "en": ""
   },
   {
     "hanzi": "又头禅",
     "pinyin": "kǒutóuchán",
-    "en": "",
-    "vi": ""
+    "vi": "Youtou Zen",
+    "en": ""
   },
   {
     "hanzi": "又香糖",
     "pinyin": "kǒuxiāngtáng",
-    "en": "",
-    "vi": ""
+    "vi": "Lại một loại kẹo thơm nữa",
+    "en": ""
   },
   {
     "hanzi": "又音",
     "pinyin": "kǒuyīn",
-    "en": "",
-    "vi": ""
+    "vi": "Youyin",
+    "en": ""
   },
   {
     "hanzi": "又罩",
     "pinyin": "kǒuzhào",
-    "en": "",
-    "vi": ""
+    "vi": "che lại",
+    "en": ""
   },
   {
     "hanzi": "又子",
     "pinyin": "kǒuzi",
-    "en": "",
-    "vi": ""
+    "vi": "Youzi",
+    "en": ""
   },
   {
     "hanzi": "扣除",
     "pinyin": "kòuchú",
-    "en": "",
-    "vi": ""
+    "vi": "khấu trừ",
+    "en": ""
   },
   {
     "hanzi": "扣留",
     "pinyin": "kòuliú",
-    "en": "",
-    "vi": ""
+    "vi": "giam",
+    "en": ""
   },
   {
     "hanzi": "扣人心弦",
     "pinyin": "kòurénxīnxián",
-    "en": "",
-    "vi": ""
+    "vi": "thú vị",
+    "en": ""
   },
   {
     "hanzi": "扣押",
     "pinyin": "kòuyā",
-    "en": "",
-    "vi": ""
+    "vi": "nắm bắt",
+    "en": ""
   },
   {
     "hanzi": "枯竭",
     "pinyin": "kūjié",
-    "en": "",
-    "vi": ""
+    "vi": "kiệt sức",
+    "en": ""
   },
   {
     "hanzi": "窟窿",
     "pinyin": "kūlong",
-    "en": "",
-    "vi": ""
+    "vi": "hố",
+    "en": ""
   },
   {
     "hanzi": "哭泣",
     "pinyin": "kūqì",
-    "en": "",
-    "vi": ""
+    "vi": "khóc",
+    "en": ""
   },
   {
     "hanzi": "枯萎",
     "pinyin": "kūwěi",
-    "en": "",
-    "vi": ""
+    "vi": "khô héo",
+    "en": ""
   },
   {
     "hanzi": "哭笑不得",
     "pinyin": "kūxiào-bùdé",
-    "en": "",
-    "vi": ""
+    "vi": "chết lặng",
+    "en": ""
   },
   {
     "hanzi": "苦尽甘来",
     "pinyin": "kǔjìn-gānlái",
-    "en": "",
-    "vi": ""
+    "vi": "Mọi khó khăn đều mang lại niềm vui",
+    "en": ""
   },
   {
     "hanzi": "苦难",
     "pinyin": "kǔnàn",
-    "en": "",
-    "vi": ""
+    "vi": "đau khổ",
+    "en": ""
   },
   {
     "hanzi": "苦恼",
     "pinyin": "kǔnǎo",
-    "en": "",
-    "vi": ""
+    "vi": "đau khổ",
+    "en": ""
   },
   {
     "hanzi": "苦涩",
     "pinyin": "kǔsè",
-    "en": "",
-    "vi": ""
+    "vi": "vị đắng",
+    "en": ""
   },
   {
     "hanzi": "苦笑",
     "pinyin": "kǔxiào",
-    "en": "",
-    "vi": ""
+    "vi": "nụ cười gượng gạo",
+    "en": ""
   },
   {
     "hanzi": "苦心",
     "pinyin": "kǔxīn",
-    "en": "",
-    "vi": ""
+    "vi": "một cách tỉ mỉ",
+    "en": ""
   },
   {
     "hanzi": "库存",
     "pinyin": "kùcún",
-    "en": "",
-    "vi": ""
+    "vi": "trong kho",
+    "en": ""
   },
   {
     "hanzi": "酷似",
     "pinyin": "kùsì",
-    "en": "",
-    "vi": ""
+    "vi": "chính xác như",
+    "en": ""
   },
   {
     "hanzi": "夸大",
     "pinyin": "kuādà",
-    "en": "",
-    "vi": ""
+    "vi": "nói quá",
+    "en": ""
   },
   {
     "hanzi": "夸夸其谈",
     "pinyin": "kuākuā-qítán",
-    "en": "",
-    "vi": ""
+    "vi": "Hùng biện",
+    "en": ""
   },
   {
     "hanzi": "夸耀",
     "pinyin": "kuāyào",
-    "en": "",
-    "vi": ""
+    "vi": "khoe khoan",
+    "en": ""
   },
   {
     "hanzi": "垮",
     "pinyin": "kuǎ",
-    "en": "",
-    "vi": ""
+    "vi": "sụp đổ",
+    "en": ""
   },
   {
     "hanzi": "挎",
     "pinyin": "kuà",
-    "en": "",
-    "vi": ""
+    "vi": "vai",
+    "en": ""
   },
   {
     "hanzi": "跨",
     "pinyin": "kuà",
-    "en": "",
-    "vi": ""
+    "vi": "sang",
+    "en": ""
   },
   {
     "hanzi": "跨度",
     "pinyin": "kuàdù",
-    "en": "",
-    "vi": ""
+    "vi": "nhịp",
+    "en": ""
   },
   {
     "hanzi": "跨国",
     "pinyin": "kuàguó",
-    "en": "",
-    "vi": ""
+    "vi": "xuyên quốc gia",
+    "en": ""
   },
   {
     "hanzi": "跨越",
     "pinyin": "kuàyuè",
-    "en": "",
-    "vi": ""
+    "vi": "nhịp",
+    "en": ""
   },
   {
     "hanzi": "快活",
     "pinyin": "kuàihuo",
-    "en": "",
-    "vi": ""
+    "vi": "vui mừng",
+    "en": ""
   },
   {
     "hanzi": "宽敞",
     "pinyin": "kuānchang",
-    "en": "",
-    "vi": ""
+    "vi": "Rộng rãi",
+    "en": ""
   },
   {
     "hanzi": "宽泛",
     "pinyin": "kuānfàn",
-    "en": "",
-    "vi": ""
+    "vi": "rộng rãi",
+    "en": ""
   },
   {
     "hanzi": "宽广",
     "pinyin": "kuānguǎng",
-    "en": "",
-    "vi": ""
+    "vi": "rộng rãi",
+    "en": ""
   },
   {
     "hanzi": "宽厚",
     "pinyin": "kuānhòu",
-    "en": "",
-    "vi": ""
+    "vi": "hào phóng",
+    "en": ""
   },
   {
     "hanzi": "宽阔",
     "pinyin": "kuānkuò",
-    "en": "",
-    "vi": ""
+    "vi": "rộng",
+    "en": ""
   },
   {
     "hanzi": "宽容",
     "pinyin": "kuānróng",
-    "en": "",
-    "vi": ""
+    "vi": "khoan dung",
+    "en": ""
   },
   {
     "hanzi": "宽恕",
     "pinyin": "kuānshù",
-    "en": "",
-    "vi": ""
+    "vi": "tha thứ",
+    "en": ""
   },
   {
     "hanzi": "宽松",
     "pinyin": "kuānsōng",
-    "en": "",
-    "vi": ""
+    "vi": "Lỏng lẻo",
+    "en": ""
   },
   {
     "hanzi": "款待",
     "pinyin": "kuǎndài",
-    "en": "",
-    "vi": ""
+    "vi": "lòng hiếu khách",
+    "en": ""
   },
   {
     "hanzi": "款项",
     "pinyin": "kuǎnxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "sự chi trả",
+    "en": ""
   },
   {
     "hanzi": "筐",
     "pinyin": "kuāng",
-    "en": "",
-    "vi": ""
+    "vi": "rổ",
+    "en": ""
   },
   {
     "hanzi": "狂",
     "pinyin": "kuáng",
-    "en": "",
-    "vi": ""
+    "vi": "điên rồ",
+    "en": ""
   },
   {
     "hanzi": "狂欢",
     "pinyin": "kuánghuān",
-    "en": "",
-    "vi": ""
+    "vi": "lễ hội",
+    "en": ""
   },
   {
     "hanzi": "狂热",
     "pinyin": "kuángrè",
-    "en": "",
-    "vi": ""
+    "vi": "sự cuồng tín",
+    "en": ""
   },
   {
     "hanzi": "矿",
     "pinyin": "kuàng",
-    "en": "",
-    "vi": ""
+    "vi": "của tôi",
+    "en": ""
   },
   {
     "hanzi": "框",
     "pinyin": "kuàng",
-    "en": "",
-    "vi": ""
+    "vi": "hộp",
+    "en": ""
   },
   {
     "hanzi": "矿藏",
     "pinyin": "kuàngcáng",
-    "en": "",
-    "vi": ""
+    "vi": "khoáng sản",
+    "en": ""
   },
   {
     "hanzi": "矿产",
     "pinyin": "kuàngchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "khoáng sản",
+    "en": ""
   },
   {
     "hanzi": "框架",
     "pinyin": "kuàngjià",
-    "en": "",
-    "vi": ""
+    "vi": "khung",
+    "en": ""
   },
   {
     "hanzi": "旷课",
     "pinyin": "kuàngkè",
-    "en": "",
-    "vi": ""
+    "vi": "Vắng mặt ở trường",
+    "en": ""
   },
   {
     "hanzi": "况且",
     "pinyin": "kuàngqiě",
-    "en": "",
-    "vi": ""
+    "vi": "Hơn thế nữa",
+    "en": ""
   },
   {
     "hanzi": "亏本",
     "pinyin": "kuīběn",
-    "en": "",
-    "vi": ""
+    "vi": "Mất tiền",
+    "en": ""
   },
   {
     "hanzi": "亏待",
     "pinyin": "kuīdài",
-    "en": "",
-    "vi": ""
+    "vi": "điều trị bệnh",
+    "en": ""
   },
   {
     "hanzi": "捆",
     "pinyin": "kǔn",
-    "en": "",
-    "vi": ""
+    "vi": "bó",
+    "en": ""
   },
   {
     "hanzi": "困惑",
     "pinyin": "kùnhuò",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "困境",
     "pinyin": "kùnjìng",
-    "en": "",
-    "vi": ""
+    "vi": "tình thế tiến thoái lưỡng nan",
+    "en": ""
   },
   {
     "hanzi": "扩",
     "pinyin": "kuò",
-    "en": "",
-    "vi": ""
+    "vi": "mở rộng",
+    "en": ""
   },
   {
     "hanzi": "扩充",
     "pinyin": "kuòchōng",
-    "en": "",
-    "vi": ""
+    "vi": "mở rộng",
+    "en": ""
   },
   {
     "hanzi": "阔绰",
     "pinyin": "kuòchuò",
-    "en": "",
-    "vi": ""
+    "vi": "xa hoa",
+    "en": ""
   },
   {
     "hanzi": "括号",
     "pinyin": "kuòhào",
-    "en": "",
-    "vi": ""
+    "vi": "dấu ngoặc",
+    "en": ""
   },
   {
     "hanzi": "扩建",
     "pinyin": "kuòjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Mở rộng",
+    "en": ""
   },
   {
     "hanzi": "扩散",
     "pinyin": "kuòsàn",
-    "en": "",
-    "vi": ""
+    "vi": "khuếch tán",
+    "en": ""
   },
   {
     "hanzi": "扩张",
     "pinyin": "kuòzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "mở rộng",
+    "en": ""
   },
   {
     "hanzi": "拉动",
     "pinyin": "lādòng",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "啦啦队",
     "pinyin": "lālāduì",
-    "en": "",
-    "vi": ""
+    "vi": "cổ vũ",
+    "en": ""
   },
   {
     "hanzi": "拉链",
     "pinyin": "lāliàn",
-    "en": "",
-    "vi": ""
+    "vi": "dây kéo",
+    "en": ""
   },
   {
     "hanzi": "拉拢",
     "pinyin": "lālǒng",
-    "en": "",
-    "vi": ""
+    "vi": "chiến thắng",
+    "en": ""
   },
   {
     "hanzi": "喇叭",
     "pinyin": "lǎba",
-    "en": "",
-    "vi": ""
+    "vi": "kèn",
+    "en": ""
   },
   {
     "hanzi": "蜡",
     "pinyin": "là",
-    "en": "",
-    "vi": ""
+    "vi": "sáp",
+    "en": ""
   },
   {
     "hanzi": "腊月",
     "pinyin": "làyuè",
-    "en": "",
-    "vi": ""
+    "vi": "tháng mười hai âm lịch",
+    "en": ""
   },
   {
     "hanzi": "蜡烛",
     "pinyin": "làzhú",
-    "en": "",
-    "vi": ""
+    "vi": "Nến",
+    "en": ""
   },
   {
     "hanzi": "来宾",
     "pinyin": "láibīn",
-    "en": "",
-    "vi": ""
+    "vi": "khách mời",
+    "en": ""
   },
   {
     "hanzi": "来电",
     "pinyin": "láidiàn",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc gọi đến",
+    "en": ""
   },
   {
     "hanzi": "来访",
     "pinyin": "láifǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Thăm nom",
+    "en": ""
   },
   {
     "hanzi": "来回",
     "pinyin": "láihuí",
-    "en": "",
-    "vi": ""
+    "vi": "qua lại",
+    "en": ""
   },
   {
     "hanzi": "来历",
     "pinyin": "láilì",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn gốc",
+    "en": ""
   },
   {
     "hanzi": "来龙去脉",
     "pinyin": "láilóng-qùmài",
-    "en": "",
-    "vi": ""
+    "vi": "Toàn bộ câu chuyện",
+    "en": ""
   },
   {
     "hanzi": "来年",
     "pinyin": "láinián",
-    "en": "",
-    "vi": ""
+    "vi": "năm tới",
+    "en": ""
   },
   {
     "hanzi": "来之不易",
     "pinyin": "láizhī-búyì",
-    "en": "",
-    "vi": ""
+    "vi": "khó thắng",
+    "en": ""
   },
   {
     "hanzi": "栏杆",
     "pinyin": "lángān",
-    "en": "",
-    "vi": ""
+    "vi": "lan can",
+    "en": ""
   },
   {
     "hanzi": "栏目",
     "pinyin": "lánmù",
-    "en": "",
-    "vi": ""
+    "vi": "Cột",
+    "en": ""
   },
   {
     "hanzi": "蓝图",
     "pinyin": "lántú",
-    "en": "",
-    "vi": ""
+    "vi": "bản thiết kế",
+    "en": ""
   },
   {
     "hanzi": "揽",
     "pinyin": "lǎn",
-    "en": "",
-    "vi": ""
+    "vi": "ôm",
+    "en": ""
   },
   {
     "hanzi": "缆车",
     "pinyin": "lǎnchē",
-    "en": "",
-    "vi": ""
+    "vi": "cáp treo",
+    "en": ""
   },
   {
     "hanzi": "懒得",
     "pinyin": "lǎnde",
-    "en": "",
-    "vi": ""
+    "vi": "quá lười biếng",
+    "en": ""
   },
   {
     "hanzi": "懒惰",
     "pinyin": "lǎnduò",
-    "en": "",
-    "vi": ""
+    "vi": "Lười",
+    "en": ""
   },
   {
     "hanzi": "滥用",
     "pinyin": "lànyòng",
-    "en": "",
-    "vi": ""
+    "vi": "lạm dụng",
+    "en": ""
   },
   {
     "hanzi": "狼狈",
     "pinyin": "lángbèi",
-    "en": "",
-    "vi": ""
+    "vi": "Lúng túng",
+    "en": ""
   },
   {
     "hanzi": "狼吞虎咽",
     "pinyin": "lángtūn-hǔyàn",
-    "en": "",
-    "vi": ""
+    "vi": "chó sói",
+    "en": ""
   },
   {
     "hanzi": "朗诵",
     "pinyin": "lǎngsòng",
-    "en": "",
-    "vi": ""
+    "vi": "đọc thuộc lòng",
+    "en": ""
   },
   {
     "hanzi": "捞",
     "pinyin": "lāo",
-    "en": "",
-    "vi": ""
+    "vi": "câu cá",
+    "en": ""
   },
   {
     "hanzi": "唠叨",
     "pinyin": "láodao",
-    "en": "",
-    "vi": ""
+    "vi": "cằn nhằn",
+    "en": ""
   },
   {
     "hanzi": "牢固",
     "pinyin": "láogù",
-    "en": "",
-    "vi": ""
+    "vi": "vững chãi",
+    "en": ""
   },
   {
     "hanzi": "牢记",
     "pinyin": "láojì",
-    "en": "",
-    "vi": ""
+    "vi": "hãy ghi nhớ",
+    "en": ""
   },
   {
     "hanzi": "劳驾",
     "pinyin": "láojià",
-    "en": "",
-    "vi": ""
+    "vi": "Xin lỗi",
+    "en": ""
   },
   {
     "hanzi": "牢牢",
     "pinyin": "láoláo",
-    "en": "",
-    "vi": ""
+    "vi": "vững chắc",
+    "en": ""
   },
   {
     "hanzi": "劳累",
     "pinyin": "láolèi",
-    "en": "",
-    "vi": ""
+    "vi": "mệt",
+    "en": ""
   },
   {
     "hanzi": "牢骚",
     "pinyin": "láosāo",
-    "en": "",
-    "vi": ""
+    "vi": "phàn nàn",
+    "en": ""
   },
   {
     "hanzi": "劳务",
     "pinyin": "láowù",
-    "en": "",
-    "vi": ""
+    "vi": "dịch vụ",
+    "en": ""
   },
   {
     "hanzi": "老伴儿",
     "pinyin": "lǎobànr",
-    "en": "",
-    "vi": ""
+    "vi": "Vợ",
+    "en": ""
   },
   {
     "hanzi": "老大",
     "pinyin": "lǎodà",
-    "en": "",
-    "vi": ""
+    "vi": "ông chủ",
+    "en": ""
   },
   {
     "hanzi": "老化",
     "pinyin": "lǎohuà",
-    "en": "",
-    "vi": ""
+    "vi": "lão hóa",
+    "en": ""
   },
   {
     "hanzi": "老人家",
     "pinyin": "lǎorenjia",
-    "en": "",
-    "vi": ""
+    "vi": "ông già",
+    "en": ""
   },
   {
     "hanzi": "老乡",
     "pinyin": "lǎoxiāng",
-    "en": "",
-    "vi": ""
+    "vi": "đồng hương",
+    "en": ""
   },
   {
     "hanzi": "老字号",
     "pinyin": "lǎozìhao",
-    "en": "",
-    "vi": ""
+    "vi": "Thương hiệu lâu đời",
+    "en": ""
   },
   {
     "hanzi": "涝",
     "pinyin": "lào",
-    "en": "",
-    "vi": ""
+    "vi": "úng nước",
+    "en": ""
   },
   {
     "hanzi": "乐此不疲",
     "pinyin": "lècǐ-bùpí",
-    "en": "",
-    "vi": ""
+    "vi": "không bao giờ chán nó",
+    "en": ""
   },
   {
     "hanzi": "乐意",
     "pinyin": "lèyì",
-    "en": "",
-    "vi": ""
+    "vi": "sẵn sàng",
+    "en": ""
   },
   {
     "hanzi": "乐园",
     "pinyin": "lèyuán",
-    "en": "",
-    "vi": ""
+    "vi": "thiên đường",
+    "en": ""
   },
   {
     "hanzi": "勒",
     "pinyin": "lēi",
-    "en": "",
-    "vi": ""
+    "vi": "Lê",
+    "en": ""
   },
   {
     "hanzi": "雷达",
     "pinyin": "léidá",
-    "en": "",
-    "vi": ""
+    "vi": "ra đa",
+    "en": ""
   },
   {
     "hanzi": "雷同",
     "pinyin": "léitóng",
-    "en": "",
-    "vi": ""
+    "vi": "tương tự",
+    "en": ""
   },
   {
     "hanzi": "累赘",
     "pinyin": "léizhui",
-    "en": "",
-    "vi": ""
+    "vi": "gánh nặng",
+    "en": ""
   },
   {
     "hanzi": "累计",
     "pinyin": "lěijì",
-    "en": "",
-    "vi": ""
+    "vi": "Tổng cộng",
+    "en": ""
   },
   {
     "hanzi": "累积",
     "pinyin": "lěijī",
-    "en": "",
-    "vi": ""
+    "vi": "sự tích lũy",
+    "en": ""
   },
   {
     "hanzi": "棱角",
     "pinyin": "léngjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "các cạnh và góc",
+    "en": ""
   },
   {
     "hanzi": "冷淡",
     "pinyin": "lěngdàn",
-    "en": "",
-    "vi": ""
+    "vi": "lạnh lẽo",
+    "en": ""
   },
   {
     "hanzi": "冷冻",
     "pinyin": "lěngdòng",
-    "en": "",
-    "vi": ""
+    "vi": "đóng băng",
+    "en": ""
   },
   {
     "hanzi": "冷酷",
     "pinyin": "lěngkù",
-    "en": "",
-    "vi": ""
+    "vi": "lạnh lẽo",
+    "en": ""
   },
   {
     "hanzi": "冷落",
     "pinyin": "lěngluò",
-    "en": "",
-    "vi": ""
+    "vi": "Phớt lờ",
+    "en": ""
   },
   {
     "hanzi": "冷门",
     "pinyin": "lěngmén",
-    "en": "",
-    "vi": ""
+    "vi": "Không được ưa chuộng",
+    "en": ""
   },
   {
     "hanzi": "冷漠",
     "pinyin": "lěngmò",
-    "en": "",
-    "vi": ""
+    "vi": "vô tư",
+    "en": ""
   },
   {
     "hanzi": "冷气",
     "pinyin": "lěngqì",
-    "en": "",
-    "vi": ""
+    "vi": "điều hòa không khí",
+    "en": ""
   },
   {
     "hanzi": "冷却",
     "pinyin": "lěngquè",
-    "en": "",
-    "vi": ""
+    "vi": "hạ nhiệt",
+    "en": ""
   },
   {
     "hanzi": "冷战",
     "pinyin": "lěngzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "chiến tranh lạnh",
+    "en": ""
   },
   {
     "hanzi": "愣",
     "pinyin": "lèng",
-    "en": "",
-    "vi": ""
+    "vi": "choáng váng",
+    "en": ""
   },
   {
     "hanzi": "黎明",
     "pinyin": "límíng",
-    "en": "",
-    "vi": ""
+    "vi": "bình minh",
+    "en": ""
   },
   {
     "hanzi": "离谱儿",
     "pinyin": "lípǔr",
-    "en": "",
-    "vi": ""
+    "vi": "thái quá",
+    "en": ""
   },
   {
     "hanzi": "离奇",
     "pinyin": "líqí",
-    "en": "",
-    "vi": ""
+    "vi": "kỳ lạ",
+    "en": ""
   },
   {
     "hanzi": "理睬",
     "pinyin": "lǐcǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Chấp nhận",
+    "en": ""
   },
   {
     "hanzi": "里程碑",
     "pinyin": "lǐchéngbēi",
-    "en": "",
-    "vi": ""
+    "vi": "cột mốc quan trọng",
+    "en": ""
   },
   {
     "hanzi": "礼服",
     "pinyin": "lǐfú",
-    "en": "",
-    "vi": ""
+    "vi": "đầm",
+    "en": ""
   },
   {
     "hanzi": "理会",
     "pinyin": "lǐhuì",
-    "en": "",
-    "vi": ""
+    "vi": "chú ý đến",
+    "en": ""
   },
   {
     "hanzi": "礼节",
     "pinyin": "lǐjié",
-    "en": "",
-    "vi": ""
+    "vi": "nghi thức",
+    "en": ""
   },
   {
     "hanzi": "礼品",
     "pinyin": "lǐpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "quà ",
+    "en": ""
   },
   {
     "hanzi": "礼尚往来",
     "pinyin": "lǐshàngwǎnglái",
-    "en": "",
-    "vi": ""
+    "vi": "có đi có lại",
+    "en": ""
   },
   {
     "hanzi": "理事",
     "pinyin": "lǐshì",
-    "en": "",
-    "vi": ""
+    "vi": "giám đốc",
+    "en": ""
   },
   {
     "hanzi": "理所当然",
     "pinyin": "lǐsuǒdāngrán",
-    "en": "",
-    "vi": ""
+    "vi": "Tất nhiên rồi",
+    "en": ""
   },
   {
     "hanzi": "礼堂",
     "pinyin": "lǐtáng",
-    "en": "",
-    "vi": ""
+    "vi": "sảnh",
+    "en": ""
   },
   {
     "hanzi": "礼仪",
     "pinyin": "lǐyí",
-    "en": "",
-    "vi": ""
+    "vi": "nghi thức",
+    "en": ""
   },
   {
     "hanzi": "鲤鱼",
     "pinyin": "lǐyú",
-    "en": "",
-    "vi": ""
+    "vi": "cá chép",
+    "en": ""
   },
   {
     "hanzi": "理智",
     "pinyin": "lǐzhì",
-    "en": "",
-    "vi": ""
+    "vi": "lý do",
+    "en": ""
   },
   {
     "hanzi": "理直气壮",
     "pinyin": "lǐzhí-qìzhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "tự tin",
+    "en": ""
   },
   {
     "hanzi": "立案",
     "pinyin": "lì’àn",
-    "en": "",
-    "vi": ""
+    "vi": "Nộp đơn kiện",
+    "en": ""
   },
   {
     "hanzi": "利弊",
     "pinyin": "lìbì",
-    "en": "",
-    "vi": ""
+    "vi": "ưu và nhược điểm",
+    "en": ""
   },
   {
     "hanzi": "力不从心",
     "pinyin": "lìbùcóngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Mất điện",
+    "en": ""
   },
   {
     "hanzi": "历程",
     "pinyin": "lìchéng",
-    "en": "",
-    "vi": ""
+    "vi": "khóa học",
+    "en": ""
   },
   {
     "hanzi": "历代",
     "pinyin": "lìdài",
-    "en": "",
-    "vi": ""
+    "vi": "Các triều đại trước đây",
+    "en": ""
   },
   {
     "hanzi": "立法",
     "pinyin": "lìfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "pháp luật",
+    "en": ""
   },
   {
     "hanzi": "立方",
     "pinyin": "lìfāng",
-    "en": "",
-    "vi": ""
+    "vi": "khối lập phương",
+    "en": ""
   },
   {
     "hanzi": "立方米",
     "pinyin": "lìfāngmǐ",
-    "en": "",
-    "vi": ""
+    "vi": "mét khối",
+    "en": ""
   },
   {
     "hanzi": "立功",
     "pinyin": "lìgōng",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy làm công đức phục vụ",
+    "en": ""
   },
   {
     "hanzi": "利害",
     "pinyin": "lìhài",
-    "en": "",
-    "vi": ""
+    "vi": "Sở thích",
+    "en": ""
   },
   {
     "hanzi": "立交桥",
     "pinyin": "lìjiāoqiáo",
-    "en": "",
-    "vi": ""
+    "vi": "cầu vượt",
+    "en": ""
   },
   {
     "hanzi": "历届",
     "pinyin": "lìjiè",
-    "en": "",
-    "vi": ""
+    "vi": "Phiên trước",
+    "en": ""
   },
   {
     "hanzi": "历来",
     "pinyin": "lìlái",
-    "en": "",
-    "vi": ""
+    "vi": "luôn luôn",
+    "en": ""
   },
   {
     "hanzi": "莅临",
     "pinyin": "lìlín",
-    "en": "",
-    "vi": ""
+    "vi": "đến",
+    "en": ""
   },
   {
     "hanzi": "利率",
     "pinyin": "lìlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "lãi suất",
+    "en": ""
   },
   {
     "hanzi": "力求",
     "pinyin": "lìqiú",
-    "en": "",
-    "vi": ""
+    "vi": "phấn đấu để",
+    "en": ""
   },
   {
     "hanzi": "历时",
     "pinyin": "lìshí",
-    "en": "",
-    "vi": ""
+    "vi": "khoảng thời gian",
+    "en": ""
   },
   {
     "hanzi": "利索",
     "pinyin": "lìsuo",
-    "en": "",
-    "vi": ""
+    "vi": "gọn gàng",
+    "en": ""
   },
   {
     "hanzi": "力所能及",
     "pinyin": "lìsuǒnéngjí",
-    "en": "",
-    "vi": ""
+    "vi": "trong khả năng của một người",
+    "en": ""
   },
   {
     "hanzi": "立体",
     "pinyin": "lìtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "ba chiều",
+    "en": ""
   },
   {
     "hanzi": "力争",
     "pinyin": "lìzhēng",
-    "en": "",
-    "vi": ""
+    "vi": "phấn đấu cho",
+    "en": ""
   },
   {
     "hanzi": "励志",
     "pinyin": "lìzhì",
-    "en": "",
-    "vi": ""
+    "vi": "truyền cảm hứng",
+    "en": ""
   },
   {
     "hanzi": "立足",
     "pinyin": "lìzú",
-    "en": "",
-    "vi": ""
+    "vi": "thiết lập chỗ đứng",
+    "en": ""
   },
   {
     "hanzi": "连贯",
     "pinyin": "liánguàn",
-    "en": "",
-    "vi": ""
+    "vi": "mạch lạc",
+    "en": ""
   },
   {
     "hanzi": "联欢",
     "pinyin": "liánhuān",
-    "en": "",
-    "vi": ""
+    "vi": "họp mặt",
+    "en": ""
   },
   {
     "hanzi": "廉价",
     "pinyin": "liánjià",
-    "en": "",
-    "vi": ""
+    "vi": "rẻ",
+    "en": ""
   },
   {
     "hanzi": "廉洁",
     "pinyin": "liánjié",
-    "en": "",
-    "vi": ""
+    "vi": "Chính trực",
+    "en": ""
   },
   {
     "hanzi": "连连",
     "pinyin": "liánlián",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều lần",
+    "en": ""
   },
   {
     "hanzi": "联络",
     "pinyin": "liánluò",
-    "en": "",
-    "vi": ""
+    "vi": "liên hệ",
+    "en": ""
   },
   {
     "hanzi": "联盟",
     "pinyin": "liánméng",
-    "en": "",
-    "vi": ""
+    "vi": "liên minh",
+    "en": ""
   },
   {
     "hanzi": "连绵",
     "pinyin": "liánmián",
-    "en": "",
-    "vi": ""
+    "vi": "liên tục",
+    "en": ""
   },
   {
     "hanzi": "连年",
     "pinyin": "liánnián",
-    "en": "",
-    "vi": ""
+    "vi": "Năm này qua năm khác",
+    "en": ""
   },
   {
     "hanzi": "连任",
     "pinyin": "liánrèn",
-    "en": "",
-    "vi": ""
+    "vi": "tái đắc cử",
+    "en": ""
   },
   {
     "hanzi": "联赛",
     "pinyin": "liánsài",
-    "en": "",
-    "vi": ""
+    "vi": "liên minh",
+    "en": ""
   },
   {
     "hanzi": "联手",
     "pinyin": "liánshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Tham gia lực lượng",
+    "en": ""
   },
   {
     "hanzi": "连锁",
     "pinyin": "liánsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "xích",
+    "en": ""
   },
   {
     "hanzi": "连同",
     "pinyin": "liántóng",
-    "en": "",
-    "vi": ""
+    "vi": "cùng với",
+    "en": ""
   },
   {
     "hanzi": "怜惜",
     "pinyin": "liánxī",
-    "en": "",
-    "vi": ""
+    "vi": "lòng thương xót",
+    "en": ""
   },
   {
     "hanzi": "连夜",
     "pinyin": "liányè",
-    "en": "",
-    "vi": ""
+    "vi": "qua đêm",
+    "en": ""
   },
   {
     "hanzi": "廉正",
     "pinyin": "liánzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "chính trực",
+    "en": ""
   },
   {
     "hanzi": "帘子",
     "pinyin": "liánzi",
-    "en": "",
-    "vi": ""
+    "vi": "tấm màn",
+    "en": ""
   },
   {
     "hanzi": "莲子",
     "pinyin": "liánzǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hạt sen",
+    "en": ""
   },
   {
     "hanzi": "脸颊",
     "pinyin": "liǎnjiá",
-    "en": "",
-    "vi": ""
+    "vi": "má",
+    "en": ""
   },
   {
     "hanzi": "炼",
     "pinyin": "liàn",
-    "en": "",
-    "vi": ""
+    "vi": "luyện tập",
+    "en": ""
   },
   {
     "hanzi": "恋恋不舍",
     "pinyin": "liànliàn-bùshě",
-    "en": "",
-    "vi": ""
+    "vi": "Miễn cưỡng rời đi",
+    "en": ""
   },
   {
     "hanzi": "良",
     "pinyin": "liáng",
-    "en": "",
-    "vi": ""
+    "vi": "Tốt",
+    "en": ""
   },
   {
     "hanzi": "凉爽",
     "pinyin": "liángshuǎng",
-    "en": "",
-    "vi": ""
+    "vi": "mát mẻ",
+    "en": ""
   },
   {
     "hanzi": "良心",
     "pinyin": "liángxīn",
-    "en": "",
-    "vi": ""
+    "vi": "lương tâm",
+    "en": ""
   },
   {
     "hanzi": "良性",
     "pinyin": "liángxìng",
-    "en": "",
-    "vi": ""
+    "vi": "lành tính",
+    "en": ""
   },
   {
     "hanzi": "两又子",
     "pinyin": "liǎngkǒuzi",
-    "en": "",
-    "vi": ""
+    "vi": "Lương Hữu Tử",
+    "en": ""
   },
   {
     "hanzi": "两栖",
     "pinyin": "liǎngqī",
-    "en": "",
-    "vi": ""
+    "vi": "đổ bộ",
+    "en": ""
   },
   {
     "hanzi": "两手",
     "pinyin": "liǎngshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "cả hai tay",
+    "en": ""
   },
   {
     "hanzi": "两下子",
     "pinyin": "liǎngxiàzi",
-    "en": "",
-    "vi": ""
+    "vi": "hai lần",
+    "en": ""
   },
   {
     "hanzi": "两翼",
     "pinyin": "liǎngyì",
-    "en": "",
-    "vi": ""
+    "vi": "hai cánh",
+    "en": ""
   },
   {
     "hanzi": "亮点",
     "pinyin": "liàngdiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Điểm nổi bật",
+    "en": ""
   },
   {
     "hanzi": "量化",
     "pinyin": "liànghuà",
-    "en": "",
-    "vi": ""
+    "vi": "Định lượng",
+    "en": ""
   },
   {
     "hanzi": "谅解",
     "pinyin": "liàngjiě",
-    "en": "",
-    "vi": ""
+    "vi": "sự hiểu biết",
+    "en": ""
   },
   {
     "hanzi": "亮丽",
     "pinyin": "liànglì",
-    "en": "",
-    "vi": ""
+    "vi": "sáng",
+    "en": ""
   },
   {
     "hanzi": "亮相",
     "pinyin": "liàngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "ra mắt",
+    "en": ""
   },
   {
     "hanzi": "潦草",
     "pinyin": "liáocǎo",
-    "en": "",
-    "vi": ""
+    "vi": "viết nguệch ngoạc",
+    "en": ""
   },
   {
     "hanzi": "疗法",
     "pinyin": "liáofǎ",
-    "en": "",
-    "vi": ""
+    "vi": "trị liệu",
+    "en": ""
   },
   {
     "hanzi": "辽阔",
     "pinyin": "liáokuò",
-    "en": "",
-    "vi": ""
+    "vi": "rộng lớn",
+    "en": ""
   },
   {
     "hanzi": "寥寥无几",
     "pinyin": "liáoliáo-wújǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Rất ít",
+    "en": ""
   },
   {
     "hanzi": "疗效",
     "pinyin": "liáoxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Tác dụng chữa bệnh",
+    "en": ""
   },
   {
     "hanzi": "疗养",
     "pinyin": "liáoyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "hồi phục",
+    "en": ""
   },
   {
     "hanzi": "了结",
     "pinyin": "liǎojié",
-    "en": "",
-    "vi": ""
+    "vi": "giải quyết",
+    "en": ""
   },
   {
     "hanzi": "料理",
     "pinyin": "liàolǐ",
-    "en": "",
-    "vi": ""
+    "vi": "ẩm thực",
+    "en": ""
   },
   {
     "hanzi": "咧嘴",
     "pinyin": "liězuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "cười toe toét",
+    "en": ""
   },
   {
     "hanzi": "裂",
     "pinyin": "liè",
-    "en": "",
-    "vi": ""
+    "vi": "nứt",
+    "en": ""
   },
   {
     "hanzi": "裂缝",
     "pinyin": "lièfèng",
-    "en": "",
-    "vi": ""
+    "vi": "nứt",
+    "en": ""
   },
   {
     "hanzi": "裂痕",
     "pinyin": "lièhén",
-    "en": "",
-    "vi": ""
+    "vi": "nứt",
+    "en": ""
   },
   {
     "hanzi": "列举",
     "pinyin": "lièjǔ",
-    "en": "",
-    "vi": ""
+    "vi": "liệt kê",
+    "en": ""
   },
   {
     "hanzi": "猎人",
     "pinyin": "lièrén",
-    "en": "",
-    "vi": ""
+    "vi": "thợ săn",
+    "en": ""
   },
   {
     "hanzi": "烈日",
     "pinyin": "lièrì",
-    "en": "",
-    "vi": ""
+    "vi": "mặt trời thiêu đốt",
+    "en": ""
   },
   {
     "hanzi": "劣势",
     "pinyin": "lièshì",
-    "en": "",
-    "vi": ""
+    "vi": "Nhược điểm",
+    "en": ""
   },
   {
     "hanzi": "烈士",
     "pinyin": "lièshì",
-    "en": "",
-    "vi": ""
+    "vi": "liệt sĩ",
+    "en": ""
   },
   {
     "hanzi": "猎物",
     "pinyin": "lièwù",
-    "en": "",
-    "vi": ""
+    "vi": "con mồi",
+    "en": ""
   },
   {
     "hanzi": "劣质",
     "pinyin": "lièzhì",
-    "en": "",
-    "vi": ""
+    "vi": "chất lượng kém hơn",
+    "en": ""
   },
   {
     "hanzi": "拎",
     "pinyin": "līn",
-    "en": "",
-    "vi": ""
+    "vi": "mang",
+    "en": ""
   },
   {
     "hanzi": "临",
     "pinyin": "lín",
-    "en": "",
-    "vi": ""
+    "vi": "chuyên nghiệp",
+    "en": ""
   },
   {
     "hanzi": "临床",
     "pinyin": "línchuáng",
-    "en": "",
-    "vi": ""
+    "vi": "lâm sàng",
+    "en": ""
   },
   {
     "hanzi": "临街",
     "pinyin": "línjiē",
-    "en": "",
-    "vi": ""
+    "vi": "mặt tiền đường",
+    "en": ""
   },
   {
     "hanzi": "临近",
     "pinyin": "línjìn",
-    "en": "",
-    "vi": ""
+    "vi": "đang đến gần",
+    "en": ""
   },
   {
     "hanzi": "吝啬",
     "pinyin": "lìnsè",
-    "en": "",
-    "vi": ""
+    "vi": "keo kiệt",
+    "en": ""
   },
   {
     "hanzi": "灵",
     "pinyin": "líng",
-    "en": "",
-    "vi": ""
+    "vi": "tinh thần",
+    "en": ""
   },
   {
     "hanzi": "灵感",
     "pinyin": "línggǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cảm hứng",
+    "en": ""
   },
   {
     "hanzi": "灵魂",
     "pinyin": "línghún",
-    "en": "",
-    "vi": ""
+    "vi": "linh hồn",
+    "en": ""
   },
   {
     "hanzi": "零件",
     "pinyin": "língjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Thành phần",
+    "en": ""
   },
   {
     "hanzi": "灵机一动",
     "pinyin": "língjī-yídòng",
-    "en": "",
-    "vi": ""
+    "vi": "Một ý tưởng chợt nảy ra",
+    "en": ""
   },
   {
     "hanzi": "灵敏",
     "pinyin": "língmǐn",
-    "en": "",
-    "vi": ""
+    "vi": "nhạy cảm",
+    "en": ""
   },
   {
     "hanzi": "灵巧",
     "pinyin": "língqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "sự khéo léo",
+    "en": ""
   },
   {
     "hanzi": "零售",
     "pinyin": "língshòu",
-    "en": "",
-    "vi": ""
+    "vi": "bán lẻ",
+    "en": ""
   },
   {
     "hanzi": "零碎",
     "pinyin": "língsuì",
-    "en": "",
-    "vi": ""
+    "vi": "từng phần",
+    "en": ""
   },
   {
     "hanzi": "聆听",
     "pinyin": "língtīng",
-    "en": "",
-    "vi": ""
+    "vi": "Nghe",
+    "en": ""
   },
   {
     "hanzi": "灵通",
     "pinyin": "língtōng",
-    "en": "",
-    "vi": ""
+    "vi": "Được thông tin đầy đủ",
+    "en": ""
   },
   {
     "hanzi": "零星",
     "pinyin": "língxīng",
-    "en": "",
-    "vi": ""
+    "vi": "rải rác",
+    "en": ""
   },
   {
     "hanzi": "领队",
     "pinyin": "lǐngduì",
-    "en": "",
-    "vi": ""
+    "vi": "lãnh đạo",
+    "en": ""
   },
   {
     "hanzi": "领会",
     "pinyin": "lǐnghuì",
-    "en": "",
-    "vi": ""
+    "vi": "hiểu ",
+    "en": ""
   },
   {
     "hanzi": "领军",
     "pinyin": "lǐngjūn",
-    "en": "",
-    "vi": ""
+    "vi": "lãnh đạo",
+    "en": ""
   },
   {
     "hanzi": "领略",
     "pinyin": "lǐnglüè",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá",
+    "en": ""
   },
   {
     "hanzi": "领事",
     "pinyin": "lǐngshì",
-    "en": "",
-    "vi": ""
+    "vi": "lãnh sự",
+    "en": ""
   },
   {
     "hanzi": "领事馆",
     "pinyin": "lǐngshìguǎn",
-    "en": "",
-    "vi": ""
+    "vi": "lãnh sự quán",
+    "en": ""
   },
   {
     "hanzi": "领土",
     "pinyin": "lǐngtǔ",
-    "en": "",
-    "vi": ""
+    "vi": "lãnh thổ",
+    "en": ""
   },
   {
     "hanzi": "领悟",
     "pinyin": "lǐngwù",
-    "en": "",
-    "vi": ""
+    "vi": "hiểu",
+    "en": ""
   },
   {
     "hanzi": "领袖",
     "pinyin": "lǐngxiù",
-    "en": "",
-    "vi": ""
+    "vi": "lãnh đạo",
+    "en": ""
   },
   {
     "hanzi": "领养",
     "pinyin": "lǐngyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhận con nuôi",
+    "en": ""
   },
   {
     "hanzi": "溜",
     "pinyin": "liū",
-    "en": "",
-    "vi": ""
+    "vi": "trượt",
+    "en": ""
   },
   {
     "hanzi": "溜达",
     "pinyin": "liūda",
-    "en": "",
-    "vi": ""
+    "vi": "đi dạo",
+    "en": ""
   },
   {
     "hanzi": "流畅",
     "pinyin": "liúchàng",
-    "en": "",
-    "vi": ""
+    "vi": "Trơn tru",
+    "en": ""
   },
   {
     "hanzi": "流浪",
     "pinyin": "liúlàng",
-    "en": "",
-    "vi": ""
+    "vi": "Lang thang",
+    "en": ""
   },
   {
     "hanzi": "留恋",
     "pinyin": "liúliàn",
-    "en": "",
-    "vi": ""
+    "vi": "hoài niệm",
+    "en": ""
   },
   {
     "hanzi": "流露",
     "pinyin": "liúlù",
-    "en": "",
-    "vi": ""
+    "vi": "tiết lộ",
+    "en": ""
   },
   {
     "hanzi": "流氓",
     "pinyin": "liúmáng",
-    "en": "",
-    "vi": ""
+    "vi": "kẻ lừa đảo",
+    "en": ""
   },
   {
     "hanzi": "留念",
     "pinyin": "liúniàn",
-    "en": "",
-    "vi": ""
+    "vi": "Lấy một món quà lưu niệm",
+    "en": ""
   },
   {
     "hanzi": "流派",
     "pinyin": "liúpài",
-    "en": "",
-    "vi": ""
+    "vi": "trường học",
+    "en": ""
   },
   {
     "hanzi": "留神",
     "pinyin": "liúshén",
-    "en": "",
-    "vi": ""
+    "vi": "Chú ý",
+    "en": ""
   },
   {
     "hanzi": "流逝",
     "pinyin": "liúshì",
-    "en": "",
-    "vi": ""
+    "vi": "Đi ngang qua",
+    "en": ""
   },
   {
     "hanzi": "流失",
     "pinyin": "liúshī",
-    "en": "",
-    "vi": ""
+    "vi": "Sự mất mát",
+    "en": ""
   },
   {
     "hanzi": "流水",
     "pinyin": "liúshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nước chảy",
+    "en": ""
   },
   {
     "hanzi": "流淌",
     "pinyin": "liútǎng",
-    "en": "",
-    "vi": ""
+    "vi": "chảy",
+    "en": ""
   },
   {
     "hanzi": "流向",
     "pinyin": "liúxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "hướng dòng chảy",
+    "en": ""
   },
   {
     "hanzi": "留心",
     "pinyin": "liúxīn",
-    "en": "",
-    "vi": ""
+    "vi": "chú ý",
+    "en": ""
   },
   {
     "hanzi": "流血",
     "pinyin": "liúxuè",
-    "en": "",
-    "vi": ""
+    "vi": "chảy máu",
+    "en": ""
   },
   {
     "hanzi": "留意",
     "pinyin": "liúyì",
-    "en": "",
-    "vi": ""
+    "vi": "chú ý đến",
+    "en": ""
   },
   {
     "hanzi": "流域",
     "pinyin": "liúyù",
-    "en": "",
-    "vi": ""
+    "vi": "lưu vực",
+    "en": ""
   },
   {
     "hanzi": "流转",
     "pinyin": "liúzhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sự lưu thông",
+    "en": ""
   },
   {
     "hanzi": "柳树",
     "pinyin": "liǔshù",
-    "en": "",
-    "vi": ""
+    "vi": "liễu",
+    "en": ""
   },
   {
     "hanzi": "遛",
     "pinyin": "liù",
-    "en": "",
-    "vi": ""
+    "vi": "đi dạo",
+    "en": ""
   },
   {
     "hanzi": "聋",
     "pinyin": "lóng",
-    "en": "",
-    "vi": ""
+    "vi": "điếc",
+    "en": ""
   },
   {
     "hanzi": "龙头",
     "pinyin": "lóngtóu",
-    "en": "",
-    "vi": ""
+    "vi": "vòi nước",
+    "en": ""
   },
   {
     "hanzi": "隆重",
     "pinyin": "lóngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "vĩ đại",
+    "en": ""
   },
   {
     "hanzi": "笼子",
     "pinyin": "lóngzi",
-    "en": "",
-    "vi": ""
+    "vi": "cái lồng",
+    "en": ""
   },
   {
     "hanzi": "垄断",
     "pinyin": "lǒngduàn",
-    "en": "",
-    "vi": ""
+    "vi": "độc quyền",
+    "en": ""
   },
   {
     "hanzi": "笼统",
     "pinyin": "lǒngtǒng",
-    "en": "",
-    "vi": ""
+    "vi": "tổng quan",
+    "en": ""
   },
   {
     "hanzi": "笼罩",
     "pinyin": "lǒngzhào",
-    "en": "",
-    "vi": ""
+    "vi": "tấm vải liệm",
+    "en": ""
   },
   {
     "hanzi": "搂",
     "pinyin": "lǒu",
-    "en": "",
-    "vi": ""
+    "vi": "ôm",
+    "en": ""
   },
   {
     "hanzi": "露面",
     "pinyin": "lòumiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xuất hiện",
+    "en": ""
   },
   {
     "hanzi": "炉子",
     "pinyin": "lúzi",
-    "en": "",
-    "vi": ""
+    "vi": "cái lò",
+    "en": ""
   },
   {
     "hanzi": "鲁莽",
     "pinyin": "lǔmǎng",
-    "en": "",
-    "vi": ""
+    "vi": "liều lĩnh",
+    "en": ""
   },
   {
     "hanzi": "卤味",
     "pinyin": "lǔwèi",
-    "en": "",
-    "vi": ""
+    "vi": "Món kho",
+    "en": ""
   },
   {
     "hanzi": "鹿",
     "pinyin": "lù",
-    "en": "",
-    "vi": ""
+    "vi": "con nai",
+    "en": ""
   },
   {
     "hanzi": "露2",
     "pinyin": "lù",
-    "en": "",
-    "vi": ""
+    "vi": "Sương 2",
+    "en": ""
   },
   {
     "hanzi": "路段",
     "pinyin": "lùduàn",
-    "en": "",
-    "vi": ""
+    "vi": "đoạn đường",
+    "en": ""
   },
   {
     "hanzi": "路径",
     "pinyin": "lùjìng",
-    "en": "",
-    "vi": ""
+    "vi": "con đường",
+    "en": ""
   },
   {
     "hanzi": "陆军",
     "pinyin": "lùjūn",
-    "en": "",
-    "vi": ""
+    "vi": "quân đội",
+    "en": ""
   },
   {
     "hanzi": "露天",
     "pinyin": "lùtiān",
-    "en": "",
-    "vi": ""
+    "vi": "không khí cởi mở",
+    "en": ""
   },
   {
     "hanzi": "路途",
     "pinyin": "lùtú",
-    "en": "",
-    "vi": ""
+    "vi": "hành trình",
+    "en": ""
   },
   {
     "hanzi": "露营",
     "pinyin": "lùyíng",
-    "en": "",
-    "vi": ""
+    "vi": "cắm trại",
+    "en": ""
   },
   {
     "hanzi": "路子",
     "pinyin": "lùzi",
-    "en": "",
-    "vi": ""
+    "vi": "con đường",
+    "en": ""
   },
   {
     "hanzi": "屡",
     "pinyin": "lǚ",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều lần",
+    "en": ""
   },
   {
     "hanzi": "缕",
     "pinyin": "lǚ",
-    "en": "",
-    "vi": ""
+    "vi": "chủ đề",
+    "en": ""
   },
   {
     "hanzi": "屡次",
     "pinyin": "lǚcì",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều lần",
+    "en": ""
   },
   {
     "hanzi": "屡屡",
     "pinyin": "lǚlǚ",
-    "en": "",
-    "vi": ""
+    "vi": "nhiều lần",
+    "en": ""
   },
   {
     "hanzi": "绿地",
     "pinyin": "lǜdì",
-    "en": "",
-    "vi": ""
+    "vi": "không gian xanh",
+    "en": ""
   },
   {
     "hanzi": "绿洲",
     "pinyin": "lǜzhōu",
-    "en": "",
-    "vi": ""
+    "vi": "ốc đảo",
+    "en": ""
   },
   {
     "hanzi": "孪生",
     "pinyin": "luánshēng",
-    "en": "",
-    "vi": ""
+    "vi": "sinh đôi",
+    "en": ""
   },
   {
     "hanzi": "卵",
     "pinyin": "luǎn",
-    "en": "",
-    "vi": ""
+    "vi": "trứng",
+    "en": ""
   },
   {
     "hanzi": "乱七八糟",
     "pinyin": "luànqībāzāo",
-    "en": "",
-    "vi": ""
+    "vi": "sự lộn xộn",
+    "en": ""
   },
   {
     "hanzi": "略",
     "pinyin": "lüè",
-    "en": "",
-    "vi": ""
+    "vi": "nhẹ nhàng",
+    "en": ""
   },
   {
     "hanzi": "掠夺",
     "pinyin": "lüèduó",
-    "en": "",
-    "vi": ""
+    "vi": "cướp bóc",
+    "en": ""
   },
   {
     "hanzi": "略微",
     "pinyin": "lüèwēi",
-    "en": "",
-    "vi": ""
+    "vi": "nhẹ nhàng",
+    "en": ""
   },
   {
     "hanzi": "抡",
     "pinyin": "lūn",
-    "en": "",
-    "vi": ""
+    "vi": "xích đu",
+    "en": ""
   },
   {
     "hanzi": "轮换",
     "pinyin": "lúnhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự xoay vòng",
+    "en": ""
   },
   {
     "hanzi": "轮廓",
     "pinyin": "lúnkuò",
-    "en": "",
-    "vi": ""
+    "vi": "đường viền",
+    "en": ""
   },
   {
     "hanzi": "伦理",
     "pinyin": "lúnlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đạo đức",
+    "en": ""
   },
   {
     "hanzi": "轮胎",
     "pinyin": "lúntāi",
-    "en": "",
-    "vi": ""
+    "vi": "lốp xe",
+    "en": ""
   },
   {
     "hanzi": "论述",
     "pinyin": "lùnshù",
-    "en": "",
-    "vi": ""
+    "vi": "Bàn luận",
+    "en": ""
   },
   {
     "hanzi": "论证",
     "pinyin": "lùnzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Lý lẽ",
+    "en": ""
   },
   {
     "hanzi": "啰唆",
     "pinyin": "luōsuo",
-    "en": "",
-    "vi": ""
+    "vi": "dài dòng",
+    "en": ""
   },
   {
     "hanzi": "萝卜",
     "pinyin": "luóbo",
-    "en": "",
-    "vi": ""
+    "vi": "củ cải",
+    "en": ""
   },
   {
     "hanzi": "螺丝",
     "pinyin": "luósī",
-    "en": "",
-    "vi": ""
+    "vi": "vít",
+    "en": ""
   },
   {
     "hanzi": "裸",
     "pinyin": "luǒ",
-    "en": "",
-    "vi": ""
+    "vi": "trần trụi",
+    "en": ""
   },
   {
     "hanzi": "裸露",
     "pinyin": "luǒlù",
-    "en": "",
-    "vi": ""
+    "vi": "để lộ ra",
+    "en": ""
   },
   {
     "hanzi": "裸体",
     "pinyin": "luǒtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "khỏa thân",
+    "en": ""
   },
   {
     "hanzi": "落差",
     "pinyin": "luòchā",
-    "en": "",
-    "vi": ""
+    "vi": "khoảng cách",
+    "en": ""
   },
   {
     "hanzi": "落成",
     "pinyin": "luòchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "落户",
     "pinyin": "luòhù",
-    "en": "",
-    "vi": ""
+    "vi": "Định cư",
+    "en": ""
   },
   {
     "hanzi": "落实",
     "pinyin": "luòshí",
-    "en": "",
-    "vi": ""
+    "vi": "thực hiện",
+    "en": ""
   },
   {
     "hanzi": "络绎不绝",
     "pinyin": "luòyì-bùjué",
-    "en": "",
-    "vi": ""
+    "vi": "Một dòng chảy vô tận",
+    "en": ""
   },
   {
     "hanzi": "麻1",
     "pinyin": "má",
-    "en": "",
-    "vi": ""
+    "vi": "Cây gai dầu 1",
+    "en": ""
   },
   {
     "hanzi": "麻2",
     "pinyin": "má",
-    "en": "",
-    "vi": ""
+    "vi": "Cây gai dầu 2",
+    "en": ""
   },
   {
     "hanzi": "麻痹",
     "pinyin": "mábì",
-    "en": "",
-    "vi": ""
+    "vi": "sự tê liệt",
+    "en": ""
   },
   {
     "hanzi": "麻将",
     "pinyin": "májiàng",
-    "en": "",
-    "vi": ""
+    "vi": "mạt chược",
+    "en": ""
   },
   {
     "hanzi": "麻辣",
     "pinyin": "málà",
-    "en": "",
-    "vi": ""
+    "vi": "Cay",
+    "en": ""
   },
   {
     "hanzi": "麻木",
     "pinyin": "mámù",
-    "en": "",
-    "vi": ""
+    "vi": "tê liệt",
+    "en": ""
   },
   {
     "hanzi": "麻醉",
     "pinyin": "mázuì",
-    "en": "",
-    "vi": ""
+    "vi": "gây mê",
+    "en": ""
   },
   {
     "hanzi": "码1",
     "pinyin": "mǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Mã 1",
+    "en": ""
   },
   {
     "hanzi": "码2",
     "pinyin": "mǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Mã 2",
+    "en": ""
   },
   {
     "hanzi": "马后炮",
     "pinyin": "mǎhòupào",
-    "en": "",
-    "vi": ""
+    "vi": "Nhận thức muộn màng",
+    "en": ""
   },
   {
     "hanzi": "马力",
     "pinyin": "mǎlì",
-    "en": "",
-    "vi": ""
+    "vi": "mã lực",
+    "en": ""
   },
   {
     "hanzi": "马桶",
     "pinyin": "mǎtǒng",
-    "en": "",
-    "vi": ""
+    "vi": "nhà vệ sinh",
+    "en": ""
   },
   {
     "hanzi": "埋藏",
     "pinyin": "máicáng",
-    "en": "",
-    "vi": ""
+    "vi": "chôn cất",
+    "en": ""
   },
   {
     "hanzi": "埋伏",
     "pinyin": "máifú",
-    "en": "",
-    "vi": ""
+    "vi": "phục kích",
+    "en": ""
   },
   {
     "hanzi": "埋没",
     "pinyin": "máimò",
-    "en": "",
-    "vi": ""
+    "vi": "chôn cất",
+    "en": ""
   },
   {
     "hanzi": "埋头苦干",
     "pinyin": "máitóu-kǔgàn",
-    "en": "",
-    "vi": ""
+    "vi": "Làm việc chăm chỉ",
+    "en": ""
   },
   {
     "hanzi": "埋葬",
     "pinyin": "máizàng",
-    "en": "",
-    "vi": ""
+    "vi": "chôn",
+    "en": ""
   },
   {
     "hanzi": "脉搏",
     "pinyin": "màibó",
-    "en": "",
-    "vi": ""
+    "vi": "xung",
+    "en": ""
   },
   {
     "hanzi": "脉络",
     "pinyin": "màiluò",
-    "en": "",
-    "vi": ""
+    "vi": "bối cảnh",
+    "en": ""
   },
   {
     "hanzi": "瞒",
     "pinyin": "mán",
-    "en": "",
-    "vi": ""
+    "vi": "che giấu",
+    "en": ""
   },
   {
     "hanzi": "埋怨",
     "pinyin": "mányuàn",
-    "en": "",
-    "vi": ""
+    "vi": "phàn nàn",
+    "en": ""
   },
   {
     "hanzi": "满怀",
     "pinyin": "mǎnhuái",
-    "en": "",
-    "vi": ""
+    "vi": "tràn đầy trái tim",
+    "en": ""
   },
   {
     "hanzi": "漫",
     "pinyin": "màn",
-    "en": "",
-    "vi": ""
+    "vi": "truyện tranh",
+    "en": ""
   },
   {
     "hanzi": "慢性",
     "pinyin": "mànxìng",
-    "en": "",
-    "vi": ""
+    "vi": "Mãn tính",
+    "en": ""
   },
   {
     "hanzi": "蔓延",
     "pinyin": "mànyán",
-    "en": "",
-    "vi": ""
+    "vi": "lây lan",
+    "en": ""
   },
   {
     "hanzi": "漫游",
     "pinyin": "mànyóu",
-    "en": "",
-    "vi": ""
+    "vi": "chuyển vùng",
+    "en": ""
   },
   {
     "hanzi": "忙活",
     "pinyin": "mánghuo",
-    "en": "",
-    "vi": ""
+    "vi": "Bận",
+    "en": ""
   },
   {
     "hanzi": "忙乱",
     "pinyin": "mángluàn",
-    "en": "",
-    "vi": ""
+    "vi": "Bận",
+    "en": ""
   },
   {
     "hanzi": "茫茫",
     "pinyin": "mángmáng",
-    "en": "",
-    "vi": ""
+    "vi": "rộng lớn",
+    "en": ""
   },
   {
     "hanzi": "盲目",
     "pinyin": "mángmù",
-    "en": "",
-    "vi": ""
+    "vi": "mù",
+    "en": ""
   },
   {
     "hanzi": "茫然",
     "pinyin": "mángrán",
-    "en": "",
-    "vi": ""
+    "vi": "thua lỗ",
+    "en": ""
   },
   {
     "hanzi": "矛头",
     "pinyin": "máotóu",
-    "en": "",
-    "vi": ""
+    "vi": "mũi nhọn",
+    "en": ""
   },
   {
     "hanzi": "冒充",
     "pinyin": "màochōng",
-    "en": "",
-    "vi": ""
+    "vi": "Mạo danh",
+    "en": ""
   },
   {
     "hanzi": "冒犯",
     "pinyin": "màofàn",
-    "en": "",
-    "vi": ""
+    "vi": "xúc phạm",
+    "en": ""
   },
   {
     "hanzi": "冒昧",
     "pinyin": "màomèi",
-    "en": "",
-    "vi": ""
+    "vi": "tự phụ",
+    "en": ""
   },
   {
     "hanzi": "茂密",
     "pinyin": "màomì",
-    "en": "",
-    "vi": ""
+    "vi": "dày đặc",
+    "en": ""
   },
   {
     "hanzi": "茂盛",
     "pinyin": "màoshèng",
-    "en": "",
-    "vi": ""
+    "vi": "tươi tốt",
+    "en": ""
   },
   {
     "hanzi": "枚",
     "pinyin": "méi",
-    "en": "",
-    "vi": ""
+    "vi": "miếng",
+    "en": ""
   },
   {
     "hanzi": "媒介",
     "pinyin": "méijiè",
-    "en": "",
-    "vi": ""
+    "vi": "trung bình",
+    "en": ""
   },
   {
     "hanzi": "没劲",
     "pinyin": "méijìn",
-    "en": "",
-    "vi": ""
+    "vi": "Nhạt nhẽo",
+    "en": ""
   },
   {
     "hanzi": "眉开眼笑",
     "pinyin": "méikāi-yǎnxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Mỉm cười rạng rỡ",
+    "en": ""
   },
   {
     "hanzi": "煤气",
     "pinyin": "méiqì",
-    "en": "",
-    "vi": ""
+    "vi": "khí đốt",
+    "en": ""
   },
   {
     "hanzi": "煤炭",
     "pinyin": "méitàn",
-    "en": "",
-    "vi": ""
+    "vi": "than đá",
+    "en": ""
   },
   {
     "hanzi": "没完没了",
     "pinyin": "méiwán-méiliǎo",
-    "en": "",
-    "vi": ""
+    "vi": "vô tận",
+    "en": ""
   },
   {
     "hanzi": "没辙",
     "pinyin": "méizhé",
-    "en": "",
-    "vi": ""
+    "vi": "Không đời nào",
+    "en": ""
   },
   {
     "hanzi": "没准儿",
     "pinyin": "méizhǔnr",
-    "en": "",
-    "vi": ""
+    "vi": "Có lẽ",
+    "en": ""
   },
   {
     "hanzi": "美德",
     "pinyin": "měidé",
-    "en": "",
-    "vi": ""
+    "vi": "đức hạnh",
+    "en": ""
   },
   {
     "hanzi": "美化",
     "pinyin": "měihuà",
-    "en": "",
-    "vi": ""
+    "vi": "làm đẹp",
+    "en": ""
   },
   {
     "hanzi": "美满",
     "pinyin": "měimǎn",
-    "en": "",
-    "vi": ""
+    "vi": "vui mừng",
+    "en": ""
   },
   {
     "hanzi": "美妙",
     "pinyin": "měimiào",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt vời",
+    "en": ""
   },
   {
     "hanzi": "美容",
     "pinyin": "měiróng",
-    "en": "",
-    "vi": ""
+    "vi": "mỹ phẩm",
+    "en": ""
   },
   {
     "hanzi": "美学",
     "pinyin": "měixué",
-    "en": "",
-    "vi": ""
+    "vi": "tính thẩm mỹ",
+    "en": ""
   },
   {
     "hanzi": "美誉",
     "pinyin": "měiyù",
-    "en": "",
-    "vi": ""
+    "vi": "danh tiếng tốt",
+    "en": ""
   },
   {
     "hanzi": "美中不足",
     "pinyin": "měizhōng-bùzú",
-    "en": "",
-    "vi": ""
+    "vi": "một con ruồi trong thuốc mỡ",
+    "en": ""
   },
   {
     "hanzi": "美滋滋",
     "pinyin": "měizīzī",
-    "en": "",
-    "vi": ""
+    "vi": "Xinh đẹp",
+    "en": ""
   },
   {
     "hanzi": "闷",
     "pinyin": "mēn",
-    "en": "",
-    "vi": ""
+    "vi": "ngột ngạt",
+    "en": ""
   },
   {
     "hanzi": "闷热",
     "pinyin": "mēnrè",
-    "en": "",
-    "vi": ""
+    "vi": "oi bức",
+    "en": ""
   },
   {
     "hanzi": "门槛",
     "pinyin": "ménkǎn",
-    "en": "",
-    "vi": ""
+    "vi": "ngưỡng",
+    "en": ""
   },
   {
     "hanzi": "门路",
     "pinyin": "ménlu",
-    "en": "",
-    "vi": ""
+    "vi": "kết nối",
+    "en": ""
   },
   {
     "hanzi": "闷",
     "pinyin": "mèn",
-    "en": "",
-    "vi": ""
+    "vi": "ngột ngạt",
+    "en": ""
   },
   {
     "hanzi": "蒙",
     "pinyin": "mēng",
-    "en": "",
-    "vi": ""
+    "vi": "tiếng Mông Cổ",
+    "en": ""
   },
   {
     "hanzi": "蒙",
     "pinyin": "méng",
-    "en": "",
-    "vi": ""
+    "vi": "tiếng Mông Cổ",
+    "en": ""
   },
   {
     "hanzi": "萌发",
     "pinyin": "méngfā",
-    "en": "",
-    "vi": ""
+    "vi": "sự nảy mầm",
+    "en": ""
   },
   {
     "hanzi": "朦胧",
     "pinyin": "ménglóng",
-    "en": "",
-    "vi": ""
+    "vi": "mơ hồ",
+    "en": ""
   },
   {
     "hanzi": "萌芽",
     "pinyin": "méngyá",
-    "en": "",
-    "vi": ""
+    "vi": "nụ",
+    "en": ""
   },
   {
     "hanzi": "盟友",
     "pinyin": "méngyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "đồng minh",
+    "en": ""
   },
   {
     "hanzi": "猛",
     "pinyin": "měng",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "猛烈",
     "pinyin": "měngliè",
-    "en": "",
-    "vi": ""
+    "vi": "hung bạo",
+    "en": ""
   },
   {
     "hanzi": "猛然",
     "pinyin": "měngrán",
-    "en": "",
-    "vi": ""
+    "vi": "đột nhiên",
+    "en": ""
   },
   {
     "hanzi": "梦幻",
     "pinyin": "mènghuàn",
-    "en": "",
-    "vi": ""
+    "vi": "mơ",
+    "en": ""
   },
   {
     "hanzi": "梦寐以求",
     "pinyin": "mèngmèiyǐqiú",
-    "en": "",
-    "vi": ""
+    "vi": "thèm muốn",
+    "en": ""
   },
   {
     "hanzi": "眯",
     "pinyin": "mī",
-    "en": "",
-    "vi": ""
+    "vi": "nheo mắt",
+    "en": ""
   },
   {
     "hanzi": "谜",
     "pinyin": "mí",
-    "en": "",
-    "vi": ""
+    "vi": "câu đố",
+    "en": ""
   },
   {
     "hanzi": "谜底",
     "pinyin": "mídǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Trả lời",
+    "en": ""
   },
   {
     "hanzi": "迷惑",
     "pinyin": "míhuò",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "迷恋",
     "pinyin": "míliàn",
-    "en": "",
-    "vi": ""
+    "vi": "say mê",
+    "en": ""
   },
   {
     "hanzi": "弥漫",
     "pinyin": "mímàn",
-    "en": "",
-    "vi": ""
+    "vi": "khuếch tán",
+    "en": ""
   },
   {
     "hanzi": "迷失",
     "pinyin": "míshī",
-    "en": "",
-    "vi": ""
+    "vi": "mất",
+    "en": ""
   },
   {
     "hanzi": "谜团",
     "pinyin": "mítuán",
-    "en": "",
-    "vi": ""
+    "vi": "bí ẩn",
+    "en": ""
   },
   {
     "hanzi": "迷信",
     "pinyin": "míxìn",
-    "en": "",
-    "vi": ""
+    "vi": "mê tín",
+    "en": ""
   },
   {
     "hanzi": "谜语",
     "pinyin": "míyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "câu đố",
+    "en": ""
   },
   {
     "hanzi": "密布",
     "pinyin": "mìbù",
-    "en": "",
-    "vi": ""
+    "vi": "dày đặc bao phủ",
+    "en": ""
   },
   {
     "hanzi": "秘方",
     "pinyin": "mìfāng",
-    "en": "",
-    "vi": ""
+    "vi": "công thức bí mật",
+    "en": ""
   },
   {
     "hanzi": "密封",
     "pinyin": "mìfēng",
-    "en": "",
-    "vi": ""
+    "vi": "niêm phong",
+    "en": ""
   },
   {
     "hanzi": "秘诀",
     "pinyin": "mìjué",
-    "en": "",
-    "vi": ""
+    "vi": "bí mật",
+    "en": ""
   },
   {
     "hanzi": "蜜月",
     "pinyin": "mìyuè",
-    "en": "",
-    "vi": ""
+    "vi": "tuần trăng mật",
+    "en": ""
   },
   {
     "hanzi": "棉花",
     "pinyin": "miánhuā",
-    "en": "",
-    "vi": ""
+    "vi": "bông",
+    "en": ""
   },
   {
     "hanzi": "免不了",
     "pinyin": "miǎnbuliǎo",
-    "en": "",
-    "vi": ""
+    "vi": "không thể tránh khỏi",
+    "en": ""
   },
   {
     "hanzi": "免除",
     "pinyin": "miǎnchú",
-    "en": "",
-    "vi": ""
+    "vi": "miễn trừ",
+    "en": ""
   },
   {
     "hanzi": "免得",
     "pinyin": "miǎnde",
-    "en": "",
-    "vi": ""
+    "vi": "kẻo",
+    "en": ""
   },
   {
     "hanzi": "缅怀",
     "pinyin": "miǎnhuái",
-    "en": "",
-    "vi": ""
+    "vi": "Nhớ",
+    "en": ""
   },
   {
     "hanzi": "勉励",
     "pinyin": "miǎnlì",
-    "en": "",
-    "vi": ""
+    "vi": "khuyến khích",
+    "en": ""
   },
   {
     "hanzi": "腼腆",
     "pinyin": "miǎntiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "免职",
     "pinyin": "miǎnzhí",
-    "en": "",
-    "vi": ""
+    "vi": "Bị loại khỏi văn phòng",
+    "en": ""
   },
   {
     "hanzi": "面红耳赤",
     "pinyin": "miànhóng-ěrchì",
-    "en": "",
-    "vi": ""
+    "vi": "đỏ mặt",
+    "en": ""
   },
   {
     "hanzi": "面孔",
     "pinyin": "miànkǒng",
-    "en": "",
-    "vi": ""
+    "vi": "khuôn mặt",
+    "en": ""
   },
   {
     "hanzi": "面貌",
     "pinyin": "miànmào",
-    "en": "",
-    "vi": ""
+    "vi": "khuôn mặt",
+    "en": ""
   },
   {
     "hanzi": "面面俱到",
     "pinyin": "miànmiàn-jùdào",
-    "en": "",
-    "vi": ""
+    "vi": "Toàn diện",
+    "en": ""
   },
   {
     "hanzi": "面目全非",
     "pinyin": "miànmù-quánfēi",
-    "en": "",
-    "vi": ""
+    "vi": "ngoài sự công nhận",
+    "en": ""
   },
   {
     "hanzi": "苗",
     "pinyin": "miáo",
-    "en": "",
-    "vi": ""
+    "vi": "Cây con",
+    "en": ""
   },
   {
     "hanzi": "苗条",
     "pinyin": "miáotiao",
-    "en": "",
-    "vi": ""
+    "vi": "mảnh khảnh",
+    "en": ""
   },
   {
     "hanzi": "苗头",
     "pinyin": "miáotou",
-    "en": "",
-    "vi": ""
+    "vi": "dấu hiệu",
+    "en": ""
   },
   {
     "hanzi": "瞄准",
     "pinyin": "miáozhǔn",
-    "en": "",
-    "vi": ""
+    "vi": "mục tiêu",
+    "en": ""
   },
   {
     "hanzi": "藐视",
     "pinyin": "miǎoshì",
-    "en": "",
-    "vi": ""
+    "vi": "coi thường",
+    "en": ""
   },
   {
     "hanzi": "渺小",
     "pinyin": "miǎoxiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bé nhỏ",
+    "en": ""
   },
   {
     "hanzi": "庙",
     "pinyin": "miào",
-    "en": "",
-    "vi": ""
+    "vi": "ngôi đền",
+    "en": ""
   },
   {
     "hanzi": "庙会",
     "pinyin": "miàohuì",
-    "en": "",
-    "vi": ""
+    "vi": "hội chợ chùa",
+    "en": ""
   },
   {
     "hanzi": "灭绝",
     "pinyin": "mièjué",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt chủng",
+    "en": ""
   },
   {
     "hanzi": "蔑视",
     "pinyin": "mièshì",
-    "en": "",
-    "vi": ""
+    "vi": "khinh miệt",
+    "en": ""
   },
   {
     "hanzi": "灭亡",
     "pinyin": "mièwáng",
-    "en": "",
-    "vi": ""
+    "vi": "diệt vong",
+    "en": ""
   },
   {
     "hanzi": "民办",
     "pinyin": "mínbàn",
-    "en": "",
-    "vi": ""
+    "vi": "Riêng tư",
+    "en": ""
   },
   {
     "hanzi": "民居",
     "pinyin": "mínjū",
-    "en": "",
-    "vi": ""
+    "vi": "nhà ở",
+    "en": ""
   },
   {
     "hanzi": "民生",
     "pinyin": "mínshēng",
-    "en": "",
-    "vi": ""
+    "vi": "sinh kế của người dân",
+    "en": ""
   },
   {
     "hanzi": "民事",
     "pinyin": "mínshì",
-    "en": "",
-    "vi": ""
+    "vi": "dân sự",
+    "en": ""
   },
   {
     "hanzi": "民意",
     "pinyin": "mínyì",
-    "en": "",
-    "vi": ""
+    "vi": "dư luận",
+    "en": ""
   },
   {
     "hanzi": "民营",
     "pinyin": "mínyíng",
-    "en": "",
-    "vi": ""
+    "vi": "Riêng tư",
+    "en": ""
   },
   {
     "hanzi": "民用",
     "pinyin": "mínyòng",
-    "en": "",
-    "vi": ""
+    "vi": "dân sự",
+    "en": ""
   },
   {
     "hanzi": "敏捷",
     "pinyin": "mǐnjié",
-    "en": "",
-    "vi": ""
+    "vi": "nhanh nhẹn",
+    "en": ""
   },
   {
     "hanzi": "敏锐",
     "pinyin": "mǐnruì",
-    "en": "",
-    "vi": ""
+    "vi": "sắc sảo",
+    "en": ""
   },
   {
     "hanzi": "鸣",
     "pinyin": "míng",
-    "en": "",
-    "vi": ""
+    "vi": "Minh",
+    "en": ""
   },
   {
     "hanzi": "名次",
     "pinyin": "míngcì",
-    "en": "",
-    "vi": ""
+    "vi": "Xếp hạng",
+    "en": ""
   },
   {
     "hanzi": "名副其实",
     "pinyin": "míngfùqíshí",
-    "en": "",
-    "vi": ""
+    "vi": "xứng đáng với cái tên",
+    "en": ""
   },
   {
     "hanzi": "名贵",
     "pinyin": "míngguì",
-    "en": "",
-    "vi": ""
+    "vi": "Đắt",
+    "en": ""
   },
   {
     "hanzi": "铭记",
     "pinyin": "míngjì",
-    "en": "",
-    "vi": ""
+    "vi": "nhớ",
+    "en": ""
   },
   {
     "hanzi": "明朗",
     "pinyin": "mínglǎng",
-    "en": "",
-    "vi": ""
+    "vi": "thông thoáng",
+    "en": ""
   },
   {
     "hanzi": "名利",
     "pinyin": "mínglì",
-    "en": "",
-    "vi": ""
+    "vi": "Danh tiếng và vận may",
+    "en": ""
   },
   {
     "hanzi": "明媚",
     "pinyin": "míngmèi",
-    "en": "",
-    "vi": ""
+    "vi": "sáng",
+    "en": ""
   },
   {
     "hanzi": "名声",
     "pinyin": "míngshēng",
-    "en": "",
-    "vi": ""
+    "vi": "danh tiếng",
+    "en": ""
   },
   {
     "hanzi": "名言",
     "pinyin": "míngyán",
-    "en": "",
-    "vi": ""
+    "vi": "nói",
+    "en": ""
   },
   {
     "hanzi": "名义",
     "pinyin": "míngyì",
-    "en": "",
-    "vi": ""
+    "vi": "tên",
+    "en": ""
   },
   {
     "hanzi": "名誉",
     "pinyin": "míngyù",
-    "en": "",
-    "vi": ""
+    "vi": "danh tiếng",
+    "en": ""
   },
   {
     "hanzi": "明智",
     "pinyin": "míngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "khôn ngoan",
+    "en": ""
   },
   {
     "hanzi": "名著",
     "pinyin": "míngzhù",
-    "en": "",
-    "vi": ""
+    "vi": "kiệt tác",
+    "en": ""
   },
   {
     "hanzi": "命2",
     "pinyin": "mìng",
-    "en": "",
-    "vi": ""
+    "vi": "Cuộc sống 2",
+    "en": ""
   },
   {
     "hanzi": "摸索",
     "pinyin": "mōsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "mò mẫm",
+    "en": ""
   },
   {
     "hanzi": "膜",
     "pinyin": "mó",
-    "en": "",
-    "vi": ""
+    "vi": "màng",
+    "en": ""
   },
   {
     "hanzi": "磨",
     "pinyin": "mó",
-    "en": "",
-    "vi": ""
+    "vi": "xay",
+    "en": ""
   },
   {
     "hanzi": "摩擦",
     "pinyin": "mócā",
-    "en": "",
-    "vi": ""
+    "vi": "ma sát",
+    "en": ""
   },
   {
     "hanzi": "魔法",
     "pinyin": "mófǎ",
-    "en": "",
-    "vi": ""
+    "vi": "ảo thuật",
+    "en": ""
   },
   {
     "hanzi": "模范",
     "pinyin": "mófàn",
-    "en": "",
-    "vi": ""
+    "vi": "người mẫu",
+    "en": ""
   },
   {
     "hanzi": "蘑菇",
     "pinyin": "mógu",
-    "en": "",
-    "vi": ""
+    "vi": "nấm",
+    "en": ""
   },
   {
     "hanzi": "魔鬼",
     "pinyin": "móguǐ",
-    "en": "",
-    "vi": ""
+    "vi": "ma quỷ",
+    "en": ""
   },
   {
     "hanzi": "磨合",
     "pinyin": "móhé",
-    "en": "",
-    "vi": ""
+    "vi": "Đột nhập",
+    "en": ""
   },
   {
     "hanzi": "魔力",
     "pinyin": "mólì",
-    "en": "",
-    "vi": ""
+    "vi": "ảo thuật",
+    "en": ""
   },
   {
     "hanzi": "磨炼",
     "pinyin": "móliàn",
-    "en": "",
-    "vi": ""
+    "vi": "nóng nảy",
+    "en": ""
   },
   {
     "hanzi": "磨难",
     "pinyin": "mónàn",
-    "en": "",
-    "vi": ""
+    "vi": "đau khổ",
+    "en": ""
   },
   {
     "hanzi": "魔术",
     "pinyin": "móshù",
-    "en": "",
-    "vi": ""
+    "vi": "ảo thuật",
+    "en": ""
   },
   {
     "hanzi": "磨损",
     "pinyin": "mósǔn",
-    "en": "",
-    "vi": ""
+    "vi": "hao mòn",
+    "en": ""
   },
   {
     "hanzi": "抹",
     "pinyin": "mǒ",
-    "en": "",
-    "vi": ""
+    "vi": "lau đi",
+    "en": ""
   },
   {
     "hanzi": "抹杀",
     "pinyin": "mǒshā",
-    "en": "",
-    "vi": ""
+    "vi": "bôi",
+    "en": ""
   },
   {
     "hanzi": "墨",
     "pinyin": "mò",
-    "en": "",
-    "vi": ""
+    "vi": "mực",
+    "en": ""
   },
   {
     "hanzi": "莫大",
     "pinyin": "mòdà",
-    "en": "",
-    "vi": ""
+    "vi": "Rất lớn",
+    "en": ""
   },
   {
     "hanzi": "莫非",
     "pinyin": "mòfēi",
-    "en": "",
-    "vi": ""
+    "vi": "Có thể nào",
+    "en": ""
   },
   {
     "hanzi": "茉莉",
     "pinyin": "mòlì",
-    "en": "",
-    "vi": ""
+    "vi": "hoa nhài",
+    "en": ""
   },
   {
     "hanzi": "没落",
     "pinyin": "mòluò",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "莫名其妙",
     "pinyin": "mòmíngqímiào",
-    "en": "",
-    "vi": ""
+    "vi": "làm bối rối",
+    "en": ""
   },
   {
     "hanzi": "默默无闻",
     "pinyin": "mòmò-wúwén",
-    "en": "",
-    "vi": ""
+    "vi": "sự tối tăm",
+    "en": ""
   },
   {
     "hanzi": "默契",
     "pinyin": "mòqì",
-    "en": "",
-    "vi": ""
+    "vi": "thỏa thuận ngầm",
+    "en": ""
   },
   {
     "hanzi": "漠然",
     "pinyin": "mòrán",
-    "en": "",
-    "vi": ""
+    "vi": "vô tư",
+    "en": ""
   },
   {
     "hanzi": "末日",
     "pinyin": "mòrì",
-    "en": "",
-    "vi": ""
+    "vi": "kết thúc",
+    "en": ""
   },
   {
     "hanzi": "没收",
     "pinyin": "mòshōu",
-    "en": "",
-    "vi": ""
+    "vi": "bị tịch thu",
+    "en": ""
   },
   {
     "hanzi": "墨水",
     "pinyin": "mòshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "mực",
+    "en": ""
   },
   {
     "hanzi": "谋害",
     "pinyin": "móuhài",
-    "en": "",
-    "vi": ""
+    "vi": "giết người",
+    "en": ""
   },
   {
     "hanzi": "谋划",
     "pinyin": "móuhuà",
-    "en": "",
-    "vi": ""
+    "vi": "kế hoạch",
+    "en": ""
   },
   {
     "hanzi": "谋求",
     "pinyin": "móuqiú",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "谋取",
     "pinyin": "móuqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "谋生",
     "pinyin": "móushēng",
-    "en": "",
-    "vi": ""
+    "vi": "kiếm sống",
+    "en": ""
   },
   {
     "hanzi": "亩",
     "pinyin": "mǔ",
-    "en": "",
-    "vi": ""
+    "vi": "mu",
+    "en": ""
   },
   {
     "hanzi": "牡丹",
     "pinyin": "mǔdan",
-    "en": "",
-    "vi": ""
+    "vi": "mẫu đơn",
+    "en": ""
   },
   {
     "hanzi": "拇指",
     "pinyin": "mǔzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "ngón tay cái",
+    "en": ""
   },
   {
     "hanzi": "墓",
     "pinyin": "mù",
-    "en": "",
-    "vi": ""
+    "vi": "ngôi mộ",
+    "en": ""
   },
   {
     "hanzi": "幕",
     "pinyin": "mù",
-    "en": "",
-    "vi": ""
+    "vi": "màn hình",
+    "en": ""
   },
   {
     "hanzi": "墓碑",
     "pinyin": "mùbēi",
-    "en": "",
-    "vi": ""
+    "vi": "bia mộ",
+    "en": ""
   },
   {
     "hanzi": "目不转睛",
     "pinyin": "mùbùzhuǎnjīng",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể rời mắt",
+    "en": ""
   },
   {
     "hanzi": "牧场",
     "pinyin": "mùchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "đồng cỏ",
+    "en": ""
   },
   {
     "hanzi": "目瞪又呆",
     "pinyin": "mùdèng-kǒudāi",
-    "en": "",
-    "vi": ""
+    "vi": "chết lặng",
+    "en": ""
   },
   {
     "hanzi": "墓地",
     "pinyin": "mùdì",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩa trang",
+    "en": ""
   },
   {
     "hanzi": "目睹",
     "pinyin": "mùdǔ",
-    "en": "",
-    "vi": ""
+    "vi": "nhân chứng",
+    "en": ""
   },
   {
     "hanzi": "幕后",
     "pinyin": "mùhòu",
-    "en": "",
-    "vi": ""
+    "vi": "hậu trường",
+    "en": ""
   },
   {
     "hanzi": "木匠",
     "pinyin": "mùjiàng",
-    "en": "",
-    "vi": ""
+    "vi": "thợ mộc",
+    "en": ""
   },
   {
     "hanzi": "募捐",
     "pinyin": "mùjuān",
-    "en": "",
-    "vi": ""
+    "vi": "Gây quỹ",
+    "en": ""
   },
   {
     "hanzi": "牧民",
     "pinyin": "mùmín",
-    "en": "",
-    "vi": ""
+    "vi": "người chăn nuôi",
+    "en": ""
   },
   {
     "hanzi": "木偶",
     "pinyin": "mù’ǒu",
-    "en": "",
-    "vi": ""
+    "vi": "con rối",
+    "en": ""
   },
   {
     "hanzi": "沐浴",
     "pinyin": "mùyù",
-    "en": "",
-    "vi": ""
+    "vi": "tắm rửa",
+    "en": ""
   },
   {
     "hanzi": "目中无人",
     "pinyin": "mùzhōng-wúrén",
-    "en": "",
-    "vi": ""
+    "vi": "kiêu ngạo",
+    "en": ""
   },
   {
     "hanzi": "拿手",
     "pinyin": "náshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Tốt",
+    "en": ""
   },
   {
     "hanzi": "呐喊",
     "pinyin": "nàhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "hét lên",
+    "en": ""
   },
   {
     "hanzi": "纳闷儿",
     "pinyin": "nàmènr",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "纳入",
     "pinyin": "nàrù",
-    "en": "",
-    "vi": ""
+    "vi": "kết hợp",
+    "en": ""
   },
   {
     "hanzi": "纳税",
     "pinyin": "nàshuì",
-    "en": "",
-    "vi": ""
+    "vi": "đóng thuế",
+    "en": ""
   },
   {
     "hanzi": "纳税人",
     "pinyin": "nàshuìrén",
-    "en": "",
-    "vi": ""
+    "vi": "người đóng thuế",
+    "en": ""
   },
   {
     "hanzi": "乃",
     "pinyin": "nǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Vì thế",
+    "en": ""
   },
   {
     "hanzi": "奶酪",
     "pinyin": "nǎilào",
-    "en": "",
-    "vi": ""
+    "vi": "phô mai",
+    "en": ""
   },
   {
     "hanzi": "乃至",
     "pinyin": "nǎizhì",
-    "en": "",
-    "vi": ""
+    "vi": "và thậm chí",
+    "en": ""
   },
   {
     "hanzi": "耐",
     "pinyin": "nài",
-    "en": "",
-    "vi": ""
+    "vi": "Chống chịu",
+    "en": ""
   },
   {
     "hanzi": "耐人寻味",
     "pinyin": "nàirénxúnwèi",
-    "en": "",
-    "vi": ""
+    "vi": "hấp dẫn",
+    "en": ""
   },
   {
     "hanzi": "耐用",
     "pinyin": "nàiyòng",
-    "en": "",
-    "vi": ""
+    "vi": "bền bỉ",
+    "en": ""
   },
   {
     "hanzi": "难处",
     "pinyin": "nánchù",
-    "en": "",
-    "vi": ""
+    "vi": "Khó khăn",
+    "en": ""
   },
   {
     "hanzi": "难得一见",
     "pinyin": "nándé yí jiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Hiếm thấy",
+    "en": ""
   },
   {
     "hanzi": "男方",
     "pinyin": "nánfāng",
-    "en": "",
-    "vi": ""
+    "vi": "người đàn ông",
+    "en": ""
   },
   {
     "hanzi": "南瓜",
     "pinyin": "nánguā",
-    "en": "",
-    "vi": ""
+    "vi": "bí ngô",
+    "en": ""
   },
   {
     "hanzi": "难怪",
     "pinyin": "nánguài",
-    "en": "",
-    "vi": ""
+    "vi": "Không có gì ngạc nhiên",
+    "en": ""
   },
   {
     "hanzi": "难关",
     "pinyin": "nánguān",
-    "en": "",
-    "vi": ""
+    "vi": "Khó khăn",
+    "en": ""
   },
   {
     "hanzi": "难堪",
     "pinyin": "nánkān",
-    "en": "",
-    "vi": ""
+    "vi": "Lúng túng",
+    "en": ""
   },
   {
     "hanzi": "难能可贵",
     "pinyin": "nánnéng-kěguì",
-    "en": "",
-    "vi": ""
+    "vi": "đáng khen ngợi",
+    "en": ""
   },
   {
     "hanzi": "难为情",
     "pinyin": "nánwéiqíng",
-    "en": "",
-    "vi": ""
+    "vi": "Lúng túng",
+    "en": ""
   },
   {
     "hanzi": "难以置信",
     "pinyin": "nányǐ-zhìxìn",
-    "en": "",
-    "vi": ""
+    "vi": "đáng kinh ngạc",
+    "en": ""
   },
   {
     "hanzi": "南辕北辙",
     "pinyin": "nányuán-běizhé",
-    "en": "",
-    "vi": ""
+    "vi": "Hoàn toàn trái ngược",
+    "en": ""
   },
   {
     "hanzi": "挠",
     "pinyin": "náo",
-    "en": "",
-    "vi": ""
+    "vi": "cào",
+    "en": ""
   },
   {
     "hanzi": "脑海",
     "pinyin": "nǎohǎi",
-    "en": "",
-    "vi": ""
+    "vi": "tâm trí",
+    "en": ""
   },
   {
     "hanzi": "恼火",
     "pinyin": "nǎohuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "khó chịu",
+    "en": ""
   },
   {
     "hanzi": "恼羞成怒",
     "pinyin": "nǎoxiū-chéngnù",
-    "en": "",
-    "vi": ""
+    "vi": "Tức giận vì xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "闹事",
     "pinyin": "nàoshì",
-    "en": "",
-    "vi": ""
+    "vi": "gây rắc rối",
+    "en": ""
   },
   {
     "hanzi": "内存",
     "pinyin": "nèicún",
-    "en": "",
-    "vi": ""
+    "vi": "Ký ức",
+    "en": ""
   },
   {
     "hanzi": "内地",
     "pinyin": "nèidì",
-    "en": "",
-    "vi": ""
+    "vi": "đại lục",
+    "en": ""
   },
   {
     "hanzi": "内行",
     "pinyin": "nèiháng",
-    "en": "",
-    "vi": ""
+    "vi": "chuyên gia",
+    "en": ""
   },
   {
     "hanzi": "内幕",
     "pinyin": "nèimù",
-    "en": "",
-    "vi": ""
+    "vi": "Người trong cuộc",
+    "en": ""
   },
   {
     "hanzi": "内向",
     "pinyin": "nèixiàng",
-    "en": "",
-    "vi": ""
+    "vi": "sự hướng nội",
+    "en": ""
   },
   {
     "hanzi": "内需",
     "pinyin": "nèixū",
-    "en": "",
-    "vi": ""
+    "vi": "Nhu cầu trong nước",
+    "en": ""
   },
   {
     "hanzi": "内在",
     "pinyin": "nèizài",
-    "en": "",
-    "vi": ""
+    "vi": "bên trong",
+    "en": ""
   },
   {
     "hanzi": "内脏",
     "pinyin": "nèizàng",
-    "en": "",
-    "vi": ""
+    "vi": "nội tạng",
+    "en": ""
   },
   {
     "hanzi": "嫩",
     "pinyin": "nèn",
-    "en": "",
-    "vi": ""
+    "vi": "mềm",
+    "en": ""
   },
   {
     "hanzi": "能耗",
     "pinyin": "nénghào",
-    "en": "",
-    "vi": ""
+    "vi": "Tiêu thụ năng lượng",
+    "en": ""
   },
   {
     "hanzi": "能耐",
     "pinyin": "néngnai",
-    "en": "",
-    "vi": ""
+    "vi": "khả năng",
+    "en": ""
   },
   {
     "hanzi": "能人",
     "pinyin": "néngrén",
-    "en": "",
-    "vi": ""
+    "vi": "người có năng lực",
+    "en": ""
   },
   {
     "hanzi": "泥泞",
     "pinyin": "nínìng",
-    "en": "",
-    "vi": ""
+    "vi": "lầy lội",
+    "en": ""
   },
   {
     "hanzi": "泥潭",
     "pinyin": "nítán",
-    "en": "",
-    "vi": ""
+    "vi": "vũng lầy",
+    "en": ""
   },
   {
     "hanzi": "泥土",
     "pinyin": "nítǔ",
-    "en": "",
-    "vi": ""
+    "vi": "đất",
+    "en": ""
   },
   {
     "hanzi": "拟",
     "pinyin": "nǐ",
-    "en": "",
-    "vi": ""
+    "vi": "kế hoạch",
+    "en": ""
   },
   {
     "hanzi": "拟定",
     "pinyin": "nǐdìng",
-    "en": "",
-    "vi": ""
+    "vi": "vẽ lên",
+    "en": ""
   },
   {
     "hanzi": "逆",
     "pinyin": "nì",
-    "en": "",
-    "vi": ""
+    "vi": "nghịch đảo",
+    "en": ""
   },
   {
     "hanzi": "逆境",
     "pinyin": "nìjìng",
-    "en": "",
-    "vi": ""
+    "vi": "nghịch cảnh",
+    "en": ""
   },
   {
     "hanzi": "匿名",
     "pinyin": "nìmíng",
-    "en": "",
-    "vi": ""
+    "vi": "vô danh",
+    "en": ""
   },
   {
     "hanzi": "溺水",
     "pinyin": "nìshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "chết đuối",
+    "en": ""
   },
   {
     "hanzi": "逆行",
     "pinyin": "nìxíng",
-    "en": "",
-    "vi": ""
+    "vi": "Ngược dòng",
+    "en": ""
   },
   {
     "hanzi": "黏",
     "pinyin": "nián",
-    "en": "",
-    "vi": ""
+    "vi": "dính",
+    "en": ""
   },
   {
     "hanzi": "年报",
     "pinyin": "niánbào",
-    "en": "",
-    "vi": ""
+    "vi": "báo cáo thường niên",
+    "en": ""
   },
   {
     "hanzi": "年画",
     "pinyin": "niánhuà",
-    "en": "",
-    "vi": ""
+    "vi": "Hình ảnh năm mới",
+    "en": ""
   },
   {
     "hanzi": "年均",
     "pinyin": "niánjūn",
-    "en": "",
-    "vi": ""
+    "vi": "trung bình hàng năm",
+    "en": ""
   },
   {
     "hanzi": "年轮",
     "pinyin": "niánlún",
-    "en": "",
-    "vi": ""
+    "vi": "vòng tăng trưởng",
+    "en": ""
   },
   {
     "hanzi": "年迈",
     "pinyin": "niánmài",
-    "en": "",
-    "vi": ""
+    "vi": "cũ",
+    "en": ""
   },
   {
     "hanzi": "年限",
     "pinyin": "niánxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Năm",
+    "en": ""
   },
   {
     "hanzi": "年薪",
     "pinyin": "niánxīn",
-    "en": "",
-    "vi": ""
+    "vi": "lương hàng năm",
+    "en": ""
   },
   {
     "hanzi": "撵",
     "pinyin": "niǎn",
-    "en": "",
-    "vi": ""
+    "vi": "trục xuất",
+    "en": ""
   },
   {
     "hanzi": "念念不忘",
     "pinyin": "niànniàn-búwàng",
-    "en": "",
-    "vi": ""
+    "vi": "không bao giờ quên",
+    "en": ""
   },
   {
     "hanzi": "念头",
     "pinyin": "niàntou",
-    "en": "",
-    "vi": ""
+    "vi": "ý tưởng",
+    "en": ""
   },
   {
     "hanzi": "娘",
     "pinyin": "niáng",
-    "en": "",
-    "vi": ""
+    "vi": "mẹ",
+    "en": ""
   },
   {
     "hanzi": "酿造",
     "pinyin": "niàngzào",
-    "en": "",
-    "vi": ""
+    "vi": "sản xuất bia",
+    "en": ""
   },
   {
     "hanzi": "鸟巢",
     "pinyin": "niǎocháo",
-    "en": "",
-    "vi": ""
+    "vi": "tổ chim",
+    "en": ""
   },
   {
     "hanzi": "尿",
     "pinyin": "niào",
-    "en": "",
-    "vi": ""
+    "vi": "nước tiểu",
+    "en": ""
   },
   {
     "hanzi": "捏",
     "pinyin": "niē",
-    "en": "",
-    "vi": ""
+    "vi": "nhéo",
+    "en": ""
   },
   {
     "hanzi": "拧",
     "pinyin": "níng",
-    "en": "",
-    "vi": ""
+    "vi": "vít",
+    "en": ""
   },
   {
     "hanzi": "凝固",
     "pinyin": "nínggù",
-    "en": "",
-    "vi": ""
+    "vi": "sự hóa rắn",
+    "en": ""
   },
   {
     "hanzi": "凝结",
     "pinyin": "níngjié",
-    "en": "",
-    "vi": ""
+    "vi": "sự ngưng tụ",
+    "en": ""
   },
   {
     "hanzi": "宁静",
     "pinyin": "níngjìng",
-    "en": "",
-    "vi": ""
+    "vi": "hoà bình",
+    "en": ""
   },
   {
     "hanzi": "凝聚",
     "pinyin": "níngjù",
-    "en": "",
-    "vi": ""
+    "vi": "ngưng tụ",
+    "en": ""
   },
   {
     "hanzi": "凝视",
     "pinyin": "níngshì",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn chằm chằm",
+    "en": ""
   },
   {
     "hanzi": "拧",
     "pinyin": "nǐng",
-    "en": "",
-    "vi": ""
+    "vi": "vít",
+    "en": ""
   },
   {
     "hanzi": "宁可",
     "pinyin": "nìngkě",
-    "en": "",
-    "vi": ""
+    "vi": "hơn là",
+    "en": ""
   },
   {
     "hanzi": "宁愿",
     "pinyin": "nìngyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "thà",
+    "en": ""
   },
   {
     "hanzi": "纽带",
     "pinyin": "niǔdài",
-    "en": "",
-    "vi": ""
+    "vi": "liên kết",
+    "en": ""
   },
   {
     "hanzi": "纽扣",
     "pinyin": "niǔkòu",
-    "en": "",
-    "vi": ""
+    "vi": "nút",
+    "en": ""
   },
   {
     "hanzi": "扭曲",
     "pinyin": "niǔqū",
-    "en": "",
-    "vi": ""
+    "vi": "sự bóp méo",
+    "en": ""
   },
   {
     "hanzi": "扭头",
     "pinyin": "niǔtóu",
-    "en": "",
-    "vi": ""
+    "vi": "Quay lại",
+    "en": ""
   },
   {
     "hanzi": "扭转",
     "pinyin": "niǔzhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xoắn",
+    "en": ""
   },
   {
     "hanzi": "农场",
     "pinyin": "nóngchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nông trại",
+    "en": ""
   },
   {
     "hanzi": "农历",
     "pinyin": "nónglì",
-    "en": "",
-    "vi": ""
+    "vi": "âm lịch",
+    "en": ""
   },
   {
     "hanzi": "农民工",
     "pinyin": "nóngmíngōng",
-    "en": "",
-    "vi": ""
+    "vi": "công nhân nhập cư",
+    "en": ""
   },
   {
     "hanzi": "浓缩",
     "pinyin": "nóngsuō",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung",
+    "en": ""
   },
   {
     "hanzi": "浓郁",
     "pinyin": "nóngyù",
-    "en": "",
-    "vi": ""
+    "vi": "Giàu có",
+    "en": ""
   },
   {
     "hanzi": "浓重",
     "pinyin": "nóngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh",
+    "en": ""
   },
   {
     "hanzi": "弄虚作假",
     "pinyin": "nòngxū-zuòjiǎ",
-    "en": "",
-    "vi": ""
+    "vi": "làm sai lệch",
+    "en": ""
   },
   {
     "hanzi": "奴隶",
     "pinyin": "núlì",
-    "en": "",
-    "vi": ""
+    "vi": "nô lệ",
+    "en": ""
   },
   {
     "hanzi": "女方",
     "pinyin": "nǚfāng",
-    "en": "",
-    "vi": ""
+    "vi": "Đàn bà",
+    "en": ""
   },
   {
     "hanzi": "女婿",
     "pinyin": "nǚxu",
-    "en": "",
-    "vi": ""
+    "vi": "con rể",
+    "en": ""
   },
   {
     "hanzi": "暖烘烘",
     "pinyin": "nuǎnhōnghōng",
-    "en": "",
-    "vi": ""
+    "vi": "tốt đẹp và ấm áp",
+    "en": ""
   },
   {
     "hanzi": "虐待",
     "pinyin": "nüèdài",
-    "en": "",
-    "vi": ""
+    "vi": "lạm dụng",
+    "en": ""
   },
   {
     "hanzi": "挪",
     "pinyin": "nuó",
-    "en": "",
-    "vi": ""
+    "vi": "di chuyển",
+    "en": ""
   },
   {
     "hanzi": "诺言",
     "pinyin": "nuòyán",
-    "en": "",
-    "vi": ""
+    "vi": "hứa",
+    "en": ""
   },
   {
     "hanzi": "殴打",
     "pinyin": "ōudǎ",
-    "en": "",
-    "vi": ""
+    "vi": "tiết tấu",
+    "en": ""
   },
   {
     "hanzi": "呕吐",
     "pinyin": "ǒutù",
-    "en": "",
-    "vi": ""
+    "vi": "Nôn",
+    "en": ""
   },
   {
     "hanzi": "趴",
     "pinyin": "pā",
-    "en": "",
-    "vi": ""
+    "vi": "nói dối",
+    "en": ""
   },
   {
     "hanzi": "拍板",
     "pinyin": "pāibǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Quyết định cuối cùng",
+    "en": ""
   },
   {
     "hanzi": "拍卖",
     "pinyin": "pāimài",
-    "en": "",
-    "vi": ""
+    "vi": "đấu giá",
+    "en": ""
   },
   {
     "hanzi": "排查",
     "pinyin": "páichá",
-    "en": "",
-    "vi": ""
+    "vi": "khắc phục sự cố",
+    "en": ""
   },
   {
     "hanzi": "排斥",
     "pinyin": "páichì",
-    "en": "",
-    "vi": ""
+    "vi": "loại trừ",
+    "en": ""
   },
   {
     "hanzi": "排行榜",
     "pinyin": "páihángbǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Danh sách xếp hạng",
+    "en": ""
   },
   {
     "hanzi": "徘徊",
     "pinyin": "páihuái",
-    "en": "",
-    "vi": ""
+    "vi": "đi lang thang",
+    "en": ""
   },
   {
     "hanzi": "牌照",
     "pinyin": "páizhào",
-    "en": "",
-    "vi": ""
+    "vi": "giấy phép",
+    "en": ""
   },
   {
     "hanzi": "派别",
     "pinyin": "pàibié",
-    "en": "",
-    "vi": ""
+    "vi": "phe phái",
+    "en": ""
   },
   {
     "hanzi": "派遣",
     "pinyin": "pàiqiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "gửi",
+    "en": ""
   },
   {
     "hanzi": "攀",
     "pinyin": "pān",
-    "en": "",
-    "vi": ""
+    "vi": "leo",
+    "en": ""
   },
   {
     "hanzi": "攀登",
     "pinyin": "pāndēng",
-    "en": "",
-    "vi": ""
+    "vi": "sự leo lên",
+    "en": ""
   },
   {
     "hanzi": "攀升",
     "pinyin": "pānshēng",
-    "en": "",
-    "vi": ""
+    "vi": "tăng lên",
+    "en": ""
   },
   {
     "hanzi": "盘算",
     "pinyin": "pánsuan",
-    "en": "",
-    "vi": ""
+    "vi": "Tính toán",
+    "en": ""
   },
   {
     "hanzi": "盘旋",
     "pinyin": "pánxuán",
-    "en": "",
-    "vi": ""
+    "vi": "di chuột",
+    "en": ""
   },
   {
     "hanzi": "判",
     "pinyin": "pàn",
-    "en": "",
-    "vi": ""
+    "vi": "phán xét",
+    "en": ""
   },
   {
     "hanzi": "盼",
     "pinyin": "pàn",
-    "en": "",
-    "vi": ""
+    "vi": "mong",
+    "en": ""
   },
   {
     "hanzi": "判处",
     "pinyin": "pànchǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bị kết án",
+    "en": ""
   },
   {
     "hanzi": "判定",
     "pinyin": "pàndìng",
-    "en": "",
-    "vi": ""
+    "vi": "sự quyết tâm",
+    "en": ""
   },
   {
     "hanzi": "判决",
     "pinyin": "pànjué",
-    "en": "",
-    "vi": ""
+    "vi": "sự phán xét",
+    "en": ""
   },
   {
     "hanzi": "叛逆",
     "pinyin": "pànnì",
-    "en": "",
-    "vi": ""
+    "vi": "nổi loạn",
+    "en": ""
   },
   {
     "hanzi": "旁人",
     "pinyin": "pángrén",
-    "en": "",
-    "vi": ""
+    "vi": "Người khác",
+    "en": ""
   },
   {
     "hanzi": "螃蟹",
     "pinyin": "pángxiè",
-    "en": "",
-    "vi": ""
+    "vi": "Cua",
+    "en": ""
   },
   {
     "hanzi": "胖乎乎",
     "pinyin": "pànghūhū",
-    "en": "",
-    "vi": ""
+    "vi": "mập mạp",
+    "en": ""
   },
   {
     "hanzi": "抛弃",
     "pinyin": "pāoqì",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ rơi",
+    "en": ""
   },
   {
     "hanzi": "刨",
     "pinyin": "páo",
-    "en": "",
-    "vi": ""
+    "vi": "máy bay",
+    "en": ""
   },
   {
     "hanzi": "跑龙套",
     "pinyin": "pǎo lóngtào",
-    "en": "",
-    "vi": ""
+    "vi": "đóng một vai trò nhỏ",
+    "en": ""
   },
   {
     "hanzi": "炮",
     "pinyin": "pào",
-    "en": "",
-    "vi": ""
+    "vi": "súng",
+    "en": ""
   },
   {
     "hanzi": "泡沫",
     "pinyin": "pàomò",
-    "en": "",
-    "vi": ""
+    "vi": "Bọt",
+    "en": ""
   },
   {
     "hanzi": "胚胎",
     "pinyin": "pēitāi",
-    "en": "",
-    "vi": ""
+    "vi": "phôi thai",
+    "en": ""
   },
   {
     "hanzi": "佩戴",
     "pinyin": "pèidài",
-    "en": "",
-    "vi": ""
+    "vi": "mặc",
+    "en": ""
   },
   {
     "hanzi": "配方",
     "pinyin": "pèifāng",
-    "en": "",
-    "vi": ""
+    "vi": "công thức",
+    "en": ""
   },
   {
     "hanzi": "配件",
     "pinyin": "pèijiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Phụ kiện",
+    "en": ""
   },
   {
     "hanzi": "配角",
     "pinyin": "pèijué",
-    "en": "",
-    "vi": ""
+    "vi": "vai phụ",
+    "en": ""
   },
   {
     "hanzi": "配偶",
     "pinyin": "pèi’ǒu",
-    "en": "",
-    "vi": ""
+    "vi": "vợ chồng",
+    "en": ""
   },
   {
     "hanzi": "配音",
     "pinyin": "pèiyīn",
-    "en": "",
-    "vi": ""
+    "vi": "lồng tiếng",
+    "en": ""
   },
   {
     "hanzi": "配置",
     "pinyin": "pèizhì",
-    "en": "",
-    "vi": ""
+    "vi": "Cấu hình",
+    "en": ""
   },
   {
     "hanzi": "喷泉",
     "pinyin": "pēnquán",
-    "en": "",
-    "vi": ""
+    "vi": "đài phun nước",
+    "en": ""
   },
   {
     "hanzi": "盆地",
     "pinyin": "péndì",
-    "en": "",
-    "vi": ""
+    "vi": "lưu vực",
+    "en": ""
   },
   {
     "hanzi": "抨击",
     "pinyin": "pēngjī",
-    "en": "",
-    "vi": ""
+    "vi": "tấn công",
+    "en": ""
   },
   {
     "hanzi": "烹饪",
     "pinyin": "pēngrèn",
-    "en": "",
-    "vi": ""
+    "vi": "nấu ăn",
+    "en": ""
   },
   {
     "hanzi": "烹调",
     "pinyin": "pēngtiáo",
-    "en": "",
-    "vi": ""
+    "vi": "nấu ăn",
+    "en": ""
   },
   {
     "hanzi": "棚",
     "pinyin": "péng",
-    "en": "",
-    "vi": ""
+    "vi": "túp lều",
+    "en": ""
   },
   {
     "hanzi": "蓬勃",
     "pinyin": "péngbó",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "鹏程万里",
     "pinyin": "péngchéng-wànlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Một cuộc hành trình dài",
+    "en": ""
   },
   {
     "hanzi": "澎湃",
     "pinyin": "péngpài",
-    "en": "",
-    "vi": ""
+    "vi": "dâng trào",
+    "en": ""
   },
   {
     "hanzi": "膨胀",
     "pinyin": "péngzhàng",
-    "en": "",
-    "vi": ""
+    "vi": "Mở rộng",
+    "en": ""
   },
   {
     "hanzi": "捧场",
     "pinyin": "pěngchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "碰钉子",
     "pinyin": "pèng dīngzi",
-    "en": "",
-    "vi": ""
+    "vi": "gặp trở ngại",
+    "en": ""
   },
   {
     "hanzi": "碰巧",
     "pinyin": "pèngqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "xảy ra",
+    "en": ""
   },
   {
     "hanzi": "劈",
     "pinyin": "pī",
-    "en": "",
-    "vi": ""
+    "vi": "hack",
+    "en": ""
   },
   {
     "hanzi": "批发",
     "pinyin": "pīfā",
-    "en": "",
-    "vi": ""
+    "vi": "bán buôn",
+    "en": ""
   },
   {
     "hanzi": "披露",
     "pinyin": "pīlù",
-    "en": "",
-    "vi": ""
+    "vi": "Tiết lộ",
+    "en": ""
   },
   {
     "hanzi": "批判",
     "pinyin": "pīpàn",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ trích",
+    "en": ""
   },
   {
     "hanzi": "脾",
     "pinyin": "pí",
-    "en": "",
-    "vi": ""
+    "vi": "lá lách",
+    "en": ""
   },
   {
     "hanzi": "疲惫",
     "pinyin": "píbèi",
-    "en": "",
-    "vi": ""
+    "vi": "kiệt sức",
+    "en": ""
   },
   {
     "hanzi": "皮革",
     "pinyin": "pígé",
-    "en": "",
-    "vi": ""
+    "vi": "da thú",
+    "en": ""
   },
   {
     "hanzi": "疲倦",
     "pinyin": "píjuàn",
-    "en": "",
-    "vi": ""
+    "vi": "mệt",
+    "en": ""
   },
   {
     "hanzi": "匹配",
     "pinyin": "pǐpèi",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc thi đấu",
+    "en": ""
   },
   {
     "hanzi": "屁股",
     "pinyin": "pìgu",
-    "en": "",
-    "vi": ""
+    "vi": "mông",
+    "en": ""
   },
   {
     "hanzi": "僻静",
     "pinyin": "pìjìng",
-    "en": "",
-    "vi": ""
+    "vi": "hẻo lánh",
+    "en": ""
   },
   {
     "hanzi": "媲美",
     "pinyin": "pìměi",
-    "en": "",
-    "vi": ""
+    "vi": "có thể so sánh với",
+    "en": ""
   },
   {
     "hanzi": "譬如",
     "pinyin": "pìrú",
-    "en": "",
-    "vi": ""
+    "vi": "Ví dụ",
+    "en": ""
   },
   {
     "hanzi": "偏",
     "pinyin": "piān",
-    "en": "",
-    "vi": ""
+    "vi": "một phần",
+    "en": ""
   },
   {
     "hanzi": "偏爱",
     "pinyin": "piān’ài",
-    "en": "",
-    "vi": ""
+    "vi": "sự ưa thích",
+    "en": ""
   },
   {
     "hanzi": "偏差",
     "pinyin": "piānchā",
-    "en": "",
-    "vi": ""
+    "vi": "sự lệch lạc",
+    "en": ""
   },
   {
     "hanzi": "篇幅",
     "pinyin": "piānfú",
-    "en": "",
-    "vi": ""
+    "vi": "không gian",
+    "en": ""
   },
   {
     "hanzi": "偏见",
     "pinyin": "piānjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự thiên vị",
+    "en": ""
   },
   {
     "hanzi": "偏离",
     "pinyin": "piānlí",
-    "en": "",
-    "vi": ""
+    "vi": "đi chệch hướng",
+    "en": ""
   },
   {
     "hanzi": "偏旁",
     "pinyin": "piānpáng",
-    "en": "",
-    "vi": ""
+    "vi": "cấp tiến",
+    "en": ""
   },
   {
     "hanzi": "偏僻",
     "pinyin": "piānpì",
-    "en": "",
-    "vi": ""
+    "vi": "xa",
+    "en": ""
   },
   {
     "hanzi": "偏偏",
     "pinyin": "piānpiān",
-    "en": "",
-    "vi": ""
+    "vi": "Tuy nhiên",
+    "en": ""
   },
   {
     "hanzi": "偏向",
     "pinyin": "piānxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "sự thiên vị",
+    "en": ""
   },
   {
     "hanzi": "偏远",
     "pinyin": "piānyuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xa",
+    "en": ""
   },
   {
     "hanzi": "片子",
     "pinyin": "piānzi",
-    "en": "",
-    "vi": ""
+    "vi": "bộ phim",
+    "en": ""
   },
   {
     "hanzi": "片段",
     "pinyin": "piànduàn",
-    "en": "",
-    "vi": ""
+    "vi": "mảnh vỡ",
+    "en": ""
   },
   {
     "hanzi": "漂泊",
     "pinyin": "piāobó",
-    "en": "",
-    "vi": ""
+    "vi": "trôi dạt",
+    "en": ""
   },
   {
     "hanzi": "飘浮",
     "pinyin": "piāofú",
-    "en": "",
-    "vi": ""
+    "vi": "nổi",
+    "en": ""
   },
   {
     "hanzi": "漂浮",
     "pinyin": "piāofú",
-    "en": "",
-    "vi": ""
+    "vi": "trôi nổi",
+    "en": ""
   },
   {
     "hanzi": "漂流",
     "pinyin": "piāoliú",
-    "en": "",
-    "vi": ""
+    "vi": "trôi dạt",
+    "en": ""
   },
   {
     "hanzi": "飘扬",
     "pinyin": "piāoyáng",
-    "en": "",
-    "vi": ""
+    "vi": "rung chuyển",
+    "en": ""
   },
   {
     "hanzi": "票房",
     "pinyin": "piàofáng",
-    "en": "",
-    "vi": ""
+    "vi": "phòng vé",
+    "en": ""
   },
   {
     "hanzi": "撇",
     "pinyin": "piě",
-    "en": "",
-    "vi": ""
+    "vi": "lướt qua",
+    "en": ""
   },
   {
     "hanzi": "拼搏",
     "pinyin": "pīnbó",
-    "en": "",
-    "vi": ""
+    "vi": "đấu tranh ",
+    "en": ""
   },
   {
     "hanzi": "拼接",
     "pinyin": "pīnjiē",
-    "en": "",
-    "vi": ""
+    "vi": "nối",
+    "en": ""
   },
   {
     "hanzi": "拼命",
     "pinyin": "pīnmìng",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt vọng",
+    "en": ""
   },
   {
     "hanzi": "贫乏",
     "pinyin": "pínfá",
-    "en": "",
-    "vi": ""
+    "vi": "nghèo",
+    "en": ""
   },
   {
     "hanzi": "频频",
     "pinyin": "pínpín",
-    "en": "",
-    "vi": ""
+    "vi": "Thường xuyên",
+    "en": ""
   },
   {
     "hanzi": "贫穷",
     "pinyin": "pínqióng",
-    "en": "",
-    "vi": ""
+    "vi": "nghèo",
+    "en": ""
   },
   {
     "hanzi": "品德",
     "pinyin": "pǐndé",
-    "en": "",
-    "vi": ""
+    "vi": "Đạo đức",
+    "en": ""
   },
   {
     "hanzi": "品位",
     "pinyin": "pǐnwèi",
-    "en": "",
-    "vi": ""
+    "vi": "cấp",
+    "en": ""
   },
   {
     "hanzi": "品味",
     "pinyin": "pǐnwèi",
-    "en": "",
-    "vi": ""
+    "vi": "nếm",
+    "en": ""
   },
   {
     "hanzi": "品行",
     "pinyin": "pǐnxíng",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ đạo",
+    "en": ""
   },
   {
     "hanzi": "聘",
     "pinyin": "pìn",
-    "en": "",
-    "vi": ""
+    "vi": "thuê",
+    "en": ""
   },
   {
     "hanzi": "聘任",
     "pinyin": "pìnrèn",
-    "en": "",
-    "vi": ""
+    "vi": "Cuộc hẹn",
+    "en": ""
   },
   {
     "hanzi": "聘用",
     "pinyin": "pìnyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Thuê",
+    "en": ""
   },
   {
     "hanzi": "屏蔽",
     "pinyin": "píngbì",
-    "en": "",
-    "vi": ""
+    "vi": "cái khiên",
+    "en": ""
   },
   {
     "hanzi": "平淡",
     "pinyin": "píngdàn",
-    "en": "",
-    "vi": ""
+    "vi": "đần độn",
+    "en": ""
   },
   {
     "hanzi": "评定",
     "pinyin": "píngdìng",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá",
+    "en": ""
   },
   {
     "hanzi": "平房",
     "pinyin": "píngfáng",
-    "en": "",
-    "vi": ""
+    "vi": "nhà gỗ một tầng",
+    "en": ""
   },
   {
     "hanzi": "平和",
     "pinyin": "pínghé",
-    "en": "",
-    "vi": ""
+    "vi": "hoà bình",
+    "en": ""
   },
   {
     "hanzi": "平价",
     "pinyin": "píngjià",
-    "en": "",
-    "vi": ""
+    "vi": "sự ngang bằng",
+    "en": ""
   },
   {
     "hanzi": "瓶颈",
     "pinyin": "píngjǐng",
-    "en": "",
-    "vi": ""
+    "vi": "nút cổ chai",
+    "en": ""
   },
   {
     "hanzi": "平面",
     "pinyin": "píngmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "phẳng",
+    "en": ""
   },
   {
     "hanzi": "评判",
     "pinyin": "píngpàn",
-    "en": "",
-    "vi": ""
+    "vi": "phán xét",
+    "en": ""
   },
   {
     "hanzi": "平日",
     "pinyin": "píngrì",
-    "en": "",
-    "vi": ""
+    "vi": "các ngày trong tuần",
+    "en": ""
   },
   {
     "hanzi": "评审",
     "pinyin": "píngshěn",
-    "en": "",
-    "vi": ""
+    "vi": "Ôn tập",
+    "en": ""
   },
   {
     "hanzi": "萍水相逢",
     "pinyin": "píngshuǐ-xiāngféng",
-    "en": "",
-    "vi": ""
+    "vi": "tình cờ gặp nhau",
+    "en": ""
   },
   {
     "hanzi": "平坦",
     "pinyin": "píngtǎn",
-    "en": "",
-    "vi": ""
+    "vi": "phẳng",
+    "en": ""
   },
   {
     "hanzi": "评委",
     "pinyin": "píngwěi",
-    "en": "",
-    "vi": ""
+    "vi": "thẩm phán",
+    "en": ""
   },
   {
     "hanzi": "平稳",
     "pinyin": "píngwěn",
-    "en": "",
-    "vi": ""
+    "vi": "trơn tru",
+    "en": ""
   },
   {
     "hanzi": "平息",
     "pinyin": "píngxī",
-    "en": "",
-    "vi": ""
+    "vi": "điềm tĩnh",
+    "en": ""
   },
   {
     "hanzi": "平行",
     "pinyin": "píngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "song song",
+    "en": ""
   },
   {
     "hanzi": "平庸",
     "pinyin": "píngyōng",
-    "en": "",
-    "vi": ""
+    "vi": "tầm thường",
+    "en": ""
   },
   {
     "hanzi": "平原",
     "pinyin": "píngyuán",
-    "en": "",
-    "vi": ""
+    "vi": "đơn giản",
+    "en": ""
   },
   {
     "hanzi": "屏障",
     "pinyin": "píngzhàng",
-    "en": "",
-    "vi": ""
+    "vi": "rào cản",
+    "en": ""
   },
   {
     "hanzi": "凭证",
     "pinyin": "píngzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "giấy chứng nhận",
+    "en": ""
   },
   {
     "hanzi": "颇",
     "pinyin": "pō",
-    "en": "",
-    "vi": ""
+    "vi": "khá",
+    "en": ""
   },
   {
     "hanzi": "泼冷水",
     "pinyin": "pō lěngshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đổ nước lạnh vào",
+    "en": ""
   },
   {
     "hanzi": "破案",
     "pinyin": "pò’àn",
-    "en": "",
-    "vi": ""
+    "vi": "Giải quyết vụ án",
+    "en": ""
   },
   {
     "hanzi": "迫不及待",
     "pinyin": "pòbùjídài",
-    "en": "",
-    "vi": ""
+    "vi": "không thể chờ đợi",
+    "en": ""
   },
   {
     "hanzi": "破除",
     "pinyin": "pòchú",
-    "en": "",
-    "vi": ""
+    "vi": "thoát khỏi",
+    "en": ""
   },
   {
     "hanzi": "迫害",
     "pinyin": "pòhài",
-    "en": "",
-    "vi": ""
+    "vi": "sự đàn áp",
+    "en": ""
   },
   {
     "hanzi": "破解",
     "pinyin": "pòjiě",
-    "en": "",
-    "vi": ""
+    "vi": "nứt",
+    "en": ""
   },
   {
     "hanzi": "破旧",
     "pinyin": "pòjiù",
-    "en": "",
-    "vi": ""
+    "vi": "cũ",
+    "en": ""
   },
   {
     "hanzi": "破例",
     "pinyin": "pòlì",
-    "en": "",
-    "vi": ""
+    "vi": "Tạo một ngoại lệ",
+    "en": ""
   },
   {
     "hanzi": "魄力",
     "pinyin": "pòlì",
-    "en": "",
-    "vi": ""
+    "vi": "Lòng can đảm",
+    "en": ""
   },
   {
     "hanzi": "破裂",
     "pinyin": "pòliè",
-    "en": "",
-    "vi": ""
+    "vi": "vỡ",
+    "en": ""
   },
   {
     "hanzi": "破灭",
     "pinyin": "pòmiè",
-    "en": "",
-    "vi": ""
+    "vi": "Vỡ mộng",
+    "en": ""
   },
   {
     "hanzi": "迫使",
     "pinyin": "pòshǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lực lượng",
+    "en": ""
   },
   {
     "hanzi": "破碎",
     "pinyin": "pòsuì",
-    "en": "",
-    "vi": ""
+    "vi": "vỡ",
+    "en": ""
   },
   {
     "hanzi": "扑克",
     "pinyin": "pūkè",
-    "en": "",
-    "vi": ""
+    "vi": "bài bạc",
+    "en": ""
   },
   {
     "hanzi": "铺路",
     "pinyin": "pūlù",
-    "en": "",
-    "vi": ""
+    "vi": "lát đường",
+    "en": ""
   },
   {
     "hanzi": "扑面而来",
     "pinyin": "pūmiàn’érlái",
-    "en": "",
-    "vi": ""
+    "vi": "Đến với bạn",
+    "en": ""
   },
   {
     "hanzi": "菩萨",
     "pinyin": "púsà",
-    "en": "",
-    "vi": ""
+    "vi": "Phật",
+    "en": ""
   },
   {
     "hanzi": "谱",
     "pinyin": "pǔ",
-    "en": "",
-    "vi": ""
+    "vi": "quang phổ",
+    "en": ""
   },
   {
     "hanzi": "朴实",
     "pinyin": "pǔshí",
-    "en": "",
-    "vi": ""
+    "vi": "đơn giản",
+    "en": ""
   },
   {
     "hanzi": "瀑布",
     "pinyin": "pùbù",
-    "en": "",
-    "vi": ""
+    "vi": "Ngã",
+    "en": ""
   },
   {
     "hanzi": "沏",
     "pinyin": "qī",
-    "en": "",
-    "vi": ""
+    "vi": "dốc",
+    "en": ""
   },
   {
     "hanzi": "漆",
     "pinyin": "qī",
-    "en": "",
-    "vi": ""
+    "vi": "sơn",
+    "en": ""
   },
   {
     "hanzi": "欺负",
     "pinyin": "qīfu",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt nạt",
+    "en": ""
   },
   {
     "hanzi": "漆黑",
     "pinyin": "qīhēi",
-    "en": "",
-    "vi": ""
+    "vi": "đen tuyền",
+    "en": ""
   },
   {
     "hanzi": "凄凉",
     "pinyin": "qīliáng",
-    "en": "",
-    "vi": ""
+    "vi": "hoang vắng",
+    "en": ""
   },
   {
     "hanzi": "期盼",
     "pinyin": "qīpàn",
-    "en": "",
-    "vi": ""
+    "vi": "mong chờ",
+    "en": ""
   },
   {
     "hanzi": "蹊跷",
     "pinyin": "qīqiao",
-    "en": "",
-    "vi": ""
+    "vi": "Lạ lùng",
+    "en": ""
   },
   {
     "hanzi": "欺诈",
     "pinyin": "qīzhà",
-    "en": "",
-    "vi": ""
+    "vi": "Gian lận",
+    "en": ""
   },
   {
     "hanzi": "七嘴八舌",
     "pinyin": "qīzuǐ-bāshé",
-    "en": "",
-    "vi": ""
+    "vi": "Nói nhiều",
+    "en": ""
   },
   {
     "hanzi": "祈祷",
     "pinyin": "qídǎo",
-    "en": "",
-    "vi": ""
+    "vi": "cầu nguyện",
+    "en": ""
   },
   {
     "hanzi": "奇观",
     "pinyin": "qíguān",
-    "en": "",
-    "vi": ""
+    "vi": "cảnh tượng",
+    "en": ""
   },
   {
     "hanzi": "奇妙",
     "pinyin": "qímiào",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt vời",
+    "en": ""
   },
   {
     "hanzi": "旗袍",
     "pinyin": "qípáo",
-    "en": "",
-    "vi": ""
+    "vi": "sườn xám",
+    "en": ""
   },
   {
     "hanzi": "崎岖",
     "pinyin": "qíqū",
-    "en": "",
-    "vi": ""
+    "vi": "gồ ghề",
+    "en": ""
   },
   {
     "hanzi": "歧视",
     "pinyin": "qíshì",
-    "en": "",
-    "vi": ""
+    "vi": "phân biệt đối xử",
+    "en": ""
   },
   {
     "hanzi": "奇特",
     "pinyin": "qítè",
-    "en": "",
-    "vi": ""
+    "vi": "lạ lùng",
+    "en": ""
   },
   {
     "hanzi": "齐心协力",
     "pinyin": "qíxīn-xiélì",
-    "en": "",
-    "vi": ""
+    "vi": "làm việc cùng nhau",
+    "en": ""
   },
   {
     "hanzi": "旗帜",
     "pinyin": "qízhì",
-    "en": "",
-    "vi": ""
+    "vi": "ngọn cờ",
+    "en": ""
   },
   {
     "hanzi": "起步",
     "pinyin": "qǐbù",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt đầu",
+    "en": ""
   },
   {
     "hanzi": "起草",
     "pinyin": "qǐcǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bản nháp",
+    "en": ""
   },
   {
     "hanzi": "启程",
     "pinyin": "qǐchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Khởi hành",
+    "en": ""
   },
   {
     "hanzi": "起程",
     "pinyin": "qǐchéng",
-    "en": "",
-    "vi": ""
+    "vi": "rời khỏi",
+    "en": ""
   },
   {
     "hanzi": "启迪",
     "pinyin": "qǐdí",
-    "en": "",
-    "vi": ""
+    "vi": "Khai sáng",
+    "en": ""
   },
   {
     "hanzi": "起伏",
     "pinyin": "qǐfú",
-    "en": "",
-    "vi": ""
+    "vi": "thăng trầm",
+    "en": ""
   },
   {
     "hanzi": "乞丐",
     "pinyin": "qǐgài",
-    "en": "",
-    "vi": ""
+    "vi": "người ăn xin",
+    "en": ""
   },
   {
     "hanzi": "起哄",
     "pinyin": "qǐhòng",
-    "en": "",
-    "vi": ""
+    "vi": "rắc rối",
+    "en": ""
   },
   {
     "hanzi": "起劲",
     "pinyin": "qǐjìn",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "起码",
     "pinyin": "qǐmǎ",
-    "en": "",
-    "vi": ""
+    "vi": "ít nhất",
+    "en": ""
   },
   {
     "hanzi": "启蒙",
     "pinyin": "qǐméng",
-    "en": "",
-    "vi": ""
+    "vi": "Khai sáng",
+    "en": ""
   },
   {
     "hanzi": "起跑线",
     "pinyin": "qǐpǎoxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "vạch xuất phát",
+    "en": ""
   },
   {
     "hanzi": "乞求",
     "pinyin": "qǐqiú",
-    "en": "",
-    "vi": ""
+    "vi": "ăn xin",
+    "en": ""
   },
   {
     "hanzi": "起诉",
     "pinyin": "qǐsù",
-    "en": "",
-    "vi": ""
+    "vi": "kiện",
+    "en": ""
   },
   {
     "hanzi": "乞讨",
     "pinyin": "qǐtǎo",
-    "en": "",
-    "vi": ""
+    "vi": "ăn xin",
+    "en": ""
   },
   {
     "hanzi": "企图",
     "pinyin": "qǐtú",
-    "en": "",
-    "vi": ""
+    "vi": "nỗ lực",
+    "en": ""
   },
   {
     "hanzi": "启用",
     "pinyin": "qǐyòng",
-    "en": "",
-    "vi": ""
+    "vi": "cho phép",
+    "en": ""
   },
   {
     "hanzi": "岂有此理",
     "pinyin": "qǐyǒucǐlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Thật là vô lý",
+    "en": ""
   },
   {
     "hanzi": "器材",
     "pinyin": "qìcái",
-    "en": "",
-    "vi": ""
+    "vi": "thiết bị",
+    "en": ""
   },
   {
     "hanzi": "气愤",
     "pinyin": "qìfèn",
-    "en": "",
-    "vi": ""
+    "vi": "tức giận",
+    "en": ""
   },
   {
     "hanzi": "气管",
     "pinyin": "qìguǎn",
-    "en": "",
-    "vi": ""
+    "vi": "khí quản",
+    "en": ""
   },
   {
     "hanzi": "器官",
     "pinyin": "qìguān",
-    "en": "",
-    "vi": ""
+    "vi": "cơ quan",
+    "en": ""
   },
   {
     "hanzi": "契机",
     "pinyin": "qìjī",
-    "en": "",
-    "vi": ""
+    "vi": "Cơ hội",
+    "en": ""
   },
   {
     "hanzi": "迄今",
     "pinyin": "qìjīn",
-    "en": "",
-    "vi": ""
+    "vi": "cho đến nay",
+    "en": ""
   },
   {
     "hanzi": "器具",
     "pinyin": "qìjù",
-    "en": "",
-    "vi": ""
+    "vi": "thiết bị",
+    "en": ""
   },
   {
     "hanzi": "气流",
     "pinyin": "qìliú",
-    "en": "",
-    "vi": ""
+    "vi": "luồng không khí",
+    "en": ""
   },
   {
     "hanzi": "气馁",
     "pinyin": "qìněi",
-    "en": "",
-    "vi": ""
+    "vi": "nản lòng",
+    "en": ""
   },
   {
     "hanzi": "气派",
     "pinyin": "qìpài",
-    "en": "",
-    "vi": ""
+    "vi": "phong cách",
+    "en": ""
   },
   {
     "hanzi": "气泡",
     "pinyin": "qìpào",
-    "en": "",
-    "vi": ""
+    "vi": "bong bóng",
+    "en": ""
   },
   {
     "hanzi": "气魄",
     "pinyin": "qìpò",
-    "en": "",
-    "vi": ""
+    "vi": "lòng can đảm",
+    "en": ""
   },
   {
     "hanzi": "弃权",
     "pinyin": "qìquán",
-    "en": "",
-    "vi": ""
+    "vi": "kiêng",
+    "en": ""
   },
   {
     "hanzi": "气色",
     "pinyin": "qìsè",
-    "en": "",
-    "vi": ""
+    "vi": "nước da",
+    "en": ""
   },
   {
     "hanzi": "气势",
     "pinyin": "qìshì",
-    "en": "",
-    "vi": ""
+    "vi": "đà",
+    "en": ""
   },
   {
     "hanzi": "气息",
     "pinyin": "qìxī",
-    "en": "",
-    "vi": ""
+    "vi": "hơi thở",
+    "en": ""
   },
   {
     "hanzi": "气象",
     "pinyin": "qìxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "khí tượng",
+    "en": ""
   },
   {
     "hanzi": "器械",
     "pinyin": "qìxiè",
-    "en": "",
-    "vi": ""
+    "vi": "dụng cụ",
+    "en": ""
   },
   {
     "hanzi": "气压",
     "pinyin": "qìyā",
-    "en": "",
-    "vi": ""
+    "vi": "áp suất không khí",
+    "en": ""
   },
   {
     "hanzi": "契约",
     "pinyin": "qìyuē",
-    "en": "",
-    "vi": ""
+    "vi": "hợp đồng",
+    "en": ""
   },
   {
     "hanzi": "器重",
     "pinyin": "qìzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "giá trị",
+    "en": ""
   },
   {
     "hanzi": "掐",
     "pinyin": "qiā",
-    "en": "",
-    "vi": ""
+    "vi": "nhéo",
+    "en": ""
   },
   {
     "hanzi": "卡",
     "pinyin": "qiǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Thẻ",
+    "en": ""
   },
   {
     "hanzi": "恰到好处",
     "pinyin": "qiàdào-hǎochù",
-    "en": "",
-    "vi": ""
+    "vi": "vừa phải",
+    "en": ""
   },
   {
     "hanzi": "恰巧",
     "pinyin": "qiàqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "tình cờ",
+    "en": ""
   },
   {
     "hanzi": "恰如其分",
     "pinyin": "qiàrú-qífèn",
-    "en": "",
-    "vi": ""
+    "vi": "vừa phải",
+    "en": ""
   },
   {
     "hanzi": "洽谈",
     "pinyin": "qiàtán",
-    "en": "",
-    "vi": ""
+    "vi": "Thương lượng",
+    "en": ""
   },
   {
     "hanzi": "迁",
     "pinyin": "qiān",
-    "en": "",
-    "vi": ""
+    "vi": "di chuyển",
+    "en": ""
   },
   {
     "hanzi": "签2",
     "pinyin": "qiān",
-    "en": "",
-    "vi": ""
+    "vi": "Ký hiệu 2",
+    "en": ""
   },
   {
     "hanzi": "千变万化",
     "pinyin": "qiānbiàn-wànhuà",
-    "en": "",
-    "vi": ""
+    "vi": "luôn thay đổi",
+    "en": ""
   },
   {
     "hanzi": "牵扯",
     "pinyin": "qiānchě",
-    "en": "",
-    "vi": ""
+    "vi": "liên quan",
+    "en": ""
   },
   {
     "hanzi": "千方百计",
     "pinyin": "qiānfāng-bǎijì",
-    "en": "",
-    "vi": ""
+    "vi": "Không để lại hòn đá nào",
+    "en": ""
   },
   {
     "hanzi": "牵挂",
     "pinyin": "qiānguà",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "迁就",
     "pinyin": "qiānjiù",
-    "en": "",
-    "vi": ""
+    "vi": "chứa",
+    "en": ""
   },
   {
     "hanzi": "千军万马",
     "pinyin": "qiānjūn-wànmǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Hàng ngàn quân",
+    "en": ""
   },
   {
     "hanzi": "千钧一发",
     "pinyin": "qiānjūn-yífà",
-    "en": "",
-    "vi": ""
+    "vi": "thời điểm quan trọng",
+    "en": ""
   },
   {
     "hanzi": "牵涉",
     "pinyin": "qiānshè",
-    "en": "",
-    "vi": ""
+    "vi": "liên quan",
+    "en": ""
   },
   {
     "hanzi": "签署",
     "pinyin": "qiānshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "dấu hiệu",
+    "en": ""
   },
   {
     "hanzi": "牵头",
     "pinyin": "qiāntóu",
-    "en": "",
-    "vi": ""
+    "vi": "dẫn đầu",
+    "en": ""
   },
   {
     "hanzi": "迁徙",
     "pinyin": "qiānxǐ",
-    "en": "",
-    "vi": ""
+    "vi": "di cư",
+    "en": ""
   },
   {
     "hanzi": "谦逊",
     "pinyin": "qiānxùn",
-    "en": "",
-    "vi": ""
+    "vi": "khiêm tốn",
+    "en": ""
   },
   {
     "hanzi": "迁移",
     "pinyin": "qiānyí",
-    "en": "",
-    "vi": ""
+    "vi": "di cư",
+    "en": ""
   },
   {
     "hanzi": "签约",
     "pinyin": "qiānyuē",
-    "en": "",
-    "vi": ""
+    "vi": "Ký hợp đồng",
+    "en": ""
   },
   {
     "hanzi": "牵制",
     "pinyin": "qiānzhì",
-    "en": "",
-    "vi": ""
+    "vi": "bao gồm",
+    "en": ""
   },
   {
     "hanzi": "千姿百态",
     "pinyin": "qiānzī-bǎitài",
-    "en": "",
-    "vi": ""
+    "vi": "Hàng ngàn tư thế",
+    "en": ""
   },
   {
     "hanzi": "前辈",
     "pinyin": "qiánbèi",
-    "en": "",
-    "vi": ""
+    "vi": "người lớn tuổi",
+    "en": ""
   },
   {
     "hanzi": "钱财",
     "pinyin": "qiáncái",
-    "en": "",
-    "vi": ""
+    "vi": "tiền bạc",
+    "en": ""
   },
   {
     "hanzi": "前程",
     "pinyin": "qiánchéng",
-    "en": "",
-    "vi": ""
+    "vi": "tương lai",
+    "en": ""
   },
   {
     "hanzi": "虔诚",
     "pinyin": "qiánchéng",
-    "en": "",
-    "vi": ""
+    "vi": "ngoan đạo",
+    "en": ""
   },
   {
     "hanzi": "潜伏",
     "pinyin": "qiánfú",
-    "en": "",
-    "vi": ""
+    "vi": "rình rập",
+    "en": ""
   },
   {
     "hanzi": "前赴后继",
     "pinyin": "qiánfù-hòujì",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếp tục và tiếp tục",
+    "en": ""
   },
   {
     "hanzi": "潜能",
     "pinyin": "qiánnéng",
-    "en": "",
-    "vi": ""
+    "vi": "tiềm năng",
+    "en": ""
   },
   {
     "hanzi": "前任",
     "pinyin": "qiánrèn",
-    "en": "",
-    "vi": ""
+    "vi": "người tiền nhiệm",
+    "en": ""
   },
   {
     "hanzi": "潜入",
     "pinyin": "qiánrù",
-    "en": "",
-    "vi": ""
+    "vi": "lẻn vào",
+    "en": ""
   },
   {
     "hanzi": "潜水",
     "pinyin": "qiánshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lặn",
+    "en": ""
   },
   {
     "hanzi": "前所未有",
     "pinyin": "qiánsuǒwèiyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "chưa từng có",
+    "en": ""
   },
   {
     "hanzi": "前台",
     "pinyin": "qiántái",
-    "en": "",
-    "vi": ""
+    "vi": "quầy lễ tân",
+    "en": ""
   },
   {
     "hanzi": "潜艇",
     "pinyin": "qiántǐng",
-    "en": "",
-    "vi": ""
+    "vi": "tàu ngầm",
+    "en": ""
   },
   {
     "hanzi": "前无古人",
     "pinyin": "qiánwúgǔrén",
-    "en": "",
-    "vi": ""
+    "vi": "chưa từng có",
+    "en": ""
   },
   {
     "hanzi": "前夕",
     "pinyin": "qiánxī",
-    "en": "",
-    "vi": ""
+    "vi": "đêm",
+    "en": ""
   },
   {
     "hanzi": "前线",
     "pinyin": "qiánxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "đằng trước",
+    "en": ""
   },
   {
     "hanzi": "潜心",
     "pinyin": "qiánxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Tập trung",
+    "en": ""
   },
   {
     "hanzi": "前沿",
     "pinyin": "qiányán",
-    "en": "",
-    "vi": ""
+    "vi": "tiên tiến",
+    "en": ""
   },
   {
     "hanzi": "潜移默化",
     "pinyin": "qiányí-mòhuà",
-    "en": "",
-    "vi": ""
+    "vi": "một cách tinh tế",
+    "en": ""
   },
   {
     "hanzi": "潜在",
     "pinyin": "qiánzài",
-    "en": "",
-    "vi": ""
+    "vi": "tiềm năng",
+    "en": ""
   },
   {
     "hanzi": "浅显",
     "pinyin": "qiǎnxiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Đơn giản",
+    "en": ""
   },
   {
     "hanzi": "谴责",
     "pinyin": "qiǎnzé",
-    "en": "",
-    "vi": ""
+    "vi": "lên án",
+    "en": ""
   },
   {
     "hanzi": "欠缺",
     "pinyin": "qiànquē",
-    "en": "",
-    "vi": ""
+    "vi": "thiếu",
+    "en": ""
   },
   {
     "hanzi": "欠条",
     "pinyin": "qiàntiáo",
-    "en": "",
-    "vi": ""
+    "vi": "IOU",
+    "en": ""
   },
   {
     "hanzi": "歉意",
     "pinyin": "qiànyì",
-    "en": "",
-    "vi": ""
+    "vi": "lời xin lỗi",
+    "en": ""
   },
   {
     "hanzi": "呛",
     "pinyin": "qiāng",
-    "en": "",
-    "vi": ""
+    "vi": "nghẹt thở",
+    "en": ""
   },
   {
     "hanzi": "腔",
     "pinyin": "qiāng",
-    "en": "",
-    "vi": ""
+    "vi": "khoang",
+    "en": ""
   },
   {
     "hanzi": "枪毙",
     "pinyin": "qiāngbì",
-    "en": "",
-    "vi": ""
+    "vi": "bắn",
+    "en": ""
   },
   {
     "hanzi": "强盗",
     "pinyin": "qiángdào",
-    "en": "",
-    "vi": ""
+    "vi": "tên cướp",
+    "en": ""
   },
   {
     "hanzi": "强加",
     "pinyin": "qiángjiā",
-    "en": "",
-    "vi": ""
+    "vi": "áp đặt",
+    "en": ""
   },
   {
     "hanzi": "强劲",
     "pinyin": "qiángjìng",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh",
+    "en": ""
   },
   {
     "hanzi": "强势",
     "pinyin": "qiángshì",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh",
+    "en": ""
   },
   {
     "hanzi": "强项",
     "pinyin": "qiángxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Điểm mạnh",
+    "en": ""
   },
   {
     "hanzi": "强行",
     "pinyin": "qiángxíng",
-    "en": "",
-    "vi": ""
+    "vi": "lực lượng",
+    "en": ""
   },
   {
     "hanzi": "强硬",
     "pinyin": "qiángyìng",
-    "en": "",
-    "vi": ""
+    "vi": "khó",
+    "en": ""
   },
   {
     "hanzi": "强占",
     "pinyin": "qiángzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "nắm bắt",
+    "en": ""
   },
   {
     "hanzi": "强制",
     "pinyin": "qiángzhì",
-    "en": "",
-    "vi": ""
+    "vi": "lực lượng",
+    "en": ""
   },
   {
     "hanzi": "抢夺",
     "pinyin": "qiǎngduó",
-    "en": "",
-    "vi": ""
+    "vi": "chộp lấy",
+    "en": ""
   },
   {
     "hanzi": "抢劫",
     "pinyin": "qiǎngjié",
-    "en": "",
-    "vi": ""
+    "vi": "cướp",
+    "en": ""
   },
   {
     "hanzi": "抢眼",
     "pinyin": "qiǎngyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bắt mắt",
+    "en": ""
   },
   {
     "hanzi": "呛",
     "pinyin": "qiàng",
-    "en": "",
-    "vi": ""
+    "vi": "nghẹt thở",
+    "en": ""
   },
   {
     "hanzi": "敲诈",
     "pinyin": "qiāozhà",
-    "en": "",
-    "vi": ""
+    "vi": "tống tiền",
+    "en": ""
   },
   {
     "hanzi": "憔悴",
     "pinyin": "qiáocuì",
-    "en": "",
-    "vi": ""
+    "vi": "xanh xao",
+    "en": ""
   },
   {
     "hanzi": "巧合",
     "pinyin": "qiǎohé",
-    "en": "",
-    "vi": ""
+    "vi": "trùng hợp",
+    "en": ""
   },
   {
     "hanzi": "翘",
     "pinyin": "qiào",
-    "en": "",
-    "vi": ""
+    "vi": "bị cong vênh",
+    "en": ""
   },
   {
     "hanzi": "撬",
     "pinyin": "qiào",
-    "en": "",
-    "vi": ""
+    "vi": "nâng lên",
+    "en": ""
   },
   {
     "hanzi": "窍门",
     "pinyin": "qiàomén",
-    "en": "",
-    "vi": ""
+    "vi": "Mẹo",
+    "en": ""
   },
   {
     "hanzi": "切除",
     "pinyin": "qiēchú",
-    "en": "",
-    "vi": ""
+    "vi": "sự cắt bỏ",
+    "en": ""
   },
   {
     "hanzi": "切磋",
     "pinyin": "qiēcuō",
-    "en": "",
-    "vi": ""
+    "vi": "Bàn luận",
+    "en": ""
   },
   {
     "hanzi": "切割",
     "pinyin": "qiēgē",
-    "en": "",
-    "vi": ""
+    "vi": "cắt",
+    "en": ""
   },
   {
     "hanzi": "切换",
     "pinyin": "qiēhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "công tắc",
+    "en": ""
   },
   {
     "hanzi": "且",
     "pinyin": "qiě",
-    "en": "",
-    "vi": ""
+    "vi": "Và",
+    "en": ""
   },
   {
     "hanzi": "锲而不舍",
     "pinyin": "qiè’érbùshě",
-    "en": "",
-    "vi": ""
+    "vi": "Kiên trì",
+    "en": ""
   },
   {
     "hanzi": "切记",
     "pinyin": "qièjì",
-    "en": "",
-    "vi": ""
+    "vi": "Nhớ",
+    "en": ""
   },
   {
     "hanzi": "切忌",
     "pinyin": "qièjì",
-    "en": "",
-    "vi": ""
+    "vi": "Tránh xa",
+    "en": ""
   },
   {
     "hanzi": "窃取",
     "pinyin": "qièqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "ăn cắp",
+    "en": ""
   },
   {
     "hanzi": "切身",
     "pinyin": "qièshēn",
-    "en": "",
-    "vi": ""
+    "vi": "riêng tư",
+    "en": ""
   },
   {
     "hanzi": "惬意",
     "pinyin": "qièyì",
-    "en": "",
-    "vi": ""
+    "vi": "Ấm áp",
+    "en": ""
   },
   {
     "hanzi": "侵犯",
     "pinyin": "qīnfàn",
-    "en": "",
-    "vi": ""
+    "vi": "xâm phạm",
+    "en": ""
   },
   {
     "hanzi": "侵害",
     "pinyin": "qīnhài",
-    "en": "",
-    "vi": ""
+    "vi": "xâm phạm",
+    "en": ""
   },
   {
     "hanzi": "亲和力",
     "pinyin": "qīnhélì",
-    "en": "",
-    "vi": ""
+    "vi": "Mối quan hệ",
+    "en": ""
   },
   {
     "hanzi": "亲近",
     "pinyin": "qīnjìn",
-    "en": "",
-    "vi": ""
+    "vi": "đóng",
+    "en": ""
   },
   {
     "hanzi": "侵略",
     "pinyin": "qīnlüè",
-    "en": "",
-    "vi": ""
+    "vi": "sự hung hãn",
+    "en": ""
   },
   {
     "hanzi": "钦佩",
     "pinyin": "qīnpèi",
-    "en": "",
-    "vi": ""
+    "vi": "sự ngưỡng mộ",
+    "en": ""
   },
   {
     "hanzi": "侵权",
     "pinyin": "qīnquán",
-    "en": "",
-    "vi": ""
+    "vi": "vi phạm",
+    "en": ""
   },
   {
     "hanzi": "亲热",
     "pinyin": "qīnrè",
-    "en": "",
-    "vi": ""
+    "vi": "trìu mến",
+    "en": ""
   },
   {
     "hanzi": "亲身",
     "pinyin": "qīnshēn",
-    "en": "",
-    "vi": ""
+    "vi": "cá nhân",
+    "en": ""
   },
   {
     "hanzi": "亲生",
     "pinyin": "qīnshēng",
-    "en": "",
-    "vi": ""
+    "vi": "đứa con ruột",
+    "en": ""
   },
   {
     "hanzi": "亲手",
     "pinyin": "qīnshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "cá nhân",
+    "en": ""
   },
   {
     "hanzi": "亲眼",
     "pinyin": "qīnyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bằng chính đôi mắt của bạn",
+    "en": ""
   },
   {
     "hanzi": "侵占",
     "pinyin": "qīnzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự xâm lấn",
+    "en": ""
   },
   {
     "hanzi": "勤工俭学",
     "pinyin": "qíngōng-jiǎnxué",
-    "en": "",
-    "vi": ""
+    "vi": "vừa học vừa làm",
+    "en": ""
   },
   {
     "hanzi": "勤俭",
     "pinyin": "qínjiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tiết kiệm",
+    "en": ""
   },
   {
     "hanzi": "勤快",
     "pinyin": "qínkuai",
-    "en": "",
-    "vi": ""
+    "vi": "siêng năng",
+    "en": ""
   },
   {
     "hanzi": "琴棋书画",
     "pinyin": "qín-qí-shū-huà",
-    "en": "",
-    "vi": ""
+    "vi": "cờ vua, thư pháp và hội họa",
+    "en": ""
   },
   {
     "hanzi": "寝室",
     "pinyin": "qǐnshì",
-    "en": "",
-    "vi": ""
+    "vi": "phòng ngủ",
+    "en": ""
   },
   {
     "hanzi": "轻而易举",
     "pinyin": "qīng’éryìjǔ",
-    "en": "",
-    "vi": ""
+    "vi": "dễ",
+    "en": ""
   },
   {
     "hanzi": "清澈",
     "pinyin": "qīngchè",
-    "en": "",
-    "vi": ""
+    "vi": "thông thoáng",
+    "en": ""
   },
   {
     "hanzi": "清除",
     "pinyin": "qīngchú",
-    "en": "",
-    "vi": ""
+    "vi": "Thông thoáng",
+    "en": ""
   },
   {
     "hanzi": "清脆",
     "pinyin": "qīngcuì",
-    "en": "",
-    "vi": ""
+    "vi": "giòn",
+    "en": ""
   },
   {
     "hanzi": "清单",
     "pinyin": "qīngdān",
-    "en": "",
-    "vi": ""
+    "vi": "Danh sách kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "倾倒",
     "pinyin": "qīngdǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bãi rác",
+    "en": ""
   },
   {
     "hanzi": "倾家荡产",
     "pinyin": "qīngjiā-dàngchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "phá sản",
+    "en": ""
   },
   {
     "hanzi": "清静",
     "pinyin": "qīngjìng",
-    "en": "",
-    "vi": ""
+    "vi": "im lặng",
+    "en": ""
   },
   {
     "hanzi": "青睐",
     "pinyin": "qīnglài",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "清凉",
     "pinyin": "qīngliáng",
-    "en": "",
-    "vi": ""
+    "vi": "mát mẻ",
+    "en": ""
   },
   {
     "hanzi": "轻蔑",
     "pinyin": "qīngmiè",
-    "en": "",
-    "vi": ""
+    "vi": "khinh miệt",
+    "en": ""
   },
   {
     "hanzi": "轻视",
     "pinyin": "qīngshì",
-    "en": "",
-    "vi": ""
+    "vi": "khinh miệt",
+    "en": ""
   },
   {
     "hanzi": "倾诉",
     "pinyin": "qīngsù",
-    "en": "",
-    "vi": ""
+    "vi": "tâm sự",
+    "en": ""
   },
   {
     "hanzi": "青铜器",
     "pinyin": "qīngtóngqì",
-    "en": "",
-    "vi": ""
+    "vi": "đồng",
+    "en": ""
   },
   {
     "hanzi": "轻微",
     "pinyin": "qīngwēi",
-    "en": "",
-    "vi": ""
+    "vi": "nhẹ",
+    "en": ""
   },
   {
     "hanzi": "倾销",
     "pinyin": "qīngxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "đổ rác",
+    "en": ""
   },
   {
     "hanzi": "倾斜",
     "pinyin": "qīngxié",
-    "en": "",
-    "vi": ""
+    "vi": "nghiêng",
+    "en": ""
   },
   {
     "hanzi": "清新",
     "pinyin": "qīngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "tươi",
+    "en": ""
   },
   {
     "hanzi": "轻型",
     "pinyin": "qīngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhẹ",
+    "en": ""
   },
   {
     "hanzi": "情报",
     "pinyin": "qíngbào",
-    "en": "",
-    "vi": ""
+    "vi": "trí thông minh",
+    "en": ""
   },
   {
     "hanzi": "情不自禁",
     "pinyin": "qíngbúzìjīn",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể giúp được",
+    "en": ""
   },
   {
     "hanzi": "情调",
     "pinyin": "qíngdiào",
-    "en": "",
-    "vi": ""
+    "vi": "tâm trạng",
+    "en": ""
   },
   {
     "hanzi": "情怀",
     "pinyin": "qínghuái",
-    "en": "",
-    "vi": ""
+    "vi": "cảm xúc",
+    "en": ""
   },
   {
     "hanzi": "情结",
     "pinyin": "qíngjié",
-    "en": "",
-    "vi": ""
+    "vi": "tổ hợp",
+    "en": ""
   },
   {
     "hanzi": "情境",
     "pinyin": "qíngjìng",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "情理",
     "pinyin": "qínglǐ",
-    "en": "",
-    "vi": ""
+    "vi": "giác quan",
+    "en": ""
   },
   {
     "hanzi": "情侣",
     "pinyin": "qínglǚ",
-    "en": "",
-    "vi": ""
+    "vi": "cặp đôi",
+    "en": ""
   },
   {
     "hanzi": "情人",
     "pinyin": "qíngrén",
-    "en": "",
-    "vi": ""
+    "vi": "người yêu",
+    "en": ""
   },
   {
     "hanzi": "情商",
     "pinyin": "qíngshāng",
-    "en": "",
-    "vi": ""
+    "vi": "Trí tuệ cảm xúc",
+    "en": ""
   },
   {
     "hanzi": "情谊",
     "pinyin": "qíngyì",
-    "en": "",
-    "vi": ""
+    "vi": "tình bạn",
+    "en": ""
   },
   {
     "hanzi": "情愿",
     "pinyin": "qíngyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "sẵn sàng",
+    "en": ""
   },
   {
     "hanzi": "请柬",
     "pinyin": "qǐngjiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "lời mời",
+    "en": ""
   },
   {
     "hanzi": "请示",
     "pinyin": "qǐngshì",
-    "en": "",
-    "vi": ""
+    "vi": "Yêu cầu hướng dẫn",
+    "en": ""
   },
   {
     "hanzi": "请帖",
     "pinyin": "qǐngtiě",
-    "en": "",
-    "vi": ""
+    "vi": "lời mời",
+    "en": ""
   },
   {
     "hanzi": "庆典",
     "pinyin": "qìngdiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "lễ ăn mừng",
+    "en": ""
   },
   {
     "hanzi": "庆贺",
     "pinyin": "qìnghè",
-    "en": "",
-    "vi": ""
+    "vi": "kỉ niệm",
+    "en": ""
   },
   {
     "hanzi": "庆幸",
     "pinyin": "qìngxìng",
-    "en": "",
-    "vi": ""
+    "vi": "May mắn thay",
+    "en": ""
   },
   {
     "hanzi": "丘陵",
     "pinyin": "qiūlíng",
-    "en": "",
-    "vi": ""
+    "vi": "Đồi",
+    "en": ""
   },
   {
     "hanzi": "囚犯",
     "pinyin": "qiúfàn",
-    "en": "",
-    "vi": ""
+    "vi": "tù nhân",
+    "en": ""
   },
   {
     "hanzi": "求同存异",
     "pinyin": "qiútóng-cúnyì",
-    "en": "",
-    "vi": ""
+    "vi": "Tìm kiếm điểm chung trong khi bảo lưu sự khác biệt",
+    "en": ""
   },
   {
     "hanzi": "求学",
     "pinyin": "qiúxué",
-    "en": "",
-    "vi": ""
+    "vi": "học",
+    "en": ""
   },
   {
     "hanzi": "求医",
     "pinyin": "qiúyī",
-    "en": "",
-    "vi": ""
+    "vi": "Tìm kiếm lời khuyên y tế",
+    "en": ""
   },
   {
     "hanzi": "求证",
     "pinyin": "qiúzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Xác minh",
+    "en": ""
   },
   {
     "hanzi": "驱动",
     "pinyin": "qūdòng",
-    "en": "",
-    "vi": ""
+    "vi": "lái xe",
+    "en": ""
   },
   {
     "hanzi": "屈服",
     "pinyin": "qūfú",
-    "en": "",
-    "vi": ""
+    "vi": "năng suất",
+    "en": ""
   },
   {
     "hanzi": "区间",
     "pinyin": "qūjiān",
-    "en": "",
-    "vi": ""
+    "vi": "khoảng thời gian",
+    "en": ""
   },
   {
     "hanzi": "区区",
     "pinyin": "qūqū",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ",
+    "en": ""
   },
   {
     "hanzi": "曲线",
     "pinyin": "qūxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "đường cong",
+    "en": ""
   },
   {
     "hanzi": "趋于",
     "pinyin": "qūyú",
-    "en": "",
-    "vi": ""
+    "vi": "có xu hướng",
+    "en": ""
   },
   {
     "hanzi": "曲折",
     "pinyin": "qūzhé",
-    "en": "",
-    "vi": ""
+    "vi": "quanh co",
+    "en": ""
   },
   {
     "hanzi": "驱逐",
     "pinyin": "qūzhú",
-    "en": "",
-    "vi": ""
+    "vi": "trục xuất",
+    "en": ""
   },
   {
     "hanzi": "取而代之",
     "pinyin": "qǔ’érdàizhī",
-    "en": "",
-    "vi": ""
+    "vi": "thay vì",
+    "en": ""
   },
   {
     "hanzi": "取材",
     "pinyin": "qǔcái",
-    "en": "",
-    "vi": ""
+    "vi": "Vẽ vật liệu",
+    "en": ""
   },
   {
     "hanzi": "取缔",
     "pinyin": "qǔdì",
-    "en": "",
-    "vi": ""
+    "vi": "lệnh cấm",
+    "en": ""
   },
   {
     "hanzi": "取经",
     "pinyin": "qǔjīng",
-    "en": "",
-    "vi": ""
+    "vi": "Học hỏi kinh nghiệm",
+    "en": ""
   },
   {
     "hanzi": "取决",
     "pinyin": "qǔjué",
-    "en": "",
-    "vi": ""
+    "vi": "Phụ thuộc",
+    "en": ""
   },
   {
     "hanzi": "取暖",
     "pinyin": "qǔnuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sưởi ấm",
+    "en": ""
   },
   {
     "hanzi": "取胜",
     "pinyin": "qǔshèng",
-    "en": "",
-    "vi": ""
+    "vi": "thắng",
+    "en": ""
   },
   {
     "hanzi": "取笑",
     "pinyin": "qǔxiào",
-    "en": "",
-    "vi": ""
+    "vi": "trêu đùa",
+    "en": ""
   },
   {
     "hanzi": "曲艺",
     "pinyin": "qǔyì",
-    "en": "",
-    "vi": ""
+    "vi": "Nghệ thuật dân gian",
+    "en": ""
   },
   {
     "hanzi": "去除",
     "pinyin": "qùchú",
-    "en": "",
-    "vi": ""
+    "vi": "Di dời",
+    "en": ""
   },
   {
     "hanzi": "去处",
     "pinyin": "qùchù",
-    "en": "",
-    "vi": ""
+    "vi": "địa điểm",
+    "en": ""
   },
   {
     "hanzi": "去向",
     "pinyin": "qùxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Đi đâu",
+    "en": ""
   },
   {
     "hanzi": "圈套",
     "pinyin": "quāntào",
-    "en": "",
-    "vi": ""
+    "vi": "cạm bẫy",
+    "en": ""
   },
   {
     "hanzi": "圈子",
     "pinyin": "quānzi",
-    "en": "",
-    "vi": ""
+    "vi": "vòng tròn",
+    "en": ""
   },
   {
     "hanzi": "拳",
     "pinyin": "quán",
-    "en": "",
-    "vi": ""
+    "vi": "nắm tay",
+    "en": ""
   },
   {
     "hanzi": "全方位",
     "pinyin": "quánfāngwèi",
-    "en": "",
-    "vi": ""
+    "vi": "Toàn diện",
+    "en": ""
   },
   {
     "hanzi": "权衡",
     "pinyin": "quánhéng",
-    "en": "",
-    "vi": ""
+    "vi": "đánh đổi",
+    "en": ""
   },
   {
     "hanzi": "拳击",
     "pinyin": "quánjī",
-    "en": "",
-    "vi": ""
+    "vi": "quyền anh",
+    "en": ""
   },
   {
     "hanzi": "全局",
     "pinyin": "quánjú",
-    "en": "",
-    "vi": ""
+    "vi": "tình hình chung",
+    "en": ""
   },
   {
     "hanzi": "全力以赴",
     "pinyin": "quánlìyǐfù",
-    "en": "",
-    "vi": ""
+    "vi": "cố gắng hết sức",
+    "en": ""
   },
   {
     "hanzi": "全能",
     "pinyin": "quánnéng",
-    "en": "",
-    "vi": ""
+    "vi": "toàn năng",
+    "en": ""
   },
   {
     "hanzi": "全身心",
     "pinyin": "quánshēnxīn",
-    "en": "",
-    "vi": ""
+    "vi": "hết lòng",
+    "en": ""
   },
   {
     "hanzi": "诠释",
     "pinyin": "quánshì",
-    "en": "",
-    "vi": ""
+    "vi": "Phiên dịch",
+    "en": ""
   },
   {
     "hanzi": "拳头",
     "pinyin": "quántóu",
-    "en": "",
-    "vi": ""
+    "vi": "nắm tay",
+    "en": ""
   },
   {
     "hanzi": "权威",
     "pinyin": "quánwēi",
-    "en": "",
-    "vi": ""
+    "vi": "thẩm quyền",
+    "en": ""
   },
   {
     "hanzi": "权限",
     "pinyin": "quánxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Quyền",
+    "en": ""
   },
   {
     "hanzi": "全心全意",
     "pinyin": "quánxīn-quányì",
-    "en": "",
-    "vi": ""
+    "vi": "hết lòng",
+    "en": ""
   },
   {
     "hanzi": "权益",
     "pinyin": "quányì",
-    "en": "",
-    "vi": ""
+    "vi": "quyền và lợi ích",
+    "en": ""
   },
   {
     "hanzi": "劝告",
     "pinyin": "quàngào",
-    "en": "",
-    "vi": ""
+    "vi": "khuyên bảo",
+    "en": ""
   },
   {
     "hanzi": "劝说",
     "pinyin": "quànshuō",
-    "en": "",
-    "vi": ""
+    "vi": "thuyết phục",
+    "en": ""
   },
   {
     "hanzi": "劝阻",
     "pinyin": "quànzǔ",
-    "en": "",
-    "vi": ""
+    "vi": "khuyên can",
+    "en": ""
   },
   {
     "hanzi": "缺又",
     "pinyin": "quēkǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Queyou",
+    "en": ""
   },
   {
     "hanzi": "缺失",
     "pinyin": "quēshī",
-    "en": "",
-    "vi": ""
+    "vi": "Mất tích",
+    "en": ""
   },
   {
     "hanzi": "缺席",
     "pinyin": "quēxí",
-    "en": "",
-    "vi": ""
+    "vi": "vắng mặt",
+    "en": ""
   },
   {
     "hanzi": "瘸",
     "pinyin": "qué",
-    "en": "",
-    "vi": ""
+    "vi": "khập khiễng",
+    "en": ""
   },
   {
     "hanzi": "确切",
     "pinyin": "quèqiè",
-    "en": "",
-    "vi": ""
+    "vi": "chính xác",
+    "en": ""
   },
   {
     "hanzi": "确信",
     "pinyin": "quèxìn",
-    "en": "",
-    "vi": ""
+    "vi": "bị thuyết phục",
+    "en": ""
   },
   {
     "hanzi": "确凿",
     "pinyin": "quèzáo",
-    "en": "",
-    "vi": ""
+    "vi": "kết luận",
+    "en": ""
   },
   {
     "hanzi": "确诊",
     "pinyin": "quèzhěn",
-    "en": "",
-    "vi": ""
+    "vi": "Đã xác nhận",
+    "en": ""
   },
   {
     "hanzi": "燃放",
     "pinyin": "ránfàng",
-    "en": "",
-    "vi": ""
+    "vi": "khởi hành",
+    "en": ""
   },
   {
     "hanzi": "燃气",
     "pinyin": "ránqì",
-    "en": "",
-    "vi": ""
+    "vi": "Khí đốt",
+    "en": ""
   },
   {
     "hanzi": "燃油",
     "pinyin": "rányóu",
-    "en": "",
-    "vi": ""
+    "vi": "nhiên liệu",
+    "en": ""
   },
   {
     "hanzi": "嚷",
     "pinyin": "rǎng",
-    "en": "",
-    "vi": ""
+    "vi": "hét lên",
+    "en": ""
   },
   {
     "hanzi": "让步",
     "pinyin": "ràngbù",
-    "en": "",
-    "vi": ""
+    "vi": "nhượng bộ",
+    "en": ""
   },
   {
     "hanzi": "饶",
     "pinyin": "ráo",
-    "en": "",
-    "vi": ""
+    "vi": "Rao",
+    "en": ""
   },
   {
     "hanzi": "饶恕",
     "pinyin": "ráoshù",
-    "en": "",
-    "vi": ""
+    "vi": "tha thứ",
+    "en": ""
   },
   {
     "hanzi": "扰乱",
     "pinyin": "rǎoluàn",
-    "en": "",
-    "vi": ""
+    "vi": "quấy rầy",
+    "en": ""
   },
   {
     "hanzi": "绕行",
     "pinyin": "ràoxíng",
-    "en": "",
-    "vi": ""
+    "vi": "đường vòng",
+    "en": ""
   },
   {
     "hanzi": "绕远儿",
     "pinyin": "ràoyuǎnr",
-    "en": "",
-    "vi": ""
+    "vi": "Đi thật xa xung quanh",
+    "en": ""
   },
   {
     "hanzi": "惹",
     "pinyin": "rě",
-    "en": "",
-    "vi": ""
+    "vi": "khiêu khích",
+    "en": ""
   },
   {
     "hanzi": "热潮",
     "pinyin": "rècháo",
-    "en": "",
-    "vi": ""
+    "vi": "sự bùng nổ",
+    "en": ""
   },
   {
     "hanzi": "热带",
     "pinyin": "rèdài",
-    "en": "",
-    "vi": ""
+    "vi": "nhiệt đới",
+    "en": ""
   },
   {
     "hanzi": "热泪盈眶",
     "pinyin": "rèlèi-yíngkuàng",
-    "en": "",
-    "vi": ""
+    "vi": "Nước mắt trong mắt",
+    "en": ""
   },
   {
     "hanzi": "热腾腾",
     "pinyin": "rèténgténg",
-    "en": "",
-    "vi": ""
+    "vi": "Hấp nóng",
+    "en": ""
   },
   {
     "hanzi": "热销",
     "pinyin": "rèxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "bán như tôm tươi",
+    "en": ""
   },
   {
     "hanzi": "热衷",
     "pinyin": "rèzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "Say đắm",
+    "en": ""
   },
   {
     "hanzi": "仁慈",
     "pinyin": "réncí",
-    "en": "",
-    "vi": ""
+    "vi": "lòng tốt",
+    "en": ""
   },
   {
     "hanzi": "人次",
     "pinyin": "réncì",
-    "en": "",
-    "vi": ""
+    "vi": "Du khách",
+    "en": ""
   },
   {
     "hanzi": "人道",
     "pinyin": "réndào",
-    "en": "",
-    "vi": ""
+    "vi": "nhân đạo",
+    "en": ""
   },
   {
     "hanzi": "人格",
     "pinyin": "réngé",
-    "en": "",
-    "vi": ""
+    "vi": "Nhân cách",
+    "en": ""
   },
   {
     "hanzi": "人间",
     "pinyin": "rénjiān",
-    "en": "",
-    "vi": ""
+    "vi": "thế giới",
+    "en": ""
   },
   {
     "hanzi": "人品",
     "pinyin": "rénpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "tính cách",
+    "en": ""
   },
   {
     "hanzi": "人气",
     "pinyin": "rénqì",
-    "en": "",
-    "vi": ""
+    "vi": "Mức độ phổ biến",
+    "en": ""
   },
   {
     "hanzi": "人情",
     "pinyin": "rénqíng",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "人权",
     "pinyin": "rénquán",
-    "en": "",
-    "vi": ""
+    "vi": "nhân quyền",
+    "en": ""
   },
   {
     "hanzi": "人身",
     "pinyin": "rénshēn",
-    "en": "",
-    "vi": ""
+    "vi": "riêng tư",
+    "en": ""
   },
   {
     "hanzi": "人手",
     "pinyin": "rénshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "nhân lực",
+    "en": ""
   },
   {
     "hanzi": "人文",
     "pinyin": "rénwén",
-    "en": "",
-    "vi": ""
+    "vi": "Nhân văn",
+    "en": ""
   },
   {
     "hanzi": "人性",
     "pinyin": "rénxìng",
-    "en": "",
-    "vi": ""
+    "vi": "bản chất con người",
+    "en": ""
   },
   {
     "hanzi": "任性",
     "pinyin": "rénxìng",
-    "en": "",
-    "vi": ""
+    "vi": "thất thường",
+    "en": ""
   },
   {
     "hanzi": "人选",
     "pinyin": "rénxuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "ứng viên",
+    "en": ""
   },
   {
     "hanzi": "人缘儿",
     "pinyin": "rényuánr",
-    "en": "",
-    "vi": ""
+    "vi": "Mức độ phổ biến",
+    "en": ""
   },
   {
     "hanzi": "人造",
     "pinyin": "rénzào",
-    "en": "",
-    "vi": ""
+    "vi": "nhân tạo",
+    "en": ""
   },
   {
     "hanzi": "人质",
     "pinyin": "rénzhì",
-    "en": "",
-    "vi": ""
+    "vi": "con tin",
+    "en": ""
   },
   {
     "hanzi": "忍耐",
     "pinyin": "rěnnài",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "忍心",
     "pinyin": "rěnxīn",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng nó",
+    "en": ""
   },
   {
     "hanzi": "任",
     "pinyin": "rèn",
-    "en": "",
-    "vi": ""
+    "vi": "bổ nhiệm",
+    "en": ""
   },
   {
     "hanzi": "任命",
     "pinyin": "rènmìng",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc hẹn",
+    "en": ""
   },
   {
     "hanzi": "任期",
     "pinyin": "rènqī",
-    "en": "",
-    "vi": ""
+    "vi": "nhiệm kỳ",
+    "en": ""
   },
   {
     "hanzi": "韧性",
     "pinyin": "rènxìng",
-    "en": "",
-    "vi": ""
+    "vi": "sự dẻo dai",
+    "en": ""
   },
   {
     "hanzi": "任意",
     "pinyin": "rènyì",
-    "en": "",
-    "vi": ""
+    "vi": "tùy tiện",
+    "en": ""
   },
   {
     "hanzi": "认证",
     "pinyin": "rènzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Chứng nhận",
+    "en": ""
   },
   {
     "hanzi": "任职",
     "pinyin": "rènzhí",
-    "en": "",
-    "vi": ""
+    "vi": "giữ chức vụ",
+    "en": ""
   },
   {
     "hanzi": "任重道远",
     "pinyin": "rènzhòng-dàoyuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Vẫn còn một chặng đường dài để đi",
+    "en": ""
   },
   {
     "hanzi": "日程",
     "pinyin": "rìchéng",
-    "en": "",
-    "vi": ""
+    "vi": "lịch trình",
+    "en": ""
   },
   {
     "hanzi": "日复一日",
     "pinyin": "rìfùyírì",
-    "en": "",
-    "vi": ""
+    "vi": "ngày qua ngày",
+    "en": ""
   },
   {
     "hanzi": "日趋",
     "pinyin": "rìqū",
-    "en": "",
-    "vi": ""
+    "vi": "ngày càng tăng",
+    "en": ""
   },
   {
     "hanzi": "日新月异",
     "pinyin": "rìxīn-yuèyì",
-    "en": "",
-    "vi": ""
+    "vi": "Thay đổi theo từng ngày trôi qua",
+    "en": ""
   },
   {
     "hanzi": "融",
     "pinyin": "róng",
-    "en": "",
-    "vi": ""
+    "vi": "tan chảy",
+    "en": ""
   },
   {
     "hanzi": "容光焕发",
     "pinyin": "róngguāng-huànfā",
-    "en": "",
-    "vi": ""
+    "vi": "rạng rỡ",
+    "en": ""
   },
   {
     "hanzi": "荣获",
     "pinyin": "rónghuò",
-    "en": "",
-    "vi": ""
+    "vi": "thắng",
+    "en": ""
   },
   {
     "hanzi": "溶解",
     "pinyin": "róngjiě",
-    "en": "",
-    "vi": ""
+    "vi": "hòa tan",
+    "en": ""
   },
   {
     "hanzi": "容貌",
     "pinyin": "róngmào",
-    "en": "",
-    "vi": ""
+    "vi": "vẻ bề ngoài",
+    "en": ""
   },
   {
     "hanzi": "容纳",
     "pinyin": "róngnà",
-    "en": "",
-    "vi": ""
+    "vi": "chứa",
+    "en": ""
   },
   {
     "hanzi": "容器",
     "pinyin": "róngqì",
-    "en": "",
-    "vi": ""
+    "vi": "thùng chứa",
+    "en": ""
   },
   {
     "hanzi": "融洽",
     "pinyin": "róngqià",
-    "en": "",
-    "vi": ""
+    "vi": "mối quan hệ",
+    "en": ""
   },
   {
     "hanzi": "容忍",
     "pinyin": "róngrěn",
-    "en": "",
-    "vi": ""
+    "vi": "tha thứ",
+    "en": ""
   },
   {
     "hanzi": "荣幸",
     "pinyin": "róngxìng",
-    "en": "",
-    "vi": ""
+    "vi": "vinh hạnh",
+    "en": ""
   },
   {
     "hanzi": "容许",
     "pinyin": "róngxǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cho phép",
+    "en": ""
   },
   {
     "hanzi": "容颜",
     "pinyin": "róngyán",
-    "en": "",
-    "vi": ""
+    "vi": "vẻ bề ngoài",
+    "en": ""
   },
   {
     "hanzi": "荣耀",
     "pinyin": "róngyào",
-    "en": "",
-    "vi": ""
+    "vi": "vinh quang",
+    "en": ""
   },
   {
     "hanzi": "融资",
     "pinyin": "róngzī",
-    "en": "",
-    "vi": ""
+    "vi": "Tài chính",
+    "en": ""
   },
   {
     "hanzi": "冗长",
     "pinyin": "rǒngcháng",
-    "en": "",
-    "vi": ""
+    "vi": "dài dòng",
+    "en": ""
   },
   {
     "hanzi": "揉",
     "pinyin": "róu",
-    "en": "",
-    "vi": ""
+    "vi": "chà xát",
+    "en": ""
   },
   {
     "hanzi": "柔和",
     "pinyin": "róuhé",
-    "en": "",
-    "vi": ""
+    "vi": "mềm mại",
+    "en": ""
   },
   {
     "hanzi": "如痴如醉",
     "pinyin": "rúchī-rúzuì",
-    "en": "",
-    "vi": ""
+    "vi": "say",
+    "en": ""
   },
   {
     "hanzi": "如期",
     "pinyin": "rúqī",
-    "en": "",
-    "vi": ""
+    "vi": "đúng tiến độ",
+    "en": ""
   },
   {
     "hanzi": "如实",
     "pinyin": "rúshí",
-    "en": "",
-    "vi": ""
+    "vi": "thực sự",
+    "en": ""
   },
   {
     "hanzi": "如意",
     "pinyin": "rúyì",
-    "en": "",
-    "vi": ""
+    "vi": "Như một người mong muốn",
+    "en": ""
   },
   {
     "hanzi": "如一",
     "pinyin": "rúyī",
-    "en": "",
-    "vi": ""
+    "vi": "Như Ý",
+    "en": ""
   },
   {
     "hanzi": "如愿以偿",
     "pinyin": "rúyuànyǐcháng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhận được mong muốn của bạn",
+    "en": ""
   },
   {
     "hanzi": "乳制品",
     "pinyin": "rǔzhìpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "sản phẩm từ sữa",
+    "en": ""
   },
   {
     "hanzi": "入场",
     "pinyin": "rùchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhập học",
+    "en": ""
   },
   {
     "hanzi": "入场券",
     "pinyin": "rùchǎngquàn",
-    "en": "",
-    "vi": ""
+    "vi": "Vé vào cửa",
+    "en": ""
   },
   {
     "hanzi": "入侵",
     "pinyin": "rùqīn",
-    "en": "",
-    "vi": ""
+    "vi": "Cuộc xâm lược",
+    "en": ""
   },
   {
     "hanzi": "入手",
     "pinyin": "rùshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Nhận nó",
+    "en": ""
   },
   {
     "hanzi": "软弱",
     "pinyin": "ruǎnruò",
-    "en": "",
-    "vi": ""
+    "vi": "yếu đuối",
+    "en": ""
   },
   {
     "hanzi": "软实力",
     "pinyin": "ruǎnshílì",
-    "en": "",
-    "vi": ""
+    "vi": "quyền lực mềm",
+    "en": ""
   },
   {
     "hanzi": "瑞雪",
     "pinyin": "ruìxuě",
-    "en": "",
-    "vi": ""
+    "vi": "Thụy Tuyết",
+    "en": ""
   },
   {
     "hanzi": "润",
     "pinyin": "rùn",
-    "en": "",
-    "vi": ""
+    "vi": "Chạy",
+    "en": ""
   },
   {
     "hanzi": "若",
     "pinyin": "ruò",
-    "en": "",
-    "vi": ""
+    "vi": "giống",
+    "en": ""
   },
   {
     "hanzi": "若干",
     "pinyin": "ruògān",
-    "en": "",
-    "vi": ""
+    "vi": "một số",
+    "en": ""
   },
   {
     "hanzi": "若是",
     "pinyin": "ruòshì",
-    "en": "",
-    "vi": ""
+    "vi": "nếu như",
+    "en": ""
   },
   {
     "hanzi": "弱势",
     "pinyin": "ruòshì",
-    "en": "",
-    "vi": ""
+    "vi": "Yếu đuối",
+    "en": ""
   },
   {
     "hanzi": "弱项",
     "pinyin": "ruòxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Điểm yếu",
+    "en": ""
   },
   {
     "hanzi": "撒",
     "pinyin": "sā",
-    "en": "",
-    "vi": ""
+    "vi": "lây lan",
+    "en": ""
   },
   {
     "hanzi": "撒谎",
     "pinyin": "sāhuǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nói dối",
+    "en": ""
   },
   {
     "hanzi": "赛",
     "pinyin": "sài",
-    "en": "",
-    "vi": ""
+    "vi": "loài ",
+    "en": ""
   },
   {
     "hanzi": "赛车",
     "pinyin": "sàichē",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc đua",
+    "en": ""
   },
   {
     "hanzi": "赛季",
     "pinyin": "sàijì",
-    "en": "",
-    "vi": ""
+    "vi": "mùa",
+    "en": ""
   },
   {
     "hanzi": "赛跑",
     "pinyin": "sàipǎo",
-    "en": "",
-    "vi": ""
+    "vi": "loài ",
+    "en": ""
   },
   {
     "hanzi": "三番五次",
     "pinyin": "sānfān-wǔcì",
-    "en": "",
-    "vi": ""
+    "vi": "hết lần này đến lần khác",
+    "en": ""
   },
   {
     "hanzi": "三角",
     "pinyin": "sānjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "tam giác",
+    "en": ""
   },
   {
     "hanzi": "三维",
     "pinyin": "sānwéi",
-    "en": "",
-    "vi": ""
+    "vi": "ba chiều",
+    "en": ""
   },
   {
     "hanzi": "散布",
     "pinyin": "sànbù",
-    "en": "",
-    "vi": ""
+    "vi": "lây lan",
+    "en": ""
   },
   {
     "hanzi": "散落",
     "pinyin": "sànluò",
-    "en": "",
-    "vi": ""
+    "vi": "rải rác",
+    "en": ""
   },
   {
     "hanzi": "桑拿",
     "pinyin": "sāngná",
-    "en": "",
-    "vi": ""
+    "vi": "tắm hơi",
+    "en": ""
   },
   {
     "hanzi": "嗓音",
     "pinyin": "sǎngyīn",
-    "en": "",
-    "vi": ""
+    "vi": "tiếng nói",
+    "en": ""
   },
   {
     "hanzi": "丧生",
     "pinyin": "sàngshēng",
-    "en": "",
-    "vi": ""
+    "vi": "mất mạng",
+    "en": ""
   },
   {
     "hanzi": "骚乱",
     "pinyin": "sāoluàn",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc náo loạn",
+    "en": ""
   },
   {
     "hanzi": "骚扰",
     "pinyin": "sāorǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Quấy rối",
+    "en": ""
   },
   {
     "hanzi": "扫除",
     "pinyin": "sǎochú",
-    "en": "",
-    "vi": ""
+    "vi": "di dời",
+    "en": ""
   },
   {
     "hanzi": "扫墓",
     "pinyin": "sǎomù",
-    "en": "",
-    "vi": ""
+    "vi": "quét mộ",
+    "en": ""
   },
   {
     "hanzi": "扫兴",
     "pinyin": "sǎoxìng",
-    "en": "",
-    "vi": ""
+    "vi": "đáng thất vọng",
+    "en": ""
   },
   {
     "hanzi": "嫂子",
     "pinyin": "sǎozi",
-    "en": "",
-    "vi": ""
+    "vi": "chị dâu",
+    "en": ""
   },
   {
     "hanzi": "扫帚",
     "pinyin": "sàozhou",
-    "en": "",
-    "vi": ""
+    "vi": "chổi",
+    "en": ""
   },
   {
     "hanzi": "僧人",
     "pinyin": "sēngrén",
-    "en": "",
-    "vi": ""
+    "vi": "nhà sư",
+    "en": ""
   },
   {
     "hanzi": "纱",
     "pinyin": "shā",
-    "en": "",
-    "vi": ""
+    "vi": "sợi",
+    "en": ""
   },
   {
     "hanzi": "杀毒",
     "pinyin": "shādú",
-    "en": "",
-    "vi": ""
+    "vi": "Chống virus",
+    "en": ""
   },
   {
     "hanzi": "杀害",
     "pinyin": "shāhài",
-    "en": "",
-    "vi": ""
+    "vi": "giết",
+    "en": ""
   },
   {
     "hanzi": "沙龙",
     "pinyin": "shālóng",
-    "en": "",
-    "vi": ""
+    "vi": "thẩm mỹ viện",
+    "en": ""
   },
   {
     "hanzi": "杀手",
     "pinyin": "shāshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "kẻ sát nhân",
+    "en": ""
   },
   {
     "hanzi": "沙滩",
     "pinyin": "shātān",
-    "en": "",
-    "vi": ""
+    "vi": "bãi biển",
+    "en": ""
   },
   {
     "hanzi": "傻瓜",
     "pinyin": "shǎguā",
-    "en": "",
-    "vi": ""
+    "vi": "ngu xuẩn",
+    "en": ""
   },
   {
     "hanzi": "筛",
     "pinyin": "shāi",
-    "en": "",
-    "vi": ""
+    "vi": "màn hình",
+    "en": ""
   },
   {
     "hanzi": "筛查",
     "pinyin": "shāichá",
-    "en": "",
-    "vi": ""
+    "vi": "sàng lọc",
+    "en": ""
   },
   {
     "hanzi": "山川",
     "pinyin": "shānchuān",
-    "en": "",
-    "vi": ""
+    "vi": "núi và sông",
+    "en": ""
   },
   {
     "hanzi": "煽动",
     "pinyin": "shāndòng",
-    "en": "",
-    "vi": ""
+    "vi": "xúi giục",
+    "en": ""
   },
   {
     "hanzi": "山谷",
     "pinyin": "shāngǔ",
-    "en": "",
-    "vi": ""
+    "vi": "thung lũng",
+    "en": ""
   },
   {
     "hanzi": "山岭",
     "pinyin": "shānlǐng",
-    "en": "",
-    "vi": ""
+    "vi": "núi",
+    "en": ""
   },
   {
     "hanzi": "山脉",
     "pinyin": "shānmài",
-    "en": "",
-    "vi": ""
+    "vi": "núi",
+    "en": ""
   },
   {
     "hanzi": "山寨",
     "pinyin": "shānzhài",
-    "en": "",
-    "vi": ""
+    "vi": "bắt chước",
+    "en": ""
   },
   {
     "hanzi": "闪烁",
     "pinyin": "shǎnshuò",
-    "en": "",
-    "vi": ""
+    "vi": "nhấp nháy",
+    "en": ""
   },
   {
     "hanzi": "善",
     "pinyin": "shàn",
-    "en": "",
-    "vi": ""
+    "vi": "Tốt",
+    "en": ""
   },
   {
     "hanzi": "膳食",
     "pinyin": "shànshí",
-    "en": "",
-    "vi": ""
+    "vi": "bữa ăn",
+    "en": ""
   },
   {
     "hanzi": "赡养",
     "pinyin": "shànyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "善意",
     "pinyin": "shànyì",
-    "en": "",
-    "vi": ""
+    "vi": "thành thật",
+    "en": ""
   },
   {
     "hanzi": "擅自",
     "pinyin": "shànzì",
-    "en": "",
-    "vi": ""
+    "vi": "trái phép",
+    "en": ""
   },
   {
     "hanzi": "伤脑筋",
     "pinyin": "shāng nǎojīn",
-    "en": "",
-    "vi": ""
+    "vi": "căng thẳng",
+    "en": ""
   },
   {
     "hanzi": "伤残",
     "pinyin": "shāngcán",
-    "en": "",
-    "vi": ""
+    "vi": "tàn tật",
+    "en": ""
   },
   {
     "hanzi": "商贩",
     "pinyin": "shāngfàn",
-    "en": "",
-    "vi": ""
+    "vi": "người bán",
+    "en": ""
   },
   {
     "hanzi": "伤感",
     "pinyin": "shānggǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Buồn",
+    "en": ""
   },
   {
     "hanzi": "商贾",
     "pinyin": "shānggǔ",
-    "en": "",
-    "vi": ""
+    "vi": "thương gia",
+    "en": ""
   },
   {
     "hanzi": "伤痕",
     "pinyin": "shānghén",
-    "en": "",
-    "vi": ""
+    "vi": "vết sẹo",
+    "en": ""
   },
   {
     "hanzi": "商机",
     "pinyin": "shāngjī",
-    "en": "",
-    "vi": ""
+    "vi": "cơ hội kinh doanh",
+    "en": ""
   },
   {
     "hanzi": "伤势",
     "pinyin": "shāngshì",
-    "en": "",
-    "vi": ""
+    "vi": "Chấn thương",
+    "en": ""
   },
   {
     "hanzi": "商讨",
     "pinyin": "shāngtǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bàn luận",
+    "en": ""
   },
   {
     "hanzi": "商议",
     "pinyin": "shāngyì",
-    "en": "",
-    "vi": ""
+    "vi": "bàn luận",
+    "en": ""
   },
   {
     "hanzi": "商用",
     "pinyin": "shāngyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Thuộc về thương mại",
+    "en": ""
   },
   {
     "hanzi": "赏识",
     "pinyin": "shǎngshí",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá cao",
+    "en": ""
   },
   {
     "hanzi": "尚",
     "pinyin": "shàng",
-    "en": "",
-    "vi": ""
+    "vi": "vẫn",
+    "en": ""
   },
   {
     "hanzi": "上半场",
     "pinyin": "shàngbànchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nửa đầu",
+    "en": ""
   },
   {
     "hanzi": "上报",
     "pinyin": "shàngbào",
-    "en": "",
-    "vi": ""
+    "vi": "Báo cáo",
+    "en": ""
   },
   {
     "hanzi": "上层",
     "pinyin": "shàngcéng",
-    "en": "",
-    "vi": ""
+    "vi": "lớp trên",
+    "en": ""
   },
   {
     "hanzi": "上场",
     "pinyin": "shàngchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Lên sân khấu",
+    "en": ""
   },
   {
     "hanzi": "上岗",
     "pinyin": "shànggǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Đảm nhiệm chức vụ",
+    "en": ""
   },
   {
     "hanzi": "上火",
     "pinyin": "shànghuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "tức giận",
+    "en": ""
   },
   {
     "hanzi": "上空",
     "pinyin": "shàngkōng",
-    "en": "",
-    "vi": ""
+    "vi": "trên bầu trời",
+    "en": ""
   },
   {
     "hanzi": "尚且",
     "pinyin": "shàngqiě",
-    "en": "",
-    "vi": ""
+    "vi": "Vẫn",
+    "en": ""
   },
   {
     "hanzi": "上任",
     "pinyin": "shàngrèn",
-    "en": "",
-    "vi": ""
+    "vi": "Nhậm chức",
+    "en": ""
   },
   {
     "hanzi": "上司",
     "pinyin": "shàngsi",
-    "en": "",
-    "vi": ""
+    "vi": "ông chủ",
+    "en": ""
   },
   {
     "hanzi": "上诉",
     "pinyin": "shàngsù",
-    "en": "",
-    "vi": ""
+    "vi": "bắt mắt",
+    "en": ""
   },
   {
     "hanzi": "上调",
     "pinyin": "shàngtiáo",
-    "en": "",
-    "vi": ""
+    "vi": "điều chỉnh lại",
+    "en": ""
   },
   {
     "hanzi": "尚未",
     "pinyin": "shàngwèi",
-    "en": "",
-    "vi": ""
+    "vi": "Chưa",
+    "en": ""
   },
   {
     "hanzi": "上限",
     "pinyin": "shàngxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "giới hạn trên",
+    "en": ""
   },
   {
     "hanzi": "上行",
     "pinyin": "shàngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "Trở lên",
+    "en": ""
   },
   {
     "hanzi": "上演",
     "pinyin": "shàngyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sân khấu",
+    "en": ""
   },
   {
     "hanzi": "上瘾",
     "pinyin": "shàngyǐn",
-    "en": "",
-    "vi": ""
+    "vi": "gây nghiện",
+    "en": ""
   },
   {
     "hanzi": "上映",
     "pinyin": "shàngyìng",
-    "en": "",
-    "vi": ""
+    "vi": "phát hành",
+    "en": ""
   },
   {
     "hanzi": "上游",
     "pinyin": "shàngyóu",
-    "en": "",
-    "vi": ""
+    "vi": "ngược dòng",
+    "en": ""
   },
   {
     "hanzi": "捎",
     "pinyin": "shāo",
-    "en": "",
-    "vi": ""
+    "vi": "mang theo",
+    "en": ""
   },
   {
     "hanzi": "稍后",
     "pinyin": "shāohòu",
-    "en": "",
-    "vi": ""
+    "vi": "sau đó",
+    "en": ""
   },
   {
     "hanzi": "烧毁",
     "pinyin": "shāohuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đốt cháy",
+    "en": ""
   },
   {
     "hanzi": "稍稍",
     "pinyin": "shāoshāo",
-    "en": "",
-    "vi": ""
+    "vi": "nhẹ nhàng",
+    "en": ""
   },
   {
     "hanzi": "少不了",
     "pinyin": "shǎobuliǎo",
-    "en": "",
-    "vi": ""
+    "vi": "không thể thiếu",
+    "en": ""
   },
   {
     "hanzi": "哨",
     "pinyin": "shào",
-    "en": "",
-    "vi": ""
+    "vi": "bưu kiện",
+    "en": ""
   },
   {
     "hanzi": "少女",
     "pinyin": "shàonǚ",
-    "en": "",
-    "vi": ""
+    "vi": "con gái",
+    "en": ""
   },
   {
     "hanzi": "奢侈",
     "pinyin": "shēchǐ",
-    "en": "",
-    "vi": ""
+    "vi": "sang trọng",
+    "en": ""
   },
   {
     "hanzi": "奢望",
     "pinyin": "shēwàng",
-    "en": "",
-    "vi": ""
+    "vi": "hy vọng xa hoa",
+    "en": ""
   },
   {
     "hanzi": "折",
     "pinyin": "shé",
-    "en": "",
-    "vi": ""
+    "vi": "nếp gấp",
+    "en": ""
   },
   {
     "hanzi": "设",
     "pinyin": "shè",
-    "en": "",
-    "vi": ""
+    "vi": "cài đặt",
+    "en": ""
   },
   {
     "hanzi": "设定",
     "pinyin": "shèdìng",
-    "en": "",
-    "vi": ""
+    "vi": "cài đặt",
+    "en": ""
   },
   {
     "hanzi": "设法",
     "pinyin": "shèfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "thử",
+    "en": ""
   },
   {
     "hanzi": "社会主义",
     "pinyin": "shèhuì zhǔyì",
-    "en": "",
-    "vi": ""
+    "vi": "chủ nghĩa xã hội",
+    "en": ""
   },
   {
     "hanzi": "社交",
     "pinyin": "shèjiāo",
-    "en": "",
-    "vi": ""
+    "vi": "liên hệ xã hội",
+    "en": ""
   },
   {
     "hanzi": "涉猎",
     "pinyin": "shèliè",
-    "en": "",
-    "vi": ""
+    "vi": "vọc",
+    "en": ""
   },
   {
     "hanzi": "社团",
     "pinyin": "shètuán",
-    "en": "",
-    "vi": ""
+    "vi": "xã hội",
+    "en": ""
   },
   {
     "hanzi": "涉嫌",
     "pinyin": "shèxián",
-    "en": "",
-    "vi": ""
+    "vi": "bị nghi ngờ",
+    "en": ""
   },
   {
     "hanzi": "深奥",
     "pinyin": "shēn’ào",
-    "en": "",
-    "vi": ""
+    "vi": "sâu",
+    "en": ""
   },
   {
     "hanzi": "申办",
     "pinyin": "shēnbàn",
-    "en": "",
-    "vi": ""
+    "vi": "giá thầu",
+    "en": ""
   },
   {
     "hanzi": "申报",
     "pinyin": "shēnbào",
-    "en": "",
-    "vi": ""
+    "vi": "tuyên bố",
+    "en": ""
   },
   {
     "hanzi": "身不由己",
     "pinyin": "shēnbùyóujǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể tự giúp mình",
+    "en": ""
   },
   {
     "hanzi": "深沉",
     "pinyin": "shēnchén",
-    "en": "",
-    "vi": ""
+    "vi": "sâu",
+    "en": ""
   },
   {
     "hanzi": "深化",
     "pinyin": "shēnhuà",
-    "en": "",
-    "vi": ""
+    "vi": "làm sâu sắc thêm",
+    "en": ""
   },
   {
     "hanzi": "身价",
     "pinyin": "shēnjià",
-    "en": "",
-    "vi": ""
+    "vi": "đáng giá",
+    "en": ""
   },
   {
     "hanzi": "申领",
     "pinyin": "shēnlǐng",
-    "en": "",
-    "vi": ""
+    "vi": "khẳng định",
+    "en": ""
   },
   {
     "hanzi": "深切",
     "pinyin": "shēnqiè",
-    "en": "",
-    "vi": ""
+    "vi": "sâu",
+    "en": ""
   },
   {
     "hanzi": "深情",
     "pinyin": "shēnqíng",
-    "en": "",
-    "vi": ""
+    "vi": "cảm giác sâu sắc",
+    "en": ""
   },
   {
     "hanzi": "深情厚谊",
     "pinyin": "shēnqíng-hòuyì",
-    "en": "",
-    "vi": ""
+    "vi": "Tình bạn sâu sắc",
+    "en": ""
   },
   {
     "hanzi": "身躯",
     "pinyin": "shēnqū",
-    "en": "",
-    "vi": ""
+    "vi": "thân hình",
+    "en": ""
   },
   {
     "hanzi": "深入人心",
     "pinyin": "shēnrù-rénxīn",
-    "en": "",
-    "vi": ""
+    "vi": "ăn sâu vào lòng người",
+    "en": ""
   },
   {
     "hanzi": "绅士",
     "pinyin": "shēnshì",
-    "en": "",
-    "vi": ""
+    "vi": "quý ông",
+    "en": ""
   },
   {
     "hanzi": "伸手",
     "pinyin": "shēnshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp cận",
+    "en": ""
   },
   {
     "hanzi": "深思",
     "pinyin": "shēnsī",
-    "en": "",
-    "vi": ""
+    "vi": "suy nghĩ sâu sắc",
+    "en": ""
   },
   {
     "hanzi": "申诉",
     "pinyin": "shēnsù",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt mắt",
+    "en": ""
   },
   {
     "hanzi": "深邃",
     "pinyin": "shēnsuì",
-    "en": "",
-    "vi": ""
+    "vi": "sâu",
+    "en": ""
   },
   {
     "hanzi": "伸缩",
     "pinyin": "shēnsuō",
-    "en": "",
-    "vi": ""
+    "vi": "kính thiên văn",
+    "en": ""
   },
   {
     "hanzi": "呻吟",
     "pinyin": "shēnyín",
-    "en": "",
-    "vi": ""
+    "vi": "kêu van",
+    "en": ""
   },
   {
     "hanzi": "身影",
     "pinyin": "shēnyǐng",
-    "en": "",
-    "vi": ""
+    "vi": "nhân vật",
+    "en": ""
   },
   {
     "hanzi": "深造",
     "pinyin": "shēnzào",
-    "en": "",
-    "vi": ""
+    "vi": "nghiên cứu thêm",
+    "en": ""
   },
   {
     "hanzi": "伸张",
     "pinyin": "shēnzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "kéo dài",
+    "en": ""
   },
   {
     "hanzi": "身子",
     "pinyin": "shēnzi",
-    "en": "",
-    "vi": ""
+    "vi": "thân hình",
+    "en": ""
   },
   {
     "hanzi": "神气",
     "pinyin": "shénqì",
-    "en": "",
-    "vi": ""
+    "vi": "không khí",
+    "en": ""
   },
   {
     "hanzi": "神情",
     "pinyin": "shénqíng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhìn",
+    "en": ""
   },
   {
     "hanzi": "神圣",
     "pinyin": "shénshèng",
-    "en": "",
-    "vi": ""
+    "vi": "thiêng liêng",
+    "en": ""
   },
   {
     "hanzi": "神态",
     "pinyin": "shéntài",
-    "en": "",
-    "vi": ""
+    "vi": "thái độ",
+    "en": ""
   },
   {
     "hanzi": "神仙",
     "pinyin": "shénxiān",
-    "en": "",
-    "vi": ""
+    "vi": "bất tử",
+    "en": ""
   },
   {
     "hanzi": "审",
     "pinyin": "shěn",
-    "en": "",
-    "vi": ""
+    "vi": "sự thử nghiệm",
+    "en": ""
   },
   {
     "hanzi": "审查",
     "pinyin": "shěnchá",
-    "en": "",
-    "vi": ""
+    "vi": "ôn tập",
+    "en": ""
   },
   {
     "hanzi": "审定",
     "pinyin": "shěndìng",
-    "en": "",
-    "vi": ""
+    "vi": "Sự chấp thuận",
+    "en": ""
   },
   {
     "hanzi": "审核",
     "pinyin": "shěnhé",
-    "en": "",
-    "vi": ""
+    "vi": "ôn tập",
+    "en": ""
   },
   {
     "hanzi": "审计",
     "pinyin": "shěnjì",
-    "en": "",
-    "vi": ""
+    "vi": "kiểm toán",
+    "en": ""
   },
   {
     "hanzi": "审理",
     "pinyin": "shěnlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "sự thử nghiệm",
+    "en": ""
   },
   {
     "hanzi": "审判",
     "pinyin": "shěnpàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự thử nghiệm",
+    "en": ""
   },
   {
     "hanzi": "审批",
     "pinyin": "shěnpī",
-    "en": "",
-    "vi": ""
+    "vi": "Sự chấp thuận",
+    "en": ""
   },
   {
     "hanzi": "审视",
     "pinyin": "shěnshì",
-    "en": "",
-    "vi": ""
+    "vi": "nghiên cứu",
+    "en": ""
   },
   {
     "hanzi": "肾",
     "pinyin": "shèn",
-    "en": "",
-    "vi": ""
+    "vi": "quả thận",
+    "en": ""
   },
   {
     "hanzi": "渗",
     "pinyin": "shèn",
-    "en": "",
-    "vi": ""
+    "vi": "thấm",
+    "en": ""
   },
   {
     "hanzi": "渗透",
     "pinyin": "shèntòu",
-    "en": "",
-    "vi": ""
+    "vi": "sự thâm nhập",
+    "en": ""
   },
   {
     "hanzi": "慎重",
     "pinyin": "shènzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "cẩn thận",
+    "en": ""
   },
   {
     "hanzi": "生产线",
     "pinyin": "shēngchǎnxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "dây chuyền sản xuất",
+    "en": ""
   },
   {
     "hanzi": "声称",
     "pinyin": "shēngchēng",
-    "en": "",
-    "vi": ""
+    "vi": "khẳng định",
+    "en": ""
   },
   {
     "hanzi": "牲畜",
     "pinyin": "shēngchù",
-    "en": "",
-    "vi": ""
+    "vi": "vật nuôi",
+    "en": ""
   },
   {
     "hanzi": "升华",
     "pinyin": "shēnghuá",
-    "en": "",
-    "vi": ""
+    "vi": "sự thăng hoa",
+    "en": ""
   },
   {
     "hanzi": "生机",
     "pinyin": "shēngjī",
-    "en": "",
-    "vi": ""
+    "vi": "sức sống",
+    "en": ""
   },
   {
     "hanzi": "生理",
     "pinyin": "shēnglǐ",
-    "en": "",
-    "vi": ""
+    "vi": "sinh lý",
+    "en": ""
   },
   {
     "hanzi": "声明",
     "pinyin": "shēngmíng",
-    "en": "",
-    "vi": ""
+    "vi": "tuyên bố",
+    "en": ""
   },
   {
     "hanzi": "生命线",
     "pinyin": "shēngmìngxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "dây cứu sinh",
+    "en": ""
   },
   {
     "hanzi": "生怕",
     "pinyin": "shēngpà",
-    "en": "",
-    "vi": ""
+    "vi": "Sợ",
+    "en": ""
   },
   {
     "hanzi": "生平",
     "pinyin": "shēngpíng",
-    "en": "",
-    "vi": ""
+    "vi": "mạng sống",
+    "en": ""
   },
   {
     "hanzi": "生前",
     "pinyin": "shēngqián",
-    "en": "",
-    "vi": ""
+    "vi": "Trước khi chết",
+    "en": ""
   },
   {
     "hanzi": "声势",
     "pinyin": "shēngshì",
-    "en": "",
-    "vi": ""
+    "vi": "Động lực",
+    "en": ""
   },
   {
     "hanzi": "生疏",
     "pinyin": "shēngshū",
-    "en": "",
-    "vi": ""
+    "vi": "gỉ",
+    "en": ""
   },
   {
     "hanzi": "生死",
     "pinyin": "shēngsǐ",
-    "en": "",
-    "vi": ""
+    "vi": "sự sống và cái chết",
+    "en": ""
   },
   {
     "hanzi": "声望",
     "pinyin": "shēngwàng",
-    "en": "",
-    "vi": ""
+    "vi": "uy tín",
+    "en": ""
   },
   {
     "hanzi": "生效",
     "pinyin": "shēngxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Có hiệu lực",
+    "en": ""
   },
   {
     "hanzi": "生涯",
     "pinyin": "shēngyá",
-    "en": "",
-    "vi": ""
+    "vi": "sự nghiệp",
+    "en": ""
   },
   {
     "hanzi": "生硬",
     "pinyin": "shēngyìng",
-    "en": "",
-    "vi": ""
+    "vi": "cứng nhắc",
+    "en": ""
   },
   {
     "hanzi": "生育",
     "pinyin": "shēngyù",
-    "en": "",
-    "vi": ""
+    "vi": "khả năng sinh sản",
+    "en": ""
   },
   {
     "hanzi": "声誉",
     "pinyin": "shēngyù",
-    "en": "",
-    "vi": ""
+    "vi": "danh tiếng",
+    "en": ""
   },
   {
     "hanzi": "升值",
     "pinyin": "shēngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "đánh giá cao",
+    "en": ""
   },
   {
     "hanzi": "绳子",
     "pinyin": "shéngzi",
-    "en": "",
-    "vi": ""
+    "vi": "dây thừng",
+    "en": ""
   },
   {
     "hanzi": "省略",
     "pinyin": "shěnglüè",
-    "en": "",
-    "vi": ""
+    "vi": "Bỏ qua",
+    "en": ""
   },
   {
     "hanzi": "省事",
     "pinyin": "shěngshì",
-    "en": "",
-    "vi": ""
+    "vi": "cứu rắc rối",
+    "en": ""
   },
   {
     "hanzi": "盛产",
     "pinyin": "shèngchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "giàu có",
+    "en": ""
   },
   {
     "hanzi": "胜出",
     "pinyin": "shèngchū",
-    "en": "",
-    "vi": ""
+    "vi": "thắng",
+    "en": ""
   },
   {
     "hanzi": "盛大",
     "pinyin": "shèngdà",
-    "en": "",
-    "vi": ""
+    "vi": "vĩ đại",
+    "en": ""
   },
   {
     "hanzi": "胜负",
     "pinyin": "shèngfù",
-    "en": "",
-    "vi": ""
+    "vi": "Chiến thắng hay thất bại",
+    "en": ""
   },
   {
     "hanzi": "盛会",
     "pinyin": "shènghuì",
-    "en": "",
-    "vi": ""
+    "vi": "sự kiện lớn",
+    "en": ""
   },
   {
     "hanzi": "盛开",
     "pinyin": "shèngkāi",
-    "en": "",
-    "vi": ""
+    "vi": "hoa",
+    "en": ""
   },
   {
     "hanzi": "盛气凌人",
     "pinyin": "shèngqì-língrén",
-    "en": "",
-    "vi": ""
+    "vi": "độc đoán",
+    "en": ""
   },
   {
     "hanzi": "盛情",
     "pinyin": "shèngqíng",
-    "en": "",
-    "vi": ""
+    "vi": "lòng hiếu khách",
+    "en": ""
   },
   {
     "hanzi": "胜任",
     "pinyin": "shèngrèn",
-    "en": "",
-    "vi": ""
+    "vi": "có thẩm quyền",
+    "en": ""
   },
   {
     "hanzi": "盛夏",
     "pinyin": "shèngxià",
-    "en": "",
-    "vi": ""
+    "vi": "giữa hè",
+    "en": ""
   },
   {
     "hanzi": "圣贤",
     "pinyin": "shèngxián",
-    "en": "",
-    "vi": ""
+    "vi": "hiền nhân",
+    "en": ""
   },
   {
     "hanzi": "盛行",
     "pinyin": "shèngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm ưu thế",
+    "en": ""
   },
   {
     "hanzi": "盛宴",
     "pinyin": "shèngyàn",
-    "en": "",
-    "vi": ""
+    "vi": "bữa tiệc",
+    "en": ""
   },
   {
     "hanzi": "失传",
     "pinyin": "shīchuán",
-    "en": "",
-    "vi": ""
+    "vi": "Mất",
+    "en": ""
   },
   {
     "hanzi": "湿地",
     "pinyin": "shīdì",
-    "en": "",
-    "vi": ""
+    "vi": "đất ngập nước",
+    "en": ""
   },
   {
     "hanzi": "师范",
     "pinyin": "shīfàn",
-    "en": "",
-    "vi": ""
+    "vi": "trường học bình thường",
+    "en": ""
   },
   {
     "hanzi": "施工",
     "pinyin": "shīgōng",
-    "en": "",
-    "vi": ""
+    "vi": "sự thi công",
+    "en": ""
   },
   {
     "hanzi": "施加",
     "pinyin": "shījiā",
-    "en": "",
-    "vi": ""
+    "vi": "áp đặt",
+    "en": ""
   },
   {
     "hanzi": "失控",
     "pinyin": "shīkòng",
-    "en": "",
-    "vi": ""
+    "vi": "ngoài tầm kiểm soát",
+    "en": ""
   },
   {
     "hanzi": "失利",
     "pinyin": "shīlì",
-    "en": "",
-    "vi": ""
+    "vi": "sự thất bại",
+    "en": ""
   },
   {
     "hanzi": "失礼",
     "pinyin": "shīlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "bất lịch sự",
+    "en": ""
   },
   {
     "hanzi": "失灵",
     "pinyin": "shīlíng",
-    "en": "",
-    "vi": ""
+    "vi": "Trục trặc",
+    "en": ""
   },
   {
     "hanzi": "失落",
     "pinyin": "shīluò",
-    "en": "",
-    "vi": ""
+    "vi": "mất",
+    "en": ""
   },
   {
     "hanzi": "失明",
     "pinyin": "shīmíng",
-    "en": "",
-    "vi": ""
+    "vi": "mù lòa",
+    "en": ""
   },
   {
     "hanzi": "湿润",
     "pinyin": "shīrùn",
-    "en": "",
-    "vi": ""
+    "vi": "ẩm ướt",
+    "en": ""
   },
   {
     "hanzi": "失事",
     "pinyin": "shīshì",
-    "en": "",
-    "vi": ""
+    "vi": "bị đắm",
+    "en": ""
   },
   {
     "hanzi": "失态",
     "pinyin": "shītài",
-    "en": "",
-    "vi": ""
+    "vi": "hớ hênh",
+    "en": ""
   },
   {
     "hanzi": "尸体",
     "pinyin": "shītǐ",
-    "en": "",
-    "vi": ""
+    "vi": "xác chết",
+    "en": ""
   },
   {
     "hanzi": "失效",
     "pinyin": "shīxiào",
-    "en": "",
-    "vi": ""
+    "vi": "Không hợp lệ",
+    "en": ""
   },
   {
     "hanzi": "施行",
     "pinyin": "shīxíng",
-    "en": "",
-    "vi": ""
+    "vi": "thực hiện",
+    "en": ""
   },
   {
     "hanzi": "施压",
     "pinyin": "shīyā",
-    "en": "",
-    "vi": ""
+    "vi": "gây áp lực",
+    "en": ""
   },
   {
     "hanzi": "施展",
     "pinyin": "shīzhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "dàn diễn viên",
+    "en": ""
   },
   {
     "hanzi": "师长",
     "pinyin": "shīzhǎng",
-    "en": "",
-    "vi": ""
+    "vi": "sư đoàn trưởng",
+    "en": ""
   },
   {
     "hanzi": "师资",
     "pinyin": "shīzī",
-    "en": "",
-    "vi": ""
+    "vi": "giáo viên",
+    "en": ""
   },
   {
     "hanzi": "失踪",
     "pinyin": "shīzōng",
-    "en": "",
-    "vi": ""
+    "vi": "mất tích",
+    "en": ""
   },
   {
     "hanzi": "时隔",
     "pinyin": "shí gé",
-    "en": "",
-    "vi": ""
+    "vi": "thời gian trôi đi",
+    "en": ""
   },
   {
     "hanzi": "时而",
     "pinyin": "shí’ér",
-    "en": "",
-    "vi": ""
+    "vi": "Thỉnh thoảng",
+    "en": ""
   },
   {
     "hanzi": "实地",
     "pinyin": "shídì",
-    "en": "",
-    "vi": ""
+    "vi": "trên mặt đất",
+    "en": ""
   },
   {
     "hanzi": "时段",
     "pinyin": "shíduàn",
-    "en": "",
-    "vi": ""
+    "vi": "khoảng thời gian",
+    "en": ""
   },
   {
     "hanzi": "时好时坏",
     "pinyin": "shíhǎo-shíhuài",
-    "en": "",
-    "vi": ""
+    "vi": "Thời điểm tốt và xấu",
+    "en": ""
   },
   {
     "hanzi": "实话实说",
     "pinyin": "shíhuà-shíshuō",
-    "en": "",
-    "vi": ""
+    "vi": "nói sự thật",
+    "en": ""
   },
   {
     "hanzi": "时节",
     "pinyin": "shíjié",
-    "en": "",
-    "vi": ""
+    "vi": "mùa",
+    "en": ""
   },
   {
     "hanzi": "时空",
     "pinyin": "shíkōng",
-    "en": "",
-    "vi": ""
+    "vi": "thời gian và không gian",
+    "en": ""
   },
   {
     "hanzi": "实况",
     "pinyin": "shíkuàng",
-    "en": "",
-    "vi": ""
+    "vi": "sống",
+    "en": ""
   },
   {
     "hanzi": "时髦",
     "pinyin": "shímáo",
-    "en": "",
-    "vi": ""
+    "vi": "hợp thời trang",
+    "en": ""
   },
   {
     "hanzi": "时时",
     "pinyin": "shíshí",
-    "en": "",
-    "vi": ""
+    "vi": "mọi lúc",
+    "en": ""
   },
   {
     "hanzi": "时事",
     "pinyin": "shíshì",
-    "en": "",
-    "vi": ""
+    "vi": "sự kiện hiện tại",
+    "en": ""
   },
   {
     "hanzi": "实事求是",
     "pinyin": "shíshì-qiúshì",
-    "en": "",
-    "vi": ""
+    "vi": "Tìm kiếm sự thật từ sự thật",
+    "en": ""
   },
   {
     "hanzi": "食宿",
     "pinyin": "shísù",
-    "en": "",
-    "vi": ""
+    "vi": "Thức ăn và chỗ ở",
+    "en": ""
   },
   {
     "hanzi": "实体",
     "pinyin": "shítǐ",
-    "en": "",
-    "vi": ""
+    "vi": "thực thể",
+    "en": ""
   },
   {
     "hanzi": "实物",
     "pinyin": "shíwù",
-    "en": "",
-    "vi": ""
+    "vi": "vật thể",
+    "en": ""
   },
   {
     "hanzi": "时装",
     "pinyin": "shízhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "thời trang",
+    "en": ""
   },
   {
     "hanzi": "屎",
     "pinyin": "shǐ",
-    "en": "",
-    "vi": ""
+    "vi": "chết tiệt",
+    "en": ""
   },
   {
     "hanzi": "使唤",
     "pinyin": "shǐhuan",
-    "en": "",
-    "vi": ""
+    "vi": "xử lý",
+    "en": ""
   },
   {
     "hanzi": "使命",
     "pinyin": "shǐmìng",
-    "en": "",
-    "vi": ""
+    "vi": "Sứ mệnh",
+    "en": ""
   },
   {
     "hanzi": "史无前例",
     "pinyin": "shǐwúqiánlì",
-    "en": "",
-    "vi": ""
+    "vi": "chưa từng có",
+    "en": ""
   },
   {
     "hanzi": "使者",
     "pinyin": "shǐzhě",
-    "en": "",
-    "vi": ""
+    "vi": "tin nhắn",
+    "en": ""
   },
   {
     "hanzi": "势必",
     "pinyin": "shìbì",
-    "en": "",
-    "vi": ""
+    "vi": "ràng buộc với",
+    "en": ""
   },
   {
     "hanzi": "势不可当",
     "pinyin": "shìbùkědāng",
-    "en": "",
-    "vi": ""
+    "vi": "áp đảo",
+    "en": ""
   },
   {
     "hanzi": "视察",
     "pinyin": "shìchá",
-    "en": "",
-    "vi": ""
+    "vi": "điều tra",
+    "en": ""
   },
   {
     "hanzi": "市场经济",
     "pinyin": "shìchǎng jīngjì",
-    "en": "",
-    "vi": ""
+    "vi": "kinh tế thị trường",
+    "en": ""
   },
   {
     "hanzi": "世代",
     "pinyin": "shìdài",
-    "en": "",
-    "vi": ""
+    "vi": "thế hệ",
+    "en": ""
   },
   {
     "hanzi": "试点",
     "pinyin": "shìdiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "phi công",
+    "en": ""
   },
   {
     "hanzi": "是非",
     "pinyin": "shìfēi",
-    "en": "",
-    "vi": ""
+    "vi": "đúng và sai",
+    "en": ""
   },
   {
     "hanzi": "世故",
     "pinyin": "shìgù",
-    "en": "",
-    "vi": ""
+    "vi": "Cầu kì",
+    "en": ""
   },
   {
     "hanzi": "嗜好",
     "pinyin": "shìhào",
-    "en": "",
-    "vi": ""
+    "vi": "sở thích",
+    "en": ""
   },
   {
     "hanzi": "侍候",
     "pinyin": "shìhòu",
-    "en": "",
-    "vi": ""
+    "vi": "phục vụ",
+    "en": ""
   },
   {
     "hanzi": "事迹",
     "pinyin": "shìjì",
-    "en": "",
-    "vi": ""
+    "vi": "Chứng thư",
+    "en": ""
   },
   {
     "hanzi": "世间",
     "pinyin": "shìjiān",
-    "en": "",
-    "vi": ""
+    "vi": "trần tục",
+    "en": ""
   },
   {
     "hanzi": "视角",
     "pinyin": "shìjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "luật xa gần",
+    "en": ""
   },
   {
     "hanzi": "适量",
     "pinyin": "shìliàng",
-    "en": "",
-    "vi": ""
+    "vi": "Số tiền phù hợp",
+    "en": ""
   },
   {
     "hanzi": "士气",
     "pinyin": "shìqì",
-    "en": "",
-    "vi": ""
+    "vi": "tinh thần",
+    "en": ""
   },
   {
     "hanzi": "世人",
     "pinyin": "shìrén",
-    "en": "",
-    "vi": ""
+    "vi": "người thế gian",
+    "en": ""
   },
   {
     "hanzi": "适时",
     "pinyin": "shìshí",
-    "en": "",
-    "vi": ""
+    "vi": "kịp thời",
+    "en": ""
   },
   {
     "hanzi": "逝世",
     "pinyin": "shìshì",
-    "en": "",
-    "vi": ""
+    "vi": "qua đời",
+    "en": ""
   },
   {
     "hanzi": "事态",
     "pinyin": "shìtài",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "试探",
     "pinyin": "shìtan",
-    "en": "",
-    "vi": ""
+    "vi": "Bài kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "势头",
     "pinyin": "shìtou",
-    "en": "",
-    "vi": ""
+    "vi": "đà",
+    "en": ""
   },
   {
     "hanzi": "示威",
     "pinyin": "shìwēi",
-    "en": "",
-    "vi": ""
+    "vi": "Biểu tình",
+    "en": ""
   },
   {
     "hanzi": "事务所",
     "pinyin": "shìwùsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "văn phòng",
+    "en": ""
   },
   {
     "hanzi": "视线",
     "pinyin": "shìxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "thị giác",
+    "en": ""
   },
   {
     "hanzi": "试行",
     "pinyin": "shìxíng",
-    "en": "",
-    "vi": ""
+    "vi": "Sự thử nghiệm",
+    "en": ""
   },
   {
     "hanzi": "视野",
     "pinyin": "shìyě",
-    "en": "",
-    "vi": ""
+    "vi": "tầm nhìn",
+    "en": ""
   },
   {
     "hanzi": "事宜",
     "pinyin": "shìyí",
-    "en": "",
-    "vi": ""
+    "vi": "vấn đề",
+    "en": ""
   },
   {
     "hanzi": "示意",
     "pinyin": "shìyì",
-    "en": "",
-    "vi": ""
+    "vi": "tín hiệu",
+    "en": ""
   },
   {
     "hanzi": "市值",
     "pinyin": "shìzhí",
-    "en": "",
-    "vi": ""
+    "vi": "Giá trị thị trường",
+    "en": ""
   },
   {
     "hanzi": "柿子",
     "pinyin": "shìzi",
-    "en": "",
-    "vi": ""
+    "vi": "quả hồng",
+    "en": ""
   },
   {
     "hanzi": "收复",
     "pinyin": "shōufù",
-    "en": "",
-    "vi": ""
+    "vi": "hồi phục",
+    "en": ""
   },
   {
     "hanzi": "收割",
     "pinyin": "shōugē",
-    "en": "",
-    "vi": ""
+    "vi": "mùa gặt",
+    "en": ""
   },
   {
     "hanzi": "收据",
     "pinyin": "shōujù",
-    "en": "",
-    "vi": ""
+    "vi": "Biên lai",
+    "en": ""
   },
   {
     "hanzi": "收敛",
     "pinyin": "shōuliǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sự hội tụ",
+    "en": ""
   },
   {
     "hanzi": "收留",
     "pinyin": "shōuliú",
-    "en": "",
-    "vi": ""
+    "vi": "đi vào",
+    "en": ""
   },
   {
     "hanzi": "收买",
     "pinyin": "shōumǎi",
-    "en": "",
-    "vi": ""
+    "vi": "mua",
+    "en": ""
   },
   {
     "hanzi": "收视率",
     "pinyin": "shōushìlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "xếp hạng",
+    "en": ""
   },
   {
     "hanzi": "收缩",
     "pinyin": "shōusuō",
-    "en": "",
-    "vi": ""
+    "vi": "co lại",
+    "en": ""
   },
   {
     "hanzi": "收养",
     "pinyin": "shōuyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nhận con nuôi",
+    "en": ""
   },
   {
     "hanzi": "收音机",
     "pinyin": "shōuyīnjī",
-    "en": "",
-    "vi": ""
+    "vi": "radio",
+    "en": ""
   },
   {
     "hanzi": "收支",
     "pinyin": "shōuzhī",
-    "en": "",
-    "vi": ""
+    "vi": "Thu nhập và chi tiêu",
+    "en": ""
   },
   {
     "hanzi": "手册",
     "pinyin": "shǒucè",
-    "en": "",
-    "vi": ""
+    "vi": "thủ công",
+    "en": ""
   },
   {
     "hanzi": "首创",
     "pinyin": "shǒuchuàng",
-    "en": "",
-    "vi": ""
+    "vi": "Đầu tiên",
+    "en": ""
   },
   {
     "hanzi": "手动",
     "pinyin": "shǒudòng",
-    "en": "",
-    "vi": ""
+    "vi": "Thủ công",
+    "en": ""
   },
   {
     "hanzi": "首付",
     "pinyin": "shǒufù",
-    "en": "",
-    "vi": ""
+    "vi": "trả trước",
+    "en": ""
   },
   {
     "hanzi": "首府",
     "pinyin": "shǒufǔ",
-    "en": "",
-    "vi": ""
+    "vi": "thủ đô",
+    "en": ""
   },
   {
     "hanzi": "守候",
     "pinyin": "shǒuhòu",
-    "en": "",
-    "vi": ""
+    "vi": "chờ",
+    "en": ""
   },
   {
     "hanzi": "守护",
     "pinyin": "shǒuhù",
-    "en": "",
-    "vi": ""
+    "vi": "canh gác",
+    "en": ""
   },
   {
     "hanzi": "手脚",
     "pinyin": "shǒujiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "tay và chân",
+    "en": ""
   },
   {
     "hanzi": "首脑",
     "pinyin": "shǒunǎo",
-    "en": "",
-    "vi": ""
+    "vi": "đỉnh cao",
+    "en": ""
   },
   {
     "hanzi": "手帕",
     "pinyin": "shǒupà",
-    "en": "",
-    "vi": ""
+    "vi": "khăn tay",
+    "en": ""
   },
   {
     "hanzi": "首批",
     "pinyin": "shǒupī",
-    "en": "",
-    "vi": ""
+    "vi": "đợt đầu tiên",
+    "en": ""
   },
   {
     "hanzi": "手枪",
     "pinyin": "shǒuqiāng",
-    "en": "",
-    "vi": ""
+    "vi": "súng lục",
+    "en": ""
   },
   {
     "hanzi": "首饰",
     "pinyin": "shǒushì",
-    "en": "",
-    "vi": ""
+    "vi": "trang sức",
+    "en": ""
   },
   {
     "hanzi": "手头",
     "pinyin": "shǒutóu",
-    "en": "",
-    "vi": ""
+    "vi": "trong tay",
+    "en": ""
   },
   {
     "hanzi": "手腕",
     "pinyin": "shǒuwàn",
-    "en": "",
-    "vi": ""
+    "vi": "cổ tay",
+    "en": ""
   },
   {
     "hanzi": "首席",
     "pinyin": "shǒuxí",
-    "en": "",
-    "vi": ""
+    "vi": "người đứng đầu",
+    "en": ""
   },
   {
     "hanzi": "守信",
     "pinyin": "shǒuxìn",
-    "en": "",
-    "vi": ""
+    "vi": "Giữ lời hứa",
+    "en": ""
   },
   {
     "hanzi": "手艺",
     "pinyin": "shǒuyì",
-    "en": "",
-    "vi": ""
+    "vi": "thủ công",
+    "en": ""
   },
   {
     "hanzi": "手掌",
     "pinyin": "shǒuzhǎng",
-    "en": "",
-    "vi": ""
+    "vi": "lòng bàn tay",
+    "en": ""
   },
   {
     "hanzi": "守株待兔",
     "pinyin": "shǒuzhū-dàitù",
-    "en": "",
-    "vi": ""
+    "vi": "chờ xem",
+    "en": ""
   },
   {
     "hanzi": "受宠若惊",
     "pinyin": "shòuchǒng-ruòjīng",
-    "en": "",
-    "vi": ""
+    "vi": "hãnh diện",
+    "en": ""
   },
   {
     "hanzi": "受挫",
     "pinyin": "shòucuò",
-    "en": "",
-    "vi": ""
+    "vi": "bực bội",
+    "en": ""
   },
   {
     "hanzi": "受害",
     "pinyin": "shòuhài",
-    "en": "",
-    "vi": ""
+    "vi": "nạn nhân",
+    "en": ""
   },
   {
     "hanzi": "受害人",
     "pinyin": "shòuhàirén",
-    "en": "",
-    "vi": ""
+    "vi": "nạn nhân",
+    "en": ""
   },
   {
     "hanzi": "受贿",
     "pinyin": "shòuhuì",
-    "en": "",
-    "vi": ""
+    "vi": "hối lộ",
+    "en": ""
   },
   {
     "hanzi": "受惊",
     "pinyin": "shòujīng",
-    "en": "",
-    "vi": ""
+    "vi": "sợ sệt",
+    "en": ""
   },
   {
     "hanzi": "受苦",
     "pinyin": "shòukǔ",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "受理",
     "pinyin": "shòulǐ",
-    "en": "",
-    "vi": ""
+    "vi": "chấp nhận",
+    "en": ""
   },
   {
     "hanzi": "受骗",
     "pinyin": "shòupiàn",
-    "en": "",
-    "vi": ""
+    "vi": "bị lừa dối",
+    "en": ""
   },
   {
     "hanzi": "授权",
     "pinyin": "shòuquán",
-    "en": "",
-    "vi": ""
+    "vi": "Ủy quyền",
+    "en": ""
   },
   {
     "hanzi": "受益",
     "pinyin": "shòuyì",
-    "en": "",
-    "vi": ""
+    "vi": "lợi ích",
+    "en": ""
   },
   {
     "hanzi": "受益匪浅",
     "pinyin": "shòuyì-fěiqiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Được hưởng lợi rất nhiều",
+    "en": ""
   },
   {
     "hanzi": "授予",
     "pinyin": "shòuyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Khoản trợ cấp",
+    "en": ""
   },
   {
     "hanzi": "受罪",
     "pinyin": "shòuzuì",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "梳",
     "pinyin": "shū",
-    "en": "",
-    "vi": ""
+    "vi": "cái lược",
+    "en": ""
   },
   {
     "hanzi": "舒畅",
     "pinyin": "shūchàng",
-    "en": "",
-    "vi": ""
+    "vi": "thoải mái",
+    "en": ""
   },
   {
     "hanzi": "疏导",
     "pinyin": "shūdǎo",
-    "en": "",
-    "vi": ""
+    "vi": "hướng dẫn",
+    "en": ""
   },
   {
     "hanzi": "疏忽",
     "pinyin": "shūhu",
-    "en": "",
-    "vi": ""
+    "vi": "sơ suất",
+    "en": ""
   },
   {
     "hanzi": "书记",
     "pinyin": "shūjì",
-    "en": "",
-    "vi": ""
+    "vi": "thư ký",
+    "en": ""
   },
   {
     "hanzi": "梳理",
     "pinyin": "shūlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "cái lược",
+    "en": ""
   },
   {
     "hanzi": "枢纽",
     "pinyin": "shūniǔ",
-    "en": "",
-    "vi": ""
+    "vi": "trung tâm",
+    "en": ""
   },
   {
     "hanzi": "抒情",
     "pinyin": "shūqíng",
-    "en": "",
-    "vi": ""
+    "vi": "trữ tình",
+    "en": ""
   },
   {
     "hanzi": "疏散",
     "pinyin": "shūsàn",
-    "en": "",
-    "vi": ""
+    "vi": "sơ tán",
+    "en": ""
   },
   {
     "hanzi": "疏通",
     "pinyin": "shūtōng",
-    "en": "",
-    "vi": ""
+    "vi": "nạo vét",
+    "en": ""
   },
   {
     "hanzi": "输血",
     "pinyin": "shūxuè",
-    "en": "",
-    "vi": ""
+    "vi": "truyền máu",
+    "en": ""
   },
   {
     "hanzi": "输液",
     "pinyin": "shūyè",
-    "en": "",
-    "vi": ""
+    "vi": "truyền dịch",
+    "en": ""
   },
   {
     "hanzi": "疏远",
     "pinyin": "shūyuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "xa lánh",
+    "en": ""
   },
   {
     "hanzi": "舒展",
     "pinyin": "shūzhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "kéo dài",
+    "en": ""
   },
   {
     "hanzi": "梳子",
     "pinyin": "shūzi",
-    "en": "",
-    "vi": ""
+    "vi": "cái lược",
+    "en": ""
   },
   {
     "hanzi": "赎",
     "pinyin": "shú",
-    "en": "",
-    "vi": ""
+    "vi": "sự cứu chuộc",
+    "en": ""
   },
   {
     "hanzi": "曙光",
     "pinyin": "shǔguāng",
-    "en": "",
-    "vi": ""
+    "vi": "bình minh",
+    "en": ""
   },
   {
     "hanzi": "属相",
     "pinyin": "shǔxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "dấu hiệu của cung hoàng đạo",
+    "en": ""
   },
   {
     "hanzi": "属性",
     "pinyin": "shǔxìng",
-    "en": "",
-    "vi": ""
+    "vi": "tài sản",
+    "en": ""
   },
   {
     "hanzi": "数一数二",
     "pinyin": "shǔyī-shǔ’èr",
-    "en": "",
-    "vi": ""
+    "vi": "Đếm từ một đến hai",
+    "en": ""
   },
   {
     "hanzi": "数额",
     "pinyin": "shù’é",
-    "en": "",
-    "vi": ""
+    "vi": "Số lượng",
+    "en": ""
   },
   {
     "hanzi": "束缚",
     "pinyin": "shùfù",
-    "en": "",
-    "vi": ""
+    "vi": "sự trói buộc",
+    "en": ""
   },
   {
     "hanzi": "树干",
     "pinyin": "shùgàn",
-    "en": "",
-    "vi": ""
+    "vi": "thân cây",
+    "en": ""
   },
   {
     "hanzi": "数据库",
     "pinyin": "shùjùkù",
-    "en": "",
-    "vi": ""
+    "vi": "cơ sở dữ liệu",
+    "en": ""
   },
   {
     "hanzi": "竖立",
     "pinyin": "shùlì",
-    "en": "",
-    "vi": ""
+    "vi": "dựng lên",
+    "en": ""
   },
   {
     "hanzi": "数码",
     "pinyin": "shùmǎ",
-    "en": "",
-    "vi": ""
+    "vi": "điện tử",
+    "en": ""
   },
   {
     "hanzi": "树梢",
     "pinyin": "shùshāo",
-    "en": "",
-    "vi": ""
+    "vi": "ngọn cây",
+    "en": ""
   },
   {
     "hanzi": "束手无策",
     "pinyin": "shùshǒu-wúcè",
-    "en": "",
-    "vi": ""
+    "vi": "bất lực",
+    "en": ""
   },
   {
     "hanzi": "树荫",
     "pinyin": "shùyīn",
-    "en": "",
-    "vi": ""
+    "vi": "bóng râm",
+    "en": ""
   },
   {
     "hanzi": "刷新",
     "pinyin": "shuāxīn",
-    "en": "",
-    "vi": ""
+    "vi": "làm cho khỏe lại",
+    "en": ""
   },
   {
     "hanzi": "耍",
     "pinyin": "shuǎ",
-    "en": "",
-    "vi": ""
+    "vi": "chơi",
+    "en": ""
   },
   {
     "hanzi": "耍赖",
     "pinyin": "shuǎlài",
-    "en": "",
-    "vi": ""
+    "vi": "Gian lận",
+    "en": ""
   },
   {
     "hanzi": "衰减",
     "pinyin": "shuāijiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy giảm",
+    "en": ""
   },
   {
     "hanzi": "摔跤",
     "pinyin": "shuāijiāo",
-    "en": "",
-    "vi": ""
+    "vi": "đấu vật",
+    "en": ""
   },
   {
     "hanzi": "衰竭",
     "pinyin": "shuāijié",
-    "en": "",
-    "vi": ""
+    "vi": "kiệt sức",
+    "en": ""
   },
   {
     "hanzi": "衰落",
     "pinyin": "shuāiluò",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "衰弱",
     "pinyin": "shuāiruò",
-    "en": "",
-    "vi": ""
+    "vi": "yếu đuối",
+    "en": ""
   },
   {
     "hanzi": "衰退",
     "pinyin": "shuāituì",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "甩",
     "pinyin": "shuǎi",
-    "en": "",
-    "vi": ""
+    "vi": "vứt đi",
+    "en": ""
   },
   {
     "hanzi": "率",
     "pinyin": "shuài",
-    "en": "",
-    "vi": ""
+    "vi": "Tỷ lệ",
+    "en": ""
   },
   {
     "hanzi": "拴",
     "pinyin": "shuān",
-    "en": "",
-    "vi": ""
+    "vi": "cà vạt",
+    "en": ""
   },
   {
     "hanzi": "涮",
     "pinyin": "shuàn",
-    "en": "",
-    "vi": ""
+    "vi": "rửa sạch",
+    "en": ""
   },
   {
     "hanzi": "霜",
     "pinyin": "shuāng",
-    "en": "",
-    "vi": ""
+    "vi": "sương giá",
+    "en": ""
   },
   {
     "hanzi": "双胞胎",
     "pinyin": "shuāngbāotāi",
-    "en": "",
-    "vi": ""
+    "vi": "sinh đôi",
+    "en": ""
   },
   {
     "hanzi": "双边",
     "pinyin": "shuāngbiān",
-    "en": "",
-    "vi": ""
+    "vi": "song phương",
+    "en": ""
   },
   {
     "hanzi": "双重",
     "pinyin": "shuāngchóng",
-    "en": "",
-    "vi": ""
+    "vi": "gấp đôi",
+    "en": ""
   },
   {
     "hanzi": "双向",
     "pinyin": "shuāngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "hai chiều",
+    "en": ""
   },
   {
     "hanzi": "双赢",
     "pinyin": "shuāngyíng",
-    "en": "",
-    "vi": ""
+    "vi": "đôi bên cùng có lợi",
+    "en": ""
   },
   {
     "hanzi": "爽",
     "pinyin": "shuǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Mát mẻ",
+    "en": ""
   },
   {
     "hanzi": "爽快",
     "pinyin": "shuǎngkuai",
-    "en": "",
-    "vi": ""
+    "vi": "dễ dàng",
+    "en": ""
   },
   {
     "hanzi": "水产",
     "pinyin": "shuǐchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Thủy sản",
+    "en": ""
   },
   {
     "hanzi": "水滴石穿",
     "pinyin": "shuǐdī-shíchuān",
-    "en": "",
-    "vi": ""
+    "vi": "Giọt nước thấm vào đá",
+    "en": ""
   },
   {
     "hanzi": "水晶",
     "pinyin": "shuǐjīng",
-    "en": "",
-    "vi": ""
+    "vi": "pha lê",
+    "en": ""
   },
   {
     "hanzi": "水利",
     "pinyin": "shuǐlì",
-    "en": "",
-    "vi": ""
+    "vi": "bảo tồn nước",
+    "en": ""
   },
   {
     "hanzi": "水龙头",
     "pinyin": "shuǐlóngtóu",
-    "en": "",
-    "vi": ""
+    "vi": "Vòi",
+    "en": ""
   },
   {
     "hanzi": "水落石出",
     "pinyin": "shuǐluò-shíchū",
-    "en": "",
-    "vi": ""
+    "vi": "Đi đến tận cùng của mọi thứ",
+    "en": ""
   },
   {
     "hanzi": "水汽",
     "pinyin": "shuǐqì",
-    "en": "",
-    "vi": ""
+    "vi": "hơi nước",
+    "en": ""
   },
   {
     "hanzi": "水土",
     "pinyin": "shuǐtǔ",
-    "en": "",
-    "vi": ""
+    "vi": "nước và đất",
+    "en": ""
   },
   {
     "hanzi": "水域",
     "pinyin": "shuǐyù",
-    "en": "",
-    "vi": ""
+    "vi": "nước",
+    "en": ""
   },
   {
     "hanzi": "水源",
     "pinyin": "shuǐyuán",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn nước",
+    "en": ""
   },
   {
     "hanzi": "水涨船高",
     "pinyin": "shuǐzhǎng-chuángāo",
-    "en": "",
-    "vi": ""
+    "vi": "Thủy triều lên nâng tất cả thuyền lên",
+    "en": ""
   },
   {
     "hanzi": "水准",
     "pinyin": "shuǐzhǔn",
-    "en": "",
-    "vi": ""
+    "vi": "mức độ",
+    "en": ""
   },
   {
     "hanzi": "睡袋",
     "pinyin": "shuìdài",
-    "en": "",
-    "vi": ""
+    "vi": "túi ngủ",
+    "en": ""
   },
   {
     "hanzi": "税收",
     "pinyin": "shuìshōu",
-    "en": "",
-    "vi": ""
+    "vi": "thuế",
+    "en": ""
   },
   {
     "hanzi": "税务",
     "pinyin": "shuìwù",
-    "en": "",
-    "vi": ""
+    "vi": "thuế",
+    "en": ""
   },
   {
     "hanzi": "顺差",
     "pinyin": "shùnchā",
-    "en": "",
-    "vi": ""
+    "vi": "dư thừa",
+    "en": ""
   },
   {
     "hanzi": "顺畅",
     "pinyin": "shùnchàng",
-    "en": "",
-    "vi": ""
+    "vi": "Trơn tru",
+    "en": ""
   },
   {
     "hanzi": "顺从",
     "pinyin": "shùncóng",
-    "en": "",
-    "vi": ""
+    "vi": "sự vâng lời",
+    "en": ""
   },
   {
     "hanzi": "顺理成章",
     "pinyin": "shùnlǐ-chéngzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "một cách logic",
+    "en": ""
   },
   {
     "hanzi": "顺路",
     "pinyin": "shùnlù",
-    "en": "",
-    "vi": ""
+    "vi": "Trên đường đi",
+    "en": ""
   },
   {
     "hanzi": "顺其自然",
     "pinyin": "shùnqízìrán",
-    "en": "",
-    "vi": ""
+    "vi": "hãy để tự nhiên diễn ra",
+    "en": ""
   },
   {
     "hanzi": "顺势",
     "pinyin": "shùnshì",
-    "en": "",
-    "vi": ""
+    "vi": "Theo xu hướng",
+    "en": ""
   },
   {
     "hanzi": "顺手",
     "pinyin": "shùnshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "suôn sẻ",
+    "en": ""
   },
   {
     "hanzi": "顺心",
     "pinyin": "shùnxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Thỏa mãn",
+    "en": ""
   },
   {
     "hanzi": "顺延",
     "pinyin": "shùnyán",
-    "en": "",
-    "vi": ""
+    "vi": "hoãn",
+    "en": ""
   },
   {
     "hanzi": "顺应",
     "pinyin": "shùnyìng",
-    "en": "",
-    "vi": ""
+    "vi": "thích nghi",
+    "en": ""
   },
   {
     "hanzi": "说不上",
     "pinyin": "shuōbushàng",
-    "en": "",
-    "vi": ""
+    "vi": "không thể nói",
+    "en": ""
   },
   {
     "hanzi": "说谎",
     "pinyin": "shuōhuǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nói dối",
+    "en": ""
   },
   {
     "hanzi": "说情",
     "pinyin": "shuōqíng",
-    "en": "",
-    "vi": ""
+    "vi": "cầu thay",
+    "en": ""
   },
   {
     "hanzi": "硕果",
     "pinyin": "shuòguǒ",
-    "en": "",
-    "vi": ""
+    "vi": "có kết quả",
+    "en": ""
   },
   {
     "hanzi": "丝",
     "pinyin": "sī",
-    "en": "",
-    "vi": ""
+    "vi": "lụa",
+    "en": ""
   },
   {
     "hanzi": "撕",
     "pinyin": "sī",
-    "en": "",
-    "vi": ""
+    "vi": "xé",
+    "en": ""
   },
   {
     "hanzi": "丝绸",
     "pinyin": "sīchóu",
-    "en": "",
-    "vi": ""
+    "vi": "lụa",
+    "en": ""
   },
   {
     "hanzi": "司法",
     "pinyin": "sīfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "tư pháp",
+    "en": ""
   },
   {
     "hanzi": "丝毫",
     "pinyin": "sīháo",
-    "en": "",
-    "vi": ""
+    "vi": "nhỏ nhất",
+    "en": ""
   },
   {
     "hanzi": "私家车",
     "pinyin": "sījiāchē",
-    "en": "",
-    "vi": ""
+    "vi": "xe riêng",
+    "en": ""
   },
   {
     "hanzi": "司空见惯",
     "pinyin": "sīkōng-jiànguàn",
-    "en": "",
-    "vi": ""
+    "vi": "chuyện tầm thường",
+    "en": ""
   },
   {
     "hanzi": "私立",
     "pinyin": "sīlì",
-    "en": "",
-    "vi": ""
+    "vi": "riêng tư",
+    "en": ""
   },
   {
     "hanzi": "司令",
     "pinyin": "sīlìng",
-    "en": "",
-    "vi": ""
+    "vi": "người chỉ huy",
+    "en": ""
   },
   {
     "hanzi": "思前想后",
     "pinyin": "sīqián-xiǎnghòu",
-    "en": "",
-    "vi": ""
+    "vi": "Nghĩ trước và sau",
+    "en": ""
   },
   {
     "hanzi": "私事",
     "pinyin": "sīshì",
-    "en": "",
-    "vi": ""
+    "vi": "vấn đề riêng tư",
+    "en": ""
   },
   {
     "hanzi": "思索",
     "pinyin": "sīsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "suy nghĩ",
+    "en": ""
   },
   {
     "hanzi": "私下",
     "pinyin": "sīxià",
-    "en": "",
-    "vi": ""
+    "vi": "ở nơi riêng tư",
+    "en": ""
   },
   {
     "hanzi": "思绪",
     "pinyin": "sīxù",
-    "en": "",
-    "vi": ""
+    "vi": "suy nghĩ",
+    "en": ""
   },
   {
     "hanzi": "私营",
     "pinyin": "sīyíng",
-    "en": "",
-    "vi": ""
+    "vi": "riêng tư",
+    "en": ""
   },
   {
     "hanzi": "私有",
     "pinyin": "sīyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "riêng tư",
+    "en": ""
   },
   {
     "hanzi": "私自",
     "pinyin": "sīzì",
-    "en": "",
-    "vi": ""
+    "vi": "riêng tư",
+    "en": ""
   },
   {
     "hanzi": "死心",
     "pinyin": "sǐxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Bỏ cuộc",
+    "en": ""
   },
   {
     "hanzi": "寺",
     "pinyin": "sì",
-    "en": "",
-    "vi": ""
+    "vi": "ngôi đền",
+    "en": ""
   },
   {
     "hanzi": "似曾相识",
     "pinyin": "sìcéng-xiāngshí",
-    "en": "",
-    "vi": ""
+    "vi": "deja vu",
+    "en": ""
   },
   {
     "hanzi": "四方",
     "pinyin": "sìfāng",
-    "en": "",
-    "vi": ""
+    "vi": "bộ tứ",
+    "en": ""
   },
   {
     "hanzi": "伺机",
     "pinyin": "sìjī",
-    "en": "",
-    "vi": ""
+    "vi": "Chờ đợi một cơ hội",
+    "en": ""
   },
   {
     "hanzi": "饲料",
     "pinyin": "sìliào",
-    "en": "",
-    "vi": ""
+    "vi": "cho ăn",
+    "en": ""
   },
   {
     "hanzi": "四面八方",
     "pinyin": "sìmiàn-bāfāng",
-    "en": "",
-    "vi": ""
+    "vi": "theo mọi hướng",
+    "en": ""
   },
   {
     "hanzi": "寺庙",
     "pinyin": "sìmiào",
-    "en": "",
-    "vi": ""
+    "vi": "ngôi đền",
+    "en": ""
   },
   {
     "hanzi": "似是而非",
     "pinyin": "sìshì-érfēi",
-    "en": "",
-    "vi": ""
+    "vi": "giả tạo",
+    "en": ""
   },
   {
     "hanzi": "四通八达",
     "pinyin": "sìtōng-bādá",
-    "en": "",
-    "vi": ""
+    "vi": "Kết nối mọi hướng",
+    "en": ""
   },
   {
     "hanzi": "肆无忌惮",
     "pinyin": "sìwú-jìdàn",
-    "en": "",
-    "vi": ""
+    "vi": "vô đạo đức",
+    "en": ""
   },
   {
     "hanzi": "饲养",
     "pinyin": "sìyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "cho ăn",
+    "en": ""
   },
   {
     "hanzi": "四肢",
     "pinyin": "sìzhī",
-    "en": "",
-    "vi": ""
+    "vi": "tay chân",
+    "en": ""
   },
   {
     "hanzi": "松弛",
     "pinyin": "sōngchí",
-    "en": "",
-    "vi": ""
+    "vi": "thư giãn",
+    "en": ""
   },
   {
     "hanzi": "松树",
     "pinyin": "sōngshù",
-    "en": "",
-    "vi": ""
+    "vi": "cây thông",
+    "en": ""
   },
   {
     "hanzi": "松懈",
     "pinyin": "sōngxiè",
-    "en": "",
-    "vi": ""
+    "vi": "lười biếng",
+    "en": ""
   },
   {
     "hanzi": "耸",
     "pinyin": "sǒng",
-    "en": "",
-    "vi": ""
+    "vi": "cao chót vót",
+    "en": ""
   },
   {
     "hanzi": "耸立",
     "pinyin": "sǒnglì",
-    "en": "",
-    "vi": ""
+    "vi": "tháp",
+    "en": ""
   },
   {
     "hanzi": "怂恿",
     "pinyin": "sǒngyǒng",
-    "en": "",
-    "vi": ""
+    "vi": "khuyến khích",
+    "en": ""
   },
   {
     "hanzi": "送别",
     "pinyin": "sòngbié",
-    "en": "",
-    "vi": ""
+    "vi": "tạm biệt",
+    "en": ""
   },
   {
     "hanzi": "送行",
     "pinyin": "sòngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "tiễn đi",
+    "en": ""
   },
   {
     "hanzi": "搜查",
     "pinyin": "sōuchá",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "搜救",
     "pinyin": "sōujiù",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm và cứu hộ",
+    "en": ""
   },
   {
     "hanzi": "搜寻",
     "pinyin": "sōuxún",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "酥",
     "pinyin": "sū",
-    "en": "",
-    "vi": ""
+    "vi": "giòn",
+    "en": ""
   },
   {
     "hanzi": "苏醒",
     "pinyin": "sūxǐng",
-    "en": "",
-    "vi": ""
+    "vi": "thức dậy",
+    "en": ""
   },
   {
     "hanzi": "俗",
     "pinyin": "sú",
-    "en": "",
-    "vi": ""
+    "vi": "thô tục",
+    "en": ""
   },
   {
     "hanzi": "俗称",
     "pinyin": "súchēng",
-    "en": "",
-    "vi": ""
+    "vi": "Thường được gọi là",
+    "en": ""
   },
   {
     "hanzi": "俗话",
     "pinyin": "súhuà",
-    "en": "",
-    "vi": ""
+    "vi": "Câu nói thông dụng",
+    "en": ""
   },
   {
     "hanzi": "俗语",
     "pinyin": "súyǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Nói",
+    "en": ""
   },
   {
     "hanzi": "素",
     "pinyin": "sù",
-    "en": "",
-    "vi": ""
+    "vi": "trắng",
+    "en": ""
   },
   {
     "hanzi": "素不相识",
     "pinyin": "sùbùxiāngshí",
-    "en": "",
-    "vi": ""
+    "vi": "người lạ",
+    "en": ""
   },
   {
     "hanzi": "素材",
     "pinyin": "sùcái",
-    "en": "",
-    "vi": ""
+    "vi": "vật liệu",
+    "en": ""
   },
   {
     "hanzi": "诉苦",
     "pinyin": "sùkǔ",
-    "en": "",
-    "vi": ""
+    "vi": "phàn nàn",
+    "en": ""
   },
   {
     "hanzi": "诉求",
     "pinyin": "sùqiú",
-    "en": "",
-    "vi": ""
+    "vi": "yêu cầu",
+    "en": ""
   },
   {
     "hanzi": "素食",
     "pinyin": "sùshí",
-    "en": "",
-    "vi": ""
+    "vi": "ăn chay",
+    "en": ""
   },
   {
     "hanzi": "诉说",
     "pinyin": "sùshuō",
-    "en": "",
-    "vi": ""
+    "vi": "kể",
+    "en": ""
   },
   {
     "hanzi": "诉讼",
     "pinyin": "sùsòng",
-    "en": "",
-    "vi": ""
+    "vi": "kiện tụng",
+    "en": ""
   },
   {
     "hanzi": "素养",
     "pinyin": "sùyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Biết chữ",
+    "en": ""
   },
   {
     "hanzi": "诉诸",
     "pinyin": "sùzhū",
-    "en": "",
-    "vi": ""
+    "vi": "dùng đến",
+    "en": ""
   },
   {
     "hanzi": "蒜",
     "pinyin": "suàn",
-    "en": "",
-    "vi": ""
+    "vi": "tỏi",
+    "en": ""
   },
   {
     "hanzi": "算计",
     "pinyin": "suànjì",
-    "en": "",
-    "vi": ""
+    "vi": "Tính toán",
+    "en": ""
   },
   {
     "hanzi": "算盘",
     "pinyin": "suànpán",
-    "en": "",
-    "vi": ""
+    "vi": "bàn tính",
+    "en": ""
   },
   {
     "hanzi": "算数",
     "pinyin": "suànshù",
-    "en": "",
-    "vi": ""
+    "vi": "đếm",
+    "en": ""
   },
   {
     "hanzi": "算账",
     "pinyin": "suànzhàng",
-    "en": "",
-    "vi": ""
+    "vi": "giải quyết tài khoản",
+    "en": ""
   },
   {
     "hanzi": "虽说",
     "pinyin": "suīshuō",
-    "en": "",
-    "vi": ""
+    "vi": "mặc dù",
+    "en": ""
   },
   {
     "hanzi": "随处可见",
     "pinyin": "suíchù kě jiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Tìm thấy ở khắp mọi nơi",
+    "en": ""
   },
   {
     "hanzi": "随即",
     "pinyin": "suíjí",
-    "en": "",
-    "vi": ""
+    "vi": "ngay lập tức",
+    "en": ""
   },
   {
     "hanzi": "随机",
     "pinyin": "suíjī",
-    "en": "",
-    "vi": ""
+    "vi": "ngẫu nhiên",
+    "en": ""
   },
   {
     "hanzi": "随身",
     "pinyin": "suíshēn",
-    "en": "",
-    "vi": ""
+    "vi": "Mang nó theo bạn",
+    "en": ""
   },
   {
     "hanzi": "随时随地",
     "pinyin": "suíshí-suídì",
-    "en": "",
-    "vi": ""
+    "vi": "mọi lúc, mọi nơi",
+    "en": ""
   },
   {
     "hanzi": "随心所欲",
     "pinyin": "suíxīnsuǒyù",
-    "en": "",
-    "vi": ""
+    "vi": "làm bất cứ điều gì bạn muốn",
+    "en": ""
   },
   {
     "hanzi": "隧道",
     "pinyin": "suìdào",
-    "en": "",
-    "vi": ""
+    "vi": "đường hầm",
+    "en": ""
   },
   {
     "hanzi": "损人利己",
     "pinyin": "sǔnrén-lìjǐ",
-    "en": "",
-    "vi": ""
+    "vi": "mang lại lợi ích cho bản thân bằng sự tổn hại của người khác",
+    "en": ""
   },
   {
     "hanzi": "缩",
     "pinyin": "suō",
-    "en": "",
-    "vi": ""
+    "vi": "co lại",
+    "en": ""
   },
   {
     "hanzi": "缩减",
     "pinyin": "suōjiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "giảm bớt",
+    "en": ""
   },
   {
     "hanzi": "缩水",
     "pinyin": "suōshuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "co lại",
+    "en": ""
   },
   {
     "hanzi": "缩影",
     "pinyin": "suōyǐng",
-    "en": "",
-    "vi": ""
+    "vi": "thu nhỏ",
+    "en": ""
   },
   {
     "hanzi": "锁定",
     "pinyin": "suǒdìng",
-    "en": "",
-    "vi": ""
+    "vi": "khóa",
+    "en": ""
   },
   {
     "hanzi": "索赔",
     "pinyin": "suǒpéi",
-    "en": "",
-    "vi": ""
+    "vi": "khẳng định",
+    "en": ""
   },
   {
     "hanzi": "索取",
     "pinyin": "suǒqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "lời yêu cầu",
+    "en": ""
   },
   {
     "hanzi": "所属",
     "pinyin": "suǒshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Thuộc về",
+    "en": ""
   },
   {
     "hanzi": "琐碎",
     "pinyin": "suǒsuì",
-    "en": "",
-    "vi": ""
+    "vi": "tầm thường",
+    "en": ""
   },
   {
     "hanzi": "所谓",
     "pinyin": "suǒwèi",
-    "en": "",
-    "vi": ""
+    "vi": "cái gọi là",
+    "en": ""
   },
   {
     "hanzi": "索性",
     "pinyin": "suǒxìng",
-    "en": "",
-    "vi": ""
+    "vi": "đơn giản",
+    "en": ""
   },
   {
     "hanzi": "所在",
     "pinyin": "suǒzài",
-    "en": "",
-    "vi": ""
+    "vi": "vị trí",
+    "en": ""
   },
   {
     "hanzi": "所作所为",
     "pinyin": "suǒzuò-suǒwéi",
-    "en": "",
-    "vi": ""
+    "vi": "đang làm",
+    "en": ""
   },
   {
     "hanzi": "塌",
     "pinyin": "tā",
-    "en": "",
-    "vi": ""
+    "vi": "sụp đổ",
+    "en": ""
   },
   {
     "hanzi": "踏",
     "pinyin": "tà",
-    "en": "",
-    "vi": ""
+    "vi": "bước đi",
+    "en": ""
   },
   {
     "hanzi": "胎",
     "pinyin": "tāi",
-    "en": "",
-    "vi": ""
+    "vi": "thai nhi",
+    "en": ""
   },
   {
     "hanzi": "胎儿",
     "pinyin": "tāi’ér",
-    "en": "",
-    "vi": ""
+    "vi": "thai nhi",
+    "en": ""
   },
   {
     "hanzi": "泰斗",
     "pinyin": "tàidǒu",
-    "en": "",
-    "vi": ""
+    "vi": "trưởng khoa",
+    "en": ""
   },
   {
     "hanzi": "太极",
     "pinyin": "tàijí",
-    "en": "",
-    "vi": ""
+    "vi": "Thái cực quyền",
+    "en": ""
   },
   {
     "hanzi": "太平",
     "pinyin": "tàipíng",
-    "en": "",
-    "vi": ""
+    "vi": "hòa bình",
+    "en": ""
   },
   {
     "hanzi": "态势",
     "pinyin": "tàishì",
-    "en": "",
-    "vi": ""
+    "vi": "tình huống",
+    "en": ""
   },
   {
     "hanzi": "贪",
     "pinyin": "tān",
-    "en": "",
-    "vi": ""
+    "vi": "tham",
+    "en": ""
   },
   {
     "hanzi": "摊",
     "pinyin": "tān",
-    "en": "",
-    "vi": ""
+    "vi": "quầy hàng",
+    "en": ""
   },
   {
     "hanzi": "瘫",
     "pinyin": "tān",
-    "en": "",
-    "vi": ""
+    "vi": "Tê liệt",
+    "en": ""
   },
   {
     "hanzi": "贪吃",
     "pinyin": "tānchī",
-    "en": "",
-    "vi": ""
+    "vi": "Tham",
+    "en": ""
   },
   {
     "hanzi": "瘫痪",
     "pinyin": "tānhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự tê liệt",
+    "en": ""
   },
   {
     "hanzi": "贪婪",
     "pinyin": "tānlán",
-    "en": "",
-    "vi": ""
+    "vi": "tham",
+    "en": ""
   },
   {
     "hanzi": "贪污",
     "pinyin": "tānwū",
-    "en": "",
-    "vi": ""
+    "vi": "tham nhũng",
+    "en": ""
   },
   {
     "hanzi": "坛",
     "pinyin": "tán",
-    "en": "",
-    "vi": ""
+    "vi": "bàn thờ",
+    "en": ""
   },
   {
     "hanzi": "痰",
     "pinyin": "tán",
-    "en": "",
-    "vi": ""
+    "vi": "đờm",
+    "en": ""
   },
   {
     "hanzi": "谈及",
     "pinyin": "tánjí",
-    "en": "",
-    "vi": ""
+    "vi": "nói về",
+    "en": ""
   },
   {
     "hanzi": "坦白",
     "pinyin": "tǎnbái",
-    "en": "",
-    "vi": ""
+    "vi": "thẳng thắn",
+    "en": ""
   },
   {
     "hanzi": "坦诚",
     "pinyin": "tǎnchéng",
-    "en": "",
-    "vi": ""
+    "vi": "thẳng thắn",
+    "en": ""
   },
   {
     "hanzi": "坦克",
     "pinyin": "tǎnkè",
-    "en": "",
-    "vi": ""
+    "vi": "xe tăng",
+    "en": ""
   },
   {
     "hanzi": "坦然",
     "pinyin": "tǎnrán",
-    "en": "",
-    "vi": ""
+    "vi": "điềm tĩnh",
+    "en": ""
   },
   {
     "hanzi": "坦率",
     "pinyin": "tǎnshuài",
-    "en": "",
-    "vi": ""
+    "vi": "thẳng thắn",
+    "en": ""
   },
   {
     "hanzi": "坦言",
     "pinyin": "tǎnyán",
-    "en": "",
-    "vi": ""
+    "vi": "Thành thật mà nói",
+    "en": ""
   },
   {
     "hanzi": "毯子",
     "pinyin": "tǎnzi",
-    "en": "",
-    "vi": ""
+    "vi": "cái chăn",
+    "en": ""
   },
   {
     "hanzi": "炭",
     "pinyin": "tàn",
-    "en": "",
-    "vi": ""
+    "vi": "cacbon",
+    "en": ""
   },
   {
     "hanzi": "探",
     "pinyin": "tàn",
-    "en": "",
-    "vi": ""
+    "vi": "khám phá",
+    "en": ""
   },
   {
     "hanzi": "探测",
     "pinyin": "tàncè",
-    "en": "",
-    "vi": ""
+    "vi": "phát hiện",
+    "en": ""
   },
   {
     "hanzi": "探究",
     "pinyin": "tànjiū",
-    "en": "",
-    "vi": ""
+    "vi": "Khám phá",
+    "en": ""
   },
   {
     "hanzi": "叹气",
     "pinyin": "tànqì",
-    "en": "",
-    "vi": ""
+    "vi": "thở dài",
+    "en": ""
   },
   {
     "hanzi": "探亲",
     "pinyin": "tànqīn",
-    "en": "",
-    "vi": ""
+    "vi": "Thăm người thân",
+    "en": ""
   },
   {
     "hanzi": "探求",
     "pinyin": "tànqiú",
-    "en": "",
-    "vi": ""
+    "vi": "khám phá",
+    "en": ""
   },
   {
     "hanzi": "探望",
     "pinyin": "tànwàng",
-    "en": "",
-    "vi": ""
+    "vi": "thăm nom",
+    "en": ""
   },
   {
     "hanzi": "探险",
     "pinyin": "tànxiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc phiêu lưu",
+    "en": ""
   },
   {
     "hanzi": "堂",
     "pinyin": "táng",
-    "en": "",
-    "vi": ""
+    "vi": "sảnh",
+    "en": ""
   },
   {
     "hanzi": "糖尿病",
     "pinyin": "tángniàobìng",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh tiểu đường",
+    "en": ""
   },
   {
     "hanzi": "淌",
     "pinyin": "tǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nhỏ giọt",
+    "en": ""
   },
   {
     "hanzi": "倘若",
     "pinyin": "tǎngruò",
-    "en": "",
-    "vi": ""
+    "vi": "nếu như",
+    "en": ""
   },
   {
     "hanzi": "掏腰包",
     "pinyin": "tāo yāobāo",
-    "en": "",
-    "vi": ""
+    "vi": "đào sâu vào túi của bạn",
+    "en": ""
   },
   {
     "hanzi": "滔滔不绝",
     "pinyin": "tāotāo-bùjué",
-    "en": "",
-    "vi": ""
+    "vi": "phun trào",
+    "en": ""
   },
   {
     "hanzi": "淘",
     "pinyin": "táo",
-    "en": "",
-    "vi": ""
+    "vi": "Tao",
+    "en": ""
   },
   {
     "hanzi": "逃避",
     "pinyin": "táobì",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ trốn",
+    "en": ""
   },
   {
     "hanzi": "陶瓷",
     "pinyin": "táocí",
-    "en": "",
-    "vi": ""
+    "vi": "gốm sứ",
+    "en": ""
   },
   {
     "hanzi": "逃生",
     "pinyin": "táoshēng",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ trốn",
+    "en": ""
   },
   {
     "hanzi": "逃亡",
     "pinyin": "táowáng",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ trốn",
+    "en": ""
   },
   {
     "hanzi": "陶冶",
     "pinyin": "táoyě",
-    "en": "",
-    "vi": ""
+    "vi": "khuôn",
+    "en": ""
   },
   {
     "hanzi": "陶醉",
     "pinyin": "táozuì",
-    "en": "",
-    "vi": ""
+    "vi": "vui chơi",
+    "en": ""
   },
   {
     "hanzi": "讨",
     "pinyin": "tǎo",
-    "en": "",
-    "vi": ""
+    "vi": "bàn luận",
+    "en": ""
   },
   {
     "hanzi": "讨好",
     "pinyin": "tǎohǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Xin vui lòng",
+    "en": ""
   },
   {
     "hanzi": "讨价还价",
     "pinyin": "tǎojià-huánjià",
-    "en": "",
-    "vi": ""
+    "vi": "mặc cả",
+    "en": ""
   },
   {
     "hanzi": "特此",
     "pinyin": "tècǐ",
-    "en": "",
-    "vi": ""
+    "vi": "bằng cách này",
+    "en": ""
   },
   {
     "hanzi": "特例",
     "pinyin": "tèlì",
-    "en": "",
-    "vi": ""
+    "vi": "trường hợp đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "特权",
     "pinyin": "tèquán",
-    "en": "",
-    "vi": ""
+    "vi": "đặc quyền",
+    "en": ""
   },
   {
     "hanzi": "特邀",
     "pinyin": "tèyāo",
-    "en": "",
-    "vi": ""
+    "vi": "Lời mời đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "特制",
     "pinyin": "tèzhì",
-    "en": "",
-    "vi": ""
+    "vi": "đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "特质",
     "pinyin": "tèzhì",
-    "en": "",
-    "vi": ""
+    "vi": "đặc điểm",
+    "en": ""
   },
   {
     "hanzi": "腾",
     "pinyin": "téng",
-    "en": "",
-    "vi": ""
+    "vi": "Đằng",
+    "en": ""
   },
   {
     "hanzi": "疼爱",
     "pinyin": "téngài",
-    "en": "",
-    "vi": ""
+    "vi": "yêu",
+    "en": ""
   },
   {
     "hanzi": "藤蔓",
     "pinyin": "téngwàn",
-    "en": "",
-    "vi": ""
+    "vi": "cây nho",
+    "en": ""
   },
   {
     "hanzi": "剔除",
     "pinyin": "tīchú",
-    "en": "",
-    "vi": ""
+    "vi": "loại bỏ",
+    "en": ""
   },
   {
     "hanzi": "梯子",
     "pinyin": "tīzi",
-    "en": "",
-    "vi": ""
+    "vi": "thang",
+    "en": ""
   },
   {
     "hanzi": "提拔",
     "pinyin": "tíbá",
-    "en": "",
-    "vi": ""
+    "vi": "thăng chức",
+    "en": ""
   },
   {
     "hanzi": "提纲",
     "pinyin": "tígāng",
-    "en": "",
-    "vi": ""
+    "vi": "phác thảo",
+    "en": ""
   },
   {
     "hanzi": "提及",
     "pinyin": "tíjí",
-    "en": "",
-    "vi": ""
+    "vi": "đề cập đến",
+    "en": ""
   },
   {
     "hanzi": "提炼",
     "pinyin": "tíliàn",
-    "en": "",
-    "vi": ""
+    "vi": "tinh chế",
+    "en": ""
   },
   {
     "hanzi": "提名",
     "pinyin": "tímíng",
-    "en": "",
-    "vi": ""
+    "vi": "đề cử",
+    "en": ""
   },
   {
     "hanzi": "提速",
     "pinyin": "tísù",
-    "en": "",
-    "vi": ""
+    "vi": "tăng tốc",
+    "en": ""
   },
   {
     "hanzi": "提心吊胆",
     "pinyin": "tíxīn-diàodǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Trên lều",
+    "en": ""
   },
   {
     "hanzi": "提议",
     "pinyin": "tíyì",
-    "en": "",
-    "vi": ""
+    "vi": "đề xuất",
+    "en": ""
   },
   {
     "hanzi": "体裁",
     "pinyin": "tǐcái",
-    "en": "",
-    "vi": ""
+    "vi": "thể loại",
+    "en": ""
   },
   {
     "hanzi": "体谅",
     "pinyin": "tǐliàng",
-    "en": "",
-    "vi": ""
+    "vi": "ân cần",
+    "en": ""
   },
   {
     "hanzi": "体面",
     "pinyin": "tǐmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tử tế",
+    "en": ""
   },
   {
     "hanzi": "体能",
     "pinyin": "tǐnéng",
-    "en": "",
-    "vi": ""
+    "vi": "thể lực",
+    "en": ""
   },
   {
     "hanzi": "体魄",
     "pinyin": "tǐpò",
-    "en": "",
-    "vi": ""
+    "vi": "vóc dáng",
+    "en": ""
   },
   {
     "hanzi": "体态",
     "pinyin": "tǐtài",
-    "en": "",
-    "vi": ""
+    "vi": "tư thế",
+    "en": ""
   },
   {
     "hanzi": "体贴",
     "pinyin": "tǐtiē",
-    "en": "",
-    "vi": ""
+    "vi": "ân cần",
+    "en": ""
   },
   {
     "hanzi": "体制",
     "pinyin": "tǐzhì",
-    "en": "",
-    "vi": ""
+    "vi": "hệ thống",
+    "en": ""
   },
   {
     "hanzi": "体质",
     "pinyin": "tǐzhì",
-    "en": "",
-    "vi": ""
+    "vi": "cấu tạo",
+    "en": ""
   },
   {
     "hanzi": "剃",
     "pinyin": "tì",
-    "en": "",
-    "vi": ""
+    "vi": "cạo râu",
+    "en": ""
   },
   {
     "hanzi": "替补",
     "pinyin": "tìbǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Thay thế",
+    "en": ""
   },
   {
     "hanzi": "替换",
     "pinyin": "tìhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "thay thế",
+    "en": ""
   },
   {
     "hanzi": "天长地久",
     "pinyin": "tiāncháng-dìjiǔ",
-    "en": "",
-    "vi": ""
+    "vi": "mãi mãi",
+    "en": ""
   },
   {
     "hanzi": "天敌",
     "pinyin": "tiāndí",
-    "en": "",
-    "vi": ""
+    "vi": "thiên địch",
+    "en": ""
   },
   {
     "hanzi": "天地",
     "pinyin": "tiāndì",
-    "en": "",
-    "vi": ""
+    "vi": "thế giới",
+    "en": ""
   },
   {
     "hanzi": "天鹅",
     "pinyin": "tiān’é",
-    "en": "",
-    "vi": ""
+    "vi": "thiên nga",
+    "en": ""
   },
   {
     "hanzi": "天分",
     "pinyin": "tiānfèn",
-    "en": "",
-    "vi": ""
+    "vi": "Tài năng",
+    "en": ""
   },
   {
     "hanzi": "天赋",
     "pinyin": "tiānfù",
-    "en": "",
-    "vi": ""
+    "vi": "tài năng",
+    "en": ""
   },
   {
     "hanzi": "天花板",
     "pinyin": "tiānhuābǎn",
-    "en": "",
-    "vi": ""
+    "vi": "trần nhà",
+    "en": ""
   },
   {
     "hanzi": "添加剂",
     "pinyin": "tiānjiājì",
-    "en": "",
-    "vi": ""
+    "vi": "phụ gia",
+    "en": ""
   },
   {
     "hanzi": "天经地义",
     "pinyin": "tiānjīng-dìyì",
-    "en": "",
-    "vi": ""
+    "vi": "Đó là điều tự nhiên",
+    "en": ""
   },
   {
     "hanzi": "天伦之乐",
     "pinyin": "tiānlúnzhīlè",
-    "en": "",
-    "vi": ""
+    "vi": "Hạnh phúc gia đình",
+    "en": ""
   },
   {
     "hanzi": "天平",
     "pinyin": "tiānpíng",
-    "en": "",
-    "vi": ""
+    "vi": "THĂNG BẰNG",
+    "en": ""
   },
   {
     "hanzi": "天桥",
     "pinyin": "tiānqiáo",
-    "en": "",
-    "vi": ""
+    "vi": "Cầu vượt",
+    "en": ""
   },
   {
     "hanzi": "天生",
     "pinyin": "tiānshēng",
-    "en": "",
-    "vi": ""
+    "vi": "sinh",
+    "en": ""
   },
   {
     "hanzi": "天使",
     "pinyin": "tiānshǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Thiên thần",
+    "en": ""
   },
   {
     "hanzi": "天堂",
     "pinyin": "tiāntáng",
-    "en": "",
-    "vi": ""
+    "vi": "Thiên đường",
+    "en": ""
   },
   {
     "hanzi": "天线",
     "pinyin": "tiānxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "ăng-ten",
+    "en": ""
   },
   {
     "hanzi": "天性",
     "pinyin": "tiānxìng",
-    "en": "",
-    "vi": ""
+    "vi": "thiên nhiên",
+    "en": ""
   },
   {
     "hanzi": "填补",
     "pinyin": "tiánbǔ",
-    "en": "",
-    "vi": ""
+    "vi": "đổ đầy",
+    "en": ""
   },
   {
     "hanzi": "填充",
     "pinyin": "tiánchōng",
-    "en": "",
-    "vi": ""
+    "vi": "điền vào",
+    "en": ""
   },
   {
     "hanzi": "田间",
     "pinyin": "tiánjiān",
-    "en": "",
-    "vi": ""
+    "vi": "cánh đồng",
+    "en": ""
   },
   {
     "hanzi": "甜美",
     "pinyin": "tiánměi",
-    "en": "",
-    "vi": ""
+    "vi": "ngọt ",
+    "en": ""
   },
   {
     "hanzi": "甜蜜",
     "pinyin": "tiánmì",
-    "en": "",
-    "vi": ""
+    "vi": "ngọt ",
+    "en": ""
   },
   {
     "hanzi": "田野",
     "pinyin": "tiányě",
-    "en": "",
-    "vi": ""
+    "vi": "cánh đồng",
+    "en": ""
   },
   {
     "hanzi": "田园",
     "pinyin": "tiányuán",
-    "en": "",
-    "vi": ""
+    "vi": "nông thôn",
+    "en": ""
   },
   {
     "hanzi": "舔",
     "pinyin": "tiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "liếm",
+    "en": ""
   },
   {
     "hanzi": "挑剔",
     "pinyin": "tiāoti",
-    "en": "",
-    "vi": ""
+    "vi": "kén chọn",
+    "en": ""
   },
   {
     "hanzi": "调和",
     "pinyin": "tiáohé",
-    "en": "",
-    "vi": ""
+    "vi": "hòa giải",
+    "en": ""
   },
   {
     "hanzi": "调剂",
     "pinyin": "tiáojì",
-    "en": "",
-    "vi": ""
+    "vi": "điều chỉnh",
+    "en": ""
   },
   {
     "hanzi": "调解",
     "pinyin": "tiáojiě",
-    "en": "",
-    "vi": ""
+    "vi": "trung gian",
+    "en": ""
   },
   {
     "hanzi": "调侃",
     "pinyin": "tiáokǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chế giễu",
+    "en": ""
   },
   {
     "hanzi": "调控",
     "pinyin": "tiáokòng",
-    "en": "",
-    "vi": ""
+    "vi": "điều khiển",
+    "en": ""
   },
   {
     "hanzi": "条款",
     "pinyin": "tiáokuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Điều khoản",
+    "en": ""
   },
   {
     "hanzi": "条例",
     "pinyin": "tiáolì",
-    "en": "",
-    "vi": ""
+    "vi": "quy định",
+    "en": ""
   },
   {
     "hanzi": "条理",
     "pinyin": "tiáolǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Được tổ chức",
+    "en": ""
   },
   {
     "hanzi": "调料",
     "pinyin": "tiáoliào",
-    "en": "",
-    "vi": ""
+    "vi": "gia vị",
+    "en": ""
   },
   {
     "hanzi": "调试",
     "pinyin": "tiáoshì",
-    "en": "",
-    "vi": ""
+    "vi": "gỡ lỗi",
+    "en": ""
   },
   {
     "hanzi": "条约",
     "pinyin": "tiáoyuē",
-    "en": "",
-    "vi": ""
+    "vi": "hiệp ước",
+    "en": ""
   },
   {
     "hanzi": "挑",
     "pinyin": "tiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "nhặt",
+    "en": ""
   },
   {
     "hanzi": "挑拨",
     "pinyin": "tiǎobō",
-    "en": "",
-    "vi": ""
+    "vi": "chơi đùa",
+    "en": ""
   },
   {
     "hanzi": "挑衅",
     "pinyin": "tiǎoxìn",
-    "en": "",
-    "vi": ""
+    "vi": "khiêu khích",
+    "en": ""
   },
   {
     "hanzi": "跳槽",
     "pinyin": "tiàocáo",
-    "en": "",
-    "vi": ""
+    "vi": "Nhảy việc",
+    "en": ""
   },
   {
     "hanzi": "跳动",
     "pinyin": "tiàodòng",
-    "en": "",
-    "vi": ""
+    "vi": "tiết tấu",
+    "en": ""
   },
   {
     "hanzi": "跳伞",
     "pinyin": "tiàosǎn",
-    "en": "",
-    "vi": ""
+    "vi": "dù",
+    "en": ""
   },
   {
     "hanzi": "眺望",
     "pinyin": "tiàowàng",
-    "en": "",
-    "vi": ""
+    "vi": "bỏ qua",
+    "en": ""
   },
   {
     "hanzi": "跳跃",
     "pinyin": "tiàoyuè",
-    "en": "",
-    "vi": ""
+    "vi": "nhảy",
+    "en": ""
   },
   {
     "hanzi": "贴切",
     "pinyin": "tiēqiè",
-    "en": "",
-    "vi": ""
+    "vi": "phù hợp",
+    "en": ""
   },
   {
     "hanzi": "铁",
     "pinyin": "tiě",
-    "en": "",
-    "vi": ""
+    "vi": "sắt",
+    "en": ""
   },
   {
     "hanzi": "帖子",
     "pinyin": "tiězi",
-    "en": "",
-    "vi": ""
+    "vi": "Bưu kiện",
+    "en": ""
   },
   {
     "hanzi": "听从",
     "pinyin": "tīngcóng",
-    "en": "",
-    "vi": ""
+    "vi": "tuân theo",
+    "en": ""
   },
   {
     "hanzi": "停泊",
     "pinyin": "tíngbó",
-    "en": "",
-    "vi": ""
+    "vi": "neo đậu",
+    "en": ""
   },
   {
     "hanzi": "停顿",
     "pinyin": "tíngdùn",
-    "en": "",
-    "vi": ""
+    "vi": "tạm dừng",
+    "en": ""
   },
   {
     "hanzi": "停放",
     "pinyin": "tíngfàng",
-    "en": "",
-    "vi": ""
+    "vi": "công viên",
+    "en": ""
   },
   {
     "hanzi": "停业",
     "pinyin": "tíngyè",
-    "en": "",
-    "vi": ""
+    "vi": "Cấm",
+    "en": ""
   },
   {
     "hanzi": "停滞",
     "pinyin": "tíngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "sự trì trệ",
+    "en": ""
   },
   {
     "hanzi": "亭子",
     "pinyin": "tíngzi",
-    "en": "",
-    "vi": ""
+    "vi": "gian hàng",
+    "en": ""
   },
   {
     "hanzi": "挺拔",
     "pinyin": "tǐngbá",
-    "en": "",
-    "vi": ""
+    "vi": "cao và thẳng",
+    "en": ""
   },
   {
     "hanzi": "通报",
     "pinyin": "tōngbào",
-    "en": "",
-    "vi": ""
+    "vi": "thông báo",
+    "en": ""
   },
   {
     "hanzi": "通畅",
     "pinyin": "tōngchàng",
-    "en": "",
-    "vi": ""
+    "vi": "không bị cản trở",
+    "en": ""
   },
   {
     "hanzi": "通车",
     "pinyin": "tōngchē",
-    "en": "",
-    "vi": ""
+    "vi": "Mở cửa cho giao thông",
+    "en": ""
   },
   {
     "hanzi": "通告",
     "pinyin": "tōnggào",
-    "en": "",
-    "vi": ""
+    "vi": "để ý",
+    "en": ""
   },
   {
     "hanzi": "通红",
     "pinyin": "tōnghóng",
-    "en": "",
-    "vi": ""
+    "vi": "màu đỏ",
+    "en": ""
   },
   {
     "hanzi": "通货膨胀",
     "pinyin": "tōnghuò péngzhàng",
-    "en": "",
-    "vi": ""
+    "vi": "lạm phát",
+    "en": ""
   },
   {
     "hanzi": "通缉",
     "pinyin": "tōngjī",
-    "en": "",
-    "vi": ""
+    "vi": "muốn",
+    "en": ""
   },
   {
     "hanzi": "通顺",
     "pinyin": "tōngshùn",
-    "en": "",
-    "vi": ""
+    "vi": "trơn tru",
+    "en": ""
   },
   {
     "hanzi": "通俗",
     "pinyin": "tōngsú",
-    "en": "",
-    "vi": ""
+    "vi": "phổ biến",
+    "en": ""
   },
   {
     "hanzi": "通通",
     "pinyin": "tōngtōng",
-    "en": "",
-    "vi": ""
+    "vi": "tất cả",
+    "en": ""
   },
   {
     "hanzi": "通宵",
     "pinyin": "tōngxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "qua đêm",
+    "en": ""
   },
   {
     "hanzi": "同胞",
     "pinyin": "tóngbāo",
-    "en": "",
-    "vi": ""
+    "vi": "đồng bào",
+    "en": ""
   },
   {
     "hanzi": "同比",
     "pinyin": "tóngbǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Hàng năm",
+    "en": ""
   },
   {
     "hanzi": "同步",
     "pinyin": "tóngbù",
-    "en": "",
-    "vi": ""
+    "vi": "đồng bộ",
+    "en": ""
   },
   {
     "hanzi": "同等",
     "pinyin": "tóngděng",
-    "en": "",
-    "vi": ""
+    "vi": "Bình đẳng",
+    "en": ""
   },
   {
     "hanzi": "同感",
     "pinyin": "tónggǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Sự đồng cảm",
+    "en": ""
   },
   {
     "hanzi": "同伙",
     "pinyin": "tónghuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "đồng lõa",
+    "en": ""
   },
   {
     "hanzi": "同盟",
     "pinyin": "tóngméng",
-    "en": "",
-    "vi": ""
+    "vi": "liên minh",
+    "en": ""
   },
   {
     "hanzi": "同期",
     "pinyin": "tóngqī",
-    "en": "",
-    "vi": ""
+    "vi": "cùng kỳ",
+    "en": ""
   },
   {
     "hanzi": "同仁",
     "pinyin": "tóngrén",
-    "en": "",
-    "vi": ""
+    "vi": "Đồng nghiệp",
+    "en": ""
   },
   {
     "hanzi": "同志",
     "pinyin": "tóngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "đồng chí",
+    "en": ""
   },
   {
     "hanzi": "同舟共济",
     "pinyin": "tóngzhōu-gòngjì",
-    "en": "",
-    "vi": ""
+    "vi": "Chúng ta đang ở trên cùng một chiếc thuyền",
+    "en": ""
   },
   {
     "hanzi": "捅",
     "pinyin": "tǒng",
-    "en": "",
-    "vi": ""
+    "vi": "xô",
+    "en": ""
   },
   {
     "hanzi": "筒",
     "pinyin": "tǒng",
-    "en": "",
-    "vi": ""
+    "vi": "xi lanh",
+    "en": ""
   },
   {
     "hanzi": "统筹",
     "pinyin": "tǒngchóu",
-    "en": "",
-    "vi": ""
+    "vi": "quy hoạch tổng thể",
+    "en": ""
   },
   {
     "hanzi": "统统",
     "pinyin": "tǒngtǒng",
-    "en": "",
-    "vi": ""
+    "vi": "tất cả",
+    "en": ""
   },
   {
     "hanzi": "统治",
     "pinyin": "tǒngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "luật lệ",
+    "en": ""
   },
   {
     "hanzi": "痛心",
     "pinyin": "tòngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Buồn",
+    "en": ""
   },
   {
     "hanzi": "偷窥",
     "pinyin": "tōukuī",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn trộm",
+    "en": ""
   },
   {
     "hanzi": "偷懒",
     "pinyin": "tōulǎn",
-    "en": "",
-    "vi": ""
+    "vi": "lười biếng",
+    "en": ""
   },
   {
     "hanzi": "投奔",
     "pinyin": "tóubèn",
-    "en": "",
-    "vi": ""
+    "vi": "khiếm khuyết",
+    "en": ""
   },
   {
     "hanzi": "投放",
     "pinyin": "tóufàng",
-    "en": "",
-    "vi": ""
+    "vi": "Địa điểm",
+    "en": ""
   },
   {
     "hanzi": "投稿",
     "pinyin": "tóugǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Đóng góp",
+    "en": ""
   },
   {
     "hanzi": "头号",
     "pinyin": "tóuhào",
-    "en": "",
-    "vi": ""
+    "vi": "số một",
+    "en": ""
   },
   {
     "hanzi": "投机",
     "pinyin": "tóujī",
-    "en": "",
-    "vi": ""
+    "vi": "suy đoán",
+    "en": ""
   },
   {
     "hanzi": "投射",
     "pinyin": "tóushè",
-    "en": "",
-    "vi": ""
+    "vi": "phép chiếu",
+    "en": ""
   },
   {
     "hanzi": "投身",
     "pinyin": "tóushēn",
-    "en": "",
-    "vi": ""
+    "vi": "cống hiến hết mình cho",
+    "en": ""
   },
   {
     "hanzi": "头条",
     "pinyin": "tóutiáo",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu đề",
+    "en": ""
   },
   {
     "hanzi": "头头是道",
     "pinyin": "tóutóu-shìdào",
-    "en": "",
-    "vi": ""
+    "vi": "rõ ràng và hợp lý",
+    "en": ""
   },
   {
     "hanzi": "头衔",
     "pinyin": "tóuxián",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu đề",
+    "en": ""
   },
   {
     "hanzi": "投降",
     "pinyin": "tóuxiáng",
-    "en": "",
-    "vi": ""
+    "vi": "đầu hàng",
+    "en": ""
   },
   {
     "hanzi": "投掷",
     "pinyin": "tóuzhì",
-    "en": "",
-    "vi": ""
+    "vi": "ném",
+    "en": ""
   },
   {
     "hanzi": "透彻",
     "pinyin": "tòuchè",
-    "en": "",
-    "vi": ""
+    "vi": "kỹ lưỡng",
+    "en": ""
   },
   {
     "hanzi": "透气",
     "pinyin": "tòuqì",
-    "en": "",
-    "vi": ""
+    "vi": "Thoáng khí",
+    "en": ""
   },
   {
     "hanzi": "透支",
     "pinyin": "tòuzhī",
-    "en": "",
-    "vi": ""
+    "vi": "thấu chi",
+    "en": ""
   },
   {
     "hanzi": "凸",
     "pinyin": "tū",
-    "en": "",
-    "vi": ""
+    "vi": "lồi",
+    "en": ""
   },
   {
     "hanzi": "秃",
     "pinyin": "tū",
-    "en": "",
-    "vi": ""
+    "vi": "hói",
+    "en": ""
   },
   {
     "hanzi": "突击",
     "pinyin": "tūjī",
-    "en": "",
-    "vi": ""
+    "vi": "tấn công",
+    "en": ""
   },
   {
     "hanzi": "突破又",
     "pinyin": "tūpòkǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Đột phá lần nữa",
+    "en": ""
   },
   {
     "hanzi": "突如其来",
     "pinyin": "tūrú-qílái",
-    "en": "",
-    "vi": ""
+    "vi": "đột nhiên",
+    "en": ""
   },
   {
     "hanzi": "突兀",
     "pinyin": "tūwù",
-    "en": "",
-    "vi": ""
+    "vi": "không ngờ tới",
+    "en": ""
   },
   {
     "hanzi": "凸显",
     "pinyin": "tūxiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "điểm nổi bật",
+    "en": ""
   },
   {
     "hanzi": "涂",
     "pinyin": "tú",
-    "en": "",
-    "vi": ""
+    "vi": "Sơn",
+    "en": ""
   },
   {
     "hanzi": "徒步",
     "pinyin": "túbù",
-    "en": "",
-    "vi": ""
+    "vi": "đi bộ",
+    "en": ""
   },
   {
     "hanzi": "徒劳",
     "pinyin": "túláo",
-    "en": "",
-    "vi": ""
+    "vi": "vô ích",
+    "en": ""
   },
   {
     "hanzi": "屠杀",
     "pinyin": "túshā",
-    "en": "",
-    "vi": ""
+    "vi": "thảm sát",
+    "en": ""
   },
   {
     "hanzi": "图形",
     "pinyin": "túxíng",
-    "en": "",
-    "vi": ""
+    "vi": "đồ họa",
+    "en": ""
   },
   {
     "hanzi": "图纸",
     "pinyin": "túzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "vẽ",
+    "en": ""
   },
   {
     "hanzi": "吐槽",
     "pinyin": "tǔcáo",
-    "en": "",
-    "vi": ""
+    "vi": "Khiếu nại",
+    "en": ""
   },
   {
     "hanzi": "土生土长",
     "pinyin": "tǔshēng-tǔzhǎng",
-    "en": "",
-    "vi": ""
+    "vi": "người bản xứ",
+    "en": ""
   },
   {
     "hanzi": "团伙",
     "pinyin": "tuánhuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "băng đảng",
+    "en": ""
   },
   {
     "hanzi": "团聚",
     "pinyin": "tuánjù",
-    "en": "",
-    "vi": ""
+    "vi": "đoàn tụ",
+    "en": ""
   },
   {
     "hanzi": "团员",
     "pinyin": "tuányuán",
-    "en": "",
-    "vi": ""
+    "vi": "thành viên",
+    "en": ""
   },
   {
     "hanzi": "推崇",
     "pinyin": "tuīchóng",
-    "en": "",
-    "vi": ""
+    "vi": "ngưỡng mộ",
+    "en": ""
   },
   {
     "hanzi": "推辞",
     "pinyin": "tuīcí",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "推断",
     "pinyin": "tuīduàn",
-    "en": "",
-    "vi": ""
+    "vi": "suy ra",
+    "en": ""
   },
   {
     "hanzi": "推翻",
     "pinyin": "tuīfān",
-    "en": "",
-    "vi": ""
+    "vi": "lật đổ",
+    "en": ""
   },
   {
     "hanzi": "推理",
     "pinyin": "tuīlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lý luận",
+    "en": ""
   },
   {
     "hanzi": "推论",
     "pinyin": "tuīlùn",
-    "en": "",
-    "vi": ""
+    "vi": "suy luận",
+    "en": ""
   },
   {
     "hanzi": "推敲",
     "pinyin": "tuīqiāo",
-    "en": "",
-    "vi": ""
+    "vi": "coi như",
+    "en": ""
   },
   {
     "hanzi": "推算",
     "pinyin": "tuīsuàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngoại suy",
+    "en": ""
   },
   {
     "hanzi": "推卸",
     "pinyin": "tuīxiè",
-    "en": "",
-    "vi": ""
+    "vi": "trốn tránh",
+    "en": ""
   },
   {
     "hanzi": "推选",
     "pinyin": "tuīxuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "gợi ý",
+    "en": ""
   },
   {
     "hanzi": "推移",
     "pinyin": "tuīyí",
-    "en": "",
-    "vi": ""
+    "vi": "di chuyển",
+    "en": ""
   },
   {
     "hanzi": "颓废",
     "pinyin": "tuífèi",
-    "en": "",
-    "vi": ""
+    "vi": "suy đồi",
+    "en": ""
   },
   {
     "hanzi": "退步",
     "pinyin": "tuìbù",
-    "en": "",
-    "vi": ""
+    "vi": "Hồi quy",
+    "en": ""
   },
   {
     "hanzi": "退化",
     "pinyin": "tuìhuà",
-    "en": "",
-    "vi": ""
+    "vi": "thoái hóa",
+    "en": ""
   },
   {
     "hanzi": "退回",
     "pinyin": "tuìhuí",
-    "en": "",
-    "vi": ""
+    "vi": "trở lại",
+    "en": ""
   },
   {
     "hanzi": "退却",
     "pinyin": "tuìquè",
-    "en": "",
-    "vi": ""
+    "vi": "rút lui",
+    "en": ""
   },
   {
     "hanzi": "退让",
     "pinyin": "tuìràng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhượng bộ",
+    "en": ""
   },
   {
     "hanzi": "退缩",
     "pinyin": "tuìsuō",
-    "en": "",
-    "vi": ""
+    "vi": "thu nhỏ lại",
+    "en": ""
   },
   {
     "hanzi": "退役",
     "pinyin": "tuìyì",
-    "en": "",
-    "vi": ""
+    "vi": "Đã nghỉ hưu",
+    "en": ""
   },
   {
     "hanzi": "吞吞吐吐",
     "pinyin": "tūntūntǔtǔ",
-    "en": "",
-    "vi": ""
+    "vi": "do dự",
+    "en": ""
   },
   {
     "hanzi": "臀",
     "pinyin": "tún",
-    "en": "",
-    "vi": ""
+    "vi": "mông",
+    "en": ""
   },
   {
     "hanzi": "托",
     "pinyin": "tuō",
-    "en": "",
-    "vi": ""
+    "vi": "Lòng tin",
+    "en": ""
   },
   {
     "hanzi": "托付",
     "pinyin": "tuōfù",
-    "en": "",
-    "vi": ""
+    "vi": "giao phó",
+    "en": ""
   },
   {
     "hanzi": "脱节",
     "pinyin": "tuōjié",
-    "en": "",
-    "vi": ""
+    "vi": "rời rạc",
+    "en": ""
   },
   {
     "hanzi": "脱又而出",
     "pinyin": "tuōkǒu’érchū",
-    "en": "",
-    "vi": ""
+    "vi": "Cất cánh và đi ra",
+    "en": ""
   },
   {
     "hanzi": "拖累",
     "pinyin": "tuōlěi",
-    "en": "",
-    "vi": ""
+    "vi": "lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "脱离",
     "pinyin": "tuōlí",
-    "en": "",
-    "vi": ""
+    "vi": "chia tay",
+    "en": ""
   },
   {
     "hanzi": "脱落",
     "pinyin": "tuōluò",
-    "en": "",
-    "vi": ""
+    "vi": "rơi ra",
+    "en": ""
   },
   {
     "hanzi": "拖欠",
     "pinyin": "tuōqiàn",
-    "en": "",
-    "vi": ""
+    "vi": "phạm pháp",
+    "en": ""
   },
   {
     "hanzi": "脱身",
     "pinyin": "tuōshēn",
-    "en": "",
-    "vi": ""
+    "vi": "Tránh xa",
+    "en": ""
   },
   {
     "hanzi": "脱颖而出",
     "pinyin": "tuōyǐng’érchū",
-    "en": "",
-    "vi": ""
+    "vi": "nổi bật",
+    "en": ""
   },
   {
     "hanzi": "驮",
     "pinyin": "tuó",
-    "en": "",
-    "vi": ""
+    "vi": "cõng",
+    "en": ""
   },
   {
     "hanzi": "妥",
     "pinyin": "tuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "thích hợp",
+    "en": ""
   },
   {
     "hanzi": "妥当",
     "pinyin": "tuǒdàng",
-    "en": "",
-    "vi": ""
+    "vi": "phù hợp",
+    "en": ""
   },
   {
     "hanzi": "妥善",
     "pinyin": "tuǒshàn",
-    "en": "",
-    "vi": ""
+    "vi": "thích hợp",
+    "en": ""
   },
   {
     "hanzi": "妥协",
     "pinyin": "tuǒxié",
-    "en": "",
-    "vi": ""
+    "vi": "thỏa hiệp",
+    "en": ""
   },
   {
     "hanzi": "椭圆",
     "pinyin": "tuǒyuán",
-    "en": "",
-    "vi": ""
+    "vi": "hình bầu dục",
+    "en": ""
   },
   {
     "hanzi": "拓宽",
     "pinyin": "tuòkuān",
-    "en": "",
-    "vi": ""
+    "vi": "mở rộng",
+    "en": ""
   },
   {
     "hanzi": "唾弃",
     "pinyin": "tuòqì",
-    "en": "",
-    "vi": ""
+    "vi": "gạt sang một bên",
+    "en": ""
   },
   {
     "hanzi": "唾液",
     "pinyin": "tuòyè",
-    "en": "",
-    "vi": ""
+    "vi": "nước bọt",
+    "en": ""
   },
   {
     "hanzi": "拓展",
     "pinyin": "tuòzhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "mở rộng",
+    "en": ""
   },
   {
     "hanzi": "挖掘",
     "pinyin": "wājué",
-    "en": "",
-    "vi": ""
+    "vi": "đào",
+    "en": ""
   },
   {
     "hanzi": "挖苦",
     "pinyin": "wāku",
-    "en": "",
-    "vi": ""
+    "vi": "mỉa mai",
+    "en": ""
   },
   {
     "hanzi": "瓦",
     "pinyin": "wǎ",
-    "en": "",
-    "vi": ""
+    "vi": "oát",
+    "en": ""
   },
   {
     "hanzi": "瓦解",
     "pinyin": "wǎjiě",
-    "en": "",
-    "vi": ""
+    "vi": "sụp đổ",
+    "en": ""
   },
   {
     "hanzi": "歪曲",
     "pinyin": "wāiqū",
-    "en": "",
-    "vi": ""
+    "vi": "bóp méo",
+    "en": ""
   },
   {
     "hanzi": "外币",
     "pinyin": "wàibì",
-    "en": "",
-    "vi": ""
+    "vi": "ngoại tệ",
+    "en": ""
   },
   {
     "hanzi": "外行",
     "pinyin": "wàiháng",
-    "en": "",
-    "vi": ""
+    "vi": "thường dân",
+    "en": ""
   },
   {
     "hanzi": "外号",
     "pinyin": "wàihào",
-    "en": "",
-    "vi": ""
+    "vi": "biệt hiệu",
+    "en": ""
   },
   {
     "hanzi": "外汇",
     "pinyin": "wàihuì",
-    "en": "",
-    "vi": ""
+    "vi": "Ngoại hối",
+    "en": ""
   },
   {
     "hanzi": "外籍",
     "pinyin": "wàijí",
-    "en": "",
-    "vi": ""
+    "vi": "nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "外贸",
     "pinyin": "wàimào",
-    "en": "",
-    "vi": ""
+    "vi": "ngoại thương",
+    "en": ""
   },
   {
     "hanzi": "外貌",
     "pinyin": "wàimào",
-    "en": "",
-    "vi": ""
+    "vi": "vẻ bề ngoài",
+    "en": ""
   },
   {
     "hanzi": "外向",
     "pinyin": "wàixiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Hướng ngoại",
+    "en": ""
   },
   {
     "hanzi": "外星人",
     "pinyin": "wàixīngrén",
-    "en": "",
-    "vi": ""
+    "vi": "người ngoài hành tinh",
+    "en": ""
   },
   {
     "hanzi": "外援",
     "pinyin": "wàiyuán",
-    "en": "",
-    "vi": ""
+    "vi": "viện trợ nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "外在",
     "pinyin": "wàizài",
-    "en": "",
-    "vi": ""
+    "vi": "bên ngoài",
+    "en": ""
   },
   {
     "hanzi": "外资",
     "pinyin": "wàizī",
-    "en": "",
-    "vi": ""
+    "vi": "đầu tư nước ngoài",
+    "en": ""
   },
   {
     "hanzi": "丸",
     "pinyin": "wán",
-    "en": "",
-    "vi": ""
+    "vi": "viên thuốc",
+    "en": ""
   },
   {
     "hanzi": "完备",
     "pinyin": "wánbèi",
-    "en": "",
-    "vi": ""
+    "vi": "hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "完毕",
     "pinyin": "wánbì",
-    "en": "",
-    "vi": ""
+    "vi": "hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "顽固",
     "pinyin": "wángù",
-    "en": "",
-    "vi": ""
+    "vi": "bướng bỉnh",
+    "en": ""
   },
   {
     "hanzi": "完好",
     "pinyin": "wánhǎo",
-    "en": "",
-    "vi": ""
+    "vi": "nguyên vẹn",
+    "en": ""
   },
   {
     "hanzi": "玩弄",
     "pinyin": "wánnòng",
-    "en": "",
-    "vi": ""
+    "vi": "chơi",
+    "en": ""
   },
   {
     "hanzi": "顽皮",
     "pinyin": "wánpí",
-    "en": "",
-    "vi": ""
+    "vi": "nghịch ngợm",
+    "en": ""
   },
   {
     "hanzi": "玩耍",
     "pinyin": "wánshuǎ",
-    "en": "",
-    "vi": ""
+    "vi": "chơi",
+    "en": ""
   },
   {
     "hanzi": "玩意儿",
     "pinyin": "wányìr",
-    "en": "",
-    "vi": ""
+    "vi": "điều",
+    "en": ""
   },
   {
     "hanzi": "丸子",
     "pinyin": "wánzi",
-    "en": "",
-    "vi": ""
+    "vi": "quả bóng",
+    "en": ""
   },
   {
     "hanzi": "挽",
     "pinyin": "wǎn",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "挽回",
     "pinyin": "wǎnhuí",
-    "en": "",
-    "vi": ""
+    "vi": "chuộc lại",
+    "en": ""
   },
   {
     "hanzi": "挽救",
     "pinyin": "wǎnjiù",
-    "en": "",
-    "vi": ""
+    "vi": "cứu",
+    "en": ""
   },
   {
     "hanzi": "晚年",
     "pinyin": "wǎnnián",
-    "en": "",
-    "vi": ""
+    "vi": "tuổi già",
+    "en": ""
   },
   {
     "hanzi": "晚期",
     "pinyin": "wǎnqī",
-    "en": "",
-    "vi": ""
+    "vi": "Giai đoạn muộn",
+    "en": ""
   },
   {
     "hanzi": "惋惜",
     "pinyin": "wǎnxī",
-    "en": "",
-    "vi": ""
+    "vi": "hối tiếc",
+    "en": ""
   },
   {
     "hanzi": "晚霞",
     "pinyin": "wǎnxiá",
-    "en": "",
-    "vi": ""
+    "vi": "hoàng hôn",
+    "en": ""
   },
   {
     "hanzi": "万分",
     "pinyin": "wànfēn",
-    "en": "",
-    "vi": ""
+    "vi": "vô cùng",
+    "en": ""
   },
   {
     "hanzi": "万能",
     "pinyin": "wànnéng",
-    "en": "",
-    "vi": ""
+    "vi": "phổ quát",
+    "en": ""
   },
   {
     "hanzi": "万万",
     "pinyin": "wànwàn",
-    "en": "",
-    "vi": ""
+    "vi": "tuyệt đối",
+    "en": ""
   },
   {
     "hanzi": "万无一失",
     "pinyin": "wànwú-yìshī",
-    "en": "",
-    "vi": ""
+    "vi": "rõ ràng",
+    "en": ""
   },
   {
     "hanzi": "汪洋",
     "pinyin": "wāngyáng",
-    "en": "",
-    "vi": ""
+    "vi": "Vương Dương",
+    "en": ""
   },
   {
     "hanzi": "王朝",
     "pinyin": "wángcháo",
-    "en": "",
-    "vi": ""
+    "vi": "triều đại",
+    "en": ""
   },
   {
     "hanzi": "王国",
     "pinyin": "wángguó",
-    "en": "",
-    "vi": ""
+    "vi": "vương quốc",
+    "en": ""
   },
   {
     "hanzi": "王牌",
     "pinyin": "wángpái",
-    "en": "",
-    "vi": ""
+    "vi": "con át chủ bài",
+    "en": ""
   },
   {
     "hanzi": "亡羊补牢",
     "pinyin": "wángyáng-bǔláo",
-    "en": "",
-    "vi": ""
+    "vi": "khắc phục tình trạng trước khi quá muộn",
+    "en": ""
   },
   {
     "hanzi": "往常",
     "pinyin": "wǎngcháng",
-    "en": "",
-    "vi": ""
+    "vi": "thường",
+    "en": ""
   },
   {
     "hanzi": "网点",
     "pinyin": "wǎngdiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cửa hàng",
+    "en": ""
   },
   {
     "hanzi": "网民",
     "pinyin": "wǎngmín",
-    "en": "",
-    "vi": ""
+    "vi": "cư dân mạng",
+    "en": ""
   },
   {
     "hanzi": "往日",
     "pinyin": "wǎngrì",
-    "en": "",
-    "vi": ""
+    "vi": "những ngày qua",
+    "en": ""
   },
   {
     "hanzi": "往事",
     "pinyin": "wǎngshì",
-    "en": "",
-    "vi": ""
+    "vi": "quá khứ",
+    "en": ""
   },
   {
     "hanzi": "旺",
     "pinyin": "wàng",
-    "en": "",
-    "vi": ""
+    "vi": "thịnh vượng",
+    "en": ""
   },
   {
     "hanzi": "旺季",
     "pinyin": "wàngjì",
-    "en": "",
-    "vi": ""
+    "vi": "mùa cao điểm",
+    "en": ""
   },
   {
     "hanzi": "旺盛",
     "pinyin": "wàngshèng",
-    "en": "",
-    "vi": ""
+    "vi": "hồ hởi",
+    "en": ""
   },
   {
     "hanzi": "妄想",
     "pinyin": "wàngxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "ảo tưởng",
+    "en": ""
   },
   {
     "hanzi": "望远镜",
     "pinyin": "wàngyuǎnjìng",
-    "en": "",
-    "vi": ""
+    "vi": "kính thiên văn",
+    "en": ""
   },
   {
     "hanzi": "微",
     "pinyin": "wēi",
-    "en": "",
-    "vi": ""
+    "vi": "vi mô",
+    "en": ""
   },
   {
     "hanzi": "微波炉",
     "pinyin": "wēibōlú",
-    "en": "",
-    "vi": ""
+    "vi": "Lò vi sóng",
+    "en": ""
   },
   {
     "hanzi": "微不足道",
     "pinyin": "wēibùzúdào",
-    "en": "",
-    "vi": ""
+    "vi": "không đáng kể",
+    "en": ""
   },
   {
     "hanzi": "威风",
     "pinyin": "wēifēng",
-    "en": "",
-    "vi": ""
+    "vi": "uy tín",
+    "en": ""
   },
   {
     "hanzi": "微观",
     "pinyin": "wēiguān",
-    "en": "",
-    "vi": ""
+    "vi": "kính hiển vi",
+    "en": ""
   },
   {
     "hanzi": "危及",
     "pinyin": "wēijí",
-    "en": "",
-    "vi": ""
+    "vi": "Nguy hiểm",
+    "en": ""
   },
   {
     "hanzi": "危急",
     "pinyin": "wēijí",
-    "en": "",
-    "vi": ""
+    "vi": "phê bình",
+    "en": ""
   },
   {
     "hanzi": "威力",
     "pinyin": "wēilì",
-    "en": "",
-    "vi": ""
+    "vi": "quyền lực",
+    "en": ""
   },
   {
     "hanzi": "微妙",
     "pinyin": "wēimiào",
-    "en": "",
-    "vi": ""
+    "vi": "tinh tế",
+    "en": ""
   },
   {
     "hanzi": "微弱",
     "pinyin": "wēiruò",
-    "en": "",
-    "vi": ""
+    "vi": "yếu đuối",
+    "en": ""
   },
   {
     "hanzi": "威慑",
     "pinyin": "wēishè",
-    "en": "",
-    "vi": ""
+    "vi": "răn đe",
+    "en": ""
   },
   {
     "hanzi": "微生物",
     "pinyin": "wēishēngwù",
-    "en": "",
-    "vi": ""
+    "vi": "vi sinh vật",
+    "en": ""
   },
   {
     "hanzi": "威望",
     "pinyin": "wēiwàng",
-    "en": "",
-    "vi": ""
+    "vi": "uy tín",
+    "en": ""
   },
   {
     "hanzi": "微微",
     "pinyin": "wēiwēi",
-    "en": "",
-    "vi": ""
+    "vi": "nhẹ",
+    "en": ""
   },
   {
     "hanzi": "威信",
     "pinyin": "wēixìn",
-    "en": "",
-    "vi": ""
+    "vi": "uy tín",
+    "en": ""
   },
   {
     "hanzi": "微型",
     "pinyin": "wēixíng",
-    "en": "",
-    "vi": ""
+    "vi": "thu nhỏ",
+    "en": ""
   },
   {
     "hanzi": "唯",
     "pinyin": "wéi",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ một",
+    "en": ""
   },
   {
     "hanzi": "违背",
     "pinyin": "wéibèi",
-    "en": "",
-    "vi": ""
+    "vi": "vi phạm",
+    "en": ""
   },
   {
     "hanzi": "唯独",
     "pinyin": "wéidú",
-    "en": "",
-    "vi": ""
+    "vi": "Chỉ một",
+    "en": ""
   },
   {
     "hanzi": "围观",
     "pinyin": "wéiguān",
-    "en": "",
-    "vi": ""
+    "vi": "đồng hồ ",
+    "en": ""
   },
   {
     "hanzi": "围墙",
     "pinyin": "wéiqiáng",
-    "en": "",
-    "vi": ""
+    "vi": "tường",
+    "en": ""
   },
   {
     "hanzi": "维权",
     "pinyin": "wéiquán",
-    "en": "",
-    "vi": ""
+    "vi": "Bảo vệ quyền lợi",
+    "en": ""
   },
   {
     "hanzi": "为人",
     "pinyin": "wéirén",
-    "en": "",
-    "vi": ""
+    "vi": "như một người",
+    "en": ""
   },
   {
     "hanzi": "唯有",
     "pinyin": "wéiyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Chỉ một",
+    "en": ""
   },
   {
     "hanzi": "违约",
     "pinyin": "wéiyuē",
-    "en": "",
-    "vi": ""
+    "vi": "vi phạm hợp đồng",
+    "en": ""
   },
   {
     "hanzi": "违章",
     "pinyin": "wéizhāng",
-    "en": "",
-    "vi": ""
+    "vi": "Vi phạm",
+    "en": ""
   },
   {
     "hanzi": "纬度",
     "pinyin": "wěidù",
-    "en": "",
-    "vi": ""
+    "vi": "vĩ độ",
+    "en": ""
   },
   {
     "hanzi": "尾气",
     "pinyin": "wěiqì",
-    "en": "",
-    "vi": ""
+    "vi": "khí thải",
+    "en": ""
   },
   {
     "hanzi": "尾声",
     "pinyin": "wěishēng",
-    "en": "",
-    "vi": ""
+    "vi": "kết thúc",
+    "en": ""
   },
   {
     "hanzi": "萎缩",
     "pinyin": "wěisuō",
-    "en": "",
-    "vi": ""
+    "vi": "co lại",
+    "en": ""
   },
   {
     "hanzi": "委婉",
     "pinyin": "wěiwǎn",
-    "en": "",
-    "vi": ""
+    "vi": "khéo léo",
+    "en": ""
   },
   {
     "hanzi": "委员",
     "pinyin": "wěiyuán",
-    "en": "",
-    "vi": ""
+    "vi": "thành viên",
+    "en": ""
   },
   {
     "hanzi": "委员会",
     "pinyin": "wěiyuánhuì",
-    "en": "",
-    "vi": ""
+    "vi": "ủy ban",
+    "en": ""
   },
   {
     "hanzi": "伪造",
     "pinyin": "wěizào",
-    "en": "",
-    "vi": ""
+    "vi": "sự giả mạo",
+    "en": ""
   },
   {
     "hanzi": "伪装",
     "pinyin": "wěizhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "ngụy trang",
+    "en": ""
   },
   {
     "hanzi": "味精",
     "pinyin": "wèijīng",
-    "en": "",
-    "vi": ""
+    "vi": "bột ngọt",
+    "en": ""
   },
   {
     "hanzi": "畏惧",
     "pinyin": "wèijù",
-    "en": "",
-    "vi": ""
+    "vi": "nỗi sợ",
+    "en": ""
   },
   {
     "hanzi": "蔚蓝",
     "pinyin": "wèilán",
-    "en": "",
-    "vi": ""
+    "vi": "màu xanh da trời",
+    "en": ""
   },
   {
     "hanzi": "慰劳",
     "pinyin": "wèiláo",
-    "en": "",
-    "vi": ""
+    "vi": "Lời chia buồn",
+    "en": ""
   },
   {
     "hanzi": "未免",
     "pinyin": "wèimiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Không thể tránh khỏi",
+    "en": ""
   },
   {
     "hanzi": "卫视",
     "pinyin": "wèishì",
-    "en": "",
-    "vi": ""
+    "vi": "Truyền hình vệ tinh",
+    "en": ""
   },
   {
     "hanzi": "畏缩",
     "pinyin": "wèisuō",
-    "en": "",
-    "vi": ""
+    "vi": "nao núng",
+    "en": ""
   },
   {
     "hanzi": "慰问",
     "pinyin": "wèiwèn",
-    "en": "",
-    "vi": ""
+    "vi": "Lời chia buồn",
+    "en": ""
   },
   {
     "hanzi": "卫星",
     "pinyin": "wèixīng",
-    "en": "",
-    "vi": ""
+    "vi": "vệ tinh",
+    "en": ""
   },
   {
     "hanzi": "喂养",
     "pinyin": "wèiyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "cho ăn",
+    "en": ""
   },
   {
     "hanzi": "未知数",
     "pinyin": "wèizhīshù",
-    "en": "",
-    "vi": ""
+    "vi": "không rõ",
+    "en": ""
   },
   {
     "hanzi": "位子",
     "pinyin": "wèizi",
-    "en": "",
-    "vi": ""
+    "vi": "ghế",
+    "en": ""
   },
   {
     "hanzi": "温差",
     "pinyin": "wēnchà",
-    "en": "",
-    "vi": ""
+    "vi": "chênh lệch nhiệt độ",
+    "en": ""
   },
   {
     "hanzi": "温带",
     "pinyin": "wēndài",
-    "en": "",
-    "vi": ""
+    "vi": "vùng ôn đới",
+    "en": ""
   },
   {
     "hanzi": "温度计",
     "pinyin": "wēndùjì",
-    "en": "",
-    "vi": ""
+    "vi": "nhiệt kế",
+    "en": ""
   },
   {
     "hanzi": "温泉",
     "pinyin": "wēnquán",
-    "en": "",
-    "vi": ""
+    "vi": "spa",
+    "en": ""
   },
   {
     "hanzi": "温室",
     "pinyin": "wēnshì",
-    "en": "",
-    "vi": ""
+    "vi": "nhà kính",
+    "en": ""
   },
   {
     "hanzi": "温习",
     "pinyin": "wēnxí",
-    "en": "",
-    "vi": ""
+    "vi": "ôn tập",
+    "en": ""
   },
   {
     "hanzi": "温馨",
     "pinyin": "wēnxīn",
-    "en": "",
-    "vi": ""
+    "vi": "Sự ấm áp",
+    "en": ""
   },
   {
     "hanzi": "瘟疫",
     "pinyin": "wēnyì",
-    "en": "",
-    "vi": ""
+    "vi": "bệnh dịch hạch",
+    "en": ""
   },
   {
     "hanzi": "文",
     "pinyin": "wén",
-    "en": "",
-    "vi": ""
+    "vi": "nghệ thuật",
+    "en": ""
   },
   {
     "hanzi": "文盲",
     "pinyin": "wénmáng",
-    "en": "",
-    "vi": ""
+    "vi": "mù chữ",
+    "en": ""
   },
   {
     "hanzi": "文凭",
     "pinyin": "wénpíng",
-    "en": "",
-    "vi": ""
+    "vi": "bằng cấp",
+    "en": ""
   },
   {
     "hanzi": "文人",
     "pinyin": "wénrén",
-    "en": "",
-    "vi": ""
+    "vi": "văn nhân",
+    "en": ""
   },
   {
     "hanzi": "文雅",
     "pinyin": "wényǎ",
-    "en": "",
-    "vi": ""
+    "vi": "thanh lịch",
+    "en": ""
   },
   {
     "hanzi": "蚊帐",
     "pinyin": "wénzhàng",
-    "en": "",
-    "vi": ""
+    "vi": "màn chống muỗi",
+    "en": ""
   },
   {
     "hanzi": "蚊子",
     "pinyin": "wénzi",
-    "en": "",
-    "vi": ""
+    "vi": "muỗi",
+    "en": ""
   },
   {
     "hanzi": "吻",
     "pinyin": "wěn",
-    "en": "",
-    "vi": ""
+    "vi": "hôn",
+    "en": ""
   },
   {
     "hanzi": "稳",
     "pinyin": "wěn",
-    "en": "",
-    "vi": ""
+    "vi": "ổn định",
+    "en": ""
   },
   {
     "hanzi": "稳固",
     "pinyin": "wěngù",
-    "en": "",
-    "vi": ""
+    "vi": "ổn định",
+    "en": ""
   },
   {
     "hanzi": "吻合",
     "pinyin": "wěnhé",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc thi đấu",
+    "en": ""
   },
   {
     "hanzi": "稳健",
     "pinyin": "wěnjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "vững chắc",
+    "en": ""
   },
   {
     "hanzi": "紊乱",
     "pinyin": "wěnluàn",
-    "en": "",
-    "vi": ""
+    "vi": "rối loạn",
+    "en": ""
   },
   {
     "hanzi": "稳妥",
     "pinyin": "wěntuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "an toàn",
+    "en": ""
   },
   {
     "hanzi": "稳重",
     "pinyin": "wěnzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "vững chắc",
+    "en": ""
   },
   {
     "hanzi": "问候",
     "pinyin": "wènhòu",
-    "en": "",
-    "vi": ""
+    "vi": "lời chào",
+    "en": ""
   },
   {
     "hanzi": "问世",
     "pinyin": "wènshì",
-    "en": "",
-    "vi": ""
+    "vi": "đi ra ngoài",
+    "en": ""
   },
   {
     "hanzi": "窝",
     "pinyin": "wō",
-    "en": "",
-    "vi": ""
+    "vi": "tổ",
+    "en": ""
   },
   {
     "hanzi": "卧",
     "pinyin": "wò",
-    "en": "",
-    "vi": ""
+    "vi": "nằm xuống",
+    "en": ""
   },
   {
     "hanzi": "卧铺",
     "pinyin": "wòpù",
-    "en": "",
-    "vi": ""
+    "vi": "giường ngủ",
+    "en": ""
   },
   {
     "hanzi": "污秽",
     "pinyin": "wūhuì",
-    "en": "",
-    "vi": ""
+    "vi": "bẩn thỉu",
+    "en": ""
   },
   {
     "hanzi": "污蔑",
     "pinyin": "wūmiè",
-    "en": "",
-    "vi": ""
+    "vi": "vu khống",
+    "en": ""
   },
   {
     "hanzi": "诬陷",
     "pinyin": "wūxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "âm mưu",
+    "en": ""
   },
   {
     "hanzi": "屋檐",
     "pinyin": "wūyán",
-    "en": "",
-    "vi": ""
+    "vi": "mái hiên",
+    "en": ""
   },
   {
     "hanzi": "呜咽",
     "pinyin": "wūyè",
-    "en": "",
-    "vi": ""
+    "vi": "rên",
+    "en": ""
   },
   {
     "hanzi": "乌云",
     "pinyin": "wūyún",
-    "en": "",
-    "vi": ""
+    "vi": "những đám mây đen",
+    "en": ""
   },
   {
     "hanzi": "无比",
     "pinyin": "wúbǐ",
-    "en": "",
-    "vi": ""
+    "vi": "không thể so sánh được",
+    "en": ""
   },
   {
     "hanzi": "无边无际",
     "pinyin": "wúbiān-wújì",
-    "en": "",
-    "vi": ""
+    "vi": "vô biên",
+    "en": ""
   },
   {
     "hanzi": "无不",
     "pinyin": "wúbù",
-    "en": "",
-    "vi": ""
+    "vi": "Tất cả",
+    "en": ""
   },
   {
     "hanzi": "无偿",
     "pinyin": "wúcháng",
-    "en": "",
-    "vi": ""
+    "vi": "miễn phí",
+    "en": ""
   },
   {
     "hanzi": "无耻",
     "pinyin": "wúchǐ",
-    "en": "",
-    "vi": ""
+    "vi": "không biết xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "无从",
     "pinyin": "wúcóng",
-    "en": "",
-    "vi": ""
+    "vi": "Không đời nào",
+    "en": ""
   },
   {
     "hanzi": "无敌",
     "pinyin": "wúdí",
-    "en": "",
-    "vi": ""
+    "vi": "bất khả chiến bại",
+    "en": ""
   },
   {
     "hanzi": "无动于衷",
     "pinyin": "wúdòngyúzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "vô tư",
+    "en": ""
   },
   {
     "hanzi": "无非",
     "pinyin": "wúfēi",
-    "en": "",
-    "vi": ""
+    "vi": "Không có gì hơn",
+    "en": ""
   },
   {
     "hanzi": "无故",
     "pinyin": "wúgù",
-    "en": "",
-    "vi": ""
+    "vi": "Không có lý do",
+    "en": ""
   },
   {
     "hanzi": "无辜",
     "pinyin": "wúgū",
-    "en": "",
-    "vi": ""
+    "vi": "vô tội",
+    "en": ""
   },
   {
     "hanzi": "无关紧要",
     "pinyin": "wúguān-jǐnyào",
-    "en": "",
-    "vi": ""
+    "vi": "không quan trọng",
+    "en": ""
   },
   {
     "hanzi": "无话可说",
     "pinyin": "wúhuà-kěshuō",
-    "en": "",
-    "vi": ""
+    "vi": "không có gì để nói",
+    "en": ""
   },
   {
     "hanzi": "无家可归",
     "pinyin": "wújiā-kěguī",
-    "en": "",
-    "vi": ""
+    "vi": "vô gia cư",
+    "en": ""
   },
   {
     "hanzi": "无价之宝",
     "pinyin": "wújiàzhībǎo",
-    "en": "",
-    "vi": ""
+    "vi": "kho báu vô giá",
+    "en": ""
   },
   {
     "hanzi": "无精打采",
     "pinyin": "wújīng-dǎcǎi",
-    "en": "",
-    "vi": ""
+    "vi": "bơ phờ",
+    "en": ""
   },
   {
     "hanzi": "无济于事",
     "pinyin": "wújìyúshì",
-    "en": "",
-    "vi": ""
+    "vi": "Vô ích",
+    "en": ""
   },
   {
     "hanzi": "无可厚非",
     "pinyin": "wúkěhòufēi",
-    "en": "",
-    "vi": ""
+    "vi": "Chính đáng",
+    "en": ""
   },
   {
     "hanzi": "无可奈何",
     "pinyin": "wúkěnàihé",
-    "en": "",
-    "vi": ""
+    "vi": "bất lực",
+    "en": ""
   },
   {
     "hanzi": "无赖",
     "pinyin": "wúlài",
-    "en": "",
-    "vi": ""
+    "vi": "tên vô lại",
+    "en": ""
   },
   {
     "hanzi": "无力",
     "pinyin": "wúlì",
-    "en": "",
-    "vi": ""
+    "vi": "Bất lực",
+    "en": ""
   },
   {
     "hanzi": "无理",
     "pinyin": "wúlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "vô lý",
+    "en": ""
   },
   {
     "hanzi": "无论如何",
     "pinyin": "wúlùn-rúhé",
-    "en": "",
-    "vi": ""
+    "vi": "Dẫu sao thì",
+    "en": ""
   },
   {
     "hanzi": "无能",
     "pinyin": "wúnéng",
-    "en": "",
-    "vi": ""
+    "vi": "sự bất lực",
+    "en": ""
   },
   {
     "hanzi": "无能为力",
     "pinyin": "wúnéngwéilì",
-    "en": "",
-    "vi": ""
+    "vi": "bất lực",
+    "en": ""
   },
   {
     "hanzi": "无情",
     "pinyin": "wúqíng",
-    "en": "",
-    "vi": ""
+    "vi": "tàn nhẫn",
+    "en": ""
   },
   {
     "hanzi": "无穷",
     "pinyin": "wúqióng",
-    "en": "",
-    "vi": ""
+    "vi": "vô tận",
+    "en": ""
   },
   {
     "hanzi": "无私",
     "pinyin": "wúsī",
-    "en": "",
-    "vi": ""
+    "vi": "vị tha",
+    "en": ""
   },
   {
     "hanzi": "无所事事",
     "pinyin": "wúsuǒshìshì",
-    "en": "",
-    "vi": ""
+    "vi": "không có gì để làm",
+    "en": ""
   },
   {
     "hanzi": "无所作为",
     "pinyin": "wúsuǒzuòwéi",
-    "en": "",
-    "vi": ""
+    "vi": "không làm gì cả",
+    "en": ""
   },
   {
     "hanzi": "无条件",
     "pinyin": "wútiáojiàn",
-    "en": "",
-    "vi": ""
+    "vi": "vô điều kiện",
+    "en": ""
   },
   {
     "hanzi": "无微不至",
     "pinyin": "wúwēi-búzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Chú ý đến từng chi tiết",
+    "en": ""
   },
   {
     "hanzi": "无线",
     "pinyin": "wúxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "không dây",
+    "en": ""
   },
   {
     "hanzi": "无形",
     "pinyin": "wúxíng",
-    "en": "",
-    "vi": ""
+    "vi": "vô hình",
+    "en": ""
   },
   {
     "hanzi": "无须",
     "pinyin": "wúxū",
-    "en": "",
-    "vi": ""
+    "vi": "không cần",
+    "en": ""
   },
   {
     "hanzi": "无意",
     "pinyin": "wúyì",
-    "en": "",
-    "vi": ""
+    "vi": "Vô ý",
+    "en": ""
   },
   {
     "hanzi": "无忧无虑",
     "pinyin": "wúyōu-wúlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "vô tư",
+    "en": ""
   },
   {
     "hanzi": "无缘",
     "pinyin": "wúyuán",
-    "en": "",
-    "vi": ""
+    "vi": "Bỏ lỡ",
+    "en": ""
   },
   {
     "hanzi": "无知",
     "pinyin": "wúzhī",
-    "en": "",
-    "vi": ""
+    "vi": "sự thiếu hiểu biết",
+    "en": ""
   },
   {
     "hanzi": "捂",
     "pinyin": "wǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Che phủ",
+    "en": ""
   },
   {
     "hanzi": "舞",
     "pinyin": "wǔ",
-    "en": "",
-    "vi": ""
+    "vi": "nhảy",
+    "en": ""
   },
   {
     "hanzi": "五官",
     "pinyin": "wǔguān",
-    "en": "",
-    "vi": ""
+    "vi": "đặc điểm khuôn mặt",
+    "en": ""
   },
   {
     "hanzi": "五花八门",
     "pinyin": "wǔhuā-bāmén",
-    "en": "",
-    "vi": ""
+    "vi": "Nhiều",
+    "en": ""
   },
   {
     "hanzi": "五湖四海",
     "pinyin": "wǔhú-sìhǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Trên toàn thế giới",
+    "en": ""
   },
   {
     "hanzi": "武力",
     "pinyin": "wǔlì",
-    "en": "",
-    "vi": ""
+    "vi": "lực lượng",
+    "en": ""
   },
   {
     "hanzi": "侮辱",
     "pinyin": "wǔrǔ",
-    "en": "",
-    "vi": ""
+    "vi": "sự sỉ nhục",
+    "en": ""
   },
   {
     "hanzi": "武侠",
     "pinyin": "wǔxiá",
-    "en": "",
-    "vi": ""
+    "vi": "võ thuật",
+    "en": ""
   },
   {
     "hanzi": "武装",
     "pinyin": "wǔzhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "vũ trang",
+    "en": ""
   },
   {
     "hanzi": "勿",
     "pinyin": "wù",
-    "en": "",
-    "vi": ""
+    "vi": "không",
+    "en": ""
   },
   {
     "hanzi": "务必",
     "pinyin": "wùbì",
-    "en": "",
-    "vi": ""
+    "vi": "hãy chắc chắn",
+    "en": ""
   },
   {
     "hanzi": "误差",
     "pinyin": "wùchā",
-    "en": "",
-    "vi": ""
+    "vi": "lỗi",
+    "en": ""
   },
   {
     "hanzi": "误导",
     "pinyin": "wùdǎo",
-    "en": "",
-    "vi": ""
+    "vi": "gây hiểu lầm",
+    "en": ""
   },
   {
     "hanzi": "务工",
     "pinyin": "wùgōng",
-    "en": "",
-    "vi": ""
+    "vi": "công việc",
+    "en": ""
   },
   {
     "hanzi": "物力",
     "pinyin": "wùlì",
-    "en": "",
-    "vi": ""
+    "vi": "Nguồn vật chất",
+    "en": ""
   },
   {
     "hanzi": "物流",
     "pinyin": "wùliú",
-    "en": "",
-    "vi": ""
+    "vi": "hậu cần",
+    "en": ""
   },
   {
     "hanzi": "物美价廉",
     "pinyin": "wùměi-jiàlián",
-    "en": "",
-    "vi": ""
+    "vi": "chất lượng tốt và giá thấp",
+    "en": ""
   },
   {
     "hanzi": "误区",
     "pinyin": "wùqū",
-    "en": "",
-    "vi": ""
+    "vi": "Hiểu lầm",
+    "en": ""
   },
   {
     "hanzi": "物色",
     "pinyin": "wùsè",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "务实",
     "pinyin": "wùshí",
-    "en": "",
-    "vi": ""
+    "vi": "thực dụng",
+    "en": ""
   },
   {
     "hanzi": "物证",
     "pinyin": "wùzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "bằng chứng vật lý",
+    "en": ""
   },
   {
     "hanzi": "物种",
     "pinyin": "wùzhǒng",
-    "en": "",
-    "vi": ""
+    "vi": "Giống loài",
+    "en": ""
   },
   {
     "hanzi": "物资",
     "pinyin": "wùzī",
-    "en": "",
-    "vi": ""
+    "vi": "quân nhu",
+    "en": ""
   },
   {
     "hanzi": "稀",
     "pinyin": "xī",
-    "en": "",
-    "vi": ""
+    "vi": "pha loãng",
+    "en": ""
   },
   {
     "hanzi": "溪",
     "pinyin": "xī",
-    "en": "",
-    "vi": ""
+    "vi": "lạch",
+    "en": ""
   },
   {
     "hanzi": "吸毒",
     "pinyin": "xīdú",
-    "en": "",
-    "vi": ""
+    "vi": "thuốc",
+    "en": ""
   },
   {
     "hanzi": "膝盖",
     "pinyin": "xīgài",
-    "en": "",
-    "vi": ""
+    "vi": "đầu gối",
+    "en": ""
   },
   {
     "hanzi": "稀罕",
     "pinyin": "xīhan",
-    "en": "",
-    "vi": ""
+    "vi": "Hiếm",
+    "en": ""
   },
   {
     "hanzi": "熄火",
     "pinyin": "xīhuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "Tắt ngọn lửa",
+    "en": ""
   },
   {
     "hanzi": "犀利",
     "pinyin": "xīlì",
-    "en": "",
-    "vi": ""
+    "vi": "sắc",
+    "en": ""
   },
   {
     "hanzi": "奚落",
     "pinyin": "xīluò",
-    "en": "",
-    "vi": ""
+    "vi": "chế giễu",
+    "en": ""
   },
   {
     "hanzi": "熄灭",
     "pinyin": "xīmiè",
-    "en": "",
-    "vi": ""
+    "vi": "đi ra ngoài",
+    "en": ""
   },
   {
     "hanzi": "吸纳",
     "pinyin": "xīnà",
-    "en": "",
-    "vi": ""
+    "vi": "hấp thụ",
+    "en": ""
   },
   {
     "hanzi": "稀奇",
     "pinyin": "xīqí",
-    "en": "",
-    "vi": ""
+    "vi": "lạ lùng",
+    "en": ""
   },
   {
     "hanzi": "昔日",
     "pinyin": "xīrì",
-    "en": "",
-    "vi": ""
+    "vi": "ngày xưa",
+    "en": ""
   },
   {
     "hanzi": "稀少",
     "pinyin": "xīshǎo",
-    "en": "",
-    "vi": ""
+    "vi": "hiếm",
+    "en": ""
   },
   {
     "hanzi": "牺牲",
     "pinyin": "xīshēng",
-    "en": "",
-    "vi": ""
+    "vi": "hy sinh",
+    "en": ""
   },
   {
     "hanzi": "嬉笑",
     "pinyin": "xīxiào",
-    "en": "",
-    "vi": ""
+    "vi": "cười",
+    "en": ""
   },
   {
     "hanzi": "熙熙攘攘",
     "pinyin": "xīxī-rǎngrǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nhộn nhịp",
+    "en": ""
   },
   {
     "hanzi": "息息相关",
     "pinyin": "xīxī-xiāngguān",
-    "en": "",
-    "vi": ""
+    "vi": "liên quan chặt chẽ",
+    "en": ""
   },
   {
     "hanzi": "夕阳",
     "pinyin": "xīyáng",
-    "en": "",
-    "vi": ""
+    "vi": "hoàng hôn",
+    "en": ""
   },
   {
     "hanzi": "稀有",
     "pinyin": "xīyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "hiếm",
+    "en": ""
   },
   {
     "hanzi": "锡纸",
     "pinyin": "xīzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lá thiếc",
+    "en": ""
   },
   {
     "hanzi": "席",
     "pinyin": "xí",
-    "en": "",
-    "vi": ""
+    "vi": "ghế",
+    "en": ""
   },
   {
     "hanzi": "袭击",
     "pinyin": "xíjī",
-    "en": "",
-    "vi": ""
+    "vi": "tấn công",
+    "en": ""
   },
   {
     "hanzi": "席位",
     "pinyin": "xíwèi",
-    "en": "",
-    "vi": ""
+    "vi": "chỗ ngồi",
+    "en": ""
   },
   {
     "hanzi": "喜出望外",
     "pinyin": "xǐchūwàngwài",
-    "en": "",
-    "vi": ""
+    "vi": "Vui mừng khôn xiết",
+    "en": ""
   },
   {
     "hanzi": "洗涤",
     "pinyin": "xǐdí",
-    "en": "",
-    "vi": ""
+    "vi": "rửa",
+    "en": ""
   },
   {
     "hanzi": "喜好",
     "pinyin": "xǐhào",
-    "en": "",
-    "vi": ""
+    "vi": "sở thích",
+    "en": ""
   },
   {
     "hanzi": "喜酒",
     "pinyin": "xǐjiǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Rượu cưới",
+    "en": ""
   },
   {
     "hanzi": "洗礼",
     "pinyin": "xǐlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "lễ rửa tội",
+    "en": ""
   },
   {
     "hanzi": "喜怒哀乐",
     "pinyin": "xǐ-nù-āi-lè",
-    "en": "",
-    "vi": ""
+    "vi": "niềm vui, sự tức giận, nỗi buồn và niềm vui",
+    "en": ""
   },
   {
     "hanzi": "喜庆",
     "pinyin": "xǐqìng",
-    "en": "",
-    "vi": ""
+    "vi": "lễ hội",
+    "en": ""
   },
   {
     "hanzi": "喜糖",
     "pinyin": "xǐtáng",
-    "en": "",
-    "vi": ""
+    "vi": "kẹo cưới",
+    "en": ""
   },
   {
     "hanzi": "喜闻乐见",
     "pinyin": "xǐwén-lèjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Hạnh phúc khi được nghe và thấy",
+    "en": ""
   },
   {
     "hanzi": "喜洋洋",
     "pinyin": "xǐyángyáng",
-    "en": "",
-    "vi": ""
+    "vi": "hân hoan",
+    "en": ""
   },
   {
     "hanzi": "喜悦",
     "pinyin": "xǐyuè",
-    "en": "",
-    "vi": ""
+    "vi": "vui sướng",
+    "en": ""
   },
   {
     "hanzi": "细腻",
     "pinyin": "xìnì",
-    "en": "",
-    "vi": ""
+    "vi": "tinh tế",
+    "en": ""
   },
   {
     "hanzi": "细微",
     "pinyin": "xìwēi",
-    "en": "",
-    "vi": ""
+    "vi": "tinh tế",
+    "en": ""
   },
   {
     "hanzi": "虾",
     "pinyin": "xiā",
-    "en": "",
-    "vi": ""
+    "vi": "con tôm",
+    "en": ""
   },
   {
     "hanzi": "瞎",
     "pinyin": "xiā",
-    "en": "",
-    "vi": ""
+    "vi": "mù",
+    "en": ""
   },
   {
     "hanzi": "狭隘",
     "pinyin": "xiá’ài",
-    "en": "",
-    "vi": ""
+    "vi": "chật hẹp",
+    "en": ""
   },
   {
     "hanzi": "瑕疵",
     "pinyin": "xiácī",
-    "en": "",
-    "vi": ""
+    "vi": "khiếm khuyết",
+    "en": ""
   },
   {
     "hanzi": "峡谷",
     "pinyin": "xiágǔ",
-    "en": "",
-    "vi": ""
+    "vi": "hẻm núi",
+    "en": ""
   },
   {
     "hanzi": "辖区",
     "pinyin": "xiáqū",
-    "en": "",
-    "vi": ""
+    "vi": "Quyền tài phán",
+    "en": ""
   },
   {
     "hanzi": "狭小",
     "pinyin": "xiáxiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "chật hẹp",
+    "en": ""
   },
   {
     "hanzi": "狭义",
     "pinyin": "xiáyì",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩa hẹp",
+    "en": ""
   },
   {
     "hanzi": "狭窄",
     "pinyin": "xiázhǎi",
-    "en": "",
-    "vi": ""
+    "vi": "chật hẹp",
+    "en": ""
   },
   {
     "hanzi": "下半场",
     "pinyin": "xiàbànchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "nửa sau",
+    "en": ""
   },
   {
     "hanzi": "下场",
     "pinyin": "xiàchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "kết thúc",
+    "en": ""
   },
   {
     "hanzi": "下达",
     "pinyin": "xiàdá",
-    "en": "",
-    "vi": ""
+    "vi": "Giải phóng",
+    "en": ""
   },
   {
     "hanzi": "下跌",
     "pinyin": "xiàdiē",
-    "en": "",
-    "vi": ""
+    "vi": "ngã",
+    "en": ""
   },
   {
     "hanzi": "吓唬",
     "pinyin": "xiàhu",
-    "en": "",
-    "vi": ""
+    "vi": "làm sợ hãi",
+    "en": ""
   },
   {
     "hanzi": "下滑",
     "pinyin": "xiàhuá",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "下级",
     "pinyin": "xiàjí",
-    "en": "",
-    "vi": ""
+    "vi": "cấp dưới",
+    "en": ""
   },
   {
     "hanzi": "下令",
     "pinyin": "xiàlìng",
-    "en": "",
-    "vi": ""
+    "vi": "đặt hàng",
+    "en": ""
   },
   {
     "hanzi": "下落",
     "pinyin": "xiàluò",
-    "en": "",
-    "vi": ""
+    "vi": "nơi ở",
+    "en": ""
   },
   {
     "hanzi": "吓人",
     "pinyin": "xiàrén",
-    "en": "",
-    "vi": ""
+    "vi": "đáng sợ",
+    "en": ""
   },
   {
     "hanzi": "下手",
     "pinyin": "xiàshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt đầu",
+    "en": ""
   },
   {
     "hanzi": "下属",
     "pinyin": "xiàshǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cấp dưới",
+    "en": ""
   },
   {
     "hanzi": "下台",
     "pinyin": "xiàtái",
-    "en": "",
-    "vi": ""
+    "vi": "Bước xuống",
+    "en": ""
   },
   {
     "hanzi": "下调",
     "pinyin": "xiàtiáo",
-    "en": "",
-    "vi": ""
+    "vi": "Hạ cấp",
+    "en": ""
   },
   {
     "hanzi": "下行",
     "pinyin": "xiàxíng",
-    "en": "",
-    "vi": ""
+    "vi": "đi xuống",
+    "en": ""
   },
   {
     "hanzi": "下意识",
     "pinyin": "xiàyìshí",
-    "en": "",
-    "vi": ""
+    "vi": "trong tiềm thức",
+    "en": ""
   },
   {
     "hanzi": "下游",
     "pinyin": "xiàyóu",
-    "en": "",
-    "vi": ""
+    "vi": "xuôi dòng",
+    "en": ""
   },
   {
     "hanzi": "下坠",
     "pinyin": "xiàzhuì",
-    "en": "",
-    "vi": ""
+    "vi": "Ngã",
+    "en": ""
   },
   {
     "hanzi": "掀",
     "pinyin": "xiān",
-    "en": "",
-    "vi": ""
+    "vi": "thang máy",
+    "en": ""
   },
   {
     "hanzi": "先锋",
     "pinyin": "xiānfēng",
-    "en": "",
-    "vi": ""
+    "vi": "người tiên phong",
+    "en": ""
   },
   {
     "hanzi": "仙鹤",
     "pinyin": "xiānhè",
-    "en": "",
-    "vi": ""
+    "vi": "cần cẩu",
+    "en": ""
   },
   {
     "hanzi": "鲜活",
     "pinyin": "xiānhuó",
-    "en": "",
-    "vi": ""
+    "vi": "tươi",
+    "en": ""
   },
   {
     "hanzi": "先例",
     "pinyin": "xiānlì",
-    "en": "",
-    "vi": ""
+    "vi": "tiền lệ",
+    "en": ""
   },
   {
     "hanzi": "鲜美",
     "pinyin": "xiānměi",
-    "en": "",
-    "vi": ""
+    "vi": "Thơm ngon",
+    "en": ""
   },
   {
     "hanzi": "仙女",
     "pinyin": "xiānnǚ",
-    "en": "",
-    "vi": ""
+    "vi": "Tiên",
+    "en": ""
   },
   {
     "hanzi": "掀起",
     "pinyin": "xiānqǐ",
-    "en": "",
-    "vi": ""
+    "vi": "khởi hành",
+    "en": ""
   },
   {
     "hanzi": "先天",
     "pinyin": "xiāntiān",
-    "en": "",
-    "vi": ""
+    "vi": "bẩm sinh",
+    "en": ""
   },
   {
     "hanzi": "纤维",
     "pinyin": "xiānwéi",
-    "en": "",
-    "vi": ""
+    "vi": "chất xơ",
+    "en": ""
   },
   {
     "hanzi": "鲜血",
     "pinyin": "xiānxuè",
-    "en": "",
-    "vi": ""
+    "vi": "máu",
+    "en": ""
   },
   {
     "hanzi": "弦",
     "pinyin": "xián",
-    "en": "",
-    "vi": ""
+    "vi": "sợi dây",
+    "en": ""
   },
   {
     "hanzi": "闲话",
     "pinyin": "xiánhuà",
-    "en": "",
-    "vi": ""
+    "vi": "chuyện phiếm",
+    "en": ""
   },
   {
     "hanzi": "衔接",
     "pinyin": "xiánjiē",
-    "en": "",
-    "vi": ""
+    "vi": "kết nối",
+    "en": ""
   },
   {
     "hanzi": "嫌弃",
     "pinyin": "xiánqì",
-    "en": "",
-    "vi": ""
+    "vi": "không thích",
+    "en": ""
   },
   {
     "hanzi": "嫌疑",
     "pinyin": "xiányí",
-    "en": "",
-    "vi": ""
+    "vi": "nghi ngờ",
+    "en": ""
   },
   {
     "hanzi": "闲置",
     "pinyin": "xiánzhì",
-    "en": "",
-    "vi": ""
+    "vi": "nhàn rỗi",
+    "en": ""
   },
   {
     "hanzi": "显而易见",
     "pinyin": "xiǎn’éryìjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "rõ ràng",
+    "en": ""
   },
   {
     "hanzi": "显赫",
     "pinyin": "xiǎnhè",
-    "en": "",
-    "vi": ""
+    "vi": "nổi bật",
+    "en": ""
   },
   {
     "hanzi": "显露",
     "pinyin": "xiǎnlù",
-    "en": "",
-    "vi": ""
+    "vi": "tiết lộ",
+    "en": ""
   },
   {
     "hanzi": "显示器",
     "pinyin": "xiǎnshìqì",
-    "en": "",
-    "vi": ""
+    "vi": "màn hình",
+    "en": ""
   },
   {
     "hanzi": "显微镜",
     "pinyin": "xiǎnwēijìng",
-    "en": "",
-    "vi": ""
+    "vi": "kính hiển vi",
+    "en": ""
   },
   {
     "hanzi": "鲜为人知",
     "pinyin": "xiǎnwéirénzhī",
-    "en": "",
-    "vi": ""
+    "vi": "ít được biết đến",
+    "en": ""
   },
   {
     "hanzi": "显现",
     "pinyin": "xiǎnxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xuất hiện",
+    "en": ""
   },
   {
     "hanzi": "显性",
     "pinyin": "xiǎnxìng",
-    "en": "",
-    "vi": ""
+    "vi": "rõ ràng",
+    "en": ""
   },
   {
     "hanzi": "显眼",
     "pinyin": "xiǎnyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "dễ thấy",
+    "en": ""
   },
   {
     "hanzi": "陷",
     "pinyin": "xiàn",
-    "en": "",
-    "vi": ""
+    "vi": "cạm bẫy",
+    "en": ""
   },
   {
     "hanzi": "馅",
     "pinyin": "xiàn",
-    "en": "",
-    "vi": ""
+    "vi": "điền vào",
+    "en": ""
   },
   {
     "hanzi": "献",
     "pinyin": "xiàn",
-    "en": "",
-    "vi": ""
+    "vi": "lời đề nghị",
+    "en": ""
   },
   {
     "hanzi": "现成",
     "pinyin": "xiànchéng",
-    "en": "",
-    "vi": ""
+    "vi": "làm sẵn",
+    "en": ""
   },
   {
     "hanzi": "限定",
     "pinyin": "xiàndìng",
-    "en": "",
-    "vi": ""
+    "vi": "giới hạn",
+    "en": ""
   },
   {
     "hanzi": "宪法",
     "pinyin": "xiànfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "cấu tạo",
+    "en": ""
   },
   {
     "hanzi": "陷害",
     "pinyin": "xiànhài",
-    "en": "",
-    "vi": ""
+    "vi": "khung",
+    "en": ""
   },
   {
     "hanzi": "陷阱",
     "pinyin": "xiànjǐng",
-    "en": "",
-    "vi": ""
+    "vi": "cạm bẫy",
+    "en": ""
   },
   {
     "hanzi": "现任",
     "pinyin": "xiànrèn",
-    "en": "",
-    "vi": ""
+    "vi": "đương nhiệm",
+    "en": ""
   },
   {
     "hanzi": "线条",
     "pinyin": "xiàntiáo",
-    "en": "",
-    "vi": ""
+    "vi": "đường kẻ",
+    "en": ""
   },
   {
     "hanzi": "现行",
     "pinyin": "xiànxíng",
-    "en": "",
-    "vi": ""
+    "vi": "có hiệu lực",
+    "en": ""
   },
   {
     "hanzi": "镶",
     "pinyin": "xiāng",
-    "en": "",
-    "vi": ""
+    "vi": "bộ",
+    "en": ""
   },
   {
     "hanzi": "相伴",
     "pinyin": "xiāngbàn",
-    "en": "",
-    "vi": ""
+    "vi": "đi cùng",
+    "en": ""
   },
   {
     "hanzi": "相辅相成",
     "pinyin": "xiāngfǔ-xiāngchéng",
-    "en": "",
-    "vi": ""
+    "vi": "bổ sung cho nhau",
+    "en": ""
   },
   {
     "hanzi": "相继",
     "pinyin": "xiāngjì",
-    "en": "",
-    "vi": ""
+    "vi": "lần lượt",
+    "en": ""
   },
   {
     "hanzi": "相近",
     "pinyin": "xiāngjìn",
-    "en": "",
-    "vi": ""
+    "vi": "tương tự",
+    "en": ""
   },
   {
     "hanzi": "香料",
     "pinyin": "xiāngliào",
-    "en": "",
-    "vi": ""
+    "vi": "gia vị",
+    "en": ""
   },
   {
     "hanzi": "镶嵌",
     "pinyin": "xiāngqiàn",
-    "en": "",
-    "vi": ""
+    "vi": "khảm",
+    "en": ""
   },
   {
     "hanzi": "乡亲",
     "pinyin": "xiāngqīn",
-    "en": "",
-    "vi": ""
+    "vi": "mọi người",
+    "en": ""
   },
   {
     "hanzi": "相识",
     "pinyin": "xiāngshí",
-    "en": "",
-    "vi": ""
+    "vi": "người quen",
+    "en": ""
   },
   {
     "hanzi": "相提并论",
     "pinyin": "xiāngtí-bìnglùn",
-    "en": "",
-    "vi": ""
+    "vi": "so sánh",
+    "en": ""
   },
   {
     "hanzi": "相通",
     "pinyin": "xiāngtōng",
-    "en": "",
-    "vi": ""
+    "vi": "Đã kết nối",
+    "en": ""
   },
   {
     "hanzi": "乡下",
     "pinyin": "xiāngxia",
-    "en": "",
-    "vi": ""
+    "vi": "nông thôn",
+    "en": ""
   },
   {
     "hanzi": "香油",
     "pinyin": "xiāngyóu",
-    "en": "",
-    "vi": ""
+    "vi": "dầu mè",
+    "en": ""
   },
   {
     "hanzi": "相遇",
     "pinyin": "xiāngyù",
-    "en": "",
-    "vi": ""
+    "vi": "gặp",
+    "en": ""
   },
   {
     "hanzi": "相约",
     "pinyin": "xiāngyuē",
-    "en": "",
-    "vi": ""
+    "vi": "Gặp",
+    "en": ""
   },
   {
     "hanzi": "祥和",
     "pinyin": "xiánghé",
-    "en": "",
-    "vi": ""
+    "vi": "hoà bình",
+    "en": ""
   },
   {
     "hanzi": "详尽",
     "pinyin": "xiángjìn",
-    "en": "",
-    "vi": ""
+    "vi": "chi tiết",
+    "en": ""
   },
   {
     "hanzi": "享",
     "pinyin": "xiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Thưởng thức",
+    "en": ""
   },
   {
     "hanzi": "想方设法",
     "pinyin": "xiǎngfāng-shèfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "không để lại viên đá nào",
+    "en": ""
   },
   {
     "hanzi": "响亮",
     "pinyin": "xiǎngliàng",
-    "en": "",
-    "vi": ""
+    "vi": "ồn ào",
+    "en": ""
   },
   {
     "hanzi": "响应",
     "pinyin": "xiǎngyìng",
-    "en": "",
-    "vi": ""
+    "vi": "phản ứng",
+    "en": ""
   },
   {
     "hanzi": "享用",
     "pinyin": "xiǎngyòng",
-    "en": "",
-    "vi": ""
+    "vi": "thưởng thức",
+    "en": ""
   },
   {
     "hanzi": "享有",
     "pinyin": "xiǎngyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "thưởng thức",
+    "en": ""
   },
   {
     "hanzi": "巷",
     "pinyin": "xiàng",
-    "en": "",
-    "vi": ""
+    "vi": "làn đường",
+    "en": ""
   },
   {
     "hanzi": "向导",
     "pinyin": "xiàngdǎo",
-    "en": "",
-    "vi": ""
+    "vi": "thuật sĩ",
+    "en": ""
   },
   {
     "hanzi": "橡胶",
     "pinyin": "xiàngjiāo",
-    "en": "",
-    "vi": ""
+    "vi": "cao su",
+    "en": ""
   },
   {
     "hanzi": "向来",
     "pinyin": "xiànglái",
-    "en": "",
-    "vi": ""
+    "vi": "luôn luôn",
+    "en": ""
   },
   {
     "hanzi": "相貌",
     "pinyin": "xiàngmào",
-    "en": "",
-    "vi": ""
+    "vi": "vẻ bề ngoài",
+    "en": ""
   },
   {
     "hanzi": "像样",
     "pinyin": "xiàngyàng",
-    "en": "",
-    "vi": ""
+    "vi": "tử tế",
+    "en": ""
   },
   {
     "hanzi": "消",
     "pinyin": "xiāo",
-    "en": "",
-    "vi": ""
+    "vi": "di dời",
+    "en": ""
   },
   {
     "hanzi": "销",
     "pinyin": "xiāo",
-    "en": "",
-    "vi": ""
+    "vi": "ghim",
+    "en": ""
   },
   {
     "hanzi": "削",
     "pinyin": "xiāo",
-    "en": "",
-    "vi": ""
+    "vi": "cắt",
+    "en": ""
   },
   {
     "hanzi": "消沉",
     "pinyin": "xiāochén",
-    "en": "",
-    "vi": ""
+    "vi": "trầm cảm",
+    "en": ""
   },
   {
     "hanzi": "销毁",
     "pinyin": "xiāohuǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hủy hoại",
+    "en": ""
   },
   {
     "hanzi": "消磨",
     "pinyin": "xiāomó",
-    "en": "",
-    "vi": ""
+    "vi": "giết thời gian",
+    "en": ""
   },
   {
     "hanzi": "消遣",
     "pinyin": "xiāoqiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "trò tiêu khiển",
+    "en": ""
   },
   {
     "hanzi": "潇洒",
     "pinyin": "xiāosǎ",
-    "en": "",
-    "vi": ""
+    "vi": "sang trọng",
+    "en": ""
   },
   {
     "hanzi": "萧条",
     "pinyin": "xiāotiáo",
-    "en": "",
-    "vi": ""
+    "vi": "trầm cảm",
+    "en": ""
   },
   {
     "hanzi": "嚣张",
     "pinyin": "xiāozhāng",
-    "en": "",
-    "vi": ""
+    "vi": "Kiêu ngạo",
+    "en": ""
   },
   {
     "hanzi": "小菜一碟",
     "pinyin": "xiǎocài-yìdié",
-    "en": "",
-    "vi": ""
+    "vi": "miếng bánh",
+    "en": ""
   },
   {
     "hanzi": "小丑",
     "pinyin": "xiǎochǒu",
-    "en": "",
-    "vi": ""
+    "vi": "thằng hề",
+    "en": ""
   },
   {
     "hanzi": "小费",
     "pinyin": "xiǎofèi",
-    "en": "",
-    "vi": ""
+    "vi": "mẹo",
+    "en": ""
   },
   {
     "hanzi": "小看",
     "pinyin": "xiǎokàn",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn xuống",
+    "en": ""
   },
   {
     "hanzi": "小康",
     "pinyin": "xiǎokāng",
-    "en": "",
-    "vi": ""
+    "vi": "khá giả",
+    "en": ""
   },
   {
     "hanzi": "小品",
     "pinyin": "xiǎopǐn",
-    "en": "",
-    "vi": ""
+    "vi": "phác thảo",
+    "en": ""
   },
   {
     "hanzi": "小人",
     "pinyin": "xiǎorén",
-    "en": "",
-    "vi": ""
+    "vi": "nhân vật phản diện",
+    "en": ""
   },
   {
     "hanzi": "小提琴",
     "pinyin": "xiǎotíqín",
-    "en": "",
-    "vi": ""
+    "vi": "violon",
+    "en": ""
   },
   {
     "hanzi": "小心翼翼",
     "pinyin": "xiǎoxīn-yìyì",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy thận trọng",
+    "en": ""
   },
   {
     "hanzi": "效仿",
     "pinyin": "xiàofǎng",
-    "en": "",
-    "vi": ""
+    "vi": "bắt chước",
+    "en": ""
   },
   {
     "hanzi": "孝敬",
     "pinyin": "xiàojìng",
-    "en": "",
-    "vi": ""
+    "vi": "lòng hiếu thảo",
+    "en": ""
   },
   {
     "hanzi": "效力",
     "pinyin": "xiàolì",
-    "en": "",
-    "vi": ""
+    "vi": "hiệu quả",
+    "en": ""
   },
   {
     "hanzi": "孝顺",
     "pinyin": "xiàoshùn",
-    "en": "",
-    "vi": ""
+    "vi": "lòng hiếu thảo",
+    "en": ""
   },
   {
     "hanzi": "肖像",
     "pinyin": "xiàoxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "chân dung",
+    "en": ""
   },
   {
     "hanzi": "效益",
     "pinyin": "xiàoyì",
-    "en": "",
-    "vi": ""
+    "vi": "lợi ích",
+    "en": ""
   },
   {
     "hanzi": "邪",
     "pinyin": "xié",
-    "en": "",
-    "vi": ""
+    "vi": "độc ác",
+    "en": ""
   },
   {
     "hanzi": "挟持",
     "pinyin": "xiéchí",
-    "en": "",
-    "vi": ""
+    "vi": "Cướp",
+    "en": ""
   },
   {
     "hanzi": "协定",
     "pinyin": "xiédìng",
-    "en": "",
-    "vi": ""
+    "vi": "hiệp định",
+    "en": ""
   },
   {
     "hanzi": "邪恶",
     "pinyin": "xié’è",
-    "en": "",
-    "vi": ""
+    "vi": "độc ác",
+    "en": ""
   },
   {
     "hanzi": "协商",
     "pinyin": "xiéshāng",
-    "en": "",
-    "vi": ""
+    "vi": "Thương lượng",
+    "en": ""
   },
   {
     "hanzi": "携手",
     "pinyin": "xiéshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "tay trong tay",
+    "en": ""
   },
   {
     "hanzi": "协同",
     "pinyin": "xiétóng",
-    "en": "",
-    "vi": ""
+    "vi": "Sự hợp tác",
+    "en": ""
   },
   {
     "hanzi": "协作",
     "pinyin": "xiézuò",
-    "en": "",
-    "vi": ""
+    "vi": "sự hợp tác",
+    "en": ""
   },
   {
     "hanzi": "写照",
     "pinyin": "xiězhào",
-    "en": "",
-    "vi": ""
+    "vi": "miêu tả",
+    "en": ""
   },
   {
     "hanzi": "泄",
     "pinyin": "xiè",
-    "en": "",
-    "vi": ""
+    "vi": "trút giận",
+    "en": ""
   },
   {
     "hanzi": "泻",
     "pinyin": "xiè",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu chảy",
+    "en": ""
   },
   {
     "hanzi": "卸",
     "pinyin": "xiè",
-    "en": "",
-    "vi": ""
+    "vi": "dỡ hàng",
+    "en": ""
   },
   {
     "hanzi": "谢绝",
     "pinyin": "xièjué",
-    "en": "",
-    "vi": ""
+    "vi": "sự suy sụp",
+    "en": ""
   },
   {
     "hanzi": "泄漏",
     "pinyin": "xièlòu",
-    "en": "",
-    "vi": ""
+    "vi": "Sự rò rỉ",
+    "en": ""
   },
   {
     "hanzi": "泄露",
     "pinyin": "xièlòu",
-    "en": "",
-    "vi": ""
+    "vi": "Nhường đường",
+    "en": ""
   },
   {
     "hanzi": "泄密",
     "pinyin": "xièmì",
-    "en": "",
-    "vi": ""
+    "vi": "Hở",
+    "en": ""
   },
   {
     "hanzi": "泄气",
     "pinyin": "xièqì",
-    "en": "",
-    "vi": ""
+    "vi": "chán nản",
+    "en": ""
   },
   {
     "hanzi": "卸任",
     "pinyin": "xièrèn",
-    "en": "",
-    "vi": ""
+    "vi": "Từ chức",
+    "en": ""
   },
   {
     "hanzi": "卸载",
     "pinyin": "xièzài",
-    "en": "",
-    "vi": ""
+    "vi": "gỡ cài đặt",
+    "en": ""
   },
   {
     "hanzi": "心安理得",
     "pinyin": "xīn’ān-lǐdé",
-    "en": "",
-    "vi": ""
+    "vi": "Yên tâm",
+    "en": ""
   },
   {
     "hanzi": "心病",
     "pinyin": "xīnbìng",
-    "en": "",
-    "vi": ""
+    "vi": "Bệnh tim",
+    "en": ""
   },
   {
     "hanzi": "心肠",
     "pinyin": "xīncháng",
-    "en": "",
-    "vi": ""
+    "vi": "trái tim",
+    "en": ""
   },
   {
     "hanzi": "新潮",
     "pinyin": "xīncháo",
-    "en": "",
-    "vi": ""
+    "vi": "hợp thời trang",
+    "en": ""
   },
   {
     "hanzi": "新陈代谢",
     "pinyin": "xīnchén-dàixiè",
-    "en": "",
-    "vi": ""
+    "vi": "Trao đổi chất",
+    "en": ""
   },
   {
     "hanzi": "薪酬",
     "pinyin": "xīnchóu",
-    "en": "",
-    "vi": ""
+    "vi": "Lương",
+    "en": ""
   },
   {
     "hanzi": "新春",
     "pinyin": "xīnchūn",
-    "en": "",
-    "vi": ""
+    "vi": "năm mới",
+    "en": ""
   },
   {
     "hanzi": "心得",
     "pinyin": "xīndé",
-    "en": "",
-    "vi": ""
+    "vi": "Kinh nghiệm",
+    "en": ""
   },
   {
     "hanzi": "心甘情愿",
     "pinyin": "xīngān-qíngyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "tự nguyện",
+    "en": ""
   },
   {
     "hanzi": "心慌",
     "pinyin": "xīnhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "bối rối",
+    "en": ""
   },
   {
     "hanzi": "心急如焚",
     "pinyin": "xīnjí-rúfén",
-    "en": "",
-    "vi": ""
+    "vi": "lo lắng",
+    "en": ""
   },
   {
     "hanzi": "心灵手巧",
     "pinyin": "xīnlíng-shǒuqiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Ngây thơ",
+    "en": ""
   },
   {
     "hanzi": "芯片",
     "pinyin": "xīnpiàn",
-    "en": "",
-    "vi": ""
+    "vi": "chip",
+    "en": ""
   },
   {
     "hanzi": "新奇",
     "pinyin": "xīnqí",
-    "en": "",
-    "vi": ""
+    "vi": "cuốn tiểu thuyết",
+    "en": ""
   },
   {
     "hanzi": "辛勤",
     "pinyin": "xīnqín",
-    "en": "",
-    "vi": ""
+    "vi": "Làm việc chăm chỉ",
+    "en": ""
   },
   {
     "hanzi": "心声",
     "pinyin": "xīnshēng",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếng nói",
+    "en": ""
   },
   {
     "hanzi": "新生",
     "pinyin": "xīnshēng",
-    "en": "",
-    "vi": ""
+    "vi": "trẻ sơ sinh",
+    "en": ""
   },
   {
     "hanzi": "心事",
     "pinyin": "xīnshì",
-    "en": "",
-    "vi": ""
+    "vi": "lo lắng",
+    "en": ""
   },
   {
     "hanzi": "新式",
     "pinyin": "xīnshì",
-    "en": "",
-    "vi": ""
+    "vi": "Phong cách mới",
+    "en": ""
   },
   {
     "hanzi": "新手",
     "pinyin": "xīnshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "người mới",
+    "en": ""
   },
   {
     "hanzi": "心思",
     "pinyin": "xīnsi",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩ",
+    "en": ""
   },
   {
     "hanzi": "心酸",
     "pinyin": "xīnsuān",
-    "en": "",
-    "vi": ""
+    "vi": "buồn",
+    "en": ""
   },
   {
     "hanzi": "辛酸",
     "pinyin": "xīnsuān",
-    "en": "",
-    "vi": ""
+    "vi": "vị đắng",
+    "en": ""
   },
   {
     "hanzi": "欣慰",
     "pinyin": "xīnwèi",
-    "en": "",
-    "vi": ""
+    "vi": "vừa lòng",
+    "en": ""
   },
   {
     "hanzi": "欣喜",
     "pinyin": "xīnxǐ",
-    "en": "",
-    "vi": ""
+    "vi": "vui mừng",
+    "en": ""
   },
   {
     "hanzi": "心想事成",
     "pinyin": "xīnxiǎng-shìchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Có thể tất cả mong muốn của bạn trở thành sự thật",
+    "en": ""
   },
   {
     "hanzi": "欣欣向荣",
     "pinyin": "xīnxīn-xiàngróng",
-    "en": "",
-    "vi": ""
+    "vi": "phát triển mạnh",
+    "en": ""
   },
   {
     "hanzi": "心胸",
     "pinyin": "xīnxiōng",
-    "en": "",
-    "vi": ""
+    "vi": "cởi mở",
+    "en": ""
   },
   {
     "hanzi": "心血",
     "pinyin": "xīnxuè",
-    "en": "",
-    "vi": ""
+    "vi": "nỗ lực chăm chỉ",
+    "en": ""
   },
   {
     "hanzi": "心眼儿",
     "pinyin": "xīnyǎnr",
-    "en": "",
-    "vi": ""
+    "vi": "Tư duy",
+    "en": ""
   },
   {
     "hanzi": "心意",
     "pinyin": "xīnyì",
-    "en": "",
-    "vi": ""
+    "vi": "tâm trí",
+    "en": ""
   },
   {
     "hanzi": "信贷",
     "pinyin": "xìndài",
-    "en": "",
-    "vi": ""
+    "vi": "tín dụng",
+    "en": ""
   },
   {
     "hanzi": "信件",
     "pinyin": "xìnjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "thư",
+    "en": ""
   },
   {
     "hanzi": "信仰",
     "pinyin": "xìnyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Sự tin tưởng",
+    "en": ""
   },
   {
     "hanzi": "信誉",
     "pinyin": "xìnyù",
-    "en": "",
-    "vi": ""
+    "vi": "Danh tiếng",
+    "en": ""
   },
   {
     "hanzi": "腥",
     "pinyin": "xīng",
-    "en": "",
-    "vi": ""
+    "vi": "tanh",
+    "en": ""
   },
   {
     "hanzi": "兴奋剂",
     "pinyin": "xīngfènjì",
-    "en": "",
-    "vi": ""
+    "vi": "doping",
+    "en": ""
   },
   {
     "hanzi": "星级",
     "pinyin": "xīngjí",
-    "en": "",
-    "vi": ""
+    "vi": "xếp hạng sao",
+    "en": ""
   },
   {
     "hanzi": "兴建",
     "pinyin": "xīngjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "xây dựng",
+    "en": ""
   },
   {
     "hanzi": "兴隆",
     "pinyin": "xīnglóng",
-    "en": "",
-    "vi": ""
+    "vi": "thịnh vượng",
+    "en": ""
   },
   {
     "hanzi": "星球",
     "pinyin": "xīngqiú",
-    "en": "",
-    "vi": ""
+    "vi": "hành tinh",
+    "en": ""
   },
   {
     "hanzi": "兴盛",
     "pinyin": "xīngshèng",
-    "en": "",
-    "vi": ""
+    "vi": "thịnh vượng",
+    "en": ""
   },
   {
     "hanzi": "兴旺",
     "pinyin": "xīngwàng",
-    "en": "",
-    "vi": ""
+    "vi": "thịnh vượng",
+    "en": ""
   },
   {
     "hanzi": "星系",
     "pinyin": "xīngxì",
-    "en": "",
-    "vi": ""
+    "vi": "thiên hà",
+    "en": ""
   },
   {
     "hanzi": "猩猩",
     "pinyin": "xīngxing",
-    "en": "",
-    "vi": ""
+    "vi": "tinh tinh",
+    "en": ""
   },
   {
     "hanzi": "星座",
     "pinyin": "xīngzuò",
-    "en": "",
-    "vi": ""
+    "vi": "chòm sao",
+    "en": ""
   },
   {
     "hanzi": "刑法",
     "pinyin": "xíngfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "luật hình sự",
+    "en": ""
   },
   {
     "hanzi": "刑事",
     "pinyin": "xíngshì",
-    "en": "",
-    "vi": ""
+    "vi": "tội phạm",
+    "en": ""
   },
   {
     "hanzi": "行使",
     "pinyin": "xíngshǐ",
-    "en": "",
-    "vi": ""
+    "vi": "bài tập",
+    "en": ""
   },
   {
     "hanzi": "行星",
     "pinyin": "xíngxīng",
-    "en": "",
-    "vi": ""
+    "vi": "hành tinh",
+    "en": ""
   },
   {
     "hanzi": "形形色色",
     "pinyin": "xíngxíngsèsè",
-    "en": "",
-    "vi": ""
+    "vi": "đủ loại",
+    "en": ""
   },
   {
     "hanzi": "形影不离",
     "pinyin": "xíngyǐng-bùlí",
-    "en": "",
-    "vi": ""
+    "vi": "không thể tách rời",
+    "en": ""
   },
   {
     "hanzi": "行政",
     "pinyin": "xíngzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "hành chính",
+    "en": ""
   },
   {
     "hanzi": "醒目",
     "pinyin": "xǐngmù",
-    "en": "",
-    "vi": ""
+    "vi": "Bắt mắt",
+    "en": ""
   },
   {
     "hanzi": "醒悟",
     "pinyin": "xǐngwù",
-    "en": "",
-    "vi": ""
+    "vi": "thức dậy",
+    "en": ""
   },
   {
     "hanzi": "幸存",
     "pinyin": "xìngcún",
-    "en": "",
-    "vi": ""
+    "vi": "sống sót",
+    "en": ""
   },
   {
     "hanzi": "性感",
     "pinyin": "xìnggǎn",
-    "en": "",
-    "vi": ""
+    "vi": "gợi cảm",
+    "en": ""
   },
   {
     "hanzi": "兴高采烈",
     "pinyin": "xìnggāo-cǎiliè",
-    "en": "",
-    "vi": ""
+    "vi": "hân hoan",
+    "en": ""
   },
   {
     "hanzi": "幸好",
     "pinyin": "xìnghǎo",
-    "en": "",
-    "vi": ""
+    "vi": "may mắn thay",
+    "en": ""
   },
   {
     "hanzi": "幸亏",
     "pinyin": "xìngkuī",
-    "en": "",
-    "vi": ""
+    "vi": "May mắn thay",
+    "en": ""
   },
   {
     "hanzi": "幸免",
     "pinyin": "xìngmiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tha",
+    "en": ""
   },
   {
     "hanzi": "性命",
     "pinyin": "xìngmìng",
-    "en": "",
-    "vi": ""
+    "vi": "mạng sống",
+    "en": ""
   },
   {
     "hanzi": "性情",
     "pinyin": "xìngqíng",
-    "en": "",
-    "vi": ""
+    "vi": "tính khí",
+    "en": ""
   },
   {
     "hanzi": "姓氏",
     "pinyin": "xìngshì",
-    "en": "",
-    "vi": ""
+    "vi": "Họ",
+    "en": ""
   },
   {
     "hanzi": "兴致",
     "pinyin": "xìngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "凶",
     "pinyin": "xiōng",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "凶残",
     "pinyin": "xiōngcán",
-    "en": "",
-    "vi": ""
+    "vi": "tàn bạo",
+    "en": ""
   },
   {
     "hanzi": "凶恶",
     "pinyin": "xiōng’è",
-    "en": "",
-    "vi": ""
+    "vi": "luẩn quẩn",
+    "en": ""
   },
   {
     "hanzi": "凶狠",
     "pinyin": "xiōnghěn",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "胸怀",
     "pinyin": "xiōnghuái",
-    "en": "",
-    "vi": ""
+    "vi": "tâm trí",
+    "en": ""
   },
   {
     "hanzi": "凶猛",
     "pinyin": "xiōngměng",
-    "en": "",
-    "vi": ""
+    "vi": "hung dữ",
+    "en": ""
   },
   {
     "hanzi": "凶手",
     "pinyin": "xiōngshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "kẻ giết người",
+    "en": ""
   },
   {
     "hanzi": "胸膛",
     "pinyin": "xiōngtáng",
-    "en": "",
-    "vi": ""
+    "vi": "ngực",
+    "en": ""
   },
   {
     "hanzi": "汹涌",
     "pinyin": "xiōngyǒng",
-    "en": "",
-    "vi": ""
+    "vi": "hỗn loạn",
+    "en": ""
   },
   {
     "hanzi": "胸有成竹",
     "pinyin": "xiōngyǒuchéngzhú",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy tự tin",
+    "en": ""
   },
   {
     "hanzi": "雄厚",
     "pinyin": "xiónghòu",
-    "en": "",
-    "vi": ""
+    "vi": "giàu có",
+    "en": ""
   },
   {
     "hanzi": "雄伟",
     "pinyin": "xióngwěi",
-    "en": "",
-    "vi": ""
+    "vi": "hùng vĩ",
+    "en": ""
   },
   {
     "hanzi": "雄性",
     "pinyin": "xióngxìng",
-    "en": "",
-    "vi": ""
+    "vi": "nam giới",
+    "en": ""
   },
   {
     "hanzi": "修补",
     "pinyin": "xiūbǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Sửa chữa",
+    "en": ""
   },
   {
     "hanzi": "修长",
     "pinyin": "xiūcháng",
-    "en": "",
-    "vi": ""
+    "vi": "Mảnh khảnh",
+    "en": ""
   },
   {
     "hanzi": "羞耻",
     "pinyin": "xiūchǐ",
-    "en": "",
-    "vi": ""
+    "vi": "nỗi tủi nhục",
+    "en": ""
   },
   {
     "hanzi": "休克",
     "pinyin": "xiūkè",
-    "en": "",
-    "vi": ""
+    "vi": "sốc",
+    "en": ""
   },
   {
     "hanzi": "羞愧",
     "pinyin": "xiūkuì",
-    "en": "",
-    "vi": ""
+    "vi": "xấu hổ",
+    "en": ""
   },
   {
     "hanzi": "休眠",
     "pinyin": "xiūmián",
-    "en": "",
-    "vi": ""
+    "vi": "ngủ đông",
+    "en": ""
   },
   {
     "hanzi": "休想",
     "pinyin": "xiūxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Thậm chí đừng nghĩ về nó",
+    "en": ""
   },
   {
     "hanzi": "休养",
     "pinyin": "xiūyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "phục hồi",
+    "en": ""
   },
   {
     "hanzi": "修养",
     "pinyin": "xiūyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "đào tạo",
+    "en": ""
   },
   {
     "hanzi": "修正",
     "pinyin": "xiūzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Sửa chữa",
+    "en": ""
   },
   {
     "hanzi": "绣",
     "pinyin": "xiù",
-    "en": "",
-    "vi": ""
+    "vi": "thêu",
+    "en": ""
   },
   {
     "hanzi": "锈",
     "pinyin": "xiù",
-    "en": "",
-    "vi": ""
+    "vi": "rỉ sét",
+    "en": ""
   },
   {
     "hanzi": "嗅",
     "pinyin": "xiù",
-    "en": "",
-    "vi": ""
+    "vi": "đánh hơi",
+    "en": ""
   },
   {
     "hanzi": "嗅觉",
     "pinyin": "xiùjué",
-    "en": "",
-    "vi": ""
+    "vi": "khứu giác",
+    "en": ""
   },
   {
     "hanzi": "秀丽",
     "pinyin": "xiùlì",
-    "en": "",
-    "vi": ""
+    "vi": "xinh đẹp",
+    "en": ""
   },
   {
     "hanzi": "秀美",
     "pinyin": "xiùměi",
-    "en": "",
-    "vi": ""
+    "vi": "xinh đẹp",
+    "en": ""
   },
   {
     "hanzi": "袖手旁观",
     "pinyin": "xiùshǒu-pángguān",
-    "en": "",
-    "vi": ""
+    "vi": "đứng sang một bên và quan sát",
+    "en": ""
   },
   {
     "hanzi": "袖珍",
     "pinyin": "xiùzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "túi",
+    "en": ""
   },
   {
     "hanzi": "须",
     "pinyin": "xū",
-    "en": "",
-    "vi": ""
+    "vi": "Phải",
+    "en": ""
   },
   {
     "hanzi": "虚",
     "pinyin": "xū",
-    "en": "",
-    "vi": ""
+    "vi": "trống",
+    "en": ""
   },
   {
     "hanzi": "虚构",
     "pinyin": "xūgòu",
-    "en": "",
-    "vi": ""
+    "vi": "tưởng tượng",
+    "en": ""
   },
   {
     "hanzi": "虚幻",
     "pinyin": "xūhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "ảo tưởng",
+    "en": ""
   },
   {
     "hanzi": "虚假",
     "pinyin": "xūjiǎ",
-    "en": "",
-    "vi": ""
+    "vi": "SAI",
+    "en": ""
   },
   {
     "hanzi": "虚拟",
     "pinyin": "xūnǐ",
-    "en": "",
-    "vi": ""
+    "vi": "ảo",
+    "en": ""
   },
   {
     "hanzi": "虚荣",
     "pinyin": "xūróng",
-    "en": "",
-    "vi": ""
+    "vi": "sự phù phiếm",
+    "en": ""
   },
   {
     "hanzi": "虚弱",
     "pinyin": "xūruò",
-    "en": "",
-    "vi": ""
+    "vi": "yếu đuối",
+    "en": ""
   },
   {
     "hanzi": "虚伪",
     "pinyin": "xūwěi",
-    "en": "",
-    "vi": ""
+    "vi": "đạo đức giả",
+    "en": ""
   },
   {
     "hanzi": "须知",
     "pinyin": "xūzhī",
-    "en": "",
-    "vi": ""
+    "vi": "Để ý",
+    "en": ""
   },
   {
     "hanzi": "徐徐",
     "pinyin": "xúxú",
-    "en": "",
-    "vi": ""
+    "vi": "chậm",
+    "en": ""
   },
   {
     "hanzi": "许",
     "pinyin": "xǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Có thể",
+    "en": ""
   },
   {
     "hanzi": "许愿",
     "pinyin": "xǔyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Thực hiện một điều ước",
+    "en": ""
   },
   {
     "hanzi": "序",
     "pinyin": "xù",
-    "en": "",
-    "vi": ""
+    "vi": "sự liên tiếp",
+    "en": ""
   },
   {
     "hanzi": "续",
     "pinyin": "xù",
-    "en": "",
-    "vi": ""
+    "vi": "Tiếp theo",
+    "en": ""
   },
   {
     "hanzi": "絮叨",
     "pinyin": "xùdao",
-    "en": "",
-    "vi": ""
+    "vi": "lảm nhảm",
+    "en": ""
   },
   {
     "hanzi": "续航",
     "pinyin": "xùháng",
-    "en": "",
-    "vi": ""
+    "vi": "Tuổi thọ pin",
+    "en": ""
   },
   {
     "hanzi": "酗酒",
     "pinyin": "xùjiǔ",
-    "en": "",
-    "vi": ""
+    "vi": "chứng nghiện rượu",
+    "en": ""
   },
   {
     "hanzi": "序列",
     "pinyin": "xùliè",
-    "en": "",
-    "vi": ""
+    "vi": "sự liên tiếp",
+    "en": ""
   },
   {
     "hanzi": "畜牧",
     "pinyin": "xùmù",
-    "en": "",
-    "vi": ""
+    "vi": "chăn nuôi",
+    "en": ""
   },
   {
     "hanzi": "序幕",
     "pinyin": "xùmù",
-    "en": "",
-    "vi": ""
+    "vi": "khúc dạo đầu",
+    "en": ""
   },
   {
     "hanzi": "旭日",
     "pinyin": "xùrì",
-    "en": "",
-    "vi": ""
+    "vi": "mặt trời mọc",
+    "en": ""
   },
   {
     "hanzi": "序言",
     "pinyin": "xùyán",
-    "en": "",
-    "vi": ""
+    "vi": "Lời nói đầu",
+    "en": ""
   },
   {
     "hanzi": "宣称",
     "pinyin": "xuānchēng",
-    "en": "",
-    "vi": ""
+    "vi": "khẳng định",
+    "en": ""
   },
   {
     "hanzi": "宣读",
     "pinyin": "xuāndú",
-    "en": "",
-    "vi": ""
+    "vi": "Đọc to",
+    "en": ""
   },
   {
     "hanzi": "宣告",
     "pinyin": "xuāngào",
-    "en": "",
-    "vi": ""
+    "vi": "tuyên bố",
+    "en": ""
   },
   {
     "hanzi": "喧哗",
     "pinyin": "xuānhuá",
-    "en": "",
-    "vi": ""
+    "vi": "ồn ào",
+    "en": ""
   },
   {
     "hanzi": "喧闹",
     "pinyin": "xuānnào",
-    "en": "",
-    "vi": ""
+    "vi": "Ồn ào",
+    "en": ""
   },
   {
     "hanzi": "宣誓",
     "pinyin": "xuānshì",
-    "en": "",
-    "vi": ""
+    "vi": "thề một lời thề",
+    "en": ""
   },
   {
     "hanzi": "宣泄",
     "pinyin": "xuānxiè",
-    "en": "",
-    "vi": ""
+    "vi": "tẩy rửa",
+    "en": ""
   },
   {
     "hanzi": "宣言",
     "pinyin": "xuānyán",
-    "en": "",
-    "vi": ""
+    "vi": "tuyên ngôn",
+    "en": ""
   },
   {
     "hanzi": "宣扬",
     "pinyin": "xuānyáng",
-    "en": "",
-    "vi": ""
+    "vi": "Khuyến khích",
+    "en": ""
   },
   {
     "hanzi": "玄",
     "pinyin": "xuán",
-    "en": "",
-    "vi": ""
+    "vi": "bí ẩn",
+    "en": ""
   },
   {
     "hanzi": "悬",
     "pinyin": "xuán",
-    "en": "",
-    "vi": ""
+    "vi": "treo",
+    "en": ""
   },
   {
     "hanzi": "悬挂",
     "pinyin": "xuánguà",
-    "en": "",
-    "vi": ""
+    "vi": "đình chỉ",
+    "en": ""
   },
   {
     "hanzi": "玄机",
     "pinyin": "xuánjī",
-    "en": "",
-    "vi": ""
+    "vi": "Bí ẩn",
+    "en": ""
   },
   {
     "hanzi": "旋律",
     "pinyin": "xuánlǜ",
-    "en": "",
-    "vi": ""
+    "vi": "giai điệu",
+    "en": ""
   },
   {
     "hanzi": "悬念",
     "pinyin": "xuánniàn",
-    "en": "",
-    "vi": ""
+    "vi": "hồi hộp",
+    "en": ""
   },
   {
     "hanzi": "悬殊",
     "pinyin": "xuánshū",
-    "en": "",
-    "vi": ""
+    "vi": "sự chênh lệch lớn",
+    "en": ""
   },
   {
     "hanzi": "旋涡",
     "pinyin": "xuánwō",
-    "en": "",
-    "vi": ""
+    "vi": "xoáy nước",
+    "en": ""
   },
   {
     "hanzi": "悬崖",
     "pinyin": "xuányá",
-    "en": "",
-    "vi": ""
+    "vi": "vách đá",
+    "en": ""
   },
   {
     "hanzi": "选举",
     "pinyin": "xuǎnjǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cuộc bầu cử",
+    "en": ""
   },
   {
     "hanzi": "选民",
     "pinyin": "xuǎnmín",
-    "en": "",
-    "vi": ""
+    "vi": "cử tri",
+    "en": ""
   },
   {
     "hanzi": "选项",
     "pinyin": "xuǎnxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Tùy chọn",
+    "en": ""
   },
   {
     "hanzi": "选用",
     "pinyin": "xuǎnyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Lựa chọn",
+    "en": ""
   },
   {
     "hanzi": "炫耀",
     "pinyin": "xuànyào",
-    "en": "",
-    "vi": ""
+    "vi": "khoe khoang",
+    "en": ""
   },
   {
     "hanzi": "削减",
     "pinyin": "xuējiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "giảm bớt",
+    "en": ""
   },
   {
     "hanzi": "削弱",
     "pinyin": "xuēruò",
-    "en": "",
-    "vi": ""
+    "vi": "suy yếu",
+    "en": ""
   },
   {
     "hanzi": "靴子",
     "pinyin": "xuēzi",
-    "en": "",
-    "vi": ""
+    "vi": "bốt",
+    "en": ""
   },
   {
     "hanzi": "学识",
     "pinyin": "xuéshí",
-    "en": "",
-    "vi": ""
+    "vi": "kiến thức",
+    "en": ""
   },
   {
     "hanzi": "学士",
     "pinyin": "xuéshì",
-    "en": "",
-    "vi": ""
+    "vi": "Cử nhân",
+    "en": ""
   },
   {
     "hanzi": "学说",
     "pinyin": "xuéshuō",
-    "en": "",
-    "vi": ""
+    "vi": "lý thuyết",
+    "en": ""
   },
   {
     "hanzi": "穴位",
     "pinyin": "xuéwèi",
-    "en": "",
-    "vi": ""
+    "vi": "huyệt đạo",
+    "en": ""
   },
   {
     "hanzi": "学业",
     "pinyin": "xuéyè",
-    "en": "",
-    "vi": ""
+    "vi": "nghiên cứu",
+    "en": ""
   },
   {
     "hanzi": "学子",
     "pinyin": "xuézǐ",
-    "en": "",
-    "vi": ""
+    "vi": "học sinh",
+    "en": ""
   },
   {
     "hanzi": "雪山",
     "pinyin": "xuěshān",
-    "en": "",
-    "vi": ""
+    "vi": "núi tuyết",
+    "en": ""
   },
   {
     "hanzi": "雪上加霜",
     "pinyin": "xuěshàng-jiāshuāng",
-    "en": "",
-    "vi": ""
+    "vi": "Thêm sự xúc phạm đến thương tích",
+    "en": ""
   },
   {
     "hanzi": "血脉",
     "pinyin": "xuèmài",
-    "en": "",
-    "vi": ""
+    "vi": "huyết thống",
+    "en": ""
   },
   {
     "hanzi": "血缘",
     "pinyin": "xuèyuán",
-    "en": "",
-    "vi": ""
+    "vi": "Huyết thống",
+    "en": ""
   },
   {
     "hanzi": "熏",
     "pinyin": "xūn",
-    "en": "",
-    "vi": ""
+    "vi": "khói",
+    "en": ""
   },
   {
     "hanzi": "熏陶",
     "pinyin": "xūntáo",
-    "en": "",
-    "vi": ""
+    "vi": "sự gây dựng",
+    "en": ""
   },
   {
     "hanzi": "勋章",
     "pinyin": "xūnzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "huy chương",
+    "en": ""
   },
   {
     "hanzi": "旬",
     "pinyin": "xún",
-    "en": "",
-    "vi": ""
+    "vi": "mười ngày",
+    "en": ""
   },
   {
     "hanzi": "寻",
     "pinyin": "xún",
-    "en": "",
-    "vi": ""
+    "vi": "tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "寻常",
     "pinyin": "xúncháng",
-    "en": "",
-    "vi": ""
+    "vi": "chung",
+    "en": ""
   },
   {
     "hanzi": "巡回",
     "pinyin": "xúnhuí",
-    "en": "",
-    "vi": ""
+    "vi": "chuyến du lịch",
+    "en": ""
   },
   {
     "hanzi": "巡逻",
     "pinyin": "xúnluó",
-    "en": "",
-    "vi": ""
+    "vi": "tuần tra",
+    "en": ""
   },
   {
     "hanzi": "寻觅",
     "pinyin": "xúnmì",
-    "en": "",
-    "vi": ""
+    "vi": "đang tìm kiếm",
+    "en": ""
   },
   {
     "hanzi": "巡视",
     "pinyin": "xúnshì",
-    "en": "",
-    "vi": ""
+    "vi": "tuần tra",
+    "en": ""
   },
   {
     "hanzi": "循序渐进",
     "pinyin": "xúnxù-jiànjìn",
-    "en": "",
-    "vi": ""
+    "vi": "từng bước một",
+    "en": ""
   },
   {
     "hanzi": "训",
     "pinyin": "xùn",
-    "en": "",
-    "vi": ""
+    "vi": "đào tạo",
+    "en": ""
   },
   {
     "hanzi": "驯",
     "pinyin": "xùn",
-    "en": "",
-    "vi": ""
+    "vi": "thuần hóa",
+    "en": ""
   },
   {
     "hanzi": "迅猛",
     "pinyin": "xùnměng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhanh nhẹn và bạo lực",
+    "en": ""
   },
   {
     "hanzi": "逊色",
     "pinyin": "xùnsè",
-    "en": "",
-    "vi": ""
+    "vi": "kém cỏi",
+    "en": ""
   },
   {
     "hanzi": "押",
     "pinyin": "yā",
-    "en": "",
-    "vi": ""
+    "vi": "thù lao",
+    "en": ""
   },
   {
     "hanzi": "压倒",
     "pinyin": "yādǎo",
-    "en": "",
-    "vi": ""
+    "vi": "áp đảo",
+    "en": ""
   },
   {
     "hanzi": "压迫",
     "pinyin": "yāpò",
-    "en": "",
-    "vi": ""
+    "vi": "sự áp bức",
+    "en": ""
   },
   {
     "hanzi": "鸦雀无声",
     "pinyin": "yāquè-wúshēng",
-    "en": "",
-    "vi": ""
+    "vi": "Im lặng",
+    "en": ""
   },
   {
     "hanzi": "丫头",
     "pinyin": "yātou",
-    "en": "",
-    "vi": ""
+    "vi": "con gái",
+    "en": ""
   },
   {
     "hanzi": "压抑",
     "pinyin": "yāyì",
-    "en": "",
-    "vi": ""
+    "vi": "chán nản",
+    "en": ""
   },
   {
     "hanzi": "压榨",
     "pinyin": "yāzhà",
-    "en": "",
-    "vi": ""
+    "vi": "nhấn",
+    "en": ""
   },
   {
     "hanzi": "压制",
     "pinyin": "yāzhì",
-    "en": "",
-    "vi": ""
+    "vi": "kìm nén",
+    "en": ""
   },
   {
     "hanzi": "压轴",
     "pinyin": "yāzhòu",
-    "en": "",
-    "vi": ""
+    "vi": "phần cuối cùng",
+    "en": ""
   },
   {
     "hanzi": "芽",
     "pinyin": "yá",
-    "en": "",
-    "vi": ""
+    "vi": "nụ",
+    "en": ""
   },
   {
     "hanzi": "哑",
     "pinyin": "yǎ",
-    "en": "",
-    "vi": ""
+    "vi": "câm",
+    "en": ""
   },
   {
     "hanzi": "揠苗助长",
     "pinyin": "yàmiáo-zhùzhǎng",
-    "en": "",
-    "vi": ""
+    "vi": "khuyến khích cây con phát triển",
+    "en": ""
   },
   {
     "hanzi": "烟囱",
     "pinyin": "yāncōng",
-    "en": "",
-    "vi": ""
+    "vi": "ống khói",
+    "en": ""
   },
   {
     "hanzi": "咽喉",
     "pinyin": "yānhóu",
-    "en": "",
-    "vi": ""
+    "vi": "cổ họng",
+    "en": ""
   },
   {
     "hanzi": "烟花",
     "pinyin": "yānhuā",
-    "en": "",
-    "vi": ""
+    "vi": "pháo hoa",
+    "en": ""
   },
   {
     "hanzi": "烟火",
     "pinyin": "yānhuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "pháo hoa",
+    "en": ""
   },
   {
     "hanzi": "延",
     "pinyin": "yán",
-    "en": "",
-    "vi": ""
+    "vi": "mở rộng",
+    "en": ""
   },
   {
     "hanzi": "沿岸",
     "pinyin": "yán’àn",
-    "en": "",
-    "vi": ""
+    "vi": "dọc theo bờ biển",
+    "en": ""
   },
   {
     "hanzi": "言辞",
     "pinyin": "yáncí",
-    "en": "",
-    "vi": ""
+    "vi": "từ",
+    "en": ""
   },
   {
     "hanzi": "延缓",
     "pinyin": "yánhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "trì hoãn",
+    "en": ""
   },
   {
     "hanzi": "严谨",
     "pinyin": "yánjǐn",
-    "en": "",
-    "vi": ""
+    "vi": "khắt khe",
+    "en": ""
   },
   {
     "hanzi": "严峻",
     "pinyin": "yánjùn",
-    "en": "",
-    "vi": ""
+    "vi": "nghiêm trọng",
+    "en": ""
   },
   {
     "hanzi": "言论",
     "pinyin": "yánlùn",
-    "en": "",
-    "vi": ""
+    "vi": "lời nói",
+    "en": ""
   },
   {
     "hanzi": "严密",
     "pinyin": "yánmì",
-    "en": "",
-    "vi": ""
+    "vi": "chặt",
+    "en": ""
   },
   {
     "hanzi": "岩石",
     "pinyin": "yánshí",
-    "en": "",
-    "vi": ""
+    "vi": "đá",
+    "en": ""
   },
   {
     "hanzi": "沿途",
     "pinyin": "yántú",
-    "en": "",
-    "vi": ""
+    "vi": "trên đường đi",
+    "en": ""
   },
   {
     "hanzi": "阎王",
     "pinyin": "Yánwang",
-    "en": "",
-    "vi": ""
+    "vi": "Yama",
+    "en": ""
   },
   {
     "hanzi": "延误",
     "pinyin": "yánwù",
-    "en": "",
-    "vi": ""
+    "vi": "trì hoãn",
+    "en": ""
   },
   {
     "hanzi": "沿线",
     "pinyin": "yánxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "dọc theo dòng",
+    "en": ""
   },
   {
     "hanzi": "言行",
     "pinyin": "yánxíng",
-    "en": "",
-    "vi": ""
+    "vi": "lời nói và việc làm",
+    "en": ""
   },
   {
     "hanzi": "沿用",
     "pinyin": "yányòng",
-    "en": "",
-    "vi": ""
+    "vi": "Kế thừa",
+    "en": ""
   },
   {
     "hanzi": "演变",
     "pinyin": "yǎnbiàn",
-    "en": "",
-    "vi": ""
+    "vi": "sự tiến hóa",
+    "en": ""
   },
   {
     "hanzi": "掩耳盗铃",
     "pinyin": "yǎn’ěr-dàolíng",
-    "en": "",
-    "vi": ""
+    "vi": "Bịt tai lại và trộm chuông",
+    "en": ""
   },
   {
     "hanzi": "掩盖",
     "pinyin": "yǎngài",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "眼红",
     "pinyin": "yǎnhóng",
-    "en": "",
-    "vi": ""
+    "vi": "ghen tị",
+    "en": ""
   },
   {
     "hanzi": "掩护",
     "pinyin": "yǎnhù",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "演化",
     "pinyin": "yǎnhuà",
-    "en": "",
-    "vi": ""
+    "vi": "sự tiến hóa",
+    "en": ""
   },
   {
     "hanzi": "演技",
     "pinyin": "yǎnjì",
-    "en": "",
-    "vi": ""
+    "vi": "diễn xuất",
+    "en": ""
   },
   {
     "hanzi": "眼界",
     "pinyin": "yǎnjiè",
-    "en": "",
-    "vi": ""
+    "vi": "Tầm nhìn",
+    "en": ""
   },
   {
     "hanzi": "演练",
     "pinyin": "yǎnliàn",
-    "en": "",
-    "vi": ""
+    "vi": "máy khoan",
+    "en": ""
   },
   {
     "hanzi": "眼色",
     "pinyin": "yǎnsè",
-    "en": "",
-    "vi": ""
+    "vi": "nháy mắt",
+    "en": ""
   },
   {
     "hanzi": "眼神",
     "pinyin": "yǎnshén",
-    "en": "",
-    "vi": ""
+    "vi": "mắt",
+    "en": ""
   },
   {
     "hanzi": "衍生",
     "pinyin": "yǎnshēng",
-    "en": "",
-    "vi": ""
+    "vi": "phái sinh",
+    "en": ""
   },
   {
     "hanzi": "掩饰",
     "pinyin": "yǎnshì",
-    "en": "",
-    "vi": ""
+    "vi": "che đậy",
+    "en": ""
   },
   {
     "hanzi": "演示",
     "pinyin": "yǎnshì",
-    "en": "",
-    "vi": ""
+    "vi": "Thử nghiệm",
+    "en": ""
   },
   {
     "hanzi": "演说",
     "pinyin": "yǎnshuō",
-    "en": "",
-    "vi": ""
+    "vi": "lời nói",
+    "en": ""
   },
   {
     "hanzi": "演习",
     "pinyin": "yǎnxí",
-    "en": "",
-    "vi": ""
+    "vi": "bài tập",
+    "en": ""
   },
   {
     "hanzi": "眼下",
     "pinyin": "yǎnxià",
-    "en": "",
-    "vi": ""
+    "vi": "ngay bây giờ",
+    "en": ""
   },
   {
     "hanzi": "演绎",
     "pinyin": "yǎnyì",
-    "en": "",
-    "vi": ""
+    "vi": "sự thông giải",
+    "en": ""
   },
   {
     "hanzi": "咽",
     "pinyin": "yàn",
-    "en": "",
-    "vi": ""
+    "vi": "hầu họng",
+    "en": ""
   },
   {
     "hanzi": "验",
     "pinyin": "yàn",
-    "en": "",
-    "vi": ""
+    "vi": "Bài kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "厌烦",
     "pinyin": "yànfán",
-    "en": "",
-    "vi": ""
+    "vi": "chán",
+    "en": ""
   },
   {
     "hanzi": "厌倦",
     "pinyin": "yànjuàn",
-    "en": "",
-    "vi": ""
+    "vi": "chán",
+    "en": ""
   },
   {
     "hanzi": "艳丽",
     "pinyin": "yànlì",
-    "en": "",
-    "vi": ""
+    "vi": "Lộng lẫy",
+    "en": ""
   },
   {
     "hanzi": "验收",
     "pinyin": "yànshōu",
-    "en": "",
-    "vi": ""
+    "vi": "sự chấp nhận",
+    "en": ""
   },
   {
     "hanzi": "厌恶",
     "pinyin": "yànwù",
-    "en": "",
-    "vi": ""
+    "vi": "ghê tởm",
+    "en": ""
   },
   {
     "hanzi": "燕子",
     "pinyin": "yànzi",
-    "en": "",
-    "vi": ""
+    "vi": "nuốt",
+    "en": ""
   },
   {
     "hanzi": "秧歌",
     "pinyin": "yāngge",
-    "en": "",
-    "vi": ""
+    "vi": "dương ca",
+    "en": ""
   },
   {
     "hanzi": "扬",
     "pinyin": "yáng",
-    "en": "",
-    "vi": ""
+    "vi": "dương",
+    "en": ""
   },
   {
     "hanzi": "阳历",
     "pinyin": "yánglì",
-    "en": "",
-    "vi": ""
+    "vi": "dương lịch",
+    "en": ""
   },
   {
     "hanzi": "杨树",
     "pinyin": "yángshù",
-    "en": "",
-    "vi": ""
+    "vi": "cây dương",
+    "en": ""
   },
   {
     "hanzi": "阳性",
     "pinyin": "yángxìng",
-    "en": "",
-    "vi": ""
+    "vi": "Tích cực",
+    "en": ""
   },
   {
     "hanzi": "洋溢",
     "pinyin": "yángyì",
-    "en": "",
-    "vi": ""
+    "vi": "tràn",
+    "en": ""
   },
   {
     "hanzi": "养活",
     "pinyin": "yǎnghuo",
-    "en": "",
-    "vi": ""
+    "vi": "cho ăn",
+    "en": ""
   },
   {
     "hanzi": "养生",
     "pinyin": "yǎngshēng",
-    "en": "",
-    "vi": ""
+    "vi": "chăm sóc sức khỏe",
+    "en": ""
   },
   {
     "hanzi": "仰望",
     "pinyin": "yǎngwàng",
-    "en": "",
-    "vi": ""
+    "vi": "tra cứu",
+    "en": ""
   },
   {
     "hanzi": "养育",
     "pinyin": "yǎngyù",
-    "en": "",
-    "vi": ""
+    "vi": "nuôi dưỡng",
+    "en": ""
   },
   {
     "hanzi": "养殖",
     "pinyin": "yǎngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "chăn nuôi",
+    "en": ""
   },
   {
     "hanzi": "样本",
     "pinyin": "yàngběn",
-    "en": "",
-    "vi": ""
+    "vi": "vật mẫu",
+    "en": ""
   },
   {
     "hanzi": "样品",
     "pinyin": "yàngpǐn",
-    "en": "",
-    "vi": ""
+    "vi": "vật mẫu",
+    "en": ""
   },
   {
     "hanzi": "邀",
     "pinyin": "yāo",
-    "en": "",
-    "vi": ""
+    "vi": "mời",
+    "en": ""
   },
   {
     "hanzi": "妖怪",
     "pinyin": "yāoguài",
-    "en": "",
-    "vi": ""
+    "vi": "quái vật",
+    "en": ""
   },
   {
     "hanzi": "窑",
     "pinyin": "yáo",
-    "en": "",
-    "vi": ""
+    "vi": "lò nung",
+    "en": ""
   },
   {
     "hanzi": "摇摆",
     "pinyin": "yáobǎi",
-    "en": "",
-    "vi": ""
+    "vi": "xích đu",
+    "en": ""
   },
   {
     "hanzi": "摇晃",
     "pinyin": "yáohuàng",
-    "en": "",
-    "vi": ""
+    "vi": "lắc",
+    "en": ""
   },
   {
     "hanzi": "遥控",
     "pinyin": "yáokòng",
-    "en": "",
-    "vi": ""
+    "vi": "điều khiển từ xa",
+    "en": ""
   },
   {
     "hanzi": "摇篮",
     "pinyin": "yáolán",
-    "en": "",
-    "vi": ""
+    "vi": "cái nôi",
+    "en": ""
   },
   {
     "hanzi": "谣言",
     "pinyin": "yáoyán",
-    "en": "",
-    "vi": ""
+    "vi": "tin đồn",
+    "en": ""
   },
   {
     "hanzi": "摇摇欲坠",
     "pinyin": "yáoyáo-yùzhuì",
-    "en": "",
-    "vi": ""
+    "vi": "sụp đổ",
+    "en": ""
   },
   {
     "hanzi": "药材",
     "pinyin": "yàocái",
-    "en": "",
-    "vi": ""
+    "vi": "Dược liệu",
+    "en": ""
   },
   {
     "hanzi": "药方",
     "pinyin": "yàofāng",
-    "en": "",
-    "vi": ""
+    "vi": "toa thuốc",
+    "en": ""
   },
   {
     "hanzi": "要害",
     "pinyin": "yàohài",
-    "en": "",
-    "vi": ""
+    "vi": "Chủ yếu",
+    "en": ""
   },
   {
     "hanzi": "要好",
     "pinyin": "yàohǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy ngoan",
+    "en": ""
   },
   {
     "hanzi": "要紧",
     "pinyin": "yàojǐn",
-    "en": "",
-    "vi": ""
+    "vi": "quan trọng",
+    "en": ""
   },
   {
     "hanzi": "要领",
     "pinyin": "yàolǐng",
-    "en": "",
-    "vi": ""
+    "vi": "Yếu tố cần thiết",
+    "en": ""
   },
   {
     "hanzi": "要命",
     "pinyin": "yàomìng",
-    "en": "",
-    "vi": ""
+    "vi": "gây tử vong",
+    "en": ""
   },
   {
     "hanzi": "要强",
     "pinyin": "yàoqiáng",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy mạnh mẽ",
+    "en": ""
   },
   {
     "hanzi": "耀眼",
     "pinyin": "yàoyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "rực rỡ",
+    "en": ""
   },
   {
     "hanzi": "椰子",
     "pinyin": "yēzi",
-    "en": "",
-    "vi": ""
+    "vi": "dừa",
+    "en": ""
   },
   {
     "hanzi": "野餐",
     "pinyin": "yěcān",
-    "en": "",
-    "vi": ""
+    "vi": "đi chơi picnic",
+    "en": ""
   },
   {
     "hanzi": "野蛮",
     "pinyin": "yěmán",
-    "en": "",
-    "vi": ""
+    "vi": "tàn bạo",
+    "en": ""
   },
   {
     "hanzi": "野兽",
     "pinyin": "yěshòu",
-    "en": "",
-    "vi": ""
+    "vi": "con thú",
+    "en": ""
   },
   {
     "hanzi": "野心",
     "pinyin": "yěxīn",
-    "en": "",
-    "vi": ""
+    "vi": "tham vọng ",
+    "en": ""
   },
   {
     "hanzi": "夜班",
     "pinyin": "yèbān",
-    "en": "",
-    "vi": ""
+    "vi": "ca đêm",
+    "en": ""
   },
   {
     "hanzi": "业绩",
     "pinyin": "yèjì",
-    "en": "",
-    "vi": ""
+    "vi": "hiệu suất",
+    "en": ""
   },
   {
     "hanzi": "液晶",
     "pinyin": "yèjīng",
-    "en": "",
-    "vi": ""
+    "vi": "tinh thể lỏng",
+    "en": ""
   },
   {
     "hanzi": "夜校",
     "pinyin": "yèxiào",
-    "en": "",
-    "vi": ""
+    "vi": "trường học ban đêm",
+    "en": ""
   },
   {
     "hanzi": "夜宵",
     "pinyin": "yèxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "bữa ăn nhẹ ban đêm",
+    "en": ""
   },
   {
     "hanzi": "夜以继日",
     "pinyin": "yèyǐjìrì",
-    "en": "",
-    "vi": ""
+    "vi": "ngày và đêm",
+    "en": ""
   },
   {
     "hanzi": "依",
     "pinyin": "yī",
-    "en": "",
-    "vi": ""
+    "vi": "theo",
+    "en": ""
   },
   {
     "hanzi": "依次",
     "pinyin": "yīcì",
-    "en": "",
-    "vi": ""
+    "vi": "lần lượt",
+    "en": ""
   },
   {
     "hanzi": "依法",
     "pinyin": "yīfǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Theo luật",
+    "en": ""
   },
   {
     "hanzi": "依附",
     "pinyin": "yīfù",
-    "en": "",
-    "vi": ""
+    "vi": "phụ thuộc vào",
+    "en": ""
   },
   {
     "hanzi": "衣裳",
     "pinyin": "yīshang",
-    "en": "",
-    "vi": ""
+    "vi": "quần áo",
+    "en": ""
   },
   {
     "hanzi": "依托",
     "pinyin": "yītuō",
-    "en": "",
-    "vi": ""
+    "vi": "dựa vào",
+    "en": ""
   },
   {
     "hanzi": "医务",
     "pinyin": "yīwù",
-    "en": "",
-    "vi": ""
+    "vi": "thuộc về y học",
+    "en": ""
   },
   {
     "hanzi": "一线",
     "pinyin": "yīxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "dòng đầu tiên",
+    "en": ""
   },
   {
     "hanzi": "依依不舍",
     "pinyin": "yīyī-bùshě",
-    "en": "",
-    "vi": ""
+    "vi": "Miễn cưỡng rời đi",
+    "en": ""
   },
   {
     "hanzi": "依照",
     "pinyin": "yīzhào",
-    "en": "",
-    "vi": ""
+    "vi": "theo",
+    "en": ""
   },
   {
     "hanzi": "仪表",
     "pinyin": "yíbiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "mét",
+    "en": ""
   },
   {
     "hanzi": "一并",
     "pinyin": "yíbìng",
-    "en": "",
-    "vi": ""
+    "vi": "cùng nhau",
+    "en": ""
   },
   {
     "hanzi": "疑点",
     "pinyin": "yídiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Nghi ngờ",
+    "en": ""
   },
   {
     "hanzi": "一动不动",
     "pinyin": "yídòng-búdòng",
-    "en": "",
-    "vi": ""
+    "vi": "bất động",
+    "en": ""
   },
   {
     "hanzi": "一度",
     "pinyin": "yídù",
-    "en": "",
-    "vi": ""
+    "vi": "một lần",
+    "en": ""
   },
   {
     "hanzi": "一概",
     "pinyin": "yígài",
-    "en": "",
-    "vi": ""
+    "vi": "Tất cả",
+    "en": ""
   },
   {
     "hanzi": "一概而论",
     "pinyin": "yígài’érlùn",
-    "en": "",
-    "vi": ""
+    "vi": "khái quát hóa",
+    "en": ""
   },
   {
     "hanzi": "一晃",
     "pinyin": "yíhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "Trong nháy mắt",
+    "en": ""
   },
   {
     "hanzi": "移交",
     "pinyin": "yíjiāo",
-    "en": "",
-    "vi": ""
+    "vi": "chuyển khoản",
+    "en": ""
   },
   {
     "hanzi": "一技之长",
     "pinyin": "yíjìzhīcháng",
-    "en": "",
-    "vi": ""
+    "vi": "một kỹ năng",
+    "en": ""
   },
   {
     "hanzi": "宜居",
     "pinyin": "yíjū",
-    "en": "",
-    "vi": ""
+    "vi": "có thể sống được",
+    "en": ""
   },
   {
     "hanzi": "遗留",
     "pinyin": "yíliú",
-    "en": "",
-    "vi": ""
+    "vi": "di sản",
+    "en": ""
   },
   {
     "hanzi": "遗漏",
     "pinyin": "yílòu",
-    "en": "",
-    "vi": ""
+    "vi": "Bỏ sót",
+    "en": ""
   },
   {
     "hanzi": "疑虑",
     "pinyin": "yílǜ",
-    "en": "",
-    "vi": ""
+    "vi": "nghi ngờ",
+    "en": ""
   },
   {
     "hanzi": "一面",
     "pinyin": "yímiàn",
-    "en": "",
-    "vi": ""
+    "vi": "một bên",
+    "en": ""
   },
   {
     "hanzi": "一目了然",
     "pinyin": "yímù-liǎorán",
-    "en": "",
-    "vi": ""
+    "vi": "rõ ràng trong nháy mắt",
+    "en": ""
   },
   {
     "hanzi": "遗弃",
     "pinyin": "yíqì",
-    "en": "",
-    "vi": ""
+    "vi": "bị bỏ rơi",
+    "en": ""
   },
   {
     "hanzi": "怡然自得",
     "pinyin": "yírán-zìdé",
-    "en": "",
-    "vi": ""
+    "vi": "hài lòng",
+    "en": ""
   },
   {
     "hanzi": "宜人",
     "pinyin": "yírén",
-    "en": "",
-    "vi": ""
+    "vi": "dễ thương",
+    "en": ""
   },
   {
     "hanzi": "遗失",
     "pinyin": "yíshī",
-    "en": "",
-    "vi": ""
+    "vi": "mất",
+    "en": ""
   },
   {
     "hanzi": "一事无成",
     "pinyin": "yíshì-wúchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Không có gì hoàn thành",
+    "en": ""
   },
   {
     "hanzi": "遗体",
     "pinyin": "yítǐ",
-    "en": "",
-    "vi": ""
+    "vi": "còn lại",
+    "en": ""
   },
   {
     "hanzi": "遗忘",
     "pinyin": "yíwàng",
-    "en": "",
-    "vi": ""
+    "vi": "quên",
+    "en": ""
   },
   {
     "hanzi": "一味",
     "pinyin": "yíwèi",
-    "en": "",
-    "vi": ""
+    "vi": "mù quáng",
+    "en": ""
   },
   {
     "hanzi": "遗物",
     "pinyin": "yíwù",
-    "en": "",
-    "vi": ""
+    "vi": "thánh tích",
+    "en": ""
   },
   {
     "hanzi": "移植",
     "pinyin": "yízhí",
-    "en": "",
-    "vi": ""
+    "vi": "cấy ghép",
+    "en": ""
   },
   {
     "hanzi": "遗嘱",
     "pinyin": "yízhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "sẽ",
+    "en": ""
   },
   {
     "hanzi": "矣",
     "pinyin": "yǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Đúng",
+    "en": ""
   },
   {
     "hanzi": "倚",
     "pinyin": "yǐ",
-    "en": "",
-    "vi": ""
+    "vi": "dựa vào",
+    "en": ""
   },
   {
     "hanzi": "以身作则",
     "pinyin": "yǐshēn-zuòzé",
-    "en": "",
-    "vi": ""
+    "vi": "Dẫn dắt bằng ví dụ",
+    "en": ""
   },
   {
     "hanzi": "以致",
     "pinyin": "yǐzhì",
-    "en": "",
-    "vi": ""
+    "vi": "để có thể",
+    "en": ""
   },
   {
     "hanzi": "以至于",
     "pinyin": "yǐzhìyú",
-    "en": "",
-    "vi": ""
+    "vi": "để có thể",
+    "en": ""
   },
   {
     "hanzi": "议",
     "pinyin": "yì",
-    "en": "",
-    "vi": ""
+    "vi": "bàn luận",
+    "en": ""
   },
   {
     "hanzi": "亦",
     "pinyin": "yì",
-    "en": "",
-    "vi": ""
+    "vi": "cũng như",
+    "en": ""
   },
   {
     "hanzi": "译",
     "pinyin": "yì",
-    "en": "",
-    "vi": ""
+    "vi": "dịch",
+    "en": ""
   },
   {
     "hanzi": "溢",
     "pinyin": "yì",
-    "en": "",
-    "vi": ""
+    "vi": "tràn",
+    "en": ""
   },
   {
     "hanzi": "议程",
     "pinyin": "yìchéng",
-    "en": "",
-    "vi": ""
+    "vi": "chương trình nghị sự",
+    "en": ""
   },
   {
     "hanzi": "一成不变",
     "pinyin": "yìchéng-búbiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Không thay đổi",
+    "en": ""
   },
   {
     "hanzi": "一筹莫展",
     "pinyin": "yìchóu-mòzhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Bị thua lỗ",
+    "en": ""
   },
   {
     "hanzi": "一干二净",
     "pinyin": "yìgān-èrjìng",
-    "en": "",
-    "vi": ""
+    "vi": "lau dọn",
+    "en": ""
   },
   {
     "hanzi": "义工",
     "pinyin": "yìgōng",
-    "en": "",
-    "vi": ""
+    "vi": "Tình nguyện viên",
+    "en": ""
   },
   {
     "hanzi": "一鼓作气",
     "pinyin": "yìgǔ-zuòqì",
-    "en": "",
-    "vi": ""
+    "vi": "tất cả cùng một lúc",
+    "en": ""
   },
   {
     "hanzi": "一经",
     "pinyin": "yìjīng",
-    "en": "",
-    "vi": ""
+    "vi": "một lần",
+    "en": ""
   },
   {
     "hanzi": "一举",
     "pinyin": "yìjǔ",
-    "en": "",
-    "vi": ""
+    "vi": "trong một cú ngã",
+    "en": ""
   },
   {
     "hanzi": "一举两得",
     "pinyin": "yìjǔ-liǎngdé",
-    "en": "",
-    "vi": ""
+    "vi": "Giết hai con chim bằng một hòn đá",
+    "en": ""
   },
   {
     "hanzi": "一举一动",
     "pinyin": "yìjǔ-yídòng",
-    "en": "",
-    "vi": ""
+    "vi": "mọi di chuyển",
+    "en": ""
   },
   {
     "hanzi": "异又同声",
     "pinyin": "yìkǒu-tóngshēng",
-    "en": "",
-    "vi": ""
+    "vi": "Giọng nói khác nhau nhưng giống nhau",
+    "en": ""
   },
   {
     "hanzi": "易拉罐",
     "pinyin": "yìlāguàn",
-    "en": "",
-    "vi": ""
+    "vi": "lon",
+    "en": ""
   },
   {
     "hanzi": "一揽子",
     "pinyin": "yìlǎnzi",
-    "en": "",
-    "vi": ""
+    "vi": "bưu kiện",
+    "en": ""
   },
   {
     "hanzi": "屹立",
     "pinyin": "yìlì",
-    "en": "",
-    "vi": ""
+    "vi": "đứng thẳng",
+    "en": ""
   },
   {
     "hanzi": "毅力",
     "pinyin": "yìlì",
-    "en": "",
-    "vi": ""
+    "vi": "sẽ",
+    "en": ""
   },
   {
     "hanzi": "一连",
     "pinyin": "yìlián",
-    "en": "",
-    "vi": ""
+    "vi": "liên tục",
+    "en": ""
   },
   {
     "hanzi": "一连串",
     "pinyin": "yìliánchuàn",
-    "en": "",
-    "vi": ""
+    "vi": "một loạt",
+    "en": ""
   },
   {
     "hanzi": "意料",
     "pinyin": "yìliào",
-    "en": "",
-    "vi": ""
+    "vi": "Không ngờ tới",
+    "en": ""
   },
   {
     "hanzi": "一毛不拔",
     "pinyin": "yìmáo-bùbá",
-    "en": "",
-    "vi": ""
+    "vi": "Không móc một xu",
+    "en": ""
   },
   {
     "hanzi": "疫苗",
     "pinyin": "yìmiáo",
-    "en": "",
-    "vi": ""
+    "vi": "vắc xin",
+    "en": ""
   },
   {
     "hanzi": "一旁",
     "pinyin": "yìpáng",
-    "en": "",
-    "vi": ""
+    "vi": "sang một bên",
+    "en": ""
   },
   {
     "hanzi": "一齐",
     "pinyin": "yìqí",
-    "en": "",
-    "vi": ""
+    "vi": "cùng nhau",
+    "en": ""
   },
   {
     "hanzi": "毅然",
     "pinyin": "yìrán",
-    "en": "",
-    "vi": ""
+    "vi": "kiên quyết",
+    "en": ""
   },
   {
     "hanzi": "一如既往",
     "pinyin": "yìrú-jìwǎng",
-    "en": "",
-    "vi": ""
+    "vi": "như mọi khi",
+    "en": ""
   },
   {
     "hanzi": "一声不吭",
     "pinyin": "yìshēng-bùkēng",
-    "en": "",
-    "vi": ""
+    "vi": "giữ im lặng",
+    "en": ""
   },
   {
     "hanzi": "一手",
     "pinyin": "yìshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "một tay",
+    "en": ""
   },
   {
     "hanzi": "一丝不苟",
     "pinyin": "yìsī-bùgǒu",
-    "en": "",
-    "vi": ""
+    "vi": "tỉ mỉ",
+    "en": ""
   },
   {
     "hanzi": "一塌糊涂",
     "pinyin": "yìtāhútú",
-    "en": "",
-    "vi": ""
+    "vi": "một mớ hỗn độn",
+    "en": ""
   },
   {
     "hanzi": "议题",
     "pinyin": "yìtí",
-    "en": "",
-    "vi": ""
+    "vi": "vấn đề",
+    "en": ""
   },
   {
     "hanzi": "一体",
     "pinyin": "yìtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Một cơ thể",
+    "en": ""
   },
   {
     "hanzi": "一头",
     "pinyin": "yìtóu",
-    "en": "",
-    "vi": ""
+    "vi": "một đầu",
+    "en": ""
   },
   {
     "hanzi": "意图",
     "pinyin": "yìtú",
-    "en": "",
-    "vi": ""
+    "vi": "chủ đích",
+    "en": ""
   },
   {
     "hanzi": "亿万",
     "pinyin": "yìwàn",
-    "en": "",
-    "vi": ""
+    "vi": "hàng trăm triệu",
+    "en": ""
   },
   {
     "hanzi": "意味",
     "pinyin": "yìwèi",
-    "en": "",
-    "vi": ""
+    "vi": "nghĩa là",
+    "en": ""
   },
   {
     "hanzi": "一无所有",
     "pinyin": "yìwúsuǒyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Không có gì",
+    "en": ""
   },
   {
     "hanzi": "一无所知",
     "pinyin": "yìwúsuǒzhī",
-    "en": "",
-    "vi": ""
+    "vi": "không biết gì cả",
+    "en": ""
   },
   {
     "hanzi": "意向",
     "pinyin": "yìxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "chủ đích",
+    "en": ""
   },
   {
     "hanzi": "意想不到",
     "pinyin": "yìxiǎng-búdào",
-    "en": "",
-    "vi": ""
+    "vi": "không ngờ tới",
+    "en": ""
   },
   {
     "hanzi": "异想天开",
     "pinyin": "yìxiǎng-tiānkāi",
-    "en": "",
-    "vi": ""
+    "vi": "kỳ quái",
+    "en": ""
   },
   {
     "hanzi": "一心",
     "pinyin": "yìxīn",
-    "en": "",
-    "vi": ""
+    "vi": "hết lòng",
+    "en": ""
   },
   {
     "hanzi": "一行",
     "pinyin": "yìxíng",
-    "en": "",
-    "vi": ""
+    "vi": "một dòng",
+    "en": ""
   },
   {
     "hanzi": "异性",
     "pinyin": "yìxìng",
-    "en": "",
-    "vi": ""
+    "vi": "người khác giới",
+    "en": ""
   },
   {
     "hanzi": "一心一意",
     "pinyin": "yìxīn-yíyì",
-    "en": "",
-    "vi": ""
+    "vi": "hết lòng",
+    "en": ""
   },
   {
     "hanzi": "一言不发",
     "pinyin": "yìyán-bùfā",
-    "en": "",
-    "vi": ""
+    "vi": "không nói một lời",
+    "en": ""
   },
   {
     "hanzi": "抑扬顿挫",
     "pinyin": "yìyáng-dùncuò",
-    "en": "",
-    "vi": ""
+    "vi": "nhịp điệu",
+    "en": ""
   },
   {
     "hanzi": "一言一行",
     "pinyin": "yìyán-yìxíng",
-    "en": "",
-    "vi": ""
+    "vi": "mọi lời nói và hành động",
+    "en": ""
   },
   {
     "hanzi": "异议",
     "pinyin": "yìyì",
-    "en": "",
-    "vi": ""
+    "vi": "phản đối",
+    "en": ""
   },
   {
     "hanzi": "一应俱全",
     "pinyin": "yìyīng-jùquán",
-    "en": "",
-    "vi": ""
+    "vi": "Tất cả đều có sẵn",
+    "en": ""
   },
   {
     "hanzi": "抑郁",
     "pinyin": "yìyù",
-    "en": "",
-    "vi": ""
+    "vi": "trầm cảm",
+    "en": ""
   },
   {
     "hanzi": "意愿",
     "pinyin": "yìyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Sự tự nguyện",
+    "en": ""
   },
   {
     "hanzi": "抑郁症",
     "pinyin": "yìyùzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "trầm cảm",
+    "en": ""
   },
   {
     "hanzi": "一早",
     "pinyin": "yìzǎo",
-    "en": "",
-    "vi": ""
+    "vi": "sáng sớm",
+    "en": ""
   },
   {
     "hanzi": "一针见血",
     "pinyin": "yìzhēn-jiànxiě",
-    "en": "",
-    "vi": ""
+    "vi": "Đánh đinh vào đầu",
+    "en": ""
   },
   {
     "hanzi": "意志",
     "pinyin": "yìzhì",
-    "en": "",
-    "vi": ""
+    "vi": "sẽ",
+    "en": ""
   },
   {
     "hanzi": "阴暗",
     "pinyin": "yīn’àn",
-    "en": "",
-    "vi": ""
+    "vi": "tối tăm",
+    "en": ""
   },
   {
     "hanzi": "因地制宜",
     "pinyin": "yīndì-zhìyí",
-    "en": "",
-    "vi": ""
+    "vi": "Các biện pháp thích ứng với điều kiện địa phương",
+    "en": ""
   },
   {
     "hanzi": "阴历",
     "pinyin": "yīnlì",
-    "en": "",
-    "vi": ""
+    "vi": "âm lịch",
+    "en": ""
   },
   {
     "hanzi": "阴谋",
     "pinyin": "yīnmóu",
-    "en": "",
-    "vi": ""
+    "vi": "âm mưu",
+    "en": ""
   },
   {
     "hanzi": "殷勤",
     "pinyin": "yīnqín",
-    "en": "",
-    "vi": ""
+    "vi": "chú ý",
+    "en": ""
   },
   {
     "hanzi": "因人而异",
     "pinyin": "yīnrén’éryì",
-    "en": "",
-    "vi": ""
+    "vi": "Thay đổi từ người này sang người khác",
+    "en": ""
   },
   {
     "hanzi": "音响",
     "pinyin": "yīnxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Âm thanh",
+    "en": ""
   },
   {
     "hanzi": "阴性",
     "pinyin": "yīnxìng",
-    "en": "",
-    "vi": ""
+    "vi": "Tiêu cực",
+    "en": ""
   },
   {
     "hanzi": "阴影",
     "pinyin": "yīnyǐng",
-    "en": "",
-    "vi": ""
+    "vi": "bóng tối",
+    "en": ""
   },
   {
     "hanzi": "银幕",
     "pinyin": "yínmù",
-    "en": "",
-    "vi": ""
+    "vi": "màn hình",
+    "en": ""
   },
   {
     "hanzi": "瘾",
     "pinyin": "yǐn",
-    "en": "",
-    "vi": ""
+    "vi": "nghiện",
+    "en": ""
   },
   {
     "hanzi": "隐蔽",
     "pinyin": "yǐnbì",
-    "en": "",
-    "vi": ""
+    "vi": "ẩn giấu",
+    "en": ""
   },
   {
     "hanzi": "隐含",
     "pinyin": "yǐnhán",
-    "en": "",
-    "vi": ""
+    "vi": "ngầm",
+    "en": ""
   },
   {
     "hanzi": "隐患",
     "pinyin": "yǐnhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Tiềm ẩn nguy hiểm",
+    "en": ""
   },
   {
     "hanzi": "引荐",
     "pinyin": "yǐnjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Gợi ý",
+    "en": ""
   },
   {
     "hanzi": "引经据典",
     "pinyin": "yǐnjīng-jùdiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Trích dẫn kinh thánh",
+    "en": ""
   },
   {
     "hanzi": "引领",
     "pinyin": "yǐnlǐng",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ huy",
+    "en": ""
   },
   {
     "hanzi": "隐瞒",
     "pinyin": "yǐnmán",
-    "en": "",
-    "vi": ""
+    "vi": "trốn",
+    "en": ""
   },
   {
     "hanzi": "引擎",
     "pinyin": "yǐnqíng",
-    "en": "",
-    "vi": ""
+    "vi": "động cơ",
+    "en": ""
   },
   {
     "hanzi": "隐情",
     "pinyin": "yǐnqíng",
-    "en": "",
-    "vi": ""
+    "vi": "bí mật ẩn giấu",
+    "en": ""
   },
   {
     "hanzi": "引人入胜",
     "pinyin": "yǐnrén-rùshèng",
-    "en": "",
-    "vi": ""
+    "vi": "lôi cuốn",
+    "en": ""
   },
   {
     "hanzi": "引人注目",
     "pinyin": "yǐnrén-zhùmù",
-    "en": "",
-    "vi": ""
+    "vi": "nổi bật",
+    "en": ""
   },
   {
     "hanzi": "隐形",
     "pinyin": "yǐnxíng",
-    "en": "",
-    "vi": ""
+    "vi": "vô hình",
+    "en": ""
   },
   {
     "hanzi": "隐性",
     "pinyin": "yǐnxìng",
-    "en": "",
-    "vi": ""
+    "vi": "ngầm",
+    "en": ""
   },
   {
     "hanzi": "引用",
     "pinyin": "yǐnyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Trích dẫn",
+    "en": ""
   },
   {
     "hanzi": "引诱",
     "pinyin": "yǐnyòu",
-    "en": "",
-    "vi": ""
+    "vi": "thu hút",
+    "en": ""
   },
   {
     "hanzi": "隐约",
     "pinyin": "yǐnyuē",
-    "en": "",
-    "vi": ""
+    "vi": "ngất xỉu",
+    "en": ""
   },
   {
     "hanzi": "印章",
     "pinyin": "yìnzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "niêm phong",
+    "en": ""
   },
   {
     "hanzi": "印证",
     "pinyin": "yìnzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "Xác nhận",
+    "en": ""
   },
   {
     "hanzi": "鹰",
     "pinyin": "yīng",
-    "en": "",
-    "vi": ""
+    "vi": "chim ưng",
+    "en": ""
   },
   {
     "hanzi": "英俊",
     "pinyin": "yīngjùn",
-    "en": "",
-    "vi": ""
+    "vi": "đẹp trai",
+    "en": ""
   },
   {
     "hanzi": "英明",
     "pinyin": "yīngmíng",
-    "en": "",
-    "vi": ""
+    "vi": "khôn ngoan",
+    "en": ""
   },
   {
     "hanzi": "英勇",
     "pinyin": "yīngyǒng",
-    "en": "",
-    "vi": ""
+    "vi": "anh hùng",
+    "en": ""
   },
   {
     "hanzi": "应有尽有",
     "pinyin": "yīngyǒu-jìnyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Mọi thứ",
+    "en": ""
   },
   {
     "hanzi": "荧光",
     "pinyin": "yíngguāng",
-    "en": "",
-    "vi": ""
+    "vi": "huỳnh quang",
+    "en": ""
   },
   {
     "hanzi": "迎合",
     "pinyin": "yínghé",
-    "en": "",
-    "vi": ""
+    "vi": "phục vụ",
+    "en": ""
   },
   {
     "hanzi": "赢家",
     "pinyin": "yíngjiā",
-    "en": "",
-    "vi": ""
+    "vi": "người chiến thắng",
+    "en": ""
   },
   {
     "hanzi": "营救",
     "pinyin": "yíngjiù",
-    "en": "",
-    "vi": ""
+    "vi": "giải thoát",
+    "en": ""
   },
   {
     "hanzi": "盈利",
     "pinyin": "yínglì",
-    "en": "",
-    "vi": ""
+    "vi": "lợi nhuận",
+    "en": ""
   },
   {
     "hanzi": "营利",
     "pinyin": "yínglì",
-    "en": "",
-    "vi": ""
+    "vi": "Lợi nhuận",
+    "en": ""
   },
   {
     "hanzi": "迎面",
     "pinyin": "yíngmiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tiến lên",
+    "en": ""
   },
   {
     "hanzi": "营销",
     "pinyin": "yíngxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp thị",
+    "en": ""
   },
   {
     "hanzi": "营造",
     "pinyin": "yíngzào",
-    "en": "",
-    "vi": ""
+    "vi": "tạo nên",
+    "en": ""
   },
   {
     "hanzi": "影像",
     "pinyin": "yǐngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "hình ảnh",
+    "en": ""
   },
   {
     "hanzi": "应",
     "pinyin": "yìng",
-    "en": "",
-    "vi": ""
+    "vi": "trả lời",
+    "en": ""
   },
   {
     "hanzi": "硬币",
     "pinyin": "yìngbì",
-    "en": "",
-    "vi": ""
+    "vi": "đồng xu",
+    "en": ""
   },
   {
     "hanzi": "应酬",
     "pinyin": "yìngchou",
-    "en": "",
-    "vi": ""
+    "vi": "giao tiếp xã hội",
+    "en": ""
   },
   {
     "hanzi": "应付",
     "pinyin": "yìngfu",
-    "en": "",
-    "vi": ""
+    "vi": "đối phó",
+    "en": ""
   },
   {
     "hanzi": "应急",
     "pinyin": "yìngjí",
-    "en": "",
-    "vi": ""
+    "vi": "khẩn cấp",
+    "en": ""
   },
   {
     "hanzi": "硬朗",
     "pinyin": "yìnglang",
-    "en": "",
-    "vi": ""
+    "vi": "Khó",
+    "en": ""
   },
   {
     "hanzi": "硬盘",
     "pinyin": "yìngpán",
-    "en": "",
-    "vi": ""
+    "vi": "đĩa cứng",
+    "en": ""
   },
   {
     "hanzi": "应邀",
     "pinyin": "yìngyāo",
-    "en": "",
-    "vi": ""
+    "vi": "được mời",
+    "en": ""
   },
   {
     "hanzi": "拥护",
     "pinyin": "yōnghù",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "庸俗",
     "pinyin": "yōngsú",
-    "en": "",
-    "vi": ""
+    "vi": "thô tục",
+    "en": ""
   },
   {
     "hanzi": "涌",
     "pinyin": "yǒng",
-    "en": "",
-    "vi": ""
+    "vi": "phun trào",
+    "en": ""
   },
   {
     "hanzi": "永恒",
     "pinyin": "yǒnghéng",
-    "en": "",
-    "vi": ""
+    "vi": "vĩnh cửu",
+    "en": ""
   },
   {
     "hanzi": "永久",
     "pinyin": "yǒngjiǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Vĩnh viễn",
+    "en": ""
   },
   {
     "hanzi": "勇往直前",
     "pinyin": "yǒngwǎng-zhíqián",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy dũng cảm tiến về phía trước",
+    "en": ""
   },
   {
     "hanzi": "踊跃",
     "pinyin": "yǒngyuè",
-    "en": "",
-    "vi": ""
+    "vi": "tích cực",
+    "en": ""
   },
   {
     "hanzi": "用意",
     "pinyin": "yòngyì",
-    "en": "",
-    "vi": ""
+    "vi": "chủ đích",
+    "en": ""
   },
   {
     "hanzi": "忧愁",
     "pinyin": "yōuchóu",
-    "en": "",
-    "vi": ""
+    "vi": "buồn",
+    "en": ""
   },
   {
     "hanzi": "忧虑",
     "pinyin": "yōulǜ",
-    "en": "",
-    "vi": ""
+    "vi": "bận tâm",
+    "en": ""
   },
   {
     "hanzi": "优胜劣汰",
     "pinyin": "yōushèng-liètài",
-    "en": "",
-    "vi": ""
+    "vi": "Sự sống sót của kẻ mạnh nhất",
+    "en": ""
   },
   {
     "hanzi": "悠闲",
     "pinyin": "yōuxián",
-    "en": "",
-    "vi": ""
+    "vi": "nằm ngửa",
+    "en": ""
   },
   {
     "hanzi": "优雅",
     "pinyin": "yōuyǎ",
-    "en": "",
-    "vi": ""
+    "vi": "duyên dáng",
+    "en": ""
   },
   {
     "hanzi": "忧郁",
     "pinyin": "yōuyù",
-    "en": "",
-    "vi": ""
+    "vi": "u sầu",
+    "en": ""
   },
   {
     "hanzi": "优越",
     "pinyin": "yōuyuè",
-    "en": "",
-    "vi": ""
+    "vi": "thượng đẳng",
+    "en": ""
   },
   {
     "hanzi": "邮编",
     "pinyin": "yóubiān",
-    "en": "",
-    "vi": ""
+    "vi": "mã bưu điện",
+    "en": ""
   },
   {
     "hanzi": "游船",
     "pinyin": "yóuchuán",
-    "en": "",
-    "vi": ""
+    "vi": "tàu du lịch",
+    "en": ""
   },
   {
     "hanzi": "油画",
     "pinyin": "yóuhuà",
-    "en": "",
-    "vi": ""
+    "vi": "bức vẽ",
+    "en": ""
   },
   {
     "hanzi": "油腻",
     "pinyin": "yóunì",
-    "en": "",
-    "vi": ""
+    "vi": "nhờn",
+    "en": ""
   },
   {
     "hanzi": "油漆",
     "pinyin": "yóuqī",
-    "en": "",
-    "vi": ""
+    "vi": "sơn",
+    "en": ""
   },
   {
     "hanzi": "尤为",
     "pinyin": "yóuwéi",
-    "en": "",
-    "vi": ""
+    "vi": "Đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "游行",
     "pinyin": "yóuxíng",
-    "en": "",
-    "vi": ""
+    "vi": "đám rước",
+    "en": ""
   },
   {
     "hanzi": "犹豫不决",
     "pinyin": "yóuyù-bùjué",
-    "en": "",
-    "vi": ""
+    "vi": "chưa quyết định",
+    "en": ""
   },
   {
     "hanzi": "邮政",
     "pinyin": "yóuzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "bưu điện",
+    "en": ""
   },
   {
     "hanzi": "由衷",
     "pinyin": "yóuzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "有待",
     "pinyin": "yǒudài",
-    "en": "",
-    "vi": ""
+    "vi": "trở thành",
+    "en": ""
   },
   {
     "hanzi": "有的放矢",
     "pinyin": "yǒudì-fàngshǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Nhắm mục tiêu",
+    "en": ""
   },
   {
     "hanzi": "友人",
     "pinyin": "yǒurén",
-    "en": "",
-    "vi": ""
+    "vi": "bạn",
+    "en": ""
   },
   {
     "hanzi": "友善",
     "pinyin": "yǒushàn",
-    "en": "",
-    "vi": ""
+    "vi": "thân thiện",
+    "en": ""
   },
   {
     "hanzi": "有声有色",
     "pinyin": "yǒushēng-yǒusè",
-    "en": "",
-    "vi": ""
+    "vi": "ấn tượng",
+    "en": ""
   },
   {
     "hanzi": "有条不紊",
     "pinyin": "yǒutiáo-bùwěn",
-    "en": "",
-    "vi": ""
+    "vi": "có phương pháp",
+    "en": ""
   },
   {
     "hanzi": "有望",
     "pinyin": "yǒuwàng",
-    "en": "",
-    "vi": ""
+    "vi": "hy vọng",
+    "en": ""
   },
   {
     "hanzi": "有幸",
     "pinyin": "yǒuxìng",
-    "en": "",
-    "vi": ""
+    "vi": "May mắn thay",
+    "en": ""
   },
   {
     "hanzi": "有意",
     "pinyin": "yǒuyì",
-    "en": "",
-    "vi": ""
+    "vi": "cố ý",
+    "en": ""
   },
   {
     "hanzi": "有朝一日",
     "pinyin": "yǒuzhāo-yírì",
-    "en": "",
-    "vi": ""
+    "vi": "một ngày",
+    "en": ""
   },
   {
     "hanzi": "诱饵",
     "pinyin": "yòu’ěr",
-    "en": "",
-    "vi": ""
+    "vi": "mồi",
+    "en": ""
   },
   {
     "hanzi": "诱发",
     "pinyin": "yòufā",
-    "en": "",
-    "vi": ""
+    "vi": "xúi giục",
+    "en": ""
   },
   {
     "hanzi": "诱惑",
     "pinyin": "yòuhuò",
-    "en": "",
-    "vi": ""
+    "vi": "thu hút",
+    "en": ""
   },
   {
     "hanzi": "诱人",
     "pinyin": "yòurén",
-    "en": "",
-    "vi": ""
+    "vi": "Hấp dẫn",
+    "en": ""
   },
   {
     "hanzi": "幼稚",
     "pinyin": "yòuzhì",
-    "en": "",
-    "vi": ""
+    "vi": "trẻ con",
+    "en": ""
   },
   {
     "hanzi": "淤泥",
     "pinyin": "yūní",
-    "en": "",
-    "vi": ""
+    "vi": "phù sa",
+    "en": ""
   },
   {
     "hanzi": "余",
     "pinyin": "yú",
-    "en": "",
-    "vi": ""
+    "vi": "Duy trì",
+    "en": ""
   },
   {
     "hanzi": "渔船",
     "pinyin": "yúchuán",
-    "en": "",
-    "vi": ""
+    "vi": "thuyền đánh cá",
+    "en": ""
   },
   {
     "hanzi": "愚蠢",
     "pinyin": "yúchǔn",
-    "en": "",
-    "vi": ""
+    "vi": "sự điên rồ",
+    "en": ""
   },
   {
     "hanzi": "余地",
     "pinyin": "yúdì",
-    "en": "",
-    "vi": ""
+    "vi": "phòng",
+    "en": ""
   },
   {
     "hanzi": "愚公移山",
     "pinyin": "yúgōng-yíshān",
-    "en": "",
-    "vi": ""
+    "vi": "Lão già ngu xuẩn dời núi",
+    "en": ""
   },
   {
     "hanzi": "舆论",
     "pinyin": "yúlùn",
-    "en": "",
-    "vi": ""
+    "vi": "dư luận",
+    "en": ""
   },
   {
     "hanzi": "愚昧",
     "pinyin": "yúmèi",
-    "en": "",
-    "vi": ""
+    "vi": "Vô minh",
+    "en": ""
   },
   {
     "hanzi": "渔民",
     "pinyin": "yúmín",
-    "en": "",
-    "vi": ""
+    "vi": "ngư dân",
+    "en": ""
   },
   {
     "hanzi": "逾期",
     "pinyin": "yúqī",
-    "en": "",
-    "vi": ""
+    "vi": "Quá hạn",
+    "en": ""
   },
   {
     "hanzi": "愉悦",
     "pinyin": "yúyuè",
-    "en": "",
-    "vi": ""
+    "vi": "Vinh hạnh",
+    "en": ""
   },
   {
     "hanzi": "与否",
     "pinyin": "yǔ fǒu",
-    "en": "",
-    "vi": ""
+    "vi": "hay không",
+    "en": ""
   },
   {
     "hanzi": "与日俱增",
     "pinyin": "yǔrì-jùzēng",
-    "en": "",
-    "vi": ""
+    "vi": "tăng lên từng ngày",
+    "en": ""
   },
   {
     "hanzi": "与时俱进",
     "pinyin": "yǔshí-jùjìn",
-    "en": "",
-    "vi": ""
+    "vi": "Theo kịp thời đại",
+    "en": ""
   },
   {
     "hanzi": "予以",
     "pinyin": "yǔyǐ",
-    "en": "",
-    "vi": ""
+    "vi": "đưa cho",
+    "en": ""
   },
   {
     "hanzi": "与众不同",
     "pinyin": "yǔzhòng-bùtóng",
-    "en": "",
-    "vi": ""
+    "vi": "khác biệt",
+    "en": ""
   },
   {
     "hanzi": "宇宙",
     "pinyin": "yǔzhòu",
-    "en": "",
-    "vi": ""
+    "vi": "vũ trụ",
+    "en": ""
   },
   {
     "hanzi": "玉",
     "pinyin": "yù",
-    "en": "",
-    "vi": ""
+    "vi": "Ngọc",
+    "en": ""
   },
   {
     "hanzi": "愈",
     "pinyin": "yù",
-    "en": "",
-    "vi": ""
+    "vi": "chữa lành",
+    "en": ""
   },
   {
     "hanzi": "预备",
     "pinyin": "yùbèi",
-    "en": "",
-    "vi": ""
+    "vi": "sự chuẩn bị",
+    "en": ""
   },
   {
     "hanzi": "预感",
     "pinyin": "yùgǎn",
-    "en": "",
-    "vi": ""
+    "vi": "điềm báo",
+    "en": ""
   },
   {
     "hanzi": "预告",
     "pinyin": "yùgào",
-    "en": "",
-    "vi": ""
+    "vi": "Xem trước",
+    "en": ""
   },
   {
     "hanzi": "愈合",
     "pinyin": "yùhé",
-    "en": "",
-    "vi": ""
+    "vi": "chữa lành",
+    "en": ""
   },
   {
     "hanzi": "愈加",
     "pinyin": "yùjiā",
-    "en": "",
-    "vi": ""
+    "vi": "Ngày càng nhiều",
+    "en": ""
   },
   {
     "hanzi": "预见",
     "pinyin": "yùjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "thấy trước",
+    "en": ""
   },
   {
     "hanzi": "预警",
     "pinyin": "yùjǐng",
-    "en": "",
-    "vi": ""
+    "vi": "cảnh báo sớm",
+    "en": ""
   },
   {
     "hanzi": "郁闷",
     "pinyin": "yùmèn",
-    "en": "",
-    "vi": ""
+    "vi": "trầm cảm",
+    "en": ""
   },
   {
     "hanzi": "遇难",
     "pinyin": "yùnàn",
-    "en": "",
-    "vi": ""
+    "vi": "gặp nạn",
+    "en": ""
   },
   {
     "hanzi": "预赛",
     "pinyin": "yùsài",
-    "en": "",
-    "vi": ""
+    "vi": "sơ bộ",
+    "en": ""
   },
   {
     "hanzi": "预示",
     "pinyin": "yùshì",
-    "en": "",
-    "vi": ""
+    "vi": "Điềm báo",
+    "en": ""
   },
   {
     "hanzi": "预售",
     "pinyin": "yùshòu",
-    "en": "",
-    "vi": ""
+    "vi": "Bán trước",
+    "en": ""
   },
   {
     "hanzi": "预算",
     "pinyin": "yùsuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Ngân sách",
+    "en": ""
   },
   {
     "hanzi": "遇险",
     "pinyin": "yùxiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "gặp nạn",
+    "en": ""
   },
   {
     "hanzi": "预先",
     "pinyin": "yùxiān",
-    "en": "",
-    "vi": ""
+    "vi": "nâng cao",
+    "en": ""
   },
   {
     "hanzi": "预言",
     "pinyin": "yùyán",
-    "en": "",
-    "vi": ""
+    "vi": "lời tiên tri",
+    "en": ""
   },
   {
     "hanzi": "寓言",
     "pinyin": "yùyán",
-    "en": "",
-    "vi": ""
+    "vi": "truyện ngụ ngôn",
+    "en": ""
   },
   {
     "hanzi": "愈演愈烈",
     "pinyin": "yùyǎn-yùliè",
-    "en": "",
-    "vi": ""
+    "vi": "trở nên tồi tệ hơn",
+    "en": ""
   },
   {
     "hanzi": "寓意",
     "pinyin": "yùyì",
-    "en": "",
-    "vi": ""
+    "vi": "Nghĩa",
+    "en": ""
   },
   {
     "hanzi": "预兆",
     "pinyin": "yùzhào",
-    "en": "",
-    "vi": ""
+    "vi": "điềm báo",
+    "en": ""
   },
   {
     "hanzi": "冤",
     "pinyin": "yuān",
-    "en": "",
-    "vi": ""
+    "vi": "sự bất công",
+    "en": ""
   },
   {
     "hanzi": "冤枉",
     "pinyin": "yuānwang",
-    "en": "",
-    "vi": ""
+    "vi": "bị buộc tội oan",
+    "en": ""
   },
   {
     "hanzi": "渊源",
     "pinyin": "yuānyuán",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn gốc",
+    "en": ""
   },
   {
     "hanzi": "原创",
     "pinyin": "yuánchuàng",
-    "en": "",
-    "vi": ""
+    "vi": "Nguyên bản",
+    "en": ""
   },
   {
     "hanzi": "缘分",
     "pinyin": "yuánfèn",
-    "en": "",
-    "vi": ""
+    "vi": "định mệnh",
+    "en": ""
   },
   {
     "hanzi": "原告",
     "pinyin": "yuángào",
-    "en": "",
-    "vi": ""
+    "vi": "nguyên đơn",
+    "en": ""
   },
   {
     "hanzi": "缘故",
     "pinyin": "yuángù",
-    "en": "",
-    "vi": ""
+    "vi": "lý do",
+    "en": ""
   },
   {
     "hanzi": "元老",
     "pinyin": "yuánlǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Trưởng lão",
+    "en": ""
   },
   {
     "hanzi": "园区",
     "pinyin": "yuánqū",
-    "en": "",
-    "vi": ""
+    "vi": "Công viên",
+    "en": ""
   },
   {
     "hanzi": "源泉",
     "pinyin": "yuánquán",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn",
+    "en": ""
   },
   {
     "hanzi": "元首",
     "pinyin": "yuánshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "nguyên thủ quốc gia",
+    "en": ""
   },
   {
     "hanzi": "源头",
     "pinyin": "yuántóu",
-    "en": "",
-    "vi": ""
+    "vi": "nguồn",
+    "en": ""
   },
   {
     "hanzi": "原型",
     "pinyin": "yuánxíng",
-    "en": "",
-    "vi": ""
+    "vi": "nguyên mẫu",
+    "en": ""
   },
   {
     "hanzi": "源源不断",
     "pinyin": "yuányuán-búduàn",
-    "en": "",
-    "vi": ""
+    "vi": "liên tục",
+    "en": ""
   },
   {
     "hanzi": "源远流长",
     "pinyin": "yuányuǎn-liúcháng",
-    "en": "",
-    "vi": ""
+    "vi": "Với lịch sử lâu đời",
+    "en": ""
   },
   {
     "hanzi": "原汁原味",
     "pinyin": "yuánzhī-yuánwèi",
-    "en": "",
-    "vi": ""
+    "vi": "Thật",
+    "en": ""
   },
   {
     "hanzi": "援助",
     "pinyin": "yuánzhù",
-    "en": "",
-    "vi": ""
+    "vi": "hỗ trợ",
+    "en": ""
   },
   {
     "hanzi": "原装",
     "pinyin": "yuánzhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "nguyên bản",
+    "en": ""
   },
   {
     "hanzi": "远见",
     "pinyin": "yuǎnjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Tầm nhìn xa",
+    "en": ""
   },
   {
     "hanzi": "远近闻名",
     "pinyin": "yuǎnjìn-wénmíng",
-    "en": "",
-    "vi": ""
+    "vi": "Nổi tiếng khắp nơi",
+    "en": ""
   },
   {
     "hanzi": "怨",
     "pinyin": "yuàn",
-    "en": "",
-    "vi": ""
+    "vi": "đổ tội",
+    "en": ""
   },
   {
     "hanzi": "怨恨",
     "pinyin": "yuànhèn",
-    "en": "",
-    "vi": ""
+    "vi": "oán giận",
+    "en": ""
   },
   {
     "hanzi": "怨气",
     "pinyin": "yuànqì",
-    "en": "",
-    "vi": ""
+    "vi": "oán giận",
+    "en": ""
   },
   {
     "hanzi": "院士",
     "pinyin": "yuànshì",
-    "en": "",
-    "vi": ""
+    "vi": "học giả",
+    "en": ""
   },
   {
     "hanzi": "怨言",
     "pinyin": "yuànyán",
-    "en": "",
-    "vi": ""
+    "vi": "Phàn nàn",
+    "en": ""
   },
   {
     "hanzi": "曰",
     "pinyin": "yuē",
-    "en": "",
-    "vi": ""
+    "vi": "nói",
+    "en": ""
   },
   {
     "hanzi": "约定俗成",
     "pinyin": "yuēdìng-súchéng",
-    "en": "",
-    "vi": ""
+    "vi": "quy ước",
+    "en": ""
   },
   {
     "hanzi": "乐队",
     "pinyin": "yuèduì",
-    "en": "",
-    "vi": ""
+    "vi": "ban nhạc",
+    "en": ""
   },
   {
     "hanzi": "悦耳",
     "pinyin": "yuè’ěr",
-    "en": "",
-    "vi": ""
+    "vi": "dễ chịu cho tai",
+    "en": ""
   },
   {
     "hanzi": "越发",
     "pinyin": "yuèfā",
-    "en": "",
-    "vi": ""
+    "vi": "ngày càng nhiều",
+    "en": ""
   },
   {
     "hanzi": "岳父",
     "pinyin": "yuèfù",
-    "en": "",
-    "vi": ""
+    "vi": "bố chồng",
+    "en": ""
   },
   {
     "hanzi": "越过",
     "pinyin": "yuèguò",
-    "en": "",
-    "vi": ""
+    "vi": "đi qua",
+    "en": ""
   },
   {
     "hanzi": "阅览",
     "pinyin": "yuèlǎn",
-    "en": "",
-    "vi": ""
+    "vi": "đọc",
+    "en": ""
   },
   {
     "hanzi": "阅历",
     "pinyin": "yuèlì",
-    "en": "",
-    "vi": ""
+    "vi": "kinh nghiệm",
+    "en": ""
   },
   {
     "hanzi": "岳母",
     "pinyin": "yuèmǔ",
-    "en": "",
-    "vi": ""
+    "vi": "mẹ chồng",
+    "en": ""
   },
   {
     "hanzi": "乐谱",
     "pinyin": "yuèpǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bản nhạc",
+    "en": ""
   },
   {
     "hanzi": "晕头转向",
     "pinyin": "yūntóu-zhuànxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "chóng mặt",
+    "en": ""
   },
   {
     "hanzi": "陨石",
     "pinyin": "yǔnshí",
-    "en": "",
-    "vi": ""
+    "vi": "thiên thạch",
+    "en": ""
   },
   {
     "hanzi": "熨",
     "pinyin": "yùn",
-    "en": "",
-    "vi": ""
+    "vi": "sắt",
+    "en": ""
   },
   {
     "hanzi": "蕴藏",
     "pinyin": "yùncáng",
-    "en": "",
-    "vi": ""
+    "vi": "Bao gồm",
+    "en": ""
   },
   {
     "hanzi": "运筹帷幄",
     "pinyin": "yùnchóu-wéiwò",
-    "en": "",
-    "vi": ""
+    "vi": "lập chiến lược",
+    "en": ""
   },
   {
     "hanzi": "孕妇",
     "pinyin": "yùnfù",
-    "en": "",
-    "vi": ""
+    "vi": "phụ nữ mang thai",
+    "en": ""
   },
   {
     "hanzi": "蕴含",
     "pinyin": "yùnhán",
-    "en": "",
-    "vi": ""
+    "vi": "chứa",
+    "en": ""
   },
   {
     "hanzi": "运河",
     "pinyin": "yùnhé",
-    "en": "",
-    "vi": ""
+    "vi": "con kênh",
+    "en": ""
   },
   {
     "hanzi": "酝酿",
     "pinyin": "yùnniàng",
-    "en": "",
-    "vi": ""
+    "vi": "sản xuất bia",
+    "en": ""
   },
   {
     "hanzi": "运算",
     "pinyin": "yùnsuàn",
-    "en": "",
-    "vi": ""
+    "vi": "Hoạt động",
+    "en": ""
   },
   {
     "hanzi": "韵味",
     "pinyin": "yùnwèi",
-    "en": "",
-    "vi": ""
+    "vi": "quyến rũ",
+    "en": ""
   },
   {
     "hanzi": "孕育",
     "pinyin": "yùnyù",
-    "en": "",
-    "vi": ""
+    "vi": "sinh con",
+    "en": ""
   },
   {
     "hanzi": "运转",
     "pinyin": "yùnzhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chạy",
+    "en": ""
   },
   {
     "hanzi": "运作",
     "pinyin": "yùnzuò",
-    "en": "",
-    "vi": ""
+    "vi": "Hoạt động",
+    "en": ""
   },
   {
     "hanzi": "砸",
     "pinyin": "zá",
-    "en": "",
-    "vi": ""
+    "vi": "đập vỡ",
+    "en": ""
   },
   {
     "hanzi": "杂技",
     "pinyin": "zájì",
-    "en": "",
-    "vi": ""
+    "vi": "nhào lộn",
+    "en": ""
   },
   {
     "hanzi": "杂交",
     "pinyin": "zájiāo",
-    "en": "",
-    "vi": ""
+    "vi": "sự lai tạo",
+    "en": ""
   },
   {
     "hanzi": "杂乱无章",
     "pinyin": "záluàn-wúzhāng",
-    "en": "",
-    "vi": ""
+    "vi": "vô tổ chức",
+    "en": ""
   },
   {
     "hanzi": "栽",
     "pinyin": "zāi",
-    "en": "",
-    "vi": ""
+    "vi": "thực vật",
+    "en": ""
   },
   {
     "hanzi": "栽培",
     "pinyin": "zāipéi",
-    "en": "",
-    "vi": ""
+    "vi": "trồng trọt",
+    "en": ""
   },
   {
     "hanzi": "栽赃",
     "pinyin": "zāizāng",
-    "en": "",
-    "vi": ""
+    "vi": "khung",
+    "en": ""
   },
   {
     "hanzi": "宰",
     "pinyin": "zǎi",
-    "en": "",
-    "vi": ""
+    "vi": "giết mổ",
+    "en": ""
   },
   {
     "hanzi": "再度",
     "pinyin": "zàidù",
-    "en": "",
-    "vi": ""
+    "vi": "một lần nữa",
+    "en": ""
   },
   {
     "hanzi": "再接再厉",
     "pinyin": "zàijiē-zàilì",
-    "en": "",
-    "vi": ""
+    "vi": "nỗ lực bền bỉ",
+    "en": ""
   },
   {
     "hanzi": "在所难免",
     "pinyin": "zàisuǒnánmiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "không thể tránh khỏi",
+    "en": ""
   },
   {
     "hanzi": "载体",
     "pinyin": "zàitǐ",
-    "en": "",
-    "vi": ""
+    "vi": "người chuyên chở",
+    "en": ""
   },
   {
     "hanzi": "再现",
     "pinyin": "zàixiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Xuất hiện lại",
+    "en": ""
   },
   {
     "hanzi": "在职",
     "pinyin": "zàizhí",
-    "en": "",
-    "vi": ""
+    "vi": "trong công việc",
+    "en": ""
   },
   {
     "hanzi": "攒",
     "pinyin": "zǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cứu",
+    "en": ""
   },
   {
     "hanzi": "暂",
     "pinyin": "zàn",
-    "en": "",
-    "vi": ""
+    "vi": "tạm thời",
+    "en": ""
   },
   {
     "hanzi": "赞不绝又",
     "pinyin": "zànbùjuékǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Lại hết lời khen ngợi",
+    "en": ""
   },
   {
     "hanzi": "赞美",
     "pinyin": "zànměi",
-    "en": "",
-    "vi": ""
+    "vi": "khen",
+    "en": ""
   },
   {
     "hanzi": "暂且",
     "pinyin": "zànqiě",
-    "en": "",
-    "vi": ""
+    "vi": "hiện tại",
+    "en": ""
   },
   {
     "hanzi": "赞叹",
     "pinyin": "zàntàn",
-    "en": "",
-    "vi": ""
+    "vi": "ngưỡng mộ",
+    "en": ""
   },
   {
     "hanzi": "赞许",
     "pinyin": "zànxǔ",
-    "en": "",
-    "vi": ""
+    "vi": "sự chấp thuận",
+    "en": ""
   },
   {
     "hanzi": "赞扬",
     "pinyin": "zànyáng",
-    "en": "",
-    "vi": ""
+    "vi": "khen",
+    "en": ""
   },
   {
     "hanzi": "赞助",
     "pinyin": "zànzhù",
-    "en": "",
-    "vi": ""
+    "vi": "nhà tài trợ",
+    "en": ""
   },
   {
     "hanzi": "葬",
     "pinyin": "zàng",
-    "en": "",
-    "vi": ""
+    "vi": "chôn cất",
+    "en": ""
   },
   {
     "hanzi": "葬礼",
     "pinyin": "zànglǐ",
-    "en": "",
-    "vi": ""
+    "vi": "tang lễ",
+    "en": ""
   },
   {
     "hanzi": "糟粕",
     "pinyin": "zāopò",
-    "en": "",
-    "vi": ""
+    "vi": "cặn bã",
+    "en": ""
   },
   {
     "hanzi": "糟蹋",
     "pinyin": "zāotà",
-    "en": "",
-    "vi": ""
+    "vi": "rác thải",
+    "en": ""
   },
   {
     "hanzi": "遭殃",
     "pinyin": "zāoyāng",
-    "en": "",
-    "vi": ""
+    "vi": "chịu đựng",
+    "en": ""
   },
   {
     "hanzi": "凿",
     "pinyin": "záo",
-    "en": "",
-    "vi": ""
+    "vi": "cái đục",
+    "en": ""
   },
   {
     "hanzi": "枣",
     "pinyin": "zǎo",
-    "en": "",
-    "vi": ""
+    "vi": "ngày",
+    "en": ""
   },
   {
     "hanzi": "早年",
     "pinyin": "zǎonián",
-    "en": "",
-    "vi": ""
+    "vi": "Những năm đầu",
+    "en": ""
   },
   {
     "hanzi": "早日",
     "pinyin": "zǎorì",
-    "en": "",
-    "vi": ""
+    "vi": "sớm",
+    "en": ""
   },
   {
     "hanzi": "灶",
     "pinyin": "zào",
-    "en": "",
-    "vi": ""
+    "vi": "phòng bếp",
+    "en": ""
   },
   {
     "hanzi": "造福",
     "pinyin": "zàofú",
-    "en": "",
-    "vi": ""
+    "vi": "lợi ích",
+    "en": ""
   },
   {
     "hanzi": "造价",
     "pinyin": "zàojià",
-    "en": "",
-    "vi": ""
+    "vi": "trị giá",
+    "en": ""
   },
   {
     "hanzi": "造假",
     "pinyin": "zàojiǎ",
-    "en": "",
-    "vi": ""
+    "vi": "giả mạo",
+    "en": ""
   },
   {
     "hanzi": "造就",
     "pinyin": "zàojiù",
-    "en": "",
-    "vi": ""
+    "vi": "chỉnh sửa",
+    "en": ""
   },
   {
     "hanzi": "则2",
     "pinyin": "zé",
-    "en": "",
-    "vi": ""
+    "vi": "Sau đó 2",
+    "en": ""
   },
   {
     "hanzi": "责备",
     "pinyin": "zébèi",
-    "en": "",
-    "vi": ""
+    "vi": "đổ tội",
+    "en": ""
   },
   {
     "hanzi": "责怪",
     "pinyin": "zéguài",
-    "en": "",
-    "vi": ""
+    "vi": "đổ tội",
+    "en": ""
   },
   {
     "hanzi": "贼",
     "pinyin": "zéi",
-    "en": "",
-    "vi": ""
+    "vi": "tên trộm",
+    "en": ""
   },
   {
     "hanzi": "增产",
     "pinyin": "zēngchǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Tăng sản lượng",
+    "en": ""
   },
   {
     "hanzi": "增收",
     "pinyin": "zēngshōu",
-    "en": "",
-    "vi": ""
+    "vi": "tăng thu nhập",
+    "en": ""
   },
   {
     "hanzi": "增速",
     "pinyin": "zēngsù",
-    "en": "",
-    "vi": ""
+    "vi": "Tốc độ tăng trưởng",
+    "en": ""
   },
   {
     "hanzi": "增添",
     "pinyin": "zēngtiān",
-    "en": "",
-    "vi": ""
+    "vi": "thêm vào",
+    "en": ""
   },
   {
     "hanzi": "增值",
     "pinyin": "zēngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "giá trị gia tăng",
+    "en": ""
   },
   {
     "hanzi": "渣",
     "pinyin": "zhā",
-    "en": "",
-    "vi": ""
+    "vi": "xỉ",
+    "en": ""
   },
   {
     "hanzi": "扎根",
     "pinyin": "zhāgēn",
-    "en": "",
-    "vi": ""
+    "vi": "lấy gốc",
+    "en": ""
   },
   {
     "hanzi": "扎实",
     "pinyin": "zhāshi",
-    "en": "",
-    "vi": ""
+    "vi": "chất rắn",
+    "en": ""
   },
   {
     "hanzi": "闸",
     "pinyin": "zhá",
-    "en": "",
-    "vi": ""
+    "vi": "phanh",
+    "en": ""
   },
   {
     "hanzi": "眨眼",
     "pinyin": "zhǎyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "chớp mắt",
+    "en": ""
   },
   {
     "hanzi": "榨",
     "pinyin": "zhà",
-    "en": "",
-    "vi": ""
+    "vi": "vắt kiệt",
+    "en": ""
   },
   {
     "hanzi": "炸弹",
     "pinyin": "zhàdàn",
-    "en": "",
-    "vi": ""
+    "vi": "bom",
+    "en": ""
   },
   {
     "hanzi": "诈骗",
     "pinyin": "zhàpiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Lừa đảo",
+    "en": ""
   },
   {
     "hanzi": "炸药",
     "pinyin": "zhàyào",
-    "en": "",
-    "vi": ""
+    "vi": "thuốc nổ",
+    "en": ""
   },
   {
     "hanzi": "摘要",
     "pinyin": "zhāiyào",
-    "en": "",
-    "vi": ""
+    "vi": "bản tóm tắt",
+    "en": ""
   },
   {
     "hanzi": "债",
     "pinyin": "zhài",
-    "en": "",
-    "vi": ""
+    "vi": "món nợ",
+    "en": ""
   },
   {
     "hanzi": "债券",
     "pinyin": "zhàiquàn",
-    "en": "",
-    "vi": ""
+    "vi": "trái phiếu",
+    "en": ""
   },
   {
     "hanzi": "债务",
     "pinyin": "zhàiwù",
-    "en": "",
-    "vi": ""
+    "vi": "món nợ",
+    "en": ""
   },
   {
     "hanzi": "沾",
     "pinyin": "zhān",
-    "en": "",
-    "vi": ""
+    "vi": "nhúng",
+    "en": ""
   },
   {
     "hanzi": "占卜",
     "pinyin": "zhānbǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bói toán",
+    "en": ""
   },
   {
     "hanzi": "沾光",
     "pinyin": "zhānguāng",
-    "en": "",
-    "vi": ""
+    "vi": "tận dụng",
+    "en": ""
   },
   {
     "hanzi": "瞻仰",
     "pinyin": "zhānyǎng",
-    "en": "",
-    "vi": ""
+    "vi": "tỏ lòng tôn kính",
+    "en": ""
   },
   {
     "hanzi": "斩",
     "pinyin": "zhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cắt",
+    "en": ""
   },
   {
     "hanzi": "盏",
     "pinyin": "zhǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tách",
+    "en": ""
   },
   {
     "hanzi": "斩钉截铁",
     "pinyin": "zhǎndīng-jiétiě",
-    "en": "",
-    "vi": ""
+    "vi": "phân loại",
+    "en": ""
   },
   {
     "hanzi": "展望",
     "pinyin": "zhǎnwàng",
-    "en": "",
-    "vi": ""
+    "vi": "Triển vọng",
+    "en": ""
   },
   {
     "hanzi": "辗转",
     "pinyin": "zhǎnzhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Tung và xoay",
+    "en": ""
   },
   {
     "hanzi": "蘸",
     "pinyin": "zhàn",
-    "en": "",
-    "vi": ""
+    "vi": "nhúng",
+    "en": ""
   },
   {
     "hanzi": "战场",
     "pinyin": "zhànchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "chiến trường",
+    "en": ""
   },
   {
     "hanzi": "绽放",
     "pinyin": "zhànfàng",
-    "en": "",
-    "vi": ""
+    "vi": "hoa",
+    "en": ""
   },
   {
     "hanzi": "站立",
     "pinyin": "zhànlì",
-    "en": "",
-    "vi": ""
+    "vi": "đứng",
+    "en": ""
   },
   {
     "hanzi": "占领",
     "pinyin": "zhànlǐng",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm lĩnh",
+    "en": ""
   },
   {
     "hanzi": "战略",
     "pinyin": "zhànlüè",
-    "en": "",
-    "vi": ""
+    "vi": "chiến lược",
+    "en": ""
   },
   {
     "hanzi": "战士",
     "pinyin": "zhànshì",
-    "en": "",
-    "vi": ""
+    "vi": "chiến binh",
+    "en": ""
   },
   {
     "hanzi": "战术",
     "pinyin": "zhànshù",
-    "en": "",
-    "vi": ""
+    "vi": "chiến thuật",
+    "en": ""
   },
   {
     "hanzi": "战役",
     "pinyin": "zhànyì",
-    "en": "",
-    "vi": ""
+    "vi": "trận đánh",
+    "en": ""
   },
   {
     "hanzi": "占用",
     "pinyin": "zhànyòng",
-    "en": "",
-    "vi": ""
+    "vi": "chiếm giữ",
+    "en": ""
   },
   {
     "hanzi": "战友",
     "pinyin": "zhànyǒu",
-    "en": "",
-    "vi": ""
+    "vi": "các đồng chí",
+    "en": ""
   },
   {
     "hanzi": "章程",
     "pinyin": "zhāngchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Điều lệ",
+    "en": ""
   },
   {
     "hanzi": "张灯结彩",
     "pinyin": "zhāngdēng-jiécǎi",
-    "en": "",
-    "vi": ""
+    "vi": "Đèn lồng và lễ hội",
+    "en": ""
   },
   {
     "hanzi": "张贴",
     "pinyin": "zhāngtiē",
-    "en": "",
-    "vi": ""
+    "vi": "bưu kiện",
+    "en": ""
   },
   {
     "hanzi": "张扬",
     "pinyin": "zhāngyáng",
-    "en": "",
-    "vi": ""
+    "vi": "Công khai",
+    "en": ""
   },
   {
     "hanzi": "掌舵",
     "pinyin": "zhǎngduò",
-    "en": "",
-    "vi": ""
+    "vi": "cầm lái",
+    "en": ""
   },
   {
     "hanzi": "涨幅",
     "pinyin": "zhǎngfú",
-    "en": "",
-    "vi": ""
+    "vi": "Tăng",
+    "en": ""
   },
   {
     "hanzi": "掌管",
     "pinyin": "zhǎngguǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Chịu trách nhiệm",
+    "en": ""
   },
   {
     "hanzi": "长相",
     "pinyin": "zhǎngxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "vẻ bề ngoài",
+    "en": ""
   },
   {
     "hanzi": "涨",
     "pinyin": "zhàng",
-    "en": "",
-    "vi": ""
+    "vi": "tăng lên",
+    "en": ""
   },
   {
     "hanzi": "胀",
     "pinyin": "zhàng",
-    "en": "",
-    "vi": ""
+    "vi": "sưng lên",
+    "en": ""
   },
   {
     "hanzi": "帐篷",
     "pinyin": "zhàngpeng",
-    "en": "",
-    "vi": ""
+    "vi": "lều",
+    "en": ""
   },
   {
     "hanzi": "招标",
     "pinyin": "zhāobiāo",
-    "en": "",
-    "vi": ""
+    "vi": "Mềm",
+    "en": ""
   },
   {
     "hanzi": "招揽",
     "pinyin": "zhāolǎn",
-    "en": "",
-    "vi": ""
+    "vi": "gạ gẫm",
+    "en": ""
   },
   {
     "hanzi": "招募",
     "pinyin": "zhāomù",
-    "en": "",
-    "vi": ""
+    "vi": "tuyển dụng",
+    "en": ""
   },
   {
     "hanzi": "招牌",
     "pinyin": "zhāopai",
-    "en": "",
-    "vi": ""
+    "vi": "Biển hiệu cửa hàng",
+    "en": ""
   },
   {
     "hanzi": "朝气蓬勃",
     "pinyin": "zhāoqì-péngbó",
-    "en": "",
-    "vi": ""
+    "vi": "Sống động",
+    "en": ""
   },
   {
     "hanzi": "朝三暮四",
     "pinyin": "zhāosān-mùsì",
-    "en": "",
-    "vi": ""
+    "vi": "Ngày và đêm",
+    "en": ""
   },
   {
     "hanzi": "招商",
     "pinyin": "zhāoshāng",
-    "en": "",
-    "vi": ""
+    "vi": "Xúc tiến đầu tư",
+    "en": ""
   },
   {
     "hanzi": "招数",
     "pinyin": "zhāoshù",
-    "en": "",
-    "vi": ""
+    "vi": "thủ thuật",
+    "en": ""
   },
   {
     "hanzi": "朝夕相处",
     "pinyin": "zhāoxī-xiāngchǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Cùng nhau ngày và đêm",
+    "en": ""
   },
   {
     "hanzi": "着迷",
     "pinyin": "zháomí",
-    "en": "",
-    "vi": ""
+    "vi": "mê hoặc",
+    "en": ""
   },
   {
     "hanzi": "沼泽",
     "pinyin": "zhǎozé",
-    "en": "",
-    "vi": ""
+    "vi": "đầm lầy",
+    "en": ""
   },
   {
     "hanzi": "罩",
     "pinyin": "zhào",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "照办",
     "pinyin": "zhàobàn",
-    "en": "",
-    "vi": ""
+    "vi": "làm như bạn được bảo",
+    "en": ""
   },
   {
     "hanzi": "照常",
     "pinyin": "zhàocháng",
-    "en": "",
-    "vi": ""
+    "vi": "như thường lệ",
+    "en": ""
   },
   {
     "hanzi": "召集",
     "pinyin": "zhàojí",
-    "en": "",
-    "vi": ""
+    "vi": "triệu tập",
+    "en": ""
   },
   {
     "hanzi": "照例",
     "pinyin": "zhàolì",
-    "en": "",
-    "vi": ""
+    "vi": "Như thường lệ",
+    "en": ""
   },
   {
     "hanzi": "照料",
     "pinyin": "zhàoliào",
-    "en": "",
-    "vi": ""
+    "vi": "quan tâm",
+    "en": ""
   },
   {
     "hanzi": "照射",
     "pinyin": "zhàoshè",
-    "en": "",
-    "vi": ""
+    "vi": "chiếu xạ",
+    "en": ""
   },
   {
     "hanzi": "肇事",
     "pinyin": "zhàoshì",
-    "en": "",
-    "vi": ""
+    "vi": "gây rắc rối",
+    "en": ""
   },
   {
     "hanzi": "兆头",
     "pinyin": "zhàotou",
-    "en": "",
-    "vi": ""
+    "vi": "điềm báo",
+    "en": ""
   },
   {
     "hanzi": "照样",
     "pinyin": "zhàoyàng",
-    "en": "",
-    "vi": ""
+    "vi": "Vẫn như cũ",
+    "en": ""
   },
   {
     "hanzi": "照耀",
     "pinyin": "zhàoyào",
-    "en": "",
-    "vi": ""
+    "vi": "chiếu sáng",
+    "en": ""
   },
   {
     "hanzi": "遮",
     "pinyin": "zhē",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "遮挡",
     "pinyin": "zhēdǎng",
-    "en": "",
-    "vi": ""
+    "vi": "tắc nghẽn",
+    "en": ""
   },
   {
     "hanzi": "遮盖",
     "pinyin": "zhēgài",
-    "en": "",
-    "vi": ""
+    "vi": "che phủ",
+    "en": ""
   },
   {
     "hanzi": "折腾",
     "pinyin": "zhēteng",
-    "en": "",
-    "vi": ""
+    "vi": "quăng",
+    "en": ""
   },
   {
     "hanzi": "折叠",
     "pinyin": "zhédié",
-    "en": "",
-    "vi": ""
+    "vi": "nếp gấp",
+    "en": ""
   },
   {
     "hanzi": "折合",
     "pinyin": "zhéhé",
-    "en": "",
-    "vi": ""
+    "vi": "đã chuyển đổi",
+    "en": ""
   },
   {
     "hanzi": "哲理",
     "pinyin": "zhélǐ",
-    "en": "",
-    "vi": ""
+    "vi": "triết lý",
+    "en": ""
   },
   {
     "hanzi": "折磨",
     "pinyin": "zhémó",
-    "en": "",
-    "vi": ""
+    "vi": "tra tấn",
+    "en": ""
   },
   {
     "hanzi": "折射",
     "pinyin": "zhéshè",
-    "en": "",
-    "vi": ""
+    "vi": "sự khúc xạ",
+    "en": ""
   },
   {
     "hanzi": "珍藏",
     "pinyin": "zhēncáng",
-    "en": "",
-    "vi": ""
+    "vi": "bộ sưu tập",
+    "en": ""
   },
   {
     "hanzi": "侦查",
     "pinyin": "zhēnchá",
-    "en": "",
-    "vi": ""
+    "vi": "Khảo sát",
+    "en": ""
   },
   {
     "hanzi": "针锋相对",
     "pinyin": "zhēnfēng-xiāngduì",
-    "en": "",
-    "vi": ""
+    "vi": "ăn miếng trả miếng",
+    "en": ""
   },
   {
     "hanzi": "针灸",
     "pinyin": "zhēnjiǔ",
-    "en": "",
-    "vi": ""
+    "vi": "Châm cứu",
+    "en": ""
   },
   {
     "hanzi": "真空",
     "pinyin": "zhēnkōng",
-    "en": "",
-    "vi": ""
+    "vi": "chân không",
+    "en": ""
   },
   {
     "hanzi": "真理",
     "pinyin": "zhēnlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "sự thật",
+    "en": ""
   },
   {
     "hanzi": "真情",
     "pinyin": "zhēnqíng",
-    "en": "",
-    "vi": ""
+    "vi": "sự thật",
+    "en": ""
   },
   {
     "hanzi": "真是",
     "pinyin": "zhēnshi",
-    "en": "",
-    "vi": ""
+    "vi": "Thật sự",
+    "en": ""
   },
   {
     "hanzi": "珍视",
     "pinyin": "zhēnshì",
-    "en": "",
-    "vi": ""
+    "vi": "giá trị",
+    "en": ""
   },
   {
     "hanzi": "侦探",
     "pinyin": "zhēntàn",
-    "en": "",
-    "vi": ""
+    "vi": "thám tử",
+    "en": ""
   },
   {
     "hanzi": "珍稀",
     "pinyin": "zhēnxī",
-    "en": "",
-    "vi": ""
+    "vi": "Hiếm",
+    "en": ""
   },
   {
     "hanzi": "真心",
     "pinyin": "zhēnxīn",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "真挚",
     "pinyin": "zhēnzhì",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "珍重",
     "pinyin": "zhēnzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "kho báu",
+    "en": ""
   },
   {
     "hanzi": "斟酌",
     "pinyin": "zhēnzhuó",
-    "en": "",
-    "vi": ""
+    "vi": "coi như",
+    "en": ""
   },
   {
     "hanzi": "枕",
     "pinyin": "zhěn",
-    "en": "",
-    "vi": ""
+    "vi": "cái gối",
+    "en": ""
   },
   {
     "hanzi": "诊所",
     "pinyin": "zhěnsuǒ",
-    "en": "",
-    "vi": ""
+    "vi": "Phòng khám",
+    "en": ""
   },
   {
     "hanzi": "震",
     "pinyin": "zhèn",
-    "en": "",
-    "vi": ""
+    "vi": "sốc",
+    "en": ""
   },
   {
     "hanzi": "震荡",
     "pinyin": "zhèndàng",
-    "en": "",
-    "vi": ""
+    "vi": "sốc",
+    "en": ""
   },
   {
     "hanzi": "阵地",
     "pinyin": "zhèndì",
-    "en": "",
-    "vi": ""
+    "vi": "chức vụ",
+    "en": ""
   },
   {
     "hanzi": "镇定",
     "pinyin": "zhèndìng",
-    "en": "",
-    "vi": ""
+    "vi": "Điềm tĩnh",
+    "en": ""
   },
   {
     "hanzi": "振动",
     "pinyin": "zhèndòng",
-    "en": "",
-    "vi": ""
+    "vi": "rung động",
+    "en": ""
   },
   {
     "hanzi": "震动",
     "pinyin": "zhèndòng",
-    "en": "",
-    "vi": ""
+    "vi": "sốc",
+    "en": ""
   },
   {
     "hanzi": "振奋",
     "pinyin": "zhènfèn",
-    "en": "",
-    "vi": ""
+    "vi": "tiếp thêm sinh lực",
+    "en": ""
   },
   {
     "hanzi": "震撼",
     "pinyin": "zhènhàn",
-    "en": "",
-    "vi": ""
+    "vi": "bị sốc",
+    "en": ""
   },
   {
     "hanzi": "镇静",
     "pinyin": "zhènjìng",
-    "en": "",
-    "vi": ""
+    "vi": "điềm tĩnh",
+    "en": ""
   },
   {
     "hanzi": "震惊",
     "pinyin": "zhènjīng",
-    "en": "",
-    "vi": ""
+    "vi": "sốc",
+    "en": ""
   },
   {
     "hanzi": "阵容",
     "pinyin": "zhènróng",
-    "en": "",
-    "vi": ""
+    "vi": "xếp hàng",
+    "en": ""
   },
   {
     "hanzi": "振兴",
     "pinyin": "zhènxīng",
-    "en": "",
-    "vi": ""
+    "vi": "hồi sinh",
+    "en": ""
   },
   {
     "hanzi": "阵营",
     "pinyin": "zhènyíng",
-    "en": "",
-    "vi": ""
+    "vi": "trại",
+    "en": ""
   },
   {
     "hanzi": "振作",
     "pinyin": "zhènzuò",
-    "en": "",
-    "vi": ""
+    "vi": "Vui lên",
+    "en": ""
   },
   {
     "hanzi": "征",
     "pinyin": "zhēng",
-    "en": "",
-    "vi": ""
+    "vi": "thu thuế",
+    "en": ""
   },
   {
     "hanzi": "蒸",
     "pinyin": "zhēng",
-    "en": "",
-    "vi": ""
+    "vi": "Hơi nước",
+    "en": ""
   },
   {
     "hanzi": "争辩",
     "pinyin": "zhēngbiàn",
-    "en": "",
-    "vi": ""
+    "vi": "tranh cãi",
+    "en": ""
   },
   {
     "hanzi": "争端",
     "pinyin": "zhēngduān",
-    "en": "",
-    "vi": ""
+    "vi": "tranh luận",
+    "en": ""
   },
   {
     "hanzi": "蒸发",
     "pinyin": "zhēngfā",
-    "en": "",
-    "vi": ""
+    "vi": "bay hơi",
+    "en": ""
   },
   {
     "hanzi": "争分夺秒",
     "pinyin": "zhēngfēn-duómiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "Chạy đua với thời gian",
+    "en": ""
   },
   {
     "hanzi": "征服",
     "pinyin": "zhēngfú",
-    "en": "",
-    "vi": ""
+    "vi": "chinh phục",
+    "en": ""
   },
   {
     "hanzi": "争光",
     "pinyin": "zhēngguāng",
-    "en": "",
-    "vi": ""
+    "vi": "sự ô nhục",
+    "en": ""
   },
   {
     "hanzi": "征集",
     "pinyin": "zhēngjí",
-    "en": "",
-    "vi": ""
+    "vi": "gạ gẫm",
+    "en": ""
   },
   {
     "hanzi": "症结",
     "pinyin": "zhēngjié",
-    "en": "",
-    "vi": ""
+    "vi": "mấu chốt",
+    "en": ""
   },
   {
     "hanzi": "争气",
     "pinyin": "zhēngqì",
-    "en": "",
-    "vi": ""
+    "vi": "Sống theo mong đợi",
+    "en": ""
   },
   {
     "hanzi": "征收",
     "pinyin": "zhēngshōu",
-    "en": "",
-    "vi": ""
+    "vi": "bộ sưu tập",
+    "en": ""
   },
   {
     "hanzi": "争相",
     "pinyin": "zhēngxiāng",
-    "en": "",
-    "vi": ""
+    "vi": "tranh giành",
+    "en": ""
   },
   {
     "hanzi": "争先恐后",
     "pinyin": "zhēngxiān-kǒnghòu",
-    "en": "",
-    "vi": ""
+    "vi": "tranh giành",
+    "en": ""
   },
   {
     "hanzi": "正月",
     "pinyin": "zhēngyuè",
-    "en": "",
-    "vi": ""
+    "vi": "tháng đầu tiên",
+    "en": ""
   },
   {
     "hanzi": "挣扎",
     "pinyin": "zhēngzhá",
-    "en": "",
-    "vi": ""
+    "vi": "đấu tranh ",
+    "en": ""
   },
   {
     "hanzi": "争执",
     "pinyin": "zhēngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "tranh luận",
+    "en": ""
   },
   {
     "hanzi": "整顿",
     "pinyin": "zhěngdùn",
-    "en": "",
-    "vi": ""
+    "vi": "Chỉnh sửa",
+    "en": ""
   },
   {
     "hanzi": "整合",
     "pinyin": "zhěnghé",
-    "en": "",
-    "vi": ""
+    "vi": "Tích hợp",
+    "en": ""
   },
   {
     "hanzi": "整洁",
     "pinyin": "zhěngjié",
-    "en": "",
-    "vi": ""
+    "vi": "ngăn nắp",
+    "en": ""
   },
   {
     "hanzi": "拯救",
     "pinyin": "zhěngjiù",
-    "en": "",
-    "vi": ""
+    "vi": "cứu",
+    "en": ""
   },
   {
     "hanzi": "整数",
     "pinyin": "zhěngshù",
-    "en": "",
-    "vi": ""
+    "vi": "số nguyên",
+    "en": ""
   },
   {
     "hanzi": "整治",
     "pinyin": "zhěngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "sửa chữa",
+    "en": ""
   },
   {
     "hanzi": "正版",
     "pinyin": "zhèngbǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Thành thật",
+    "en": ""
   },
   {
     "hanzi": "正当",
     "pinyin": "zhèngdàng",
-    "en": "",
-    "vi": ""
+    "vi": "Chính đáng",
+    "en": ""
   },
   {
     "hanzi": "政党",
     "pinyin": "zhèngdǎng",
-    "en": "",
-    "vi": ""
+    "vi": "đảng chính trị",
+    "en": ""
   },
   {
     "hanzi": "正经",
     "pinyin": "zhèngjing",
-    "en": "",
-    "vi": ""
+    "vi": "nghiêm trọng",
+    "en": ""
   },
   {
     "hanzi": "正能量",
     "pinyin": "zhèngnéngliàng",
-    "en": "",
-    "vi": ""
+    "vi": "năng lượng tích cực",
+    "en": ""
   },
   {
     "hanzi": "正气",
     "pinyin": "zhèngqì",
-    "en": "",
-    "vi": ""
+    "vi": "thẳng đứng",
+    "en": ""
   },
   {
     "hanzi": "政权",
     "pinyin": "zhèngquán",
-    "en": "",
-    "vi": ""
+    "vi": "chế độ",
+    "en": ""
   },
   {
     "hanzi": "证券",
     "pinyin": "zhèngquàn",
-    "en": "",
-    "vi": ""
+    "vi": "chứng khoán",
+    "en": ""
   },
   {
     "hanzi": "证人",
     "pinyin": "zhèngrén",
-    "en": "",
-    "vi": ""
+    "vi": "nhân chứng",
+    "en": ""
   },
   {
     "hanzi": "正视",
     "pinyin": "zhèngshì",
-    "en": "",
-    "vi": ""
+    "vi": "khuôn mặt",
+    "en": ""
   },
   {
     "hanzi": "正直",
     "pinyin": "zhèngzhí",
-    "en": "",
-    "vi": ""
+    "vi": "ngay thẳng",
+    "en": ""
   },
   {
     "hanzi": "郑重",
     "pinyin": "zhèngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "trang trọng",
+    "en": ""
   },
   {
     "hanzi": "正宗",
     "pinyin": "zhèngzōng",
-    "en": "",
-    "vi": ""
+    "vi": "Thật",
+    "en": ""
   },
   {
     "hanzi": "之2",
     "pinyin": "zhī",
-    "en": "",
-    "vi": ""
+    "vi": "của 2",
+    "en": ""
   },
   {
     "hanzi": "织",
     "pinyin": "zhī",
-    "en": "",
-    "vi": ""
+    "vi": "dệt",
+    "en": ""
   },
   {
     "hanzi": "之际",
     "pinyin": "zhījì",
-    "en": "",
-    "vi": ""
+    "vi": "nhân dịp này",
+    "en": ""
   },
   {
     "hanzi": "知己",
     "pinyin": "zhījǐ",
-    "en": "",
-    "vi": ""
+    "vi": "người bạn tâm tình",
+    "en": ""
   },
   {
     "hanzi": "支架",
     "pinyin": "zhījià",
-    "en": "",
-    "vi": ""
+    "vi": "Dấu ngoặc",
+    "en": ""
   },
   {
     "hanzi": "知觉",
     "pinyin": "zhījué",
-    "en": "",
-    "vi": ""
+    "vi": "sự nhận thức",
+    "en": ""
   },
   {
     "hanzi": "支流",
     "pinyin": "zhīliú",
-    "en": "",
-    "vi": ""
+    "vi": "phụ lưu",
+    "en": ""
   },
   {
     "hanzi": "芝麻",
     "pinyin": "zhīma",
-    "en": "",
-    "vi": ""
+    "vi": "mè",
+    "en": ""
   },
   {
     "hanzi": "支配",
     "pinyin": "zhīpèi",
-    "en": "",
-    "vi": ""
+    "vi": "Thống trị",
+    "en": ""
   },
   {
     "hanzi": "支票",
     "pinyin": "zhīpiào",
-    "en": "",
-    "vi": ""
+    "vi": "Kiểm tra",
+    "en": ""
   },
   {
     "hanzi": "知识分子",
     "pinyin": "zhīshi fènzǐ",
-    "en": "",
-    "vi": ""
+    "vi": "trí thức",
+    "en": ""
   },
   {
     "hanzi": "肢体",
     "pinyin": "zhītǐ",
-    "en": "",
-    "vi": ""
+    "vi": "tay chân",
+    "en": ""
   },
   {
     "hanzi": "支援",
     "pinyin": "zhīyuán",
-    "en": "",
-    "vi": ""
+    "vi": "ủng hộ",
+    "en": ""
   },
   {
     "hanzi": "支柱",
     "pinyin": "zhīzhù",
-    "en": "",
-    "vi": ""
+    "vi": "trụ cột",
+    "en": ""
   },
   {
     "hanzi": "知足",
     "pinyin": "zhīzú",
-    "en": "",
-    "vi": ""
+    "vi": "hài lòng",
+    "en": ""
   },
   {
     "hanzi": "知足常乐",
     "pinyin": "zhīzú-chánglè",
-    "en": "",
-    "vi": ""
+    "vi": "sự hài lòng",
+    "en": ""
   },
   {
     "hanzi": "职称",
     "pinyin": "zhíchēng",
-    "en": "",
-    "vi": ""
+    "vi": "chức danh công việc",
+    "en": ""
   },
   {
     "hanzi": "直达",
     "pinyin": "zhídá",
-    "en": "",
-    "vi": ""
+    "vi": "trực tiếp",
+    "en": ""
   },
   {
     "hanzi": "执法",
     "pinyin": "zhífǎ",
-    "en": "",
-    "vi": ""
+    "vi": "thực thi pháp luật",
+    "en": ""
   },
   {
     "hanzi": "直观",
     "pinyin": "zhíguān",
-    "en": "",
-    "vi": ""
+    "vi": "trực quan",
+    "en": ""
   },
   {
     "hanzi": "直径",
     "pinyin": "zhíjìng",
-    "en": "",
-    "vi": ""
+    "vi": "đường kính",
+    "en": ""
   },
   {
     "hanzi": "直觉",
     "pinyin": "zhíjué",
-    "en": "",
-    "vi": ""
+    "vi": "trực giác",
+    "en": ""
   },
   {
     "hanzi": "职能",
     "pinyin": "zhínéng",
-    "en": "",
-    "vi": ""
+    "vi": "Chức năng",
+    "en": ""
   },
   {
     "hanzi": "值钱",
     "pinyin": "zhíqián",
-    "en": "",
-    "vi": ""
+    "vi": "có giá trị lớn",
+    "en": ""
   },
   {
     "hanzi": "直升机",
     "pinyin": "zhíshēngjī",
-    "en": "",
-    "vi": ""
+    "vi": "trực thăng",
+    "en": ""
   },
   {
     "hanzi": "直视",
     "pinyin": "zhíshì",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn trực tiếp",
+    "en": ""
   },
   {
     "hanzi": "直线",
     "pinyin": "zhíxiàn",
-    "en": "",
-    "vi": ""
+    "vi": "đường thẳng",
+    "en": ""
   },
   {
     "hanzi": "直辖市",
     "pinyin": "zhíxiáshì",
-    "en": "",
-    "vi": ""
+    "vi": "đô thị",
+    "en": ""
   },
   {
     "hanzi": "执意",
     "pinyin": "zhíyì",
-    "en": "",
-    "vi": ""
+    "vi": "khăng khăng",
+    "en": ""
   },
   {
     "hanzi": "执照",
     "pinyin": "zhízhào",
-    "en": "",
-    "vi": ""
+    "vi": "giấy phép",
+    "en": ""
   },
   {
     "hanzi": "直至",
     "pinyin": "zhízhì",
-    "en": "",
-    "vi": ""
+    "vi": "cho đến khi",
+    "en": ""
   },
   {
     "hanzi": "执着",
     "pinyin": "zhízhuó",
-    "en": "",
-    "vi": ""
+    "vi": "Kiên trì",
+    "en": ""
   },
   {
     "hanzi": "纸币",
     "pinyin": "zhǐbì",
-    "en": "",
-    "vi": ""
+    "vi": "tiền giấy",
+    "en": ""
   },
   {
     "hanzi": "指标",
     "pinyin": "zhǐbiāo",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ mục",
+    "en": ""
   },
   {
     "hanzi": "止步",
     "pinyin": "zhǐbù",
-    "en": "",
-    "vi": ""
+    "vi": "dừng lại",
+    "en": ""
   },
   {
     "hanzi": "指点",
     "pinyin": "zhǐdiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Đưa ra lời khuyên",
+    "en": ""
   },
   {
     "hanzi": "只管",
     "pinyin": "zhǐguǎn",
-    "en": "",
-    "vi": ""
+    "vi": "cứ thử đi",
+    "en": ""
   },
   {
     "hanzi": "指甲",
     "pinyin": "zhǐjia",
-    "en": "",
-    "vi": ""
+    "vi": "móng tay",
+    "en": ""
   },
   {
     "hanzi": "指教",
     "pinyin": "zhǐjiào",
-    "en": "",
-    "vi": ""
+    "vi": "Đưa ra lời khuyên",
+    "en": ""
   },
   {
     "hanzi": "指控",
     "pinyin": "zhǐkòng",
-    "en": "",
-    "vi": ""
+    "vi": "lời buộc tội",
+    "en": ""
   },
   {
     "hanzi": "指令",
     "pinyin": "zhǐlìng",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ dẫn",
+    "en": ""
   },
   {
     "hanzi": "指南",
     "pinyin": "zhǐnán",
-    "en": "",
-    "vi": ""
+    "vi": "hướng dẫn",
+    "en": ""
   },
   {
     "hanzi": "纸上谈兵",
     "pinyin": "zhǐshàng-tánbīng",
-    "en": "",
-    "vi": ""
+    "vi": "Nói chuyện trên giấy",
+    "en": ""
   },
   {
     "hanzi": "指手画脚",
     "pinyin": "zhǐshǒu-huàjiǎo",
-    "en": "",
-    "vi": ""
+    "vi": "ngón tay chỉ",
+    "en": ""
   },
   {
     "hanzi": "指数",
     "pinyin": "zhǐshù",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ mục",
+    "en": ""
   },
   {
     "hanzi": "指望",
     "pinyin": "zhǐwàng",
-    "en": "",
-    "vi": ""
+    "vi": "tin tưởng vào",
+    "en": ""
   },
   {
     "hanzi": "指纹",
     "pinyin": "zhǐwén",
-    "en": "",
-    "vi": ""
+    "vi": "dấu vân tay",
+    "en": ""
   },
   {
     "hanzi": "指向",
     "pinyin": "zhǐxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ vào",
+    "en": ""
   },
   {
     "hanzi": "指引",
     "pinyin": "zhǐyǐn",
-    "en": "",
-    "vi": ""
+    "vi": "hướng dẫn",
+    "en": ""
   },
   {
     "hanzi": "旨在",
     "pinyin": "zhǐzài",
-    "en": "",
-    "vi": ""
+    "vi": "nhằm vào",
+    "en": ""
   },
   {
     "hanzi": "致",
     "pinyin": "zhì",
-    "en": "",
-    "vi": ""
+    "vi": "ĐẾN",
+    "en": ""
   },
   {
     "hanzi": "置",
     "pinyin": "zhì",
-    "en": "",
-    "vi": ""
+    "vi": "bộ",
+    "en": ""
   },
   {
     "hanzi": "治安",
     "pinyin": "zhì’ān",
-    "en": "",
-    "vi": ""
+    "vi": "luật pháp và trật tự",
+    "en": ""
   },
   {
     "hanzi": "制裁",
     "pinyin": "zhìcái",
-    "en": "",
-    "vi": ""
+    "vi": "biện pháp trừng phạt",
+    "en": ""
   },
   {
     "hanzi": "致辞",
     "pinyin": "zhìcí",
-    "en": "",
-    "vi": ""
+    "vi": "Lời nói",
+    "en": ""
   },
   {
     "hanzi": "至此",
     "pinyin": "zhìcǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Cho đến nay",
+    "en": ""
   },
   {
     "hanzi": "质地",
     "pinyin": "zhìdì",
-    "en": "",
-    "vi": ""
+    "vi": "kết cấu",
+    "en": ""
   },
   {
     "hanzi": "制服1",
     "pinyin": "zhìfú",
-    "en": "",
-    "vi": ""
+    "vi": "Đồng phục 1",
+    "en": ""
   },
   {
     "hanzi": "制服2",
     "pinyin": "zhìfú",
-    "en": "",
-    "vi": ""
+    "vi": "Đồng phục 2",
+    "en": ""
   },
   {
     "hanzi": "致富",
     "pinyin": "zhìfù",
-    "en": "",
-    "vi": ""
+    "vi": "làm giàu",
+    "en": ""
   },
   {
     "hanzi": "滞后",
     "pinyin": "zhìhòu",
-    "en": "",
-    "vi": ""
+    "vi": "tụt hậu",
+    "en": ""
   },
   {
     "hanzi": "致敬",
     "pinyin": "zhìjìng",
-    "en": "",
-    "vi": ""
+    "vi": "vinh danh",
+    "en": ""
   },
   {
     "hanzi": "滞留",
     "pinyin": "zhìliú",
-    "en": "",
-    "vi": ""
+    "vi": "ở lại",
+    "en": ""
   },
   {
     "hanzi": "致力于",
     "pinyin": "zhìlìyú",
-    "en": "",
-    "vi": ""
+    "vi": "dành riêng cho",
+    "en": ""
   },
   {
     "hanzi": "致命",
     "pinyin": "zhìmìng",
-    "en": "",
-    "vi": ""
+    "vi": "gây tử vong",
+    "en": ""
   },
   {
     "hanzi": "稚嫩",
     "pinyin": "zhìnèn",
-    "en": "",
-    "vi": ""
+    "vi": "chưa trưởng thành",
+    "en": ""
   },
   {
     "hanzi": "质朴",
     "pinyin": "zhìpǔ",
-    "en": "",
-    "vi": ""
+    "vi": "mộc mạc",
+    "en": ""
   },
   {
     "hanzi": "志气",
     "pinyin": "zhìqì",
-    "en": "",
-    "vi": ""
+    "vi": "tham vọng ",
+    "en": ""
   },
   {
     "hanzi": "智商",
     "pinyin": "zhìshāng",
-    "en": "",
-    "vi": ""
+    "vi": "chỉ số IQ",
+    "en": ""
   },
   {
     "hanzi": "致使",
     "pinyin": "zhìshǐ",
-    "en": "",
-    "vi": ""
+    "vi": "gây ra",
+    "en": ""
   },
   {
     "hanzi": "质问",
     "pinyin": "zhìwèn",
-    "en": "",
-    "vi": ""
+    "vi": "câu hỏi",
+    "en": ""
   },
   {
     "hanzi": "窒息",
     "pinyin": "zhìxī",
-    "en": "",
-    "vi": ""
+    "vi": "ngạt thở",
+    "en": ""
   },
   {
     "hanzi": "志向",
     "pinyin": "zhìxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "tham vọng ",
+    "en": ""
   },
   {
     "hanzi": "治愈",
     "pinyin": "zhìyù",
-    "en": "",
-    "vi": ""
+    "vi": "sự chữa bệnh",
+    "en": ""
   },
   {
     "hanzi": "志愿",
     "pinyin": "zhìyuàn",
-    "en": "",
-    "vi": ""
+    "vi": "tình nguyện viên",
+    "en": ""
   },
   {
     "hanzi": "制约",
     "pinyin": "zhìyuē",
-    "en": "",
-    "vi": ""
+    "vi": "hạn chế",
+    "en": ""
   },
   {
     "hanzi": "制止",
     "pinyin": "zhìzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "dừng lại",
+    "en": ""
   },
   {
     "hanzi": "钟",
     "pinyin": "zhōng",
-    "en": "",
-    "vi": ""
+    "vi": "chuông",
+    "en": ""
   },
   {
     "hanzi": "忠诚",
     "pinyin": "zhōngchéng",
-    "en": "",
-    "vi": ""
+    "vi": "lòng trung thành",
+    "en": ""
   },
   {
     "hanzi": "终端",
     "pinyin": "zhōngduān",
-    "en": "",
-    "vi": ""
+    "vi": "phần cuối",
+    "en": ""
   },
   {
     "hanzi": "忠告",
     "pinyin": "zhōnggào",
-    "en": "",
-    "vi": ""
+    "vi": "khuyên bảo",
+    "en": ""
   },
   {
     "hanzi": "终极",
     "pinyin": "zhōngjí",
-    "en": "",
-    "vi": ""
+    "vi": "tối thượng",
+    "en": ""
   },
   {
     "hanzi": "终结",
     "pinyin": "zhōngjié",
-    "en": "",
-    "vi": ""
+    "vi": "kết thúc",
+    "en": ""
   },
   {
     "hanzi": "终究",
     "pinyin": "zhōngjiū",
-    "en": "",
-    "vi": ""
+    "vi": "sau tất cả",
+    "en": ""
   },
   {
     "hanzi": "中立",
     "pinyin": "zhōnglì",
-    "en": "",
-    "vi": ""
+    "vi": "trung lập",
+    "en": ""
   },
   {
     "hanzi": "终生",
     "pinyin": "zhōngshēng",
-    "en": "",
-    "vi": ""
+    "vi": "suốt đời",
+    "en": ""
   },
   {
     "hanzi": "忠实",
     "pinyin": "zhōngshí",
-    "en": "",
-    "vi": ""
+    "vi": "trung thành",
+    "en": ""
   },
   {
     "hanzi": "中途",
     "pinyin": "zhōngtú",
-    "en": "",
-    "vi": ""
+    "vi": "nửa chừng",
+    "en": ""
   },
   {
     "hanzi": "忠心",
     "pinyin": "zhōngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "lòng trung thành",
+    "en": ""
   },
   {
     "hanzi": "衷心",
     "pinyin": "zhōngxīn",
-    "en": "",
-    "vi": ""
+    "vi": "chân thành",
+    "en": ""
   },
   {
     "hanzi": "中性",
     "pinyin": "zhōngxìng",
-    "en": "",
-    "vi": ""
+    "vi": "trung lập",
+    "en": ""
   },
   {
     "hanzi": "中叶",
     "pinyin": "zhōngyè",
-    "en": "",
-    "vi": ""
+    "vi": "lá giữa",
+    "en": ""
   },
   {
     "hanzi": "中庸",
     "pinyin": "zhōngyōng",
-    "en": "",
-    "vi": ""
+    "vi": "Vừa phải",
+    "en": ""
   },
   {
     "hanzi": "忠于",
     "pinyin": "zhōngyú",
-    "en": "",
-    "vi": ""
+    "vi": "trung thành với",
+    "en": ""
   },
   {
     "hanzi": "忠贞",
     "pinyin": "zhōngzhēn",
-    "en": "",
-    "vi": ""
+    "vi": "lòng trung thành",
+    "en": ""
   },
   {
     "hanzi": "中止",
     "pinyin": "zhōngzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hủy bỏ",
+    "en": ""
   },
   {
     "hanzi": "终止",
     "pinyin": "zhōngzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "chấm dứt",
+    "en": ""
   },
   {
     "hanzi": "肿瘤",
     "pinyin": "zhǒngliú",
-    "en": "",
-    "vi": ""
+    "vi": "khối u",
+    "en": ""
   },
   {
     "hanzi": "种族",
     "pinyin": "zhǒngzú",
-    "en": "",
-    "vi": ""
+    "vi": "Loài",
+    "en": ""
   },
   {
     "hanzi": "仲裁",
     "pinyin": "zhòngcái",
-    "en": "",
-    "vi": ""
+    "vi": "trọng tài",
+    "en": ""
   },
   {
     "hanzi": "重创",
     "pinyin": "zhòngchuāng",
-    "en": "",
-    "vi": ""
+    "vi": "thiệt hại nặng nề",
+    "en": ""
   },
   {
     "hanzi": "重量级",
     "pinyin": "zhòngliàngjí",
-    "en": "",
-    "vi": ""
+    "vi": "Hạng nặng",
+    "en": ""
   },
   {
     "hanzi": "重任",
     "pinyin": "zhòngrèn",
-    "en": "",
-    "vi": ""
+    "vi": "trách nhiệm nặng nề",
+    "en": ""
   },
   {
     "hanzi": "重型",
     "pinyin": "zhòngxíng",
-    "en": "",
-    "vi": ""
+    "vi": "Nhiệm vụ nặng nề",
+    "en": ""
   },
   {
     "hanzi": "重用",
     "pinyin": "zhòngyòng",
-    "en": "",
-    "vi": ""
+    "vi": "Tái sử dụng",
+    "en": ""
   },
   {
     "hanzi": "众志成城",
     "pinyin": "zhòngzhì-chéngchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Thống nhất như một",
+    "en": ""
   },
   {
     "hanzi": "重中之重",
     "pinyin": "zhòngzhōngzhīzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "ưu tiên hàng đầu",
+    "en": ""
   },
   {
     "hanzi": "周密",
     "pinyin": "zhōumì",
-    "en": "",
-    "vi": ""
+    "vi": "cẩn thận",
+    "en": ""
   },
   {
     "hanzi": "周岁",
     "pinyin": "zhōusuì",
-    "en": "",
-    "vi": ""
+    "vi": "một tuổi",
+    "en": ""
   },
   {
     "hanzi": "周旋",
     "pinyin": "zhōuxuán",
-    "en": "",
-    "vi": ""
+    "vi": "đối phó với",
+    "en": ""
   },
   {
     "hanzi": "周折",
     "pinyin": "zhōuzhé",
-    "en": "",
-    "vi": ""
+    "vi": "xoắn và quay",
+    "en": ""
   },
   {
     "hanzi": "周转",
     "pinyin": "zhōuzhuǎn",
-    "en": "",
-    "vi": ""
+    "vi": "doanh thu",
+    "en": ""
   },
   {
     "hanzi": "皱",
     "pinyin": "zhòu",
-    "en": "",
-    "vi": ""
+    "vi": "nếp nhăn",
+    "en": ""
   },
   {
     "hanzi": "骤然",
     "pinyin": "zhòurán",
-    "en": "",
-    "vi": ""
+    "vi": "đột nhiên",
+    "en": ""
   },
   {
     "hanzi": "皱纹",
     "pinyin": "zhòuwén",
-    "en": "",
-    "vi": ""
+    "vi": "nếp nhăn",
+    "en": ""
   },
   {
     "hanzi": "昼夜",
     "pinyin": "zhòuyè",
-    "en": "",
-    "vi": ""
+    "vi": "ngày và đêm",
+    "en": ""
   },
   {
     "hanzi": "朱红",
     "pinyin": "zhūhóng",
-    "en": "",
-    "vi": ""
+    "vi": "màu đỏ",
+    "en": ""
   },
   {
     "hanzi": "诸如此类",
     "pinyin": "zhūrú-cǐlèi",
-    "en": "",
-    "vi": ""
+    "vi": "vân vân",
+    "en": ""
   },
   {
     "hanzi": "诸位",
     "pinyin": "zhūwèi",
-    "en": "",
-    "vi": ""
+    "vi": "Mọi người",
+    "en": ""
   },
   {
     "hanzi": "竹竿",
     "pinyin": "zhúgān",
-    "en": "",
-    "vi": ""
+    "vi": "cây tre ",
+    "en": ""
   },
   {
     "hanzi": "逐年",
     "pinyin": "zhúnián",
-    "en": "",
-    "vi": ""
+    "vi": "năm này qua năm khác",
+    "en": ""
   },
   {
     "hanzi": "逐一",
     "pinyin": "zhúyī",
-    "en": "",
-    "vi": ""
+    "vi": "từng cái một",
+    "en": ""
   },
   {
     "hanzi": "拄",
     "pinyin": "zhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "dựa vào",
+    "en": ""
   },
   {
     "hanzi": "主编",
     "pinyin": "zhǔbiān",
-    "en": "",
-    "vi": ""
+    "vi": "Tổng biên tập",
+    "en": ""
   },
   {
     "hanzi": "主打",
     "pinyin": "zhǔdǎ",
-    "en": "",
-    "vi": ""
+    "vi": "Sản phẩm chính",
+    "en": ""
   },
   {
     "hanzi": "嘱咐",
     "pinyin": "zhǔfù",
-    "en": "",
-    "vi": ""
+    "vi": "hướng dẫn",
+    "en": ""
   },
   {
     "hanzi": "主力",
     "pinyin": "zhǔlì",
-    "en": "",
-    "vi": ""
+    "vi": "Lực lượng chính",
+    "en": ""
   },
   {
     "hanzi": "主权",
     "pinyin": "zhǔquán",
-    "en": "",
-    "vi": ""
+    "vi": "chủ quyền",
+    "en": ""
   },
   {
     "hanzi": "主人公",
     "pinyin": "zhǔréngōng",
-    "en": "",
-    "vi": ""
+    "vi": "nhân vật chính",
+    "en": ""
   },
   {
     "hanzi": "主体",
     "pinyin": "zhǔtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "phần thân chính",
+    "en": ""
   },
   {
     "hanzi": "主题曲",
     "pinyin": "zhǔtíqǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bài hát chủ đề",
+    "en": ""
   },
   {
     "hanzi": "嘱托",
     "pinyin": "zhǔtuō",
-    "en": "",
-    "vi": ""
+    "vi": "Ủy thác",
+    "en": ""
   },
   {
     "hanzi": "主页",
     "pinyin": "zhǔyè",
-    "en": "",
-    "vi": ""
+    "vi": "Trang chủ",
+    "en": ""
   },
   {
     "hanzi": "主义",
     "pinyin": "zhǔyì",
-    "en": "",
-    "vi": ""
+    "vi": "học thuyết",
+    "en": ""
   },
   {
     "hanzi": "主宰",
     "pinyin": "zhǔzǎi",
-    "en": "",
-    "vi": ""
+    "vi": "thống trị",
+    "en": ""
   },
   {
     "hanzi": "注",
     "pinyin": "zhù",
-    "en": "",
-    "vi": ""
+    "vi": "Ghi chú",
+    "en": ""
   },
   {
     "hanzi": "驻",
     "pinyin": "zhù",
-    "en": "",
-    "vi": ""
+    "vi": "đóng quân ở",
+    "en": ""
   },
   {
     "hanzi": "筑",
     "pinyin": "zhù",
-    "en": "",
-    "vi": ""
+    "vi": "xây dựng",
+    "en": ""
   },
   {
     "hanzi": "贮藏",
     "pinyin": "zhùcáng",
-    "en": "",
-    "vi": ""
+    "vi": "kho",
+    "en": ""
   },
   {
     "hanzi": "著称",
     "pinyin": "zhùchēng",
-    "en": "",
-    "vi": ""
+    "vi": "nổi tiếng",
+    "en": ""
   },
   {
     "hanzi": "住处",
     "pinyin": "zhùchù",
-    "en": "",
-    "vi": ""
+    "vi": "nơi cư trú",
+    "en": ""
   },
   {
     "hanzi": "注定",
     "pinyin": "zhùdìng",
-    "en": "",
-    "vi": ""
+    "vi": "cam chịu",
+    "en": ""
   },
   {
     "hanzi": "住户",
     "pinyin": "zhùhù",
-    "en": "",
-    "vi": ""
+    "vi": "cư dân",
+    "en": ""
   },
   {
     "hanzi": "助力",
     "pinyin": "zhùlì",
-    "en": "",
-    "vi": ""
+    "vi": "Giúp đỡ",
+    "en": ""
   },
   {
     "hanzi": "注射",
     "pinyin": "zhùshè",
-    "en": "",
-    "vi": ""
+    "vi": "tiêm",
+    "en": ""
   },
   {
     "hanzi": "注视",
     "pinyin": "zhùshì",
-    "en": "",
-    "vi": ""
+    "vi": "đồng hồ ",
+    "en": ""
   },
   {
     "hanzi": "注释",
     "pinyin": "zhùshì",
-    "en": "",
-    "vi": ""
+    "vi": "Bình luận",
+    "en": ""
   },
   {
     "hanzi": "助威",
     "pinyin": "zhùwēi",
-    "en": "",
-    "vi": ""
+    "vi": "reo hò",
+    "en": ""
   },
   {
     "hanzi": "注销",
     "pinyin": "zhùxiāo",
-    "en": "",
-    "vi": ""
+    "vi": "Đăng xuất",
+    "en": ""
   },
   {
     "hanzi": "蛀牙",
     "pinyin": "zhùyá",
-    "en": "",
-    "vi": ""
+    "vi": "Sâu răng",
+    "en": ""
   },
   {
     "hanzi": "铸造",
     "pinyin": "zhùzào",
-    "en": "",
-    "vi": ""
+    "vi": "vật đúc",
+    "en": ""
   },
   {
     "hanzi": "驻扎",
     "pinyin": "zhùzhā",
-    "en": "",
-    "vi": ""
+    "vi": "đóng quân",
+    "en": ""
   },
   {
     "hanzi": "柱子",
     "pinyin": "zhùzi",
-    "en": "",
-    "vi": ""
+    "vi": "Trụ cột",
+    "en": ""
   },
   {
     "hanzi": "驻足",
     "pinyin": "zhùzú",
-    "en": "",
-    "vi": ""
+    "vi": "dừng lại",
+    "en": ""
   },
   {
     "hanzi": "爪子",
     "pinyin": "zhuǎzi",
-    "en": "",
-    "vi": ""
+    "vi": "chân",
+    "en": ""
   },
   {
     "hanzi": "拽",
     "pinyin": "zhuài",
-    "en": "",
-    "vi": ""
+    "vi": "sự lôi kéo",
+    "en": ""
   },
   {
     "hanzi": "专长",
     "pinyin": "zhuāncháng",
-    "en": "",
-    "vi": ""
+    "vi": "chuyên môn",
+    "en": ""
   },
   {
     "hanzi": "专程",
     "pinyin": "zhuānchéng",
-    "en": "",
-    "vi": ""
+    "vi": "Chuyến đi đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "专柜",
     "pinyin": "zhuānguì",
-    "en": "",
-    "vi": ""
+    "vi": "quầy tính tiền",
+    "en": ""
   },
   {
     "hanzi": "专辑",
     "pinyin": "zhuānjí",
-    "en": "",
-    "vi": ""
+    "vi": "album",
+    "en": ""
   },
   {
     "hanzi": "专栏",
     "pinyin": "zhuānlán",
-    "en": "",
-    "vi": ""
+    "vi": "Cột",
+    "en": ""
   },
   {
     "hanzi": "专卖",
     "pinyin": "zhuānmài",
-    "en": "",
-    "vi": ""
+    "vi": "độc quyền",
+    "en": ""
   },
   {
     "hanzi": "专人",
     "pinyin": "zhuānrén",
-    "en": "",
-    "vi": ""
+    "vi": "Người tận tâm",
+    "en": ""
   },
   {
     "hanzi": "专项",
     "pinyin": "zhuānxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "Đặc biệt",
+    "en": ""
   },
   {
     "hanzi": "专职",
     "pinyin": "zhuānzhí",
-    "en": "",
-    "vi": ""
+    "vi": "Toàn thời gian",
+    "en": ""
   },
   {
     "hanzi": "专制",
     "pinyin": "zhuānzhì",
-    "en": "",
-    "vi": ""
+    "vi": "chuyên quyền",
+    "en": ""
   },
   {
     "hanzi": "专著",
     "pinyin": "zhuānzhù",
-    "en": "",
-    "vi": ""
+    "vi": "chuyên khảo",
+    "en": ""
   },
   {
     "hanzi": "转播",
     "pinyin": "zhuǎnbō",
-    "en": "",
-    "vi": ""
+    "vi": "phát tin",
+    "en": ""
   },
   {
     "hanzi": "转达",
     "pinyin": "zhuǎndá",
-    "en": "",
-    "vi": ""
+    "vi": "truyền đạt",
+    "en": ""
   },
   {
     "hanzi": "转化",
     "pinyin": "zhuǎnhuà",
-    "en": "",
-    "vi": ""
+    "vi": "Chuyển thành",
+    "en": ""
   },
   {
     "hanzi": "转机2",
     "pinyin": "zhuǎnjī",
-    "en": "",
-    "vi": ""
+    "vi": "Chuyển 2",
+    "en": ""
   },
   {
     "hanzi": "转型",
     "pinyin": "zhuǎnxíng",
-    "en": "",
-    "vi": ""
+    "vi": "Chuyển đổi",
+    "en": ""
   },
   {
     "hanzi": "转眼",
     "pinyin": "zhuǎnyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "Trong chớp mắt",
+    "en": ""
   },
   {
     "hanzi": "转载",
     "pinyin": "zhuǎnzǎi",
-    "en": "",
-    "vi": ""
+    "vi": "In lại",
+    "en": ""
   },
   {
     "hanzi": "转折",
     "pinyin": "zhuǎnzhé",
-    "en": "",
-    "vi": ""
+    "vi": "bước ngoặt",
+    "en": ""
   },
   {
     "hanzi": "转折点",
     "pinyin": "zhuǎnzhédiǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bước ngoặt",
+    "en": ""
   },
   {
     "hanzi": "传",
     "pinyin": "zhuàn",
-    "en": "",
-    "vi": ""
+    "vi": "vượt qua",
+    "en": ""
   },
   {
     "hanzi": "传记",
     "pinyin": "zhuànjì",
-    "en": "",
-    "vi": ""
+    "vi": "tiểu sử",
+    "en": ""
   },
   {
     "hanzi": "撰写",
     "pinyin": "zhuànxiě",
-    "en": "",
-    "vi": ""
+    "vi": "viết",
+    "en": ""
   },
   {
     "hanzi": "转悠",
     "pinyin": "zhuànyou",
-    "en": "",
-    "vi": ""
+    "vi": "đi lang thang xung quanh",
+    "en": ""
   },
   {
     "hanzi": "桩",
     "pinyin": "zhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "đống",
+    "en": ""
   },
   {
     "hanzi": "装扮",
     "pinyin": "zhuāngbàn",
-    "en": "",
-    "vi": ""
+    "vi": "ăn mặc",
+    "en": ""
   },
   {
     "hanzi": "庄严",
     "pinyin": "zhuāngyán",
-    "en": "",
-    "vi": ""
+    "vi": "trang nghiêm",
+    "en": ""
   },
   {
     "hanzi": "庄园",
     "pinyin": "zhuāngyuán",
-    "en": "",
-    "vi": ""
+    "vi": "trang viên",
+    "en": ""
   },
   {
     "hanzi": "装置",
     "pinyin": "zhuāngzhì",
-    "en": "",
-    "vi": ""
+    "vi": "thiết bị",
+    "en": ""
   },
   {
     "hanzi": "庄重",
     "pinyin": "zhuāngzhòng",
-    "en": "",
-    "vi": ""
+    "vi": "trang nghiêm",
+    "en": ""
   },
   {
     "hanzi": "幢",
     "pinyin": "zhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "xây dựng",
+    "en": ""
   },
   {
     "hanzi": "壮",
     "pinyin": "zhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "mạnh",
+    "en": ""
   },
   {
     "hanzi": "壮大",
     "pinyin": "zhuàngdà",
-    "en": "",
-    "vi": ""
+    "vi": "phát triển",
+    "en": ""
   },
   {
     "hanzi": "壮观",
     "pinyin": "zhuàngguān",
-    "en": "",
-    "vi": ""
+    "vi": "hùng vĩ",
+    "en": ""
   },
   {
     "hanzi": "撞击",
     "pinyin": "zhuàngjī",
-    "en": "",
-    "vi": ""
+    "vi": "sự va chạm",
+    "en": ""
   },
   {
     "hanzi": "壮丽",
     "pinyin": "zhuànglì",
-    "en": "",
-    "vi": ""
+    "vi": "tráng lệ",
+    "en": ""
   },
   {
     "hanzi": "壮烈",
     "pinyin": "zhuàngliè",
-    "en": "",
-    "vi": ""
+    "vi": "anh hùng",
+    "en": ""
   },
   {
     "hanzi": "状元",
     "pinyin": "zhuàngyuan",
-    "en": "",
-    "vi": ""
+    "vi": "Học giả số một",
+    "en": ""
   },
   {
     "hanzi": "追悼",
     "pinyin": "zhuīdào",
-    "en": "",
-    "vi": ""
+    "vi": "đài tưởng niệm",
+    "en": ""
   },
   {
     "hanzi": "追赶",
     "pinyin": "zhuīgǎn",
-    "en": "",
-    "vi": ""
+    "vi": "bắt kịp",
+    "en": ""
   },
   {
     "hanzi": "追捧",
     "pinyin": "zhuīpěng",
-    "en": "",
-    "vi": ""
+    "vi": "được săn đón",
+    "en": ""
   },
   {
     "hanzi": "追溯",
     "pinyin": "zhuīsù",
-    "en": "",
-    "vi": ""
+    "vi": "truy tìm lại",
+    "en": ""
   },
   {
     "hanzi": "追随",
     "pinyin": "zhuīsuí",
-    "en": "",
-    "vi": ""
+    "vi": "theo",
+    "en": ""
   },
   {
     "hanzi": "追尾",
     "pinyin": "zhuīwěi",
-    "en": "",
-    "vi": ""
+    "vi": "phía sau",
+    "en": ""
   },
   {
     "hanzi": "追问",
     "pinyin": "zhuīwèn",
-    "en": "",
-    "vi": ""
+    "vi": "Hỏi",
+    "en": ""
   },
   {
     "hanzi": "追逐",
     "pinyin": "zhuīzhú",
-    "en": "",
-    "vi": ""
+    "vi": "đuổi",
+    "en": ""
   },
   {
     "hanzi": "追踪",
     "pinyin": "zhuīzōng",
-    "en": "",
-    "vi": ""
+    "vi": "theo dõi",
+    "en": ""
   },
   {
     "hanzi": "坠",
     "pinyin": "zhuì",
-    "en": "",
-    "vi": ""
+    "vi": "ngã",
+    "en": ""
   },
   {
     "hanzi": "坠落",
     "pinyin": "zhuìluò",
-    "en": "",
-    "vi": ""
+    "vi": "đi xuống",
+    "en": ""
   },
   {
     "hanzi": "准许",
     "pinyin": "zhǔnxǔ",
-    "en": "",
-    "vi": ""
+    "vi": "cho phép làm gì",
+    "en": ""
   },
   {
     "hanzi": "准则",
     "pinyin": "zhǔnzé",
-    "en": "",
-    "vi": ""
+    "vi": "tiêu chuẩn",
+    "en": ""
   },
   {
     "hanzi": "拙劣",
     "pinyin": "zhuōliè",
-    "en": "",
-    "vi": ""
+    "vi": "hậu đậu",
+    "en": ""
   },
   {
     "hanzi": "捉迷藏",
     "pinyin": "zhuōmícáng",
-    "en": "",
-    "vi": ""
+    "vi": "trốn tìm",
+    "en": ""
   },
   {
     "hanzi": "着力",
     "pinyin": "zhuólì",
-    "en": "",
-    "vi": ""
+    "vi": "Tập trung vào",
+    "en": ""
   },
   {
     "hanzi": "着落",
     "pinyin": "zhuóluò",
-    "en": "",
-    "vi": ""
+    "vi": "nơi ở",
+    "en": ""
   },
   {
     "hanzi": "酌情",
     "pinyin": "zhuóqíng",
-    "en": "",
-    "vi": ""
+    "vi": "tùy ý",
+    "en": ""
   },
   {
     "hanzi": "灼热",
     "pinyin": "zhuórè",
-    "en": "",
-    "vi": ""
+    "vi": "đốt cháy",
+    "en": ""
   },
   {
     "hanzi": "着实",
     "pinyin": "zhuóshí",
-    "en": "",
-    "vi": ""
+    "vi": "Thật sự",
+    "en": ""
   },
   {
     "hanzi": "着手",
     "pinyin": "zhuóshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "bắt đầu",
+    "en": ""
   },
   {
     "hanzi": "着想",
     "pinyin": "zhuóxiǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Vì lợi ích của riêng bạn",
+    "en": ""
   },
   {
     "hanzi": "着眼",
     "pinyin": "zhuóyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung vào",
+    "en": ""
   },
   {
     "hanzi": "卓越",
     "pinyin": "zhuóyuè",
-    "en": "",
-    "vi": ""
+    "vi": "sự xuất sắc",
+    "en": ""
   },
   {
     "hanzi": "着重",
     "pinyin": "zhuózhòng",
-    "en": "",
-    "vi": ""
+    "vi": "tập trung vào",
+    "en": ""
   },
   {
     "hanzi": "茁壮",
     "pinyin": "zhuózhuàng",
-    "en": "",
-    "vi": ""
+    "vi": "phát triển mạnh",
+    "en": ""
   },
   {
     "hanzi": "兹",
     "pinyin": "zī",
-    "en": "",
-    "vi": ""
+    "vi": "bằng cách này",
+    "en": ""
   },
   {
     "hanzi": "资本主义",
     "pinyin": "zīběn zhǔyì",
-    "en": "",
-    "vi": ""
+    "vi": "chủ nghĩa tư bản",
+    "en": ""
   },
   {
     "hanzi": "资历",
     "pinyin": "zīlì",
-    "en": "",
-    "vi": ""
+    "vi": "Trình độ chuyên môn",
+    "en": ""
   },
   {
     "hanzi": "滋润",
     "pinyin": "zīrùn",
-    "en": "",
-    "vi": ""
+    "vi": "Dưỡng ẩm",
+    "en": ""
   },
   {
     "hanzi": "资深",
     "pinyin": "zīshēn",
-    "en": "",
-    "vi": ""
+    "vi": "Người lớn tuổi",
+    "en": ""
   },
   {
     "hanzi": "滋生",
     "pinyin": "zīshēng",
-    "en": "",
-    "vi": ""
+    "vi": "giống",
+    "en": ""
   },
   {
     "hanzi": "姿态",
     "pinyin": "zītài",
-    "en": "",
-    "vi": ""
+    "vi": "thái độ",
+    "en": ""
   },
   {
     "hanzi": "滋味",
     "pinyin": "zīwèi",
-    "en": "",
-    "vi": ""
+    "vi": "nếm",
+    "en": ""
   },
   {
     "hanzi": "资讯",
     "pinyin": "zīxùn",
-    "en": "",
-    "vi": ""
+    "vi": "Thông tin",
+    "en": ""
   },
   {
     "hanzi": "资质",
     "pinyin": "zīzhì",
-    "en": "",
-    "vi": ""
+    "vi": "Trình độ chuyên môn",
+    "en": ""
   },
   {
     "hanzi": "资助",
     "pinyin": "zīzhù",
-    "en": "",
-    "vi": ""
+    "vi": "tài trợ",
+    "en": ""
   },
   {
     "hanzi": "籽",
     "pinyin": "zǐ",
-    "en": "",
-    "vi": ""
+    "vi": "hạt giống",
+    "en": ""
   },
   {
     "hanzi": "子弹",
     "pinyin": "zǐdàn",
-    "en": "",
-    "vi": ""
+    "vi": "viên đạn",
+    "en": ""
   },
   {
     "hanzi": "子弟",
     "pinyin": "zǐdì",
-    "en": "",
-    "vi": ""
+    "vi": "những đứa trẻ",
+    "en": ""
   },
   {
     "hanzi": "子孙",
     "pinyin": "zǐsūn",
-    "en": "",
-    "vi": ""
+    "vi": "con cháu",
+    "en": ""
   },
   {
     "hanzi": "自卑",
     "pinyin": "zìbēi",
-    "en": "",
-    "vi": ""
+    "vi": "tự hạ thấp mình",
+    "en": ""
   },
   {
     "hanzi": "自称",
     "pinyin": "zìchēng",
-    "en": "",
-    "vi": ""
+    "vi": "tuyên bố là",
+    "en": ""
   },
   {
     "hanzi": "自发",
     "pinyin": "zìfā",
-    "en": "",
-    "vi": ""
+    "vi": "tự phát",
+    "en": ""
   },
   {
     "hanzi": "自费",
     "pinyin": "zìfèi",
-    "en": "",
-    "vi": ""
+    "vi": "Bằng chi phí riêng",
+    "en": ""
   },
   {
     "hanzi": "自负1",
     "pinyin": "zìfù",
-    "en": "",
-    "vi": ""
+    "vi": "Kiêu ngạo 1",
+    "en": ""
   },
   {
     "hanzi": "自负2",
     "pinyin": "zìfù",
-    "en": "",
-    "vi": ""
+    "vi": "Tự phụ 2",
+    "en": ""
   },
   {
     "hanzi": "字迹",
     "pinyin": "zìjì",
-    "en": "",
-    "vi": ""
+    "vi": "chữ viết tay",
+    "en": ""
   },
   {
     "hanzi": "自立",
     "pinyin": "zìlì",
-    "en": "",
-    "vi": ""
+    "vi": "sự tự lực",
+    "en": ""
   },
   {
     "hanzi": "自理",
     "pinyin": "zìlǐ",
-    "en": "",
-    "vi": ""
+    "vi": "Hãy chăm sóc bản thân",
+    "en": ""
   },
   {
     "hanzi": "自力更生",
     "pinyin": "zìlì-gēngshēng",
-    "en": "",
-    "vi": ""
+    "vi": "sự tự lực",
+    "en": ""
   },
   {
     "hanzi": "自满",
     "pinyin": "zìmǎn",
-    "en": "",
-    "vi": ""
+    "vi": "tự mãn",
+    "en": ""
   },
   {
     "hanzi": "自强不息",
     "pinyin": "zìqiáng-bùxī",
-    "en": "",
-    "vi": ""
+    "vi": "Tự cải thiện liên tục",
+    "en": ""
   },
   {
     "hanzi": "自然而然",
     "pinyin": "zìrán’érrán",
-    "en": "",
-    "vi": ""
+    "vi": "một cách tự nhiên",
+    "en": ""
   },
   {
     "hanzi": "自然界",
     "pinyin": "zìránjiè",
-    "en": "",
-    "vi": ""
+    "vi": "thiên nhiên",
+    "en": ""
   },
   {
     "hanzi": "自如",
     "pinyin": "zìrú",
-    "en": "",
-    "vi": ""
+    "vi": "tự do",
+    "en": ""
   },
   {
     "hanzi": "自始至终",
     "pinyin": "zìshǐ-zhìzhōng",
-    "en": "",
-    "vi": ""
+    "vi": "từ đầu đến cuối",
+    "en": ""
   },
   {
     "hanzi": "自首",
     "pinyin": "zìshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "Đầu hàng",
+    "en": ""
   },
   {
     "hanzi": "自私",
     "pinyin": "zìsī",
-    "en": "",
-    "vi": ""
+    "vi": "Ích kỷ",
+    "en": ""
   },
   {
     "hanzi": "字体",
     "pinyin": "zìtǐ",
-    "en": "",
-    "vi": ""
+    "vi": "phông chữ",
+    "en": ""
   },
   {
     "hanzi": "自卫",
     "pinyin": "zìwèi",
-    "en": "",
-    "vi": ""
+    "vi": "tự vệ",
+    "en": ""
   },
   {
     "hanzi": "自相矛盾",
     "pinyin": "zìxiāng-máodùn",
-    "en": "",
-    "vi": ""
+    "vi": "mâu thuẫn",
+    "en": ""
   },
   {
     "hanzi": "自行",
     "pinyin": "zìxíng",
-    "en": "",
-    "vi": ""
+    "vi": "tự hành",
+    "en": ""
   },
   {
     "hanzi": "字眼",
     "pinyin": "zìyǎn",
-    "en": "",
-    "vi": ""
+    "vi": "từ",
+    "en": ""
   },
   {
     "hanzi": "自以为是",
     "pinyin": "zìyǐwéishì",
-    "en": "",
-    "vi": ""
+    "vi": "khăng khăng",
+    "en": ""
   },
   {
     "hanzi": "自在",
     "pinyin": "zìzai",
-    "en": "",
-    "vi": ""
+    "vi": "thoải mái",
+    "en": ""
   },
   {
     "hanzi": "自责",
     "pinyin": "zìzé",
-    "en": "",
-    "vi": ""
+    "vi": "tự trách mình",
+    "en": ""
   },
   {
     "hanzi": "自治区",
     "pinyin": "zìzhìqū",
-    "en": "",
-    "vi": ""
+    "vi": "khu tự trị",
+    "en": ""
   },
   {
     "hanzi": "自主",
     "pinyin": "zìzhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "quyền tự chủ",
+    "en": ""
   },
   {
     "hanzi": "自尊",
     "pinyin": "zìzūn",
-    "en": "",
-    "vi": ""
+    "vi": "lòng tự trọng",
+    "en": ""
   },
   {
     "hanzi": "宗",
     "pinyin": "zōng",
-    "en": "",
-    "vi": ""
+    "vi": "Tông",
+    "en": ""
   },
   {
     "hanzi": "踪迹",
     "pinyin": "zōngjì",
-    "en": "",
-    "vi": ""
+    "vi": "dấu vết",
+    "en": ""
   },
   {
     "hanzi": "宗教",
     "pinyin": "zōngjiào",
-    "en": "",
-    "vi": ""
+    "vi": "tôn giáo",
+    "en": ""
   },
   {
     "hanzi": "综艺",
     "pinyin": "zōngyì",
-    "en": "",
-    "vi": ""
+    "vi": "chương trình tạp kỹ",
+    "en": ""
   },
   {
     "hanzi": "宗旨",
     "pinyin": "zōngzhǐ",
-    "en": "",
-    "vi": ""
+    "vi": "mục đích",
+    "en": ""
   },
   {
     "hanzi": "总额",
     "pinyin": "zǒng’é",
-    "en": "",
-    "vi": ""
+    "vi": "số tiền một lần",
+    "en": ""
   },
   {
     "hanzi": "总而言之",
     "pinyin": "zǒng’éryánzhī",
-    "en": "",
-    "vi": ""
+    "vi": "tất cả trong tất cả",
+    "en": ""
   },
   {
     "hanzi": "总和",
     "pinyin": "zǒnghé",
-    "en": "",
-    "vi": ""
+    "vi": "tổng hợp",
+    "en": ""
   },
   {
     "hanzi": "纵观",
     "pinyin": "zòngguān",
-    "en": "",
-    "vi": ""
+    "vi": "Khắp",
+    "en": ""
   },
   {
     "hanzi": "纵横",
     "pinyin": "zònghéng",
-    "en": "",
-    "vi": ""
+    "vi": "theo chiều dọc và chiều ngang",
+    "en": ""
   },
   {
     "hanzi": "纵然",
     "pinyin": "zòngrán",
-    "en": "",
-    "vi": ""
+    "vi": "Mặc dù",
+    "en": ""
   },
   {
     "hanzi": "纵容",
     "pinyin": "zòngróng",
-    "en": "",
-    "vi": ""
+    "vi": "thưởng thức",
+    "en": ""
   },
   {
     "hanzi": "纵深",
     "pinyin": "zòngshēn",
-    "en": "",
-    "vi": ""
+    "vi": "độ sâu",
+    "en": ""
   },
   {
     "hanzi": "走过场",
     "pinyin": "zǒu guòchǎng",
-    "en": "",
-    "vi": ""
+    "vi": "Trải qua các chuyển động",
+    "en": ""
   },
   {
     "hanzi": "走弯路",
     "pinyin": "zǒu wānlù",
-    "en": "",
-    "vi": ""
+    "vi": "Đi đường vòng",
+    "en": ""
   },
   {
     "hanzi": "走漏",
     "pinyin": "zǒulòu",
-    "en": "",
-    "vi": ""
+    "vi": "hở",
+    "en": ""
   },
   {
     "hanzi": "走势",
     "pinyin": "zǒushì",
-    "en": "",
-    "vi": ""
+    "vi": "xu hướng",
+    "en": ""
   },
   {
     "hanzi": "走私",
     "pinyin": "zǒusī",
-    "en": "",
-    "vi": ""
+    "vi": "buôn lậu",
+    "en": ""
   },
   {
     "hanzi": "走投无路",
     "pinyin": "zǒutóu-wúlù",
-    "en": "",
-    "vi": ""
+    "vi": "Tuyệt vọng",
+    "en": ""
   },
   {
     "hanzi": "走向",
     "pinyin": "zǒuxiàng",
-    "en": "",
-    "vi": ""
+    "vi": "đối với",
+    "en": ""
   },
   {
     "hanzi": "揍",
     "pinyin": "zòu",
-    "en": "",
-    "vi": ""
+    "vi": "tiết tấu",
+    "en": ""
   },
   {
     "hanzi": "奏效",
     "pinyin": "zòuxiào",
-    "en": "",
-    "vi": ""
+    "vi": "hoạt động",
+    "en": ""
   },
   {
     "hanzi": "租赁",
     "pinyin": "zūlìn",
-    "en": "",
-    "vi": ""
+    "vi": "cho thuê",
+    "en": ""
   },
   {
     "hanzi": "足不出户",
     "pinyin": "zúbùchūhù",
-    "en": "",
-    "vi": ""
+    "vi": "Không rời khỏi nhà",
+    "en": ""
   },
   {
     "hanzi": "足迹",
     "pinyin": "zújì",
-    "en": "",
-    "vi": ""
+    "vi": "dấu chân",
+    "en": ""
   },
   {
     "hanzi": "足智多谋",
     "pinyin": "zúzhì-duōmóu",
-    "en": "",
-    "vi": ""
+    "vi": "tháo vát",
+    "en": ""
   },
   {
     "hanzi": "祖传",
     "pinyin": "zǔchuán",
-    "en": "",
-    "vi": ""
+    "vi": "tổ tiên",
+    "en": ""
   },
   {
     "hanzi": "祖父",
     "pinyin": "zǔfù",
-    "en": "",
-    "vi": ""
+    "vi": "ông nội",
+    "en": ""
   },
   {
     "hanzi": "祖籍",
     "pinyin": "zǔjí",
-    "en": "",
-    "vi": ""
+    "vi": "nhà tổ tiên",
+    "en": ""
   },
   {
     "hanzi": "组建",
     "pinyin": "zǔjiàn",
-    "en": "",
-    "vi": ""
+    "vi": "Thành lập",
+    "en": ""
   },
   {
     "hanzi": "阻拦",
     "pinyin": "zǔlán",
-    "en": "",
-    "vi": ""
+    "vi": "dừng lại",
+    "en": ""
   },
   {
     "hanzi": "阻力",
     "pinyin": "zǔlì",
-    "en": "",
-    "vi": ""
+    "vi": "sức chống cự",
+    "en": ""
   },
   {
     "hanzi": "祖母",
     "pinyin": "zǔmǔ",
-    "en": "",
-    "vi": ""
+    "vi": "bà nội",
+    "en": ""
   },
   {
     "hanzi": "阻挠",
     "pinyin": "zǔnáo",
-    "en": "",
-    "vi": ""
+    "vi": "cản trở",
+    "en": ""
   },
   {
     "hanzi": "组装",
     "pinyin": "zǔzhuāng",
-    "en": "",
-    "vi": ""
+    "vi": "lắp ráp",
+    "en": ""
   },
   {
     "hanzi": "祖宗",
     "pinyin": "zǔzong",
-    "en": "",
-    "vi": ""
+    "vi": "tổ tiên",
+    "en": ""
   },
   {
     "hanzi": "钻空子",
     "pinyin": "zuān kòngzi",
-    "en": "",
-    "vi": ""
+    "vi": "Lợi dụng sơ hở",
+    "en": ""
   },
   {
     "hanzi": "钻研",
     "pinyin": "zuānyán",
-    "en": "",
-    "vi": ""
+    "vi": "Học",
+    "en": ""
   },
   {
     "hanzi": "钻石",
     "pinyin": "zuànshí",
-    "en": "",
-    "vi": ""
+    "vi": "kim cương",
+    "en": ""
   },
   {
     "hanzi": "嘴唇",
     "pinyin": "zuǐchún",
-    "en": "",
-    "vi": ""
+    "vi": "đôi môi",
+    "en": ""
   },
   {
     "hanzi": "罪犯",
     "pinyin": "zuìfàn",
-    "en": "",
-    "vi": ""
+    "vi": "tội phạm",
+    "en": ""
   },
   {
     "hanzi": "罪魁祸首",
     "pinyin": "zuìkuí-huòshǒu",
-    "en": "",
-    "vi": ""
+    "vi": "thủ phạm",
+    "en": ""
   },
   {
     "hanzi": "尊贵",
     "pinyin": "zūnguì",
-    "en": "",
-    "vi": ""
+    "vi": "cao quý",
+    "en": ""
   },
   {
     "hanzi": "遵循",
     "pinyin": "zūnxún",
-    "en": "",
-    "vi": ""
+    "vi": "theo",
+    "en": ""
   },
   {
     "hanzi": "尊严",
     "pinyin": "zūnyán",
-    "en": "",
-    "vi": ""
+    "vi": "phẩm giá",
+    "en": ""
   },
   {
     "hanzi": "遵照",
     "pinyin": "zūnzhào",
-    "en": "",
-    "vi": ""
+    "vi": "theo",
+    "en": ""
   },
   {
     "hanzi": "琢磨",
     "pinyin": "zuómo",
-    "en": "",
-    "vi": ""
+    "vi": "suy ngẫm",
+    "en": ""
   },
   {
     "hanzi": "左顾右盼",
     "pinyin": "zuǒgù-yòupàn",
-    "en": "",
-    "vi": ""
+    "vi": "nhìn sang phải và trái",
+    "en": ""
   },
   {
     "hanzi": "作弊",
     "pinyin": "zuòbì",
-    "en": "",
-    "vi": ""
+    "vi": "Gian lận",
+    "en": ""
   },
   {
     "hanzi": "作对",
     "pinyin": "zuòduì",
-    "en": "",
-    "vi": ""
+    "vi": "đi ngược lại",
+    "en": ""
   },
   {
     "hanzi": "作废",
     "pinyin": "zuòfèi",
-    "en": "",
-    "vi": ""
+    "vi": "trống rỗng",
+    "en": ""
   },
   {
     "hanzi": "作风",
     "pinyin": "zuòfēng",
-    "en": "",
-    "vi": ""
+    "vi": "phong cách",
+    "en": ""
   },
   {
     "hanzi": "作客",
     "pinyin": "zuòkè",
-    "en": "",
-    "vi": ""
+    "vi": "với tư cách là khách",
+    "en": ""
   },
   {
     "hanzi": "作料",
     "pinyin": "zuòliao",
-    "en": "",
-    "vi": ""
+    "vi": "gia vị",
+    "en": ""
   },
   {
     "hanzi": "坐落",
     "pinyin": "zuòluò",
-    "en": "",
-    "vi": ""
+    "vi": "xác định vị trí",
+    "en": ""
   },
   {
     "hanzi": "座谈",
     "pinyin": "zuòtán",
-    "en": "",
-    "vi": ""
+    "vi": "hội nghị chuyên đề",
+    "en": ""
   },
   {
     "hanzi": "作为2",
     "pinyin": "zuòwéi",
-    "en": "",
-    "vi": ""
+    "vi": "như 2",
+    "en": ""
   },
   {
     "hanzi": "作物",
     "pinyin": "zuòwù",
-    "en": "",
-    "vi": ""
+    "vi": "mùa vụ",
+    "en": ""
   },
   {
     "hanzi": "作息",
     "pinyin": "zuòxī",
-    "en": "",
-    "vi": ""
+    "vi": "Làm việc và nghỉ ngơi",
+    "en": ""
   },
   {
     "hanzi": "座右铭",
     "pinyin": "zuòyòumíng",
-    "en": "",
-    "vi": ""
+    "vi": "khẩu hiệu",
+    "en": ""
   },
   {
     "hanzi": "作战",
     "pinyin": "zuòzhàn",
-    "en": "",
-    "vi": ""
+    "vi": "chiến đấu",
+    "en": ""
   },
   {
     "hanzi": "做证",
     "pinyin": "zuòzhèng",
-    "en": "",
-    "vi": ""
+    "vi": "làm chứng",
+    "en": ""
   },
   {
     "hanzi": "做主",
     "pinyin": "zuòzhǔ",
-    "en": "",
-    "vi": ""
+    "vi": "quyết định",
+    "en": ""
   }
 ];

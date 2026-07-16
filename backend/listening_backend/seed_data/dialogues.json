@@ -1,0 +1,238 @@
+[
+  {
+    "id": "d1",
+    "level": 1,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "你好，你叫什么名字？",
+        "pinyin": "nǐ hǎo, nǐ jiào shénme míngzi?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "我叫王明。你叫什么名字？",
+        "pinyin": "wǒ jiào wáng míng. nǐ jiào shénme míngzi?"
+      },
+      {
+        "speaker": "A",
+        "hanzi": "我叫丽丽。很高兴认识你。",
+        "pinyin": "wǒ jiào lìli. hěn gāoxìng rènshi nǐ."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "我也很高兴认识你。",
+        "pinyin": "wǒ yě hěn gāoxìng rènshi nǐ."
+      }
+    ],
+    "question": {
+      "vi": "Người nam tên là gì?",
+      "en": "What is the man's name?",
+      "zh": "男的叫什么名字？"
+    },
+    "options": [
+      {
+        "vi": "Vương Minh",
+        "en": "Wang Ming",
+        "correct": true
+      },
+      {
+        "vi": "Lệ Lệ",
+        "en": "Lili",
+        "correct": false
+      },
+      {
+        "vi": "Lý Minh",
+        "en": "Li Ming",
+        "correct": false
+      },
+      {
+        "vi": "Trương Vĩ",
+        "en": "Zhang Wei",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "王明"
+      }
+    ]
+  },
+  {
+    "id": "d2",
+    "level": 1,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "你好，这个多少钱？",
+        "pinyin": "nǐ hǎo, zhège duōshao qián?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "十五块。",
+        "pinyin": "shíwǔ kuài."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "太贵了，便宜一点儿吧。",
+        "pinyin": "tài guì le, piányi yìdiǎnr ba."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "好吧，十块给你。",
+        "pinyin": "hǎo ba, shí kuài gěi nǐ."
+      }
+    ],
+    "question": {
+      "vi": "Cuối cùng giá là bao nhiêu?",
+      "en": "What was the final price?",
+      "zh": "最后多少钱？"
+    },
+    "options": [
+      {
+        "vi": "Mười đồng",
+        "en": "Ten yuan",
+        "correct": true
+      },
+      {
+        "vi": "Mười lăm đồng",
+        "en": "Fifteen yuan",
+        "correct": false
+      },
+      {
+        "vi": "Năm đồng",
+        "en": "Five yuan",
+        "correct": false
+      },
+      {
+        "vi": "Hai mươi đồng",
+        "en": "Twenty yuan",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 3,
+        "answer": "十块"
+      }
+    ]
+  },
+  {
+    "id": "d3",
+    "level": 2,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "明天天气怎么样？",
+        "pinyin": "míngtiān tiānqì zěnmeyàng?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "明天会下雨，你别忘了带伞。",
+        "pinyin": "míngtiān huì xiàyǔ, nǐ bié wàngle dài sǎn."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "好的，谢谢你提醒我。",
+        "pinyin": "hǎo de, xièxie nǐ tíxǐng wǒ."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "不客气。",
+        "pinyin": "bú kèqi."
+      }
+    ],
+    "question": {
+      "vi": "Thời tiết ngày mai thế nào?",
+      "en": "What will tomorrow's weather be like?",
+      "zh": "明天天气怎么样？"
+    },
+    "options": [
+      {
+        "vi": "Trời mưa",
+        "en": "It will rain",
+        "correct": true
+      },
+      {
+        "vi": "Trời nắng",
+        "en": "It will be sunny",
+        "correct": false
+      },
+      {
+        "vi": "Trời có gió",
+        "en": "It will be windy",
+        "correct": false
+      },
+      {
+        "vi": "Trời có tuyết",
+        "en": "It will snow",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "下雨"
+      }
+    ]
+  },
+  {
+    "id": "d4",
+    "level": 2,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "请问，图书馆怎么走？",
+        "pinyin": "qǐngwèn, túshūguǎn zěnme zǒu?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "一直走，然后往左拐就到了。",
+        "pinyin": "yìzhí zǒu, ránhòu wǎng zuǒ guǎi jiù dào le."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "谢谢你！",
+        "pinyin": "xièxie nǐ!"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "不客气，祝你顺利。",
+        "pinyin": "bú kèqi, zhù nǐ shùnlì."
+      }
+    ],
+    "question": {
+      "vi": "Đến thư viện phải rẽ về hướng nào?",
+      "en": "Which way should you turn to reach the library?",
+      "zh": "去图书馆要往哪边拐？"
+    },
+    "options": [
+      {
+        "vi": "Bên trái",
+        "en": "Left",
+        "correct": true
+      },
+      {
+        "vi": "Bên phải",
+        "en": "Right",
+        "correct": false
+      },
+      {
+        "vi": "Phía trước",
+        "en": "Straight ahead",
+        "correct": false
+      },
+      {
+        "vi": "Phía sau",
+        "en": "Behind",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "往左拐"
+      }
+    ]
+  }
+]

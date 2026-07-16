@@ -9,6 +9,8 @@ export const DEFAULT_LANGUAGE = "vi";
 // Flat key -> { vi, en, zh } dictionary. Add new keys here as new UI text is
 // introduced; every key must have all three languages filled in.
 export const translations = {
+  "common.loading": { vi: "Đang tải...", en: "Loading...", zh: "加载中..." },
+
   "brand.title": { vi: "听力练习", en: "听力练习", zh: "听力练习" },
   "brand.subtitle": {
     vi: "Luyện nghe tiếng Trung",
@@ -27,6 +29,19 @@ export const translations = {
     en: "Welcome back",
     zh: "欢迎回来",
   },
+  "home.titleWithName": {
+    vi: "Chào mừng {{name}} quay lại!",
+    en: "Welcome back, {{name}}!",
+    zh: "欢迎回来，{{name}}!",
+  },
+  "home.streak.days": { vi: "ngày", en: "days", zh: "天" },
+  "home.streak.subtitle": {
+    vi: "Chuỗi ngày học liên tiếp",
+    en: "Your learning streak",
+    zh: "连续学习天数",
+  },
+  "home.streak.longest": { vi: "Kỷ lục", en: "Longest streak", zh: "最长记录" },
+
   "home.description": {
     vi: "Dán một video YouTube tiếng Trung, để hệ thống tự nhận diện giọng nói và chuyển pinyin, rồi luyện nghe từng câu một.",
     en: "Paste a Chinese YouTube video, let the system transcribe it and convert to pinyin, then practice sentence by sentence.",
@@ -295,14 +310,20 @@ export const translations = {
     zh: '智能中文听力练习应用'
   },
   'about.team': {
-    vi: 'Được phát triển bởi nhóm sinh viên ĐH Bách Khoa.',
-    en: 'Developed by a team of university students.',
-    zh: '由大学生团队开发'
+    vi: 'Được phát triển bởi nhóm sinh viên tại thành phố mang tên Bác!',
+    en: 'Developed by a team of university students from Ho Chi Minh City!',
+    zh: '由大学生在胡志明市团队开发!'
   }
 };
 
-export function translate(key, lang) {
+export function translate(key, lang, params) {
   const entry = translations[key];
   if (!entry) return key;
-  return entry[lang] ?? entry[DEFAULT_LANGUAGE] ?? key;
+  let text = entry[lang] ?? entry[DEFAULT_LANGUAGE] ?? key;
+  if (params) {
+    for (const [name, value] of Object.entries(params)) {
+      text = text.replaceAll(`{{${name}}}`, value);
+    }
+  }
+  return text;
 }

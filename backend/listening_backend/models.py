@@ -27,3 +27,42 @@ class SegmentOut(BaseModel):
     end_sec: float
     text_zh: str
     pinyin: str
+
+
+class VocabWordOut(BaseModel):
+    hanzi: str
+    pinyin: str
+    en: str
+    vi: str
+
+
+class DialogueLine(BaseModel):
+    speaker: str
+    hanzi: str
+    pinyin: str
+
+
+class DialogueOption(BaseModel):
+    vi: str
+    en: str
+    correct: bool
+
+
+class DialogueBlank(BaseModel):
+    lineIndex: int
+    answer: str
+
+
+class DialogueQuestion(BaseModel):
+    vi: str
+    en: str
+    zh: str
+
+
+class DialogueOut(BaseModel):
+    id: str
+    level: str
+    lines: list[DialogueLine]
+    question: DialogueQuestion
+    options: list[DialogueOption]
+    blanks: list[DialogueBlank]

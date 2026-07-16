@@ -1,22 +1,4 @@
-import hsk1 from "./vocabulary/hsk1";
-import hsk2 from "./vocabulary/hsk2";
-import hsk3 from "./vocabulary/hsk3";
-import hsk4 from "./vocabulary/hsk4";
-import hsk5 from "./vocabulary/hsk5";
-import hsk6 from "./vocabulary/hsk6";
-import hsk79 from "./vocabulary/hsk79";
-
-export const HSK_LEVELS = [1, 2, 3, 4, 5, 6, "7-9"];
-
-export const VOCABULARY = {
-  1: hsk1,
-  2: hsk2,
-  3: hsk3,
-  4: hsk4,
-  5: hsk5,
-  6: hsk6,
-  "7-9": hsk79,
-};
+export { HSK_LEVELS } from "../../../shared/contentApi";
 
 export const READING_PASSAGES = {
   1: {
@@ -97,24 +79,3 @@ export const READING_PASSAGES = {
     },
   },
 };
-
-function buildQuiz(level) {
-  const words = VOCABULARY[level];
-  return words.map((word, index) => {
-    const distractors = words
-      .filter((_, i) => i !== index)
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 3);
-    const options = [word, ...distractors].sort(() => Math.random() - 0.5);
-    return {
-      question: word.hanzi,
-      pinyin: word.pinyin,
-      options,
-      answer: word.hanzi,
-    };
-  });
-}
-
-export function getQuiz(level) {
-  return buildQuiz(level);
-}

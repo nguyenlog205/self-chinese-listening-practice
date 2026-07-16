@@ -20,7 +20,7 @@ export function LanguageProvider({ children }) {
     window.localStorage.setItem(STORAGE_KEY, code);
   }, []);
 
-  const t = useCallback((key) => translate(key, language), [language]);
+  const t = useCallback((key, params) => translate(key, language, params), [language]);
 
   const value = useMemo(
     () => ({ language, setLanguage, t, languages: LANGUAGES }),

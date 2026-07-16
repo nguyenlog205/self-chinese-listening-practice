@@ -1,6 +1,7 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { HSK_LEVELS, VOCABULARY } from "../../hsk_materials/data/hskData";
+import { HSK_LEVELS } from "../../../shared/contentApi";
+import { useVocabulary } from "../../../shared/useVocabulary";
 import { useSpeak } from "../../../shared/useSpeak";
 
 function pickWord(words) {
@@ -18,20 +19,27 @@ export default function OrderListening() {
   const { t, language } = useLanguage();
   const speak = useSpeak();
   const [level, setLevel] = useState(HSK_LEVELS[0]);
-  const [word, setWord] = useState(() => pickWord(VOCABULARY[HSK_LEVELS[0]]));
-  const [tiles, setTiles] = useState(() => shuffleTiles(word));
+  const { words, loading, error } = useVocabulary(level);
+  const [word, setWord] = useState(null);
+  const [tiles, setTiles] = useState([]);
+  const [attempt, setAttempt] = useState(0);
   const [placed, setPlaced] = useState([]);
   const [result, setResult] = useState(null);
   const [score, setScore] = useState({ correct: 0, total: 0 });
 
-  const startRound = (lvl, keepScore) => {
-    const nextWord = pickWord(VOCABULARY[lvl]);
-    setLevel(lvl);
+  useEffect(() => {
+    if (words.length === 0) return;
+    const nextWord = pickWord(words);
     setWord(nextWord);
     setTiles(shuffleTiles(nextWord));
     setPlaced([]);
     setResult(null);
-    if (!keepScore) setScore({ correct: 0, total: 0 });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [words, attempt]);
+
+  const changeLevel = (lvl) => {
+    setLevel(lvl);
+    setScore({ correct: 0, total: 0 });
   };
 
   const placedTiles = placed.map((id) => tiles.find((tl) => tl.id === id));
@@ -58,6 +66,7 @@ export default function OrderListening() {
   };
 
   const reset = () => setPlaced([]);
+  const next = () => setAttempt((a) => a + 1);
 
   return (
     <div className="listening-panel">
@@ -66,7 +75,7 @@ export default function OrderListening() {
           <button
             key={lvl}
             className={`listening-level-chip${lvl === level ? " active" : ""}`}
-            onClick={() => startRound(lvl, false)}
+            onClick={() => changeLevel(lvl)}
             type="button"
           >
             HSK {lvl}
@@ -74,77 +83,84 @@ export default function OrderListening() {
         ))}
       </div>
 
-      <div className="listening-card">
-        <p className="listening-progress-label">{t("listening.order.hint")}</p>
+      {loading && <p className="listening-progress-label">{t("common.loading")}</p>}
+      {error && <p className="listening-banner">{error}</p>}
 
-        <button type="button" className="listening-play-btn" onClick={() => speak(word.hanzi)}>
-          🔊 {t("hsk.common.play")}
-        </button>
+      {word && (
+        <>
+          <div className="listening-card">
+            <p className="listening-progress-label">{t("listening.order.hint")}</p>
 
-        <div className="listening-order-target">
-          {placedTiles.map((tl) => (
-            <button
-              key={tl.id}
-              type="button"
-              className="listening-order-tile placed"
-              onClick={() => removeTile(tl.id)}
-              disabled={!!result}
-            >
-              {tl.char}
+            <button type="button" className="listening-play-btn" onClick={() => speak(word.hanzi)}>
+              🔊 {t("hsk.common.play")}
             </button>
-          ))}
-        </div>
 
-        <div className="listening-order-pool">
-          {poolTiles.map((tl) => (
-            <button
-              key={tl.id}
-              type="button"
-              className="listening-order-tile"
-              onClick={() => placeTile(tl.id)}
-              disabled={!!result}
-            >
-              {tl.char}
-            </button>
-          ))}
-        </div>
+            <div className="listening-order-target">
+              {placedTiles.map((tl) => (
+                <button
+                  key={tl.id}
+                  type="button"
+                  className="listening-order-tile placed"
+                  onClick={() => removeTile(tl.id)}
+                  disabled={!!result}
+                >
+                  {tl.char}
+                </button>
+              ))}
+            </div>
 
-        {result && (
-          <div className={`listening-result listening-result-${result}`}>
-            {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
-            {result === "incorrect" && (
-              <span className="listening-result-answer">
-                {" "}
-                — {word.hanzi} ({word.pinyin}) · {language === "en" ? word.en : word.vi}
-              </span>
+            <div className="listening-order-pool">
+              {poolTiles.map((tl) => (
+                <button
+                  key={tl.id}
+                  type="button"
+                  className="listening-order-tile"
+                  onClick={() => placeTile(tl.id)}
+                  disabled={!!result}
+                >
+                  {tl.char}
+                </button>
+              ))}
+            </div>
+
+            {result && (
+              <div className={`listening-result listening-result-${result}`}>
+                {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
+                {result === "incorrect" && (
+                  <span className="listening-result-answer">
+                    {" "}
+                    — {word.hanzi} ({word.pinyin}) · {language === "en" ? word.en : word.vi}
+                  </span>
+                )}
+              </div>
             )}
+
+            <div className="listening-footer">
+              <button type="button" onClick={reset} disabled={!!result || placed.length === 0}>
+                {t("listening.order.reset")}
+              </button>
+              {result ? (
+                <button type="button" className="btn-accent" onClick={next}>
+                  {t("hsk.common.next")} →
+                </button>
+              ) : (
+                <button
+                  type="button"
+                  className="btn-accent"
+                  onClick={check}
+                  disabled={placed.length !== tiles.length}
+                >
+                  {t("hsk.common.check")}
+                </button>
+              )}
+            </div>
           </div>
-        )}
 
-        <div className="listening-footer">
-          <button type="button" onClick={reset} disabled={!!result || placed.length === 0}>
-            {t("listening.order.reset")}
-          </button>
-          {result ? (
-            <button type="button" className="btn-accent" onClick={() => startRound(level, true)}>
-              {t("hsk.common.next")} →
-            </button>
-          ) : (
-            <button
-              type="button"
-              className="btn-accent"
-              onClick={check}
-              disabled={placed.length !== tiles.length}
-            >
-              {t("hsk.common.check")}
-            </button>
-          )}
-        </div>
-      </div>
-
-      <p className="listening-progress-label">
-        {t("hsk.listening.score")}: {score.correct}/{score.total}
-      </p>
+          <p className="listening-progress-label">
+            {t("hsk.listening.score")}: {score.correct}/{score.total}
+          </p>
+        </>
+      )}
     </div>
   );
 }

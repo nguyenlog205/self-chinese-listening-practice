@@ -12,9 +12,12 @@ import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from .api import content as content_api
+from .api import dialogues as dialogues_api
 from .api import jobs as jobs_api
 from .api import lessons as lessons_api
 from .api import media as media_api
+from .api import vocabulary as vocabulary_api
 from .config import ensure_storage_dirs, get_settings
 from .db import init_db
 from .jobs import set_main_loop
@@ -40,6 +43,9 @@ def create_app() -> FastAPI:
     app.include_router(lessons_api.router)
     app.include_router(jobs_api.router)
     app.include_router(media_api.router)
+    app.include_router(vocabulary_api.router)
+    app.include_router(dialogues_api.router)
+    app.include_router(content_api.router)
 
     @app.get("/health")
     def health() -> dict[str, bool]:

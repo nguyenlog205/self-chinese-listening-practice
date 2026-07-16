@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { HSK_LEVELS, VOCABULARY } from "../data/hskData";
+import { HSK_LEVELS } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
+import { useVocabulary } from "../../../shared/useVocabulary";
 
 export default function Listening() {
   const { t, language } = useLanguage();
@@ -13,7 +14,7 @@ export default function Listening() {
   const [revealed, setRevealed] = useState(false);
   const [score, setScore] = useState({ correct: 0, total: 0 });
 
-  const words = VOCABULARY[level];
+  const { words, loading, error } = useVocabulary(level);
   const current = words[index];
 
   const changeLevel = (lvl) => {
@@ -56,58 +57,65 @@ export default function Listening() {
         ))}
       </div>
 
-      <div className="hsk-listening-card">
-        <p className="hsk-listening-hint">{t("hsk.listening.hint")}</p>
+      {loading && <p className="hsk-progress-label">{t("common.loading")}</p>}
+      {error && <p className="hsk-empty">{error}</p>}
 
-        <button type="button" className="hsk-play-btn" onClick={() => speak(current.hanzi)}>
-          🔊 {t("hsk.common.play")}
-        </button>
+      {current && (
+        <>
+          <div className="hsk-listening-card">
+            <p className="hsk-listening-hint">{t("hsk.listening.hint")}</p>
 
-        <div className="hsk-listening-input-row">
-          <input
-            type="text"
-            className="hsk-search"
-            placeholder={t("hsk.listening.inputPlaceholder")}
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            onKeyDown={(e) => e.key === "Enter" && checkAnswer()}
-          />
-          <button type="button" className="btn-accent" onClick={checkAnswer}>
-            {t("hsk.common.check")}
-          </button>
-        </div>
+            <button type="button" className="hsk-play-btn" onClick={() => speak(current.hanzi)}>
+              🔊 {t("hsk.common.play")}
+            </button>
 
-        {result && (
-          <div className={`hsk-result hsk-result-${result}`}>
-            {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
-            {result === "incorrect" && (
-              <span className="hsk-result-answer">
-                {" "}
-                — {current.hanzi} ({current.pinyin})
-              </span>
+            <div className="hsk-listening-input-row">
+              <input
+                type="text"
+                className="hsk-search"
+                placeholder={t("hsk.listening.inputPlaceholder")}
+                value={input}
+                onChange={(e) => setInput(e.target.value)}
+                onKeyDown={(e) => e.key === "Enter" && checkAnswer()}
+              />
+              <button type="button" className="btn-accent" onClick={checkAnswer}>
+                {t("hsk.common.check")}
+              </button>
+            </div>
+
+            {result && (
+              <div className={`hsk-result hsk-result-${result}`}>
+                {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
+                {result === "incorrect" && (
+                  <span className="hsk-result-answer">
+                    {" "}
+                    — {current.hanzi} ({current.pinyin})
+                  </span>
+                )}
+              </div>
+            )}
+
+            <div className="hsk-listening-footer">
+              <button type="button" onClick={() => setRevealed((r) => !r)}>
+                {revealed ? t("hsk.listening.hideHint") : t("hsk.listening.showHint")}
+              </button>
+              <button type="button" onClick={next}>
+                {t("hsk.common.next")} →
+              </button>
+            </div>
+
+            {revealed && (
+              <p className="hsk-listening-reveal">
+                {current.pinyin} · {language === "en" ? current.en : current.vi}
+              </p>
             )}
           </div>
-        )}
 
-        <div className="hsk-listening-footer">
-          <button type="button" onClick={() => setRevealed((r) => !r)}>
-            {revealed ? t("hsk.listening.hideHint") : t("hsk.listening.showHint")}
-          </button>
-          <button type="button" onClick={next}>
-            {t("hsk.common.next")} →
-          </button>
-        </div>
-
-        {revealed && (
-          <p className="hsk-listening-reveal">
-            {current.pinyin} · {language === "en" ? current.en : current.vi}
+          <p className="hsk-progress-label">
+            {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{words.length}
           </p>
-        )}
-      </div>
-
-      <p className="hsk-progress-label">
-        {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{words.length}
-      </p>
+        </>
+      )}
     </div>
   );
 }

@@ -1,7 +1,8 @@
 import { useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { HSK_LEVELS, VOCABULARY } from "../data/hskData";
+import { HSK_LEVELS } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
+import { useVocabulary } from "../../../shared/useVocabulary";
 
 const PAGE_SIZE = 50;
 
@@ -13,7 +14,7 @@ export default function Vocabulary() {
   const [learned, setLearned] = useState(() => new Set());
   const [page, setPage] = useState(0);
 
-  const words = VOCABULARY[level];
+  const { words, loading, error } = useVocabulary(level);
   const filtered = useMemo(
     () =>
       words.filter((w) =>
@@ -77,10 +78,13 @@ export default function Vocabulary() {
         </span>
       </div>
 
+      {loading && <p className="hsk-progress-label">{t("common.loading")}</p>}
+      {error && <p className="hsk-empty">{error}</p>}
+
       <div className="hsk-word-grid">
         {paged.map((word) => (
           <div
-            key={word.hanzi}
+            key={`${word.hanzi}-${word.pinyin}`}
             className={`hsk-word-card${learned.has(word.hanzi) ? " learned" : ""}`}
           >
             <div className="hsk-word-main" onClick={() => speak(word.hanzi)}>
@@ -104,7 +108,7 @@ export default function Vocabulary() {
             </div>
           </div>
         ))}
-        {filtered.length === 0 && (
+        {!loading && filtered.length === 0 && (
           <p className="hsk-empty">{t("hsk.vocab.noResults")}</p>
         )}
       </div>
