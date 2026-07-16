@@ -1,20 +1,24 @@
 import { NavLink } from "react-router-dom";
-
-const navItems = [
-  { to: "/", label: "Trang chủ", end: true },
-  { to: "/listening", label: "Luyện nghe" },
-];
+import { useLanguage } from "../i18n/LanguageContext";
 
 export default function Sidebar() {
+  const { t } = useLanguage();
+
+  const navItems = [
+    { to: "/", label: t("nav.home"), end: true },
+    { to: "/listening", label: t("nav.listening") },
+  ];
+
   return (
     <nav className="sidebar">
       <div className="sidebar-brand">
         <div className="sidebar-brand-mark">听</div>
         <div className="sidebar-brand-text">
-          <strong>听力练习</strong>
-          <span>Luyện nghe tiếng Trung</span>
+          <strong>{t("brand.title")}</strong>
+          <span>{t("brand.subtitle")}</span>
         </div>
       </div>
+
       <ul>
         {navItems.map((item) => (
           <li key={item.to}>
@@ -24,6 +28,15 @@ export default function Sidebar() {
             </NavLink>
           </li>
         ))}
+      </ul>
+
+      <ul className="sidebar-bottom">
+        <li>
+          <NavLink to="/settings">
+            <span className="nav-dot" />
+            {t("nav.settings")}
+          </NavLink>
+        </li>
       </ul>
     </nav>
   );

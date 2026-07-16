@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(nohup npm run dev -- --port 5184)",
+      "Bash(curl -sf http://localhost:5184/)",
+      "Read(//tmp/**)",
+      "Bash(node shot2.js)"
+    ]
+  }
+}
