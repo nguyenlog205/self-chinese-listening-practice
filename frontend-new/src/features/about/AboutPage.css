@@ -1,0 +1,94 @@
+.about-page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.about-intro {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  color: #ccc; /* chữ xám sáng trên nền tối */
+}
+
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  justify-items: center;
+}
+
+.member-card {
+  background: #1e1e1e; /* nền tối hơn nền trang chủ */
+  border: 1px solid #333; /* viền mờ */
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  width: 100%;
+  max-width: 280px;
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.6);
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.8);
+}
+
+.member-avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid #444;
+}
+
+.member-name {
+  margin: 0.5rem 0 0.25rem;
+  font-size: 1.2rem;
+  color: #fff; /* chữ trắng */
+}
+
+.member-title {
+  color: #aaa; /* chữ xám sáng */
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.member-email {
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+  color: #ccc;
+}
+
+.member-email a {
+  color: #66b3ff; /* xanh sáng trên nền tối */
+  text-decoration: none;
+}
+
+.member-email a:hover {
+  text-decoration: underline;
+}
+
+.member-social {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 0.75rem;
+}
+
+.member-social a {
+  padding: 0.25rem 0.75rem;
+  background: #2a2a2a;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: #ddd;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.member-social a:hover {
+  background: #3a3a3a;
+  color: #fff;
+}

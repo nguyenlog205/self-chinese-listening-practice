@@ -7,7 +7,9 @@ export default function Sidebar() {
   const navItems = [
     { to: "/", label: t("nav.home"), end: true },
     { to: "/listening", label: t("nav.listening") },
-  ];
+    { to: "/hsk", label: t("nav.hsk") },
+    { to: "/about", label: t("nav.about") }
+    ];
 
   return (
     <nav className="sidebar">
