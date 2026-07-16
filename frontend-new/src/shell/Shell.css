@@ -1,0 +1,42 @@
+.shell {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  background: #1e2327;
+  color: #eee;
+  padding: 16px;
+}
+
+.sidebar-brand {
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li a {
+  display: block;
+  padding: 8px 12px;
+  border-radius: 6px;
+  color: #ccc;
+  text-decoration: none;
+  margin-bottom: 4px;
+}
+
+.sidebar li a.active {
+  background: #333;
+  color: #fff;
+}
+
+.shell-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 24px;
+}
