@@ -1,14 +1,12 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { Api, STAGE_LABELS } from "../api";
-
-const TERMINAL = new Set(["ready", "error"]);
+import { Api, STAGE_LABELS } from "../../../shared/lessonsApi";
+import { useLessons } from "../../../shared/useLessons";
 
 export default function YoutubeListening() {
   const { t, language } = useLanguage();
-  const [lessons, setLessons] = useState([]);
+  const { lessons, error, addLesson, deleteLesson } = useLessons();
   const [url, setUrl] = useState("");
-  const [error, setError] = useState(null);
   const [selectedId, setSelectedId] = useState(null);
   const [segments, setSegments] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -18,53 +16,17 @@ export default function YoutubeListening() {
   const [guess, setGuess] = useState("");
   const [checked, setChecked] = useState(false);
   const [videoSrc, setVideoSrc] = useState(null);
+  const [segmentError, setSegmentError] = useState(null);
 
-  const socketsRef = useRef(new Map());
   const videoRef = useRef(null);
   const boundaryTimerRef = useRef(null);
-
-  const refreshLessons = () => {
-    Api.listLessons()
-      .then((rows) => {
-        setLessons(rows);
-        setError(null);
-      })
-      .catch((err) => setError(err.message));
-  };
-
-  useEffect(() => {
-    refreshLessons();
-    const sockets = socketsRef.current;
-    return () => {
-      sockets.forEach((ws) => ws.close());
-      sockets.clear();
-    };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
-
-  useEffect(() => {
-    lessons.forEach((lesson) => {
-      if (TERMINAL.has(lesson.status) || socketsRef.current.has(lesson.id)) return;
-      Api.jobSocket(lesson.id, (evt) => {
-        refreshLessons();
-        if (TERMINAL.has(evt.status)) {
-          socketsRef.current.get(lesson.id)?.close();
-          socketsRef.current.delete(lesson.id);
-        }
-      }).then((ws) => socketsRef.current.set(lesson.id, ws));
-    });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [lessons]);
 
   const submitLesson = (e) => {
     e.preventDefault();
     if (!url.trim()) return;
-    Api.addLesson(url.trim())
-      .then(() => {
-        setUrl("");
-        refreshLessons();
-      })
-      .catch((err) => setError(err.message));
+    addLesson(url.trim())
+      .then(() => setUrl(""))
+      .catch(() => {});
   };
 
   const openLesson = (lesson) => {
@@ -75,7 +37,7 @@ export default function YoutubeListening() {
     setGuess("");
     Api.getSegments(lesson.id)
       .then(setSegments)
-      .catch((err) => setError(err.message));
+      .catch((err) => setSegmentError(err.message));
     Api.mediaVideoUrl(lesson.id).then(setVideoSrc);
   };
 
@@ -88,12 +50,9 @@ export default function YoutubeListening() {
 
   const removeLesson = (id, e) => {
     e.stopPropagation();
-    Api.deleteLesson(id)
-      .then(() => {
-        if (selectedId === id) closeLesson();
-        refreshLessons();
-      })
-      .catch((err) => setError(err.message));
+    deleteLesson(id).then(() => {
+      if (selectedId === id) closeLesson();
+    });
   };
 
   const segment = segments[currentIndex];
@@ -140,6 +99,8 @@ export default function YoutubeListening() {
         <button type="button" className="listening-back-btn" onClick={closeLesson}>
           ← {t("listening.youtube.backToLibrary")}
         </button>
+
+        {segmentError && <p className="listening-banner">{segmentError}</p>}
 
         {videoSrc && (
           <video

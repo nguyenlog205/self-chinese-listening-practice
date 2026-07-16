@@ -1,14 +1,15 @@
 import "./SettingsPage.css";
 import { useLanguage } from "../../i18n/LanguageContext";
 import { useState } from "react";
-import { USER_NAME_KEY } from "../../shared/userSettings";
+import { USER_NAME_KEY, HSK_GOAL_KEY, EXAM_DATE_KEY } from "../../shared/userSettings";
 import { ContentApi } from "../../shared/contentApi";
 import { clearVocabularyCache } from "../../shared/useVocabulary";
 import { clearDialoguesCache } from "../../shared/useDialogues";
 
 const STORAGE = {
   NAME: USER_NAME_KEY,
-  HSK: "listening-app:hsk-level",
+  HSK: HSK_GOAL_KEY,
+  EXAM_DATE: EXAM_DATE_KEY,
   GOAL: "listening-app:daily-goal",
   RATE: "listening-app:playback-rate",
   PINYIN: "listening-app:show-pinyin",
@@ -19,6 +20,7 @@ export default function SettingsPage() {
 
   const [name, setName] = useState(localStorage.getItem(STORAGE.NAME) || "");
   const [hsk, setHsk] = useState(localStorage.getItem(STORAGE.HSK) || "1");
+  const [examDate, setExamDate] = useState(localStorage.getItem(STORAGE.EXAM_DATE) || "");
   const [goal, setGoal] = useState(() => {
     const v = localStorage.getItem(STORAGE.GOAL);
     return v ? parseInt(v, 10) : 10;
@@ -40,6 +42,11 @@ export default function SettingsPage() {
     const val = e.target.value;
     setHsk(val);
     localStorage.setItem(STORAGE.HSK, val);
+  };
+  const handleExamDate = (e) => {
+    const val = e.target.value;
+    setExamDate(val);
+    localStorage.setItem(STORAGE.EXAM_DATE, val);
   };
   const handleGoal = (e) => {
     const val = parseInt(e.target.value, 10) || 0;
@@ -112,7 +119,7 @@ export default function SettingsPage() {
             <input id="name" type="text" value={name} onChange={handleName} placeholder="Nhập tên" />
           </div>
           <div className="settings-field">
-            <label htmlFor="hsk">Trình độ HSK</label>
+            <label htmlFor="hsk">Trình độ HSK mong muốn</label>
             <select id="hsk" value={hsk} onChange={handleHsk}>
               <option value="1">HSK 1</option>
               <option value="2">HSK 2</option>
@@ -122,6 +129,10 @@ export default function SettingsPage() {
               <option value="6">HSK 6</option>
               <option value="7-9">HSK 7-9</option>
             </select>
+          </div>
+          <div className="settings-field">
+            <label htmlFor="examDate">Ngày thi dự kiến</label>
+            <input id="examDate" type="date" value={examDate} onChange={handleExamDate} />
           </div>
         </div>
       </section>

@@ -1,5 +1,8 @@
-import { apiBase, apiFetch, wsBase } from "../../shared/api";
+import { apiBase, apiFetch, wsBase } from "./api";
 
+// Client for the YouTube-lesson backend (add/list/practice) — shared by the
+// Home page (add form + library preview) and the Luyện nghe YouTube mode
+// (full practice view), both backed by the same /api/lessons endpoints.
 export const Api = {
   base: apiBase,
   listLessons: () => apiFetch("/api/lessons"),

@@ -42,8 +42,29 @@ export const translations = {
   },
   "home.streak.longest": { vi: "Kỷ lục", en: "Longest streak", zh: "最长记录" },
 
+  "home.activity.title": { vi: "Câu đã nghe", en: "Sentences listened", zh: "听过的句子" },
+  "home.activity.subtitle": {
+    vi: "{{count}} câu trong {{days}} ngày qua",
+    en: "{{count}} sentences in the last {{days}} days",
+    zh: "过去 {{days}} 天听了 {{count}} 句",
+  },
+  "home.activity.sentences": { vi: "câu", en: "sentences", zh: "句" },
+  "home.activity.less": { vi: "Ít", en: "Less", zh: "较少" },
+  "home.activity.more": { vi: "Nhiều", en: "More", zh: "较多" },
+
+  "home.exam.title": { vi: "Kỳ thi sắp tới", en: "Upcoming exam", zh: "即将到来的考试" },
+  "home.exam.daysLeft": { vi: "ngày nữa", en: "days left", zh: "天后" },
+  "home.exam.goal": { vi: "Mục tiêu", en: "Goal", zh: "目标" },
+  "home.exam.notSet": {
+    vi: "Bạn chưa đặt ngày thi.",
+    en: "You haven't set an exam date yet.",
+    zh: "您还没有设置考试日期。",
+  },
+  "home.exam.goToSettings": { vi: "Đặt ngày thi trong Cài đặt", en: "Set it in Settings", zh: "在设置中设置" },
+  "home.exam.passed": { vi: "Ngày thi đã qua", en: "Exam date has passed", zh: "考试日期已过" },
+
   "home.description": {
-    vi: "Dán một video YouTube tiếng Trung, để hệ thống tự nhận diện giọng nói và chuyển pinyin, rồi luyện nghe từng câu một.",
+    vi: "Dán một video YouTube tiếng Trung, hệ thống tự nhận diện giọng nói và chuyển pinyin, sau đó luyện nghe từng câu một.",
     en: "Paste a Chinese YouTube video, let the system transcribe it and convert to pinyin, then practice sentence by sentence.",
     zh: "粘贴一个中文 YouTube 视频，系统会自动识别语音并转换拼音，然后逐句练习听力。",
   },
