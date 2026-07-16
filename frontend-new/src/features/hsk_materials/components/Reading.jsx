@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
 import { HSK_LEVELS, READING_PASSAGES } from "../data/hskData";
-import { useSpeak } from "../useSpeak";
+import { useSpeak } from "../../../shared/useSpeak";
 
 export default function Reading() {
   const { t, language } = useLanguage();

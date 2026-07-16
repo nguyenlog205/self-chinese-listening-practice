@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { HSK_LEVELS, VOCABULARY } from "../data/hskData";
+import { HSK_LEVELS, VOCABULARY } from "../../hsk_materials/data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
 
-export default function Listening() {
+export default function DictationPractice() {
   const { t, language } = useLanguage();
   const speak = useSpeak();
   const [level, setLevel] = useState(HSK_LEVELS[0]);
@@ -42,12 +42,12 @@ export default function Listening() {
   };
 
   return (
-    <div className="hsk-panel">
-      <div className="hsk-level-row">
+    <div className="listening-panel">
+      <div className="listening-level-row">
         {HSK_LEVELS.map((lvl) => (
           <button
             key={lvl}
-            className={`hsk-level-chip${lvl === level ? " active" : ""}`}
+            className={`listening-level-chip${lvl === level ? " active" : ""}`}
             onClick={() => changeLevel(lvl)}
             type="button"
           >
@@ -56,17 +56,17 @@ export default function Listening() {
         ))}
       </div>
 
-      <div className="hsk-listening-card">
-        <p className="hsk-listening-hint">{t("hsk.listening.hint")}</p>
+      <div className="listening-card">
+        <p className="listening-progress-label">{t("listening.dictation.hint")}</p>
 
-        <button type="button" className="hsk-play-btn" onClick={() => speak(current.hanzi)}>
+        <button type="button" className="listening-play-btn" onClick={() => speak(current.hanzi)}>
           🔊 {t("hsk.common.play")}
         </button>
 
-        <div className="hsk-listening-input-row">
+        <div className="listening-toggle-row" style={{ gap: 10 }}>
           <input
             type="text"
-            className="hsk-search"
+            className="listening-search"
             placeholder={t("hsk.listening.inputPlaceholder")}
             value={input}
             onChange={(e) => setInput(e.target.value)}
@@ -78,10 +78,10 @@ export default function Listening() {
         </div>
 
         {result && (
-          <div className={`hsk-result hsk-result-${result}`}>
+          <div className={`listening-result listening-result-${result}`}>
             {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
             {result === "incorrect" && (
-              <span className="hsk-result-answer">
+              <span className="listening-result-answer">
                 {" "}
                 — {current.hanzi} ({current.pinyin})
               </span>
@@ -89,7 +89,7 @@ export default function Listening() {
           </div>
         )}
 
-        <div className="hsk-listening-footer">
+        <div className="listening-footer">
           <button type="button" onClick={() => setRevealed((r) => !r)}>
             {revealed ? t("hsk.listening.hideHint") : t("hsk.listening.showHint")}
           </button>
@@ -99,13 +99,13 @@ export default function Listening() {
         </div>
 
         {revealed && (
-          <p className="hsk-listening-reveal">
+          <p className="listening-progress-label">
             {current.pinyin} · {language === "en" ? current.en : current.vi}
           </p>
         )}
       </div>
 
-      <p className="hsk-progress-label">
+      <p className="listening-progress-label">
         {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{words.length}
       </p>
     </div>

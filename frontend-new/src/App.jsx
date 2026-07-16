@@ -4,6 +4,7 @@ import Shell from "./shell/Shell";
 
 import HomePage from "./features/home/HomePage";
 import HSKPage from './features/hsk_materials/HSKPage';
+import ListeningPage from "./features/listening/ListeningPage";
 import SettingsPage from "./features/settings/SettingsPage";
 
 import AboutPage from "./features/about/AboutPage";
@@ -19,7 +20,7 @@ export default function App() {
         <Routes>
           <Route element={<Shell />}>
             <Route path="/" element={<HomePage />} />
-            {/* /listening route gets added here once we port that feature over */}
+            <Route path="/listening" element={<ListeningPage />} />
             <Route path="/settings" element={<SettingsPage />} />
             <Route path="/hsk" element={<HSKPage />} />
             <Route path="/about" element={<AboutPage />} />

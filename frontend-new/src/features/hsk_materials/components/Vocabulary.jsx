@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
 import { HSK_LEVELS, VOCABULARY } from "../data/hskData";
-import { useSpeak } from "../useSpeak";
+import { useSpeak } from "../../../shared/useSpeak";
 
 const PAGE_SIZE = 50;
 
