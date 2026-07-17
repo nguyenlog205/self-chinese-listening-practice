@@ -439,3 +439,72 @@
 .exam-settings-link:hover {
   text-decoration: underline;
 }
+
+/* --- Goal progress --- */
+.progress-card {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 24px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.progress-card h3 {
+  font-size: 15px;
+}
+
+.progress-sentences-heard {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.progress-sentences-count {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.1;
+}
+
+.progress-sentences-heard span:last-child {
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.progress-goal-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.progress-goal-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+
+.progress-bar-track {
+  height: 8px;
+  border-radius: 999px;
+  background: var(--surface-soft);
+  border: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.progress-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  transition: width 0.2s ease;
+}
+
+.progress-bar-fill.words {
+  background: linear-gradient(135deg, var(--accent), #c93a2f);
+}
+
+.progress-bar-fill.sentences {
+  background: linear-gradient(135deg, var(--accent-2), #b8842c);
+}

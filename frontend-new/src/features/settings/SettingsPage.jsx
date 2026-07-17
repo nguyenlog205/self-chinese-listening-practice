@@ -1,7 +1,18 @@
 import "./SettingsPage.css";
 import { useLanguage } from "../../i18n/LanguageContext";
+import { usePreferences } from "../../shared/PreferencesContext";
 import { useState } from "react";
-import { USER_NAME_KEY, HSK_GOAL_KEY, EXAM_DATE_KEY } from "../../shared/userSettings";
+import {
+  USER_NAME_KEY,
+  HSK_GOAL_KEY,
+  EXAM_DATE_KEY,
+  WORD_GOAL_KEY,
+  SENTENCE_GOAL_KEY,
+  LEARN_MODE_KEY,
+  RANDOM_ORDER_KEY,
+  getLearnMode,
+  getRandomOrder,
+} from "../../shared/userSettings";
 import { ContentApi } from "../../shared/contentApi";
 import { clearVocabularyCache } from "../../shared/useVocabulary";
 import { clearDialoguesCache } from "../../shared/useDialogues";
@@ -10,13 +21,16 @@ const STORAGE = {
   NAME: USER_NAME_KEY,
   HSK: HSK_GOAL_KEY,
   EXAM_DATE: EXAM_DATE_KEY,
-  GOAL: "listening-app:daily-goal",
+  GOAL: WORD_GOAL_KEY,
+  SENTENCE_GOAL: SENTENCE_GOAL_KEY,
   RATE: "listening-app:playback-rate",
-  PINYIN: "listening-app:show-pinyin",
+  LEARN_MODE: LEARN_MODE_KEY,
+  RANDOM_ORDER: RANDOM_ORDER_KEY,
 };
 
 export default function SettingsPage() {
   const { t, language, setLanguage, languages } = useLanguage();
+  const { showPinyin, setShowPinyin } = usePreferences();
 
   const [name, setName] = useState(localStorage.getItem(STORAGE.NAME) || "");
   const [hsk, setHsk] = useState(localStorage.getItem(STORAGE.HSK) || "1");
@@ -25,13 +39,16 @@ export default function SettingsPage() {
     const v = localStorage.getItem(STORAGE.GOAL);
     return v ? parseInt(v, 10) : 10;
   });
+  const [sentenceGoal, setSentenceGoal] = useState(() => {
+    const v = localStorage.getItem(STORAGE.SENTENCE_GOAL);
+    return v ? parseInt(v, 10) : 50;
+  });
   const [rate, setRate] = useState(() => {
     const v = localStorage.getItem(STORAGE.RATE);
     return v ? parseFloat(v) : 1.0;
   });
-  const [pinyin, setPinyin] = useState(() => {
-    return localStorage.getItem(STORAGE.PINYIN) === "true";
-  });
+  const [learnMode, setLearnMode] = useState(getLearnMode);
+  const [randomOrder, setRandomOrder] = useState(getRandomOrder);
 
   const handleName = (e) => {
     const val = e.target.value;
@@ -53,15 +70,25 @@ export default function SettingsPage() {
     setGoal(val);
     localStorage.setItem(STORAGE.GOAL, String(val));
   };
+  const handleSentenceGoal = (e) => {
+    const val = parseInt(e.target.value, 10) || 0;
+    setSentenceGoal(val);
+    localStorage.setItem(STORAGE.SENTENCE_GOAL, String(val));
+  };
   const handleRate = (e) => {
     const val = parseFloat(e.target.value);
     setRate(val);
     localStorage.setItem(STORAGE.RATE, String(val));
   };
-  const handlePinyin = (e) => {
+  const handleLearnMode = (e) => {
+    const val = e.target.value;
+    setLearnMode(val);
+    localStorage.setItem(STORAGE.LEARN_MODE, val);
+  };
+  const handleRandomOrder = (e) => {
     const val = e.target.checked;
-    setPinyin(val);
-    localStorage.setItem(STORAGE.PINYIN, String(val));
+    setRandomOrder(val);
+    localStorage.setItem(STORAGE.RANDOM_ORDER, String(val));
   };
 
   const [refreshState, setRefreshState] = useState({ status: "idle", message: "" });
@@ -146,6 +173,16 @@ export default function SettingsPage() {
             <input id="goal" type="number" min="0" value={goal} onChange={handleGoal} />
           </div>
           <div className="settings-field">
+            <label htmlFor="sentenceGoal">Số câu mục tiêu</label>
+            <input
+              id="sentenceGoal"
+              type="number"
+              min="0"
+              value={sentenceGoal}
+              onChange={handleSentenceGoal}
+            />
+          </div>
+          <div className="settings-field">
             <label htmlFor="rate">Tốc độ phát âm</label>
             <select id="rate" value={rate} onChange={handleRate}>
               <option value="0.8">0.8x</option>
@@ -153,10 +190,27 @@ export default function SettingsPage() {
               <option value="1.2">1.2x</option>
             </select>
           </div>
+          <div className="settings-field">
+            <label htmlFor="learnMode">Chế độ học</label>
+            <select id="learnMode" value={learnMode} onChange={handleLearnMode}>
+              <option value="all">Toàn bộ từ vựng</option>
+              <option value="unknown">Chỉ từ chưa biết</option>
+            </select>
+          </div>
           <div className="settings-field checkbox">
             <label>
-              <input type="checkbox" checked={pinyin} onChange={handlePinyin} />
+              <input
+                type="checkbox"
+                checked={showPinyin}
+                onChange={(e) => setShowPinyin(e.target.checked)}
+              />
               Hiển thị pinyin
+            </label>
+          </div>
+          <div className="settings-field checkbox">
+            <label>
+              <input type="checkbox" checked={randomOrder} onChange={handleRandomOrder} />
+              Xáo trộn thứ tự từ vựng khi luyện tập
             </label>
           </div>
         </div>

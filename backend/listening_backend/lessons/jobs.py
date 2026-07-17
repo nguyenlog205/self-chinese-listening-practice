@@ -12,8 +12,8 @@ import threading
 from concurrent.futures import ThreadPoolExecutor
 from typing import Any
 
-from .config import Settings, ensure_storage_dirs
-from .db import get_conn
+from ..config import Settings, ensure_storage_dirs
+from ..db import get_conn
 from .pipeline import youtube
 from .pipeline.pinyin_convert import to_pinyin
 from .pipeline.transcribe import transcribe

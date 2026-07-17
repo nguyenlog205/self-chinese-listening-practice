@@ -1,13 +1,27 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS } from "../data/hskData";
 import { useVocabulary } from "../../../shared/useVocabulary";
+import { useVocabProgress } from "../../../shared/useVocabProgress";
+import { selectPracticeWords } from "../../../shared/practiceWords";
 import { buildQuiz } from "../../../shared/buildQuiz";
+import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
+import { logWordPractice } from "../../../shared/localProgress";
+import { ActivityApi } from "../../../shared/activityApi";
 
 export default function MockTest() {
   const { t, language } = useLanguage();
-  const [level, setLevel] = useState(HSK_LEVELS[0]);
+  const { showPinyin } = usePreferences();
+  const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
+  const [learnMode] = useState(getLearnMode);
+  const [randomOrder] = useState(getRandomOrder);
+  const { learned } = useVocabProgress();
   const { words, loading, error } = useVocabulary(level);
+  const practiceWords = useMemo(
+    () => selectPracticeWords(words, { learned, learnMode, randomOrder }),
+    [words, learned, learnMode, randomOrder]
+  );
   const [quiz, setQuiz] = useState([]);
   const [attempt, setAttempt] = useState(0);
   const [index, setIndex] = useState(0);
@@ -16,21 +30,33 @@ export default function MockTest() {
   const [finished, setFinished] = useState(false);
 
   useEffect(() => {
-    if (words.length === 0) return;
-    setQuiz(buildQuiz(words));
+    if (practiceWords.length === 0) {
+      setQuiz([]);
+      return;
+    }
+    setQuiz(buildQuiz(practiceWords));
     setIndex(0);
     setSelected(null);
     setScore(0);
     setFinished(false);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [words, attempt]);
+  }, [practiceWords, attempt]);
 
   const question = quiz[index];
 
   const choose = (option) => {
     if (selected) return;
     setSelected(option);
-    if (option.hanzi === question.answer) setScore((s) => s + 1);
+    const isCorrect = option.hanzi === question.answer;
+    if (isCorrect) setScore((s) => s + 1);
+    logWordPractice();
+    ActivityApi.logEvent({
+      mode: "hsk_mocktest",
+      item_type: "vocab",
+      item_id: question.answer,
+      level: String(level),
+      is_correct: isCorrect,
+    });
   };
 
   const next = () => {
@@ -61,6 +87,9 @@ export default function MockTest() {
 
       {loading && <p className="hsk-progress-label">{t("common.loading")}</p>}
       {error && <p className="hsk-empty">{error}</p>}
+      {!loading && !error && words.length > 0 && practiceWords.length === 0 && (
+        <p className="hsk-empty">{t("practice.allLearned")}</p>
+      )}
 
       {question &&
         (finished ? (
@@ -79,7 +108,7 @@ export default function MockTest() {
               {t("hsk.mocktest.question")} {index + 1}/{quiz.length}
             </div>
             <p className="hsk-mocktest-prompt">{t("hsk.mocktest.prompt")}</p>
-            <p className="hsk-mocktest-pinyin">{question.pinyin}</p>
+            {showPinyin && <p className="hsk-mocktest-pinyin">{question.pinyin}</p>}
 
             <div className="hsk-mocktest-options">
               {question.options.map((option) => {

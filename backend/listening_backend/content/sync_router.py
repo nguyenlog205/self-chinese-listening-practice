@@ -2,8 +2,8 @@ from __future__ import annotations
 
 from fastapi import APIRouter, HTTPException
 
-from ..content_sync import ContentSyncError, refresh_content
 from ..db import get_conn
+from .sync import ContentSyncError, refresh_content
 
 router = APIRouter(prefix="/api/content", tags=["content"])
 

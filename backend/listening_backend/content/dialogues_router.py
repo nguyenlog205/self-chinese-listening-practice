@@ -5,7 +5,7 @@ import json
 from fastapi import APIRouter, Query
 
 from ..db import get_conn
-from ..models import DialogueOut
+from .models import DialogueOut
 
 router = APIRouter(prefix="/api/dialogues", tags=["dialogues"])
 

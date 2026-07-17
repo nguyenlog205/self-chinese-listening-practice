@@ -3,7 +3,7 @@ from __future__ import annotations
 from fastapi import APIRouter, Query
 
 from ..db import get_conn
-from ..models import VocabWordOut
+from .models import VocabWordOut
 
 router = APIRouter(prefix="/api/vocabulary", tags=["vocabulary"])
 

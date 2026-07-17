@@ -11,4 +11,5 @@ Requires-Dist: faster-whisper
 Requires-Dist: pypinyin
 Requires-Dist: pydub
 Requires-Dist: websockets
+Requires-Dist: edge-tts
 Requires-Dist: audioop-lts; python_version >= "3.13"

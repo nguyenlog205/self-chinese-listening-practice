@@ -14,5 +14,8 @@ so a new contributor can extend it without archaeology.
   how practice/dictation works.
 - [dev-workflow.md](dev-workflow.md) — running locally, debugging, common
   gotchas, packaging/build notes.
+- [activity-tracking-plan.md](activity-tracking-plan.md) — spec cho việc
+  chưa làm: bảng `practice_events`, endpoint streak/activity, và danh sách
+  chính xác các chỗ ở frontend cần gọi về khi làm xong backend.
 
 Read `architecture.md` first if you're new to the codebase.

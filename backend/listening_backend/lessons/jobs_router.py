@@ -4,7 +4,7 @@ import asyncio
 
 from fastapi import APIRouter, WebSocket, WebSocketDisconnect
 
-from .. import jobs as jobs_module
+from . import jobs as jobs_module
 from ..db import get_conn
 
 router = APIRouter(tags=["jobs"])

@@ -24,6 +24,8 @@ def _storage_dir() -> Path:
 STORAGE_DIR = _storage_dir()
 AUDIO_CACHE_DIR = STORAGE_DIR / "audio_cache"
 VIDEO_CACHE_DIR = STORAGE_DIR / "video_cache"
+TTS_CACHE_DIR = STORAGE_DIR / "tts_cache"
+DIALOGUE_AUDIO_CACHE_DIR = STORAGE_DIR / "dialogue_audio_cache"
 DB_PATH = STORAGE_DIR / "listening.db"
 
 
@@ -52,3 +54,5 @@ def ensure_storage_dirs() -> None:
     STORAGE_DIR.mkdir(parents=True, exist_ok=True)
     AUDIO_CACHE_DIR.mkdir(parents=True, exist_ok=True)
     VIDEO_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    TTS_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    DIALOGUE_AUDIO_CACHE_DIR.mkdir(parents=True, exist_ok=True)

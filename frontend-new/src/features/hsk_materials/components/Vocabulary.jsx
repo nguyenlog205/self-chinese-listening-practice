@@ -1,17 +1,21 @@
 import { useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
 import { useVocabulary } from "../../../shared/useVocabulary";
+import { useVocabProgress } from "../../../shared/useVocabProgress";
+import { resolveHskLevel } from "../../../shared/userSettings";
 
 const PAGE_SIZE = 50;
 
 export default function Vocabulary() {
   const { t, language } = useLanguage();
+  const { showPinyin } = usePreferences();
   const speak = useSpeak();
-  const [level, setLevel] = useState(HSK_LEVELS[0]);
+  const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [query, setQuery] = useState("");
-  const [learned, setLearned] = useState(() => new Set());
+  const { learned, toggleLearned } = useVocabProgress();
   const [page, setPage] = useState(0);
 
   const { words, loading, error } = useVocabulary(level);
@@ -37,15 +41,6 @@ export default function Vocabulary() {
   const changeQuery = (value) => {
     setQuery(value);
     setPage(0);
-  };
-
-  const toggleLearned = (hanzi) => {
-    setLearned((prev) => {
-      const next = new Set(prev);
-      if (next.has(hanzi)) next.delete(hanzi);
-      else next.add(hanzi);
-      return next;
-    });
   };
 
   const learnedCount = words.filter((w) => learned.has(w.hanzi)).length;
@@ -89,7 +84,7 @@ export default function Vocabulary() {
           >
             <div className="hsk-word-main" onClick={() => speak(word.hanzi)}>
               <span className="hsk-word-hanzi">{word.hanzi}</span>
-              <span className="hsk-word-pinyin">{word.pinyin}</span>
+              {showPinyin && <span className="hsk-word-pinyin">{word.pinyin}</span>}
               <span className="hsk-word-meaning">
                 {language === "en" ? word.en : word.vi}
               </span>
@@ -101,7 +96,7 @@ export default function Vocabulary() {
               <button
                 type="button"
                 className={learned.has(word.hanzi) ? "active" : ""}
-                onClick={() => toggleLearned(word.hanzi)}
+                onClick={() => toggleLearned(word.hanzi, level)}
               >
                 {learned.has(word.hanzi) ? t("hsk.vocab.learned") : t("hsk.vocab.markLearned")}
               </button>

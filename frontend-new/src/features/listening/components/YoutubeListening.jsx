@@ -1,17 +1,20 @@
 import { useMemo, useRef, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { Api, STAGE_LABELS } from "../../../shared/lessonsApi";
 import { useLessons } from "../../../shared/useLessons";
+import { logSentencePractice } from "../../../shared/localProgress";
+import { ActivityApi } from "../../../shared/activityApi";
 
 export default function YoutubeListening() {
   const { t, language } = useLanguage();
+  const { showPinyin } = usePreferences();
   const { lessons, error, addLesson, deleteLesson } = useLessons();
   const [url, setUrl] = useState("");
   const [selectedId, setSelectedId] = useState(null);
   const [segments, setSegments] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [showText, setShowText] = useState(true);
-  const [showPinyin, setShowPinyin] = useState(true);
   const [dictationOn, setDictationOn] = useState(false);
   const [guess, setGuess] = useState("");
   const [checked, setChecked] = useState(false);
@@ -76,6 +79,14 @@ export default function YoutubeListening() {
     setCurrentIndex(index);
     setChecked(false);
     setGuess("");
+    logSentencePractice();
+    ActivityApi.logEvent({
+      mode: "youtube_dictation",
+      item_type: "segment",
+      item_id: `${selectedId}:${currentIndex}`,
+      level: null,
+      is_correct: null,
+    });
     if (index === segments.length - 1) {
       Api.markPracticed(selectedId).catch(() => {});
     }
@@ -83,6 +94,14 @@ export default function YoutubeListening() {
 
   const checkDictation = () => {
     setChecked(true);
+    logSentencePractice();
+    ActivityApi.logEvent({
+      mode: "youtube_dictation",
+      item_type: "segment",
+      item_id: `${selectedId}:${currentIndex}`,
+      level: null,
+      is_correct: guess === segment.text_zh,
+    });
   };
 
   const diff = useMemo(() => {
@@ -124,10 +143,6 @@ export default function YoutubeListening() {
               <label>
                 <input type="checkbox" checked={showText} onChange={(e) => setShowText(e.target.checked)} />
                 {t("listening.youtube.showText")}
-              </label>
-              <label>
-                <input type="checkbox" checked={showPinyin} onChange={(e) => setShowPinyin(e.target.checked)} />
-                {t("listening.youtube.showPinyin")}
               </label>
               <label>
                 <input type="checkbox" checked={dictationOn} onChange={(e) => setDictationOn(e.target.checked)} />

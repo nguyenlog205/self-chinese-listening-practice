@@ -1,13 +1,23 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
 import { useVocabulary } from "../../../shared/useVocabulary";
+import { useVocabProgress } from "../../../shared/useVocabProgress";
+import { selectPracticeWords } from "../../../shared/practiceWords";
+import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
+import { logWordPractice } from "../../../shared/localProgress";
+import { ActivityApi } from "../../../shared/activityApi";
 
 export default function Listening() {
   const { t, language } = useLanguage();
+  const { showPinyin } = usePreferences();
   const speak = useSpeak();
-  const [level, setLevel] = useState(HSK_LEVELS[0]);
+  const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
+  const [learnMode] = useState(getLearnMode);
+  const [randomOrder] = useState(getRandomOrder);
+  const { learned } = useVocabProgress();
   const [index, setIndex] = useState(0);
   const [input, setInput] = useState("");
   const [result, setResult] = useState(null);
@@ -15,7 +25,11 @@ export default function Listening() {
   const [score, setScore] = useState({ correct: 0, total: 0 });
 
   const { words, loading, error } = useVocabulary(level);
-  const current = words[index];
+  const practiceWords = useMemo(
+    () => selectPracticeWords(words, { learned, learnMode, randomOrder }),
+    [words, learned, learnMode, randomOrder]
+  );
+  const current = practiceWords[index];
 
   const changeLevel = (lvl) => {
     setLevel(lvl);
@@ -33,10 +47,18 @@ export default function Listening() {
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
+    logWordPractice();
+    ActivityApi.logEvent({
+      mode: "hsk_dictation",
+      item_type: "vocab",
+      item_id: current.hanzi,
+      level: String(level),
+      is_correct: isCorrect,
+    });
   };
 
   const next = () => {
-    setIndex((i) => (i + 1) % words.length);
+    setIndex((i) => (i + 1) % practiceWords.length);
     setInput("");
     setResult(null);
     setRevealed(false);
@@ -59,6 +81,9 @@ export default function Listening() {
 
       {loading && <p className="hsk-progress-label">{t("common.loading")}</p>}
       {error && <p className="hsk-empty">{error}</p>}
+      {!loading && !error && words.length > 0 && practiceWords.length === 0 && (
+        <p className="hsk-empty">{t("practice.allLearned")}</p>
+      )}
 
       {current && (
         <>
@@ -89,7 +114,7 @@ export default function Listening() {
                 {result === "incorrect" && (
                   <span className="hsk-result-answer">
                     {" "}
-                    — {current.hanzi} ({current.pinyin})
+                    — {current.hanzi} {showPinyin && `(${current.pinyin})`}
                   </span>
                 )}
               </div>
@@ -106,13 +131,14 @@ export default function Listening() {
 
             {revealed && (
               <p className="hsk-listening-reveal">
-                {current.pinyin} · {language === "en" ? current.en : current.vi}
+                {showPinyin && `${current.pinyin} · `}
+                {language === "en" ? current.en : current.vi}
               </p>
             )}
           </div>
 
           <p className="hsk-progress-label">
-            {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{words.length}
+            {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{practiceWords.length}
           </p>
         </>
       )}

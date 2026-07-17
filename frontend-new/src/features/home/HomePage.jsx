@@ -8,6 +8,7 @@ import { STAGE_LABELS } from "../../shared/lessonsApi";
 import StreakCard from "./components/StreakCard";
 import DailyActivityChart from "./components/DailyActivityChart";
 import ExamCountdownCard from "./components/ExamCountdownCard";
+import ProgressGoalsCard from "./components/ProgressGoalsCard";
 
 export default function HomePage() {
   const { t, language } = useLanguage();
@@ -110,6 +111,7 @@ export default function HomePage() {
 
       <aside className="home-side">
         <StreakCard />
+        <ProgressGoalsCard />
         <DailyActivityChart />
         <ExamCountdownCard />
       </aside>

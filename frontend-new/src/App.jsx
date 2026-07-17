@@ -11,22 +11,25 @@ import AboutPage from "./features/about/AboutPage";
 
 
 import { LanguageProvider } from "./i18n/LanguageContext";
+import { PreferencesProvider } from "./shared/PreferencesContext";
 
 
 export default function App() {
   return (
     <LanguageProvider>
-      <BrowserRouter>
-        <Routes>
-          <Route element={<Shell />}>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/listening" element={<ListeningPage />} />
-            <Route path="/settings" element={<SettingsPage />} />
-            <Route path="/hsk" element={<HSKPage />} />
-            <Route path="/about" element={<AboutPage />} />
-          </Route>
-        </Routes>
-      </BrowserRouter>
+      <PreferencesProvider>
+        <BrowserRouter>
+          <Routes>
+            <Route element={<Shell />}>
+              <Route path="/" element={<HomePage />} />
+              <Route path="/listening" element={<ListeningPage />} />
+              <Route path="/settings" element={<SettingsPage />} />
+              <Route path="/hsk" element={<HSKPage />} />
+              <Route path="/about" element={<AboutPage />} />
+            </Route>
+          </Routes>
+        </BrowserRouter>
+      </PreferencesProvider>
     </LanguageProvider>
   );
 }

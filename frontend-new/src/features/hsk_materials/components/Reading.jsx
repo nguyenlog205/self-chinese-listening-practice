@@ -1,13 +1,15 @@
 import { useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS, READING_PASSAGES } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
+import { resolveHskLevel } from "../../../shared/userSettings";
 
 export default function Reading() {
   const { t, language } = useLanguage();
+  const { showPinyin } = usePreferences();
   const speak = useSpeak();
-  const [level, setLevel] = useState(HSK_LEVELS[0]);
-  const [showPinyin, setShowPinyin] = useState(true);
+  const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [showTranslation, setShowTranslation] = useState(false);
 
   const passage = READING_PASSAGES[level];
@@ -39,9 +41,6 @@ export default function Reading() {
         {showPinyin && <p className="hsk-reading-pinyin">{passage.pinyin}</p>}
 
         <div className="hsk-reading-toggles">
-          <button type="button" onClick={() => setShowPinyin((v) => !v)}>
-            {showPinyin ? t("hsk.reading.hidePinyin") : t("hsk.reading.showPinyin")}
-          </button>
           <button type="button" onClick={() => setShowTranslation((v) => !v)}>
             {showTranslation ? t("hsk.reading.hideTranslation") : t("hsk.reading.showTranslation")}
           </button>

@@ -12,12 +12,18 @@ from __future__ import annotations
 
 import json
 import urllib.request
-from urllib.error import URLError
+from urllib.error import HTTPError, URLError
+
+from ..config import BACKEND_DIR, DIALOGUE_AUDIO_CACHE_DIR
 
 RAW_BASE = (
     "https://raw.githubusercontent.com/nguyenlog205/"
     "self-chinese-listening-practice/main/backend/listening_backend/seed_data"
 )
+
+# Bundled fallback for dialogues that shipped with the app instead of (or
+# before) being pulled via "Cập nhật dữ liệu" — see content/audio_router.py.
+SEED_DIALOGUES_AUDIO_DIR = BACKEND_DIR / "listening_backend" / "seed_data" / "dialogues_audio"
 
 VOCAB_LEVELS = ["1", "2", "3", "4", "5", "6", "7-9"]
 
@@ -43,8 +49,29 @@ def _level_filename(level: str) -> str:
     return f"hsk_{level.replace('-', '_')}.json"
 
 
+def _fetch_dialogue_audio(dialogue_id: str) -> bool:
+    """Downloads {dialogue_id}.mp3 from seed_data/dialogues_audio/ on GitHub
+    into the local writable cache. Returns False (not an error) if that
+    dialogue simply doesn't have a recording yet — most dialogues won't,
+    early on, and that's fine: playback falls back to TTS."""
+    url = f"{RAW_BASE}/dialogues_audio/{dialogue_id}.mp3"
+    try:
+        with urllib.request.urlopen(url, timeout=15) as resp:
+            data = resp.read()
+    except HTTPError as exc:
+        if exc.code == 404:
+            return False
+        raise ContentSyncError(f"Không tải được {url}: {exc}") from exc
+    except (URLError, TimeoutError) as exc:
+        raise ContentSyncError(f"Không tải được {url}: {exc}") from exc
+
+    DIALOGUE_AUDIO_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    (DIALOGUE_AUDIO_CACHE_DIR / f"{dialogue_id}.mp3").write_bytes(data)
+    return True
+
+
 def refresh_content(conn) -> dict:
-    result: dict = {"vocabulary": {}, "dialogues": 0}
+    result: dict = {"vocabulary": {}, "dialogues": 0, "dialogue_audio": 0}
 
     for level in VOCAB_LEVELS:
         url = f"{RAW_BASE}/vocabulary/{_level_filename(level)}"
@@ -90,5 +117,9 @@ def refresh_content(conn) -> dict:
         ],
     )
     result["dialogues"] = len(dialogues)
+
+    result["dialogue_audio"] = sum(
+        1 for d in dialogues if _fetch_dialogue_audio(d["id"])
+    )
 
     return result

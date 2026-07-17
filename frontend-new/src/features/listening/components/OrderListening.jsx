@@ -1,13 +1,21 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS } from "../../../shared/contentApi";
 import { useVocabulary } from "../../../shared/useVocabulary";
+import { useVocabProgress } from "../../../shared/useVocabProgress";
+import { selectPracticeWords } from "../../../shared/practiceWords";
 import { useSpeak } from "../../../shared/useSpeak";
+import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
+import { logWordPractice } from "../../../shared/localProgress";
+import { ActivityApi } from "../../../shared/activityApi";
 
-function pickWord(words) {
+// `index` walks `words` round-robin instead of a fresh Math.random() pick
+// each round — see ChoiceListening.jsx for why.
+function pickWord(words, index) {
   const candidates = words.filter((w) => w.hanzi.length >= 2);
   const pool = candidates.length > 0 ? candidates : words;
-  return pool[Math.floor(Math.random() * pool.length)];
+  return pool[index % pool.length];
 }
 
 function shuffleTiles(word) {
@@ -17,9 +25,17 @@ function shuffleTiles(word) {
 
 export default function OrderListening() {
   const { t, language } = useLanguage();
+  const { showPinyin } = usePreferences();
   const speak = useSpeak();
-  const [level, setLevel] = useState(HSK_LEVELS[0]);
+  const level = resolveHskLevel(HSK_LEVELS);
+  const [learnMode] = useState(getLearnMode);
+  const [randomOrder] = useState(getRandomOrder);
+  const { learned } = useVocabProgress();
   const { words, loading, error } = useVocabulary(level);
+  const practiceWords = useMemo(
+    () => selectPracticeWords(words, { learned, learnMode, randomOrder }),
+    [words, learned, learnMode, randomOrder]
+  );
   const [word, setWord] = useState(null);
   const [tiles, setTiles] = useState([]);
   const [attempt, setAttempt] = useState(0);
@@ -28,19 +44,17 @@ export default function OrderListening() {
   const [score, setScore] = useState({ correct: 0, total: 0 });
 
   useEffect(() => {
-    if (words.length === 0) return;
-    const nextWord = pickWord(words);
+    if (practiceWords.length === 0) {
+      setWord(null);
+      return;
+    }
+    const nextWord = pickWord(practiceWords, attempt);
     setWord(nextWord);
     setTiles(shuffleTiles(nextWord));
     setPlaced([]);
     setResult(null);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [words, attempt]);
-
-  const changeLevel = (lvl) => {
-    setLevel(lvl);
-    setScore({ correct: 0, total: 0 });
-  };
+  }, [practiceWords, attempt]);
 
   const placedTiles = placed.map((id) => tiles.find((tl) => tl.id === id));
   const poolTiles = tiles.filter((tl) => !placed.includes(tl.id));
@@ -63,6 +77,14 @@ export default function OrderListening() {
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
+    logWordPractice();
+    ActivityApi.logEvent({
+      mode: "listening_order",
+      item_type: "vocab",
+      item_id: word.hanzi,
+      level: String(level),
+      is_correct: isCorrect,
+    });
   };
 
   const reset = () => setPlaced([]);
@@ -70,21 +92,11 @@ export default function OrderListening() {
 
   return (
     <div className="listening-panel">
-      <div className="listening-level-row">
-        {HSK_LEVELS.map((lvl) => (
-          <button
-            key={lvl}
-            className={`listening-level-chip${lvl === level ? " active" : ""}`}
-            onClick={() => changeLevel(lvl)}
-            type="button"
-          >
-            HSK {lvl}
-          </button>
-        ))}
-      </div>
-
       {loading && <p className="listening-progress-label">{t("common.loading")}</p>}
       {error && <p className="listening-banner">{error}</p>}
+      {!loading && !error && words.length > 0 && practiceWords.length === 0 && (
+        <p className="listening-banner">{t("practice.allLearned")}</p>
+      )}
 
       {word && (
         <>
@@ -129,7 +141,7 @@ export default function OrderListening() {
                 {result === "incorrect" && (
                   <span className="listening-result-answer">
                     {" "}
-                    — {word.hanzi} ({word.pinyin}) · {language === "en" ? word.en : word.vi}
+                    — {word.hanzi} {showPinyin && `(${word.pinyin})`} · {language === "en" ? word.en : word.vi}
                   </span>
                 )}
               </div>

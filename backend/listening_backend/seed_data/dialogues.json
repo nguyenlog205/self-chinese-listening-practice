@@ -234,5 +234,595 @@
         "answer": "往左拐"
       }
     ]
+  },
+  {
+    "id": "d5",
+    "level": 3,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "你今天晚上有空吗？我们一起去看电影吧。",
+        "pinyin": "nǐ jīntiān wǎnshang yǒu kòng ma? wǒmen yìqǐ qù kàn diànyǐng ba."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "对不起，我今天要加班，可能要晚一点才能回家。",
+        "pinyin": "duìbuqǐ, wǒ jīntiān yào jiābān, kěnéng yào wǎn yìdiǎn cái néng huí jiā."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "没关系，那我们改天再去吧。",
+        "pinyin": "méi guānxi, nà wǒmen gǎitiān zài qù ba."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "好的，周末怎么样？",
+        "pinyin": "hǎo de, zhōumò zěnmeyàng?"
+      }
+    ],
+    "question": {
+      "vi": "Vì sao B không thể đi xem phim tối nay?",
+      "en": "Why can't B watch the movie tonight?",
+      "zh": "男的为什么今天晚上不能去看电影？"
+    },
+    "options": [
+      {
+        "vi": "Vì phải làm thêm giờ",
+        "en": "Because of overtime work",
+        "correct": true
+      },
+      {
+        "vi": "Vì bị ốm",
+        "en": "Because he is sick",
+        "correct": false
+      },
+      {
+        "vi": "Vì phải đi công tác",
+        "en": "Because of a business trip",
+        "correct": false
+      },
+      {
+        "vi": "Vì đã xem rồi",
+        "en": "Because he already watched it",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "加班"
+      }
+    ]
+  },
+  {
+    "id": "d6",
+    "level": 3,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "这件红色的衣服比那件蓝色的贵多少？",
+        "pinyin": "zhè jiàn hóngsè de yīfu bǐ nà jiàn lánsè de guì duōshao?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "红色的比蓝色的贵五十块。",
+        "pinyin": "hóngsè de bǐ lánsè de guì wǔshí kuài."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "那我买蓝色的吧，比较便宜。",
+        "pinyin": "nà wǒ mǎi lánsè de ba, bǐjiào piányi."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "好的，蓝色的这边请。",
+        "pinyin": "hǎo de, lánsè de zhèbiān qǐng."
+      }
+    ],
+    "question": {
+      "vi": "Người mua cuối cùng chọn màu gì?",
+      "en": "Which color did the buyer choose?",
+      "zh": "顾客最后选了什么颜色？"
+    },
+    "options": [
+      {
+        "vi": "Xanh dương",
+        "en": "Blue",
+        "correct": true
+      },
+      {
+        "vi": "Đỏ",
+        "en": "Red",
+        "correct": false
+      },
+      {
+        "vi": "Vàng",
+        "en": "Yellow",
+        "correct": false
+      },
+      {
+        "vi": "Đen",
+        "en": "Black",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 2,
+        "answer": "蓝色"
+      }
+    ]
+  },
+  {
+    "id": "d7",
+    "level": 4,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "你觉得昨天晚上那部电影怎么样？",
+        "pinyin": "nǐ juéde zuótiān wǎnshang nà bù diànyǐng zěnmeyàng?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "虽然故事有点儿简单，但是演员演得非常好，我很感动。",
+        "pinyin": "suīrán gùshi yǒudiǎnr jiǎndān, dànshì yǎnyuán yǎn de fēicháng hǎo, wǒ hěn gǎndòng."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "是啊，我也觉得女主角演得特别真实。",
+        "pinyin": "shì a, wǒ yě juéde nǚ zhǔjué yǎn de tèbié zhēnshí."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "下次有类似的电影，我们还一起去看吧。",
+        "pinyin": "xiàcì yǒu lèisì de diànyǐng, wǒmen hái yìqǐ qù kàn ba."
+      }
+    ],
+    "question": {
+      "vi": "B nghĩ gì về diễn xuất trong phim?",
+      "en": "What does B think about the acting?",
+      "zh": "男的觉得演员演得怎么样？"
+    },
+    "options": [
+      {
+        "vi": "Diễn rất hay",
+        "en": "Acted very well",
+        "correct": true
+      },
+      {
+        "vi": "Diễn dở",
+        "en": "Acted poorly",
+        "correct": false
+      },
+      {
+        "vi": "Không có ý kiến",
+        "en": "No opinion",
+        "correct": false
+      },
+      {
+        "vi": "Chỉ nữ chính diễn tốt",
+        "en": "Only the actress acted well",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "非常好"
+      }
+    ]
+  },
+  {
+    "id": "d8",
+    "level": 4,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "你最近怎么脸色不太好？是不是生病了？",
+        "pinyin": "nǐ zuìjìn zěnme liǎnsè bú tài hǎo? shì bu shì shēngbìng le?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "因为最近工作压力太大，所以晚上一直睡不好。",
+        "pinyin": "yīnwèi zuìjìn gōngzuò yālì tài dà, suǒyǐ wǎnshang yìzhí shuì bu hǎo."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "你应该多注意休息，别把身体累坏了。",
+        "pinyin": "nǐ yīnggāi duō zhùyì xiūxi, bié bǎ shēntǐ lèihuài le."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "谢谢你的关心，我会调整一下自己的。",
+        "pinyin": "xièxie nǐ de guānxīn, wǒ huì tiáozhěng yíxià zìjǐ de."
+      }
+    ],
+    "question": {
+      "vi": "Vì sao B trông không khỏe?",
+      "en": "Why does B look unwell?",
+      "zh": "男的最近为什么脸色不好？"
+    },
+    "options": [
+      {
+        "vi": "Vì áp lực công việc, mất ngủ",
+        "en": "Work stress causing poor sleep",
+        "correct": true
+      },
+      {
+        "vi": "Vì cảm cúm",
+        "en": "Because of a cold",
+        "correct": false
+      },
+      {
+        "vi": "Vì ăn uống thất thường",
+        "en": "Irregular eating",
+        "correct": false
+      },
+      {
+        "vi": "Vì tập thể dục quá sức",
+        "en": "Overexercising",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "压力太大"
+      }
+    ]
+  },
+  {
+    "id": "d9",
+    "level": 5,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "现在城市里车越来越多，交通问题也越来越严重。",
+        "pinyin": "xiànzài chéngshì li chē yuè lái yuè duō, jiāotōng wèntí yě yuè lái yuè yánzhòng."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "是啊，所以政府最近在大力发展公共交通，鼓励大家少开车。",
+        "pinyin": "shì a, suǒyǐ zhèngfǔ zuìjìn zài dàlì fāzhǎn gōnggòng jiāotōng, gǔlì dàjiā shǎo kāichē."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "我觉得地铁确实方便多了，而且还能减少污染。",
+        "pinyin": "wǒ juéde dìtiě quèshí fāngbiàn duō le, érqiě hái néng jiǎnshǎo wūrǎn."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "希望以后越来越多的人愿意选择公共交通出行。",
+        "pinyin": "xīwàng yǐhòu yuè lái yuè duō de rén yuànyì xuǎnzé gōnggòng jiāotōng chūxíng."
+      }
+    ],
+    "question": {
+      "vi": "Chính phủ đang làm gì để giải quyết vấn đề giao thông?",
+      "en": "What is the government doing about the traffic problem?",
+      "zh": "政府正在做什么来解决交通问题？"
+    },
+    "options": [
+      {
+        "vi": "Phát triển giao thông công cộng",
+        "en": "Developing public transportation",
+        "correct": true
+      },
+      {
+        "vi": "Xây thêm đường cao tốc",
+        "en": "Building more highways",
+        "correct": false
+      },
+      {
+        "vi": "Cấm xe máy",
+        "en": "Banning motorbikes",
+        "correct": false
+      },
+      {
+        "vi": "Tăng giá xăng",
+        "en": "Raising fuel prices",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "公共交通"
+      }
+    ]
+  },
+  {
+    "id": "d10",
+    "level": 5,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "你去过那么多城市，觉得哪个地方给你留下的印象最深？",
+        "pinyin": "nǐ qùguo nàme duō chéngshì, juéde nǎge dìfang gěi nǐ liú xià de yìnxiàng zuì shēn?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "应该是丽江吧，那里的古城和风景让我至今难忘。",
+        "pinyin": "yīnggāi shì lìjiāng ba, nàli de gǔchéng hé fēngjǐng ràng wǒ zhìjīn nánwàng."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "听说那边的生活节奏很慢，跟大城市完全不一样。",
+        "pinyin": "tīngshuō nàbiān de shēnghuó jiézòu hěn màn, gēn dà chéngshì wánquán bù yíyàng."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "没错，正因为这样，我才觉得特别放松。",
+        "pinyin": "méi cuò, zhèng yīnwèi zhèyàng, wǒ cái juéde tèbié fàngsōng."
+      }
+    ],
+    "question": {
+      "vi": "Thành phố nào để lại ấn tượng sâu sắc nhất cho B?",
+      "en": "Which city left the deepest impression on B?",
+      "zh": "哪个城市给女的留下的印象最深？"
+    },
+    "options": [
+      {
+        "vi": "Lệ Giang",
+        "en": "Lijiang",
+        "correct": true
+      },
+      {
+        "vi": "Bắc Kinh",
+        "en": "Beijing",
+        "correct": false
+      },
+      {
+        "vi": "Thượng Hải",
+        "en": "Shanghai",
+        "correct": false
+      },
+      {
+        "vi": "Tây An",
+        "en": "Xi'an",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "丽江"
+      }
+    ]
+  },
+  {
+    "id": "d11",
+    "level": 6,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "现在很多年轻人在选择工作时，越来越看重工作和生活的平衡。",
+        "pinyin": "xiànzài hěn duō niánqīngrén zài xuǎnzé gōngzuò shí, yuè lái yuè kànzhòng gōngzuò hé shēnghuó de pínghéng."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "没错，比起高薪，他们更愿意有充足的时间陪伴家人、发展兴趣爱好。",
+        "pinyin": "méi cuò, bǐqǐ gāoxīn, tāmen gèng yuànyì yǒu chōngzú de shíjiān péibàn jiārén, fāzhǎn xìngqù àihào."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "不过也有人认为，年轻时应该拼命奋斗，等有了一定基础再谈平衡。",
+        "pinyin": "búguò yě yǒurén rènwéi, niánqīng shí yīnggāi pīnmìng fèndòu, děng yǒule yídìng jīchǔ zài tán pínghéng."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "这两种想法各有道理，关键还是要看每个人自己的价值观。",
+        "pinyin": "zhè liǎng zhǒng xiǎngfǎ gè yǒu dàolǐ, guānjiàn háishi yào kàn měige rén zìjǐ de jiàzhíguān."
+      }
+    ],
+    "question": {
+      "vi": "Theo đoạn hội thoại, nhiều người trẻ hiện nay coi trọng điều gì khi chọn việc?",
+      "en": "What do many young people now value when choosing a job?",
+      "zh": "很多年轻人选择工作时越来越看重什么？"
+    },
+    "options": [
+      {
+        "vi": "Sự cân bằng giữa công việc và cuộc sống",
+        "en": "Work-life balance",
+        "correct": true
+      },
+      {
+        "vi": "Mức lương cao",
+        "en": "High salary",
+        "correct": false
+      },
+      {
+        "vi": "Danh tiếng công ty",
+        "en": "Company reputation",
+        "correct": false
+      },
+      {
+        "vi": "Cơ hội thăng tiến nhanh",
+        "en": "Fast promotion opportunities",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 0,
+        "answer": "工作和生活的平衡"
+      }
+    ]
+  },
+  {
+    "id": "d12",
+    "level": 6,
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "现在线上教育越来越普及，你觉得它能完全取代传统课堂吗？",
+        "pinyin": "xiànzài xiànshàng jiàoyù yuè lái yuè pǔjí, nǐ juéde tā néng wánquán qǔdài chuántǒng kètáng ma?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "我觉得很难，线上教育虽然方便，但缺少面对面的互动和监督。",
+        "pinyin": "wǒ juéde hěn nán, xiànshàng jiàoyù suīrán fāngbiàn, dàn quēshǎo miànduìmiàn de hùdòng hé jiāndū."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "也许未来最好的方式是把两者结合起来，各取所长。",
+        "pinyin": "yěxǔ wèilái zuì hǎo de fāngshì shì bǎ liǎngzhě jiéhé qǐlai, gè qǔ suǒ cháng."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "我完全同意，这样既能保证学习效果，又能提高灵活性。",
+        "pinyin": "wǒ wánquán tóngyì, zhèyàng jì néng bǎozhèng xuéxí xiàoguǒ, yòu néng tígāo línghuóxìng."
+      }
+    ],
+    "question": {
+      "vi": "B nghĩ giáo dục trực tuyến thiếu điều gì so với lớp học truyền thống?",
+      "en": "What does B think online education lacks compared to traditional classrooms?",
+      "zh": "女的认为线上教育缺少什么？"
+    },
+    "options": [
+      {
+        "vi": "Sự tương tác và giám sát trực tiếp",
+        "en": "Face-to-face interaction and supervision",
+        "correct": true
+      },
+      {
+        "vi": "Tài liệu học tập",
+        "en": "Study materials",
+        "correct": false
+      },
+      {
+        "vi": "Công nghệ hiện đại",
+        "en": "Modern technology",
+        "correct": false
+      },
+      {
+        "vi": "Giáo viên giỏi",
+        "en": "Good teachers",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 1,
+        "answer": "面对面的互动和监督"
+      }
+    ]
+  },
+  {
+    "id": "d13",
+    "level": "7-9",
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "有人说人工智能未来会取代大部分人类的工作，你怎么看这个观点？",
+        "pinyin": "yǒurén shuō réngōng zhìnéng wèilái huì qǔdài dà bùfen rénlèi de gōngzuò, nǐ zěnme kàn zhège guāndiǎn?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "我认为它确实会淘汰一些重复性的工作，但同时也会创造出许多我们现在无法想象的新职业。",
+        "pinyin": "wǒ rènwéi tā quèshí huì táotài yìxiē chóngfùxìng de gōngzuò, dàn tóngshí yě huì chuàngzào chū xǔduō wǒmen xiànzài wúfǎ xiǎngxiàng de xīn zhíyè."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "那我们应该如何应对这种变化呢？",
+        "pinyin": "nà wǒmen yīnggāi rúhé yìngduì zhè zhǒng biànhuà ne?"
+      },
+      {
+        "speaker": "B",
+        "hanzi": "关键在于不断学习新技能，培养机器难以取代的创造力和判断力。",
+        "pinyin": "guānjiàn zàiyú búduàn xuéxí xīn jìnéng, péiyǎng jīqì nányǐ qǔdài de chuàngzàolì hé pànduànlì."
+      }
+    ],
+    "question": {
+      "vi": "Theo B, con người nên làm gì để thích ứng với sự thay đổi do AI mang lại?",
+      "en": "According to B, what should people do to adapt to AI-driven change?",
+      "zh": "女的认为人们应该怎样应对人工智能带来的变化？"
+    },
+    "options": [
+      {
+        "vi": "Không ngừng học kỹ năng mới, phát triển sáng tạo",
+        "en": "Keep learning new skills and develop creativity",
+        "correct": true
+      },
+      {
+        "vi": "Phản đối phát triển AI",
+        "en": "Oppose AI development",
+        "correct": false
+      },
+      {
+        "vi": "Chuyển sang ngành nông nghiệp",
+        "en": "Switch to agriculture",
+        "correct": false
+      },
+      {
+        "vi": "Chờ chính phủ hỗ trợ",
+        "en": "Wait for government support",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 3,
+        "answer": "创造力和判断力"
+      }
+    ]
+  },
+  {
+    "id": "d14",
+    "level": "7-9",
+    "lines": [
+      {
+        "speaker": "A",
+        "hanzi": "这次谈判的关键在于双方能否在价格上达成一致。",
+        "pinyin": "zhè cì tánpàn de guānjiàn zàiyú shuāngfāng néng bù néng zài jiàgé shang dáchéng yízhì."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "对方一直坚持原来的报价，恐怕不会轻易让步。",
+        "pinyin": "duìfāng yìzhí jiānchí yuánlái de bàojià, kǒngpà bú huì qīngyì ràngbù."
+      },
+      {
+        "speaker": "A",
+        "hanzi": "那我们不妨提出一个折中方案，比如延长合作期限来换取价格优惠。",
+        "pinyin": "nà wǒmen bùfáng tíchū yí ge zhézhōng fāng'àn, bǐrú yáncháng hézuò qīxiàn lái huànqǔ jiàgé yōuhuì."
+      },
+      {
+        "speaker": "B",
+        "hanzi": "这个思路不错，值得在下一轮谈判中尝试。",
+        "pinyin": "zhège sīlù búcuò, zhídé zài xià yì lún tánpàn zhōng chángshì."
+      }
+    ],
+    "question": {
+      "vi": "A đề xuất giải pháp gì để thương lượng giá cả?",
+      "en": "What solution does A propose to negotiate the price?",
+      "zh": "男的提出了什么折中方案？"
+    },
+    "options": [
+      {
+        "vi": "Kéo dài thời hạn hợp tác để đổi lấy giá ưu đãi",
+        "en": "Extend the cooperation period in exchange for a price discount",
+        "correct": true
+      },
+      {
+        "vi": "Giảm chất lượng sản phẩm",
+        "en": "Lower product quality",
+        "correct": false
+      },
+      {
+        "vi": "Hủy hợp đồng",
+        "en": "Cancel the contract",
+        "correct": false
+      },
+      {
+        "vi": "Tìm đối tác khác",
+        "en": "Find another partner",
+        "correct": false
+      }
+    ],
+    "blanks": [
+      {
+        "lineIndex": 2,
+        "answer": "延长合作期限"
+      }
+    ]
   }
 ]

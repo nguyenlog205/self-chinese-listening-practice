@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
 import { useSpeakSequence } from "../../../shared/useSpeak";
 import { useDialogues } from "../../../shared/useDialogues";
+import { logSentencePractice } from "../../../shared/localProgress";
+import { ActivityApi } from "../../../shared/activityApi";
 
 function pickDialogue(pool, excludeId) {
   const candidates = pool.filter((d) => d.id !== excludeId);
@@ -35,7 +37,20 @@ export default function DialogueCloze() {
   const allFilled =
     !!dialogue && dialogue.blanks.every((b) => (answers[b.lineIndex] || "").trim().length > 0);
 
-  const check = () => setChecked(true);
+  const check = () => {
+    setChecked(true);
+    logSentencePractice();
+    const isCorrect = dialogue.blanks.every(
+      (b) => (answers[b.lineIndex] || "").trim() === b.answer
+    );
+    ActivityApi.logEvent({
+      mode: "dialogue_cloze",
+      item_type: "dialogue",
+      item_id: dialogue.id,
+      level: null,
+      is_correct: isCorrect,
+    });
+  };
 
   const next = () => {
     setDialogue((d) => pickDialogue(dialogues, d.id));

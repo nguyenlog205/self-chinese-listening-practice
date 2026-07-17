@@ -12,6 +12,7 @@ dependencies = [
     "pypinyin",
     "pydub",
     "websockets",
+    "edge-tts",
     "audioop-lts; python_version >= '3.13'",
 ]
 

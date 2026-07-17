@@ -4,12 +4,12 @@ import sqlite3
 
 from fastapi import APIRouter, HTTPException
 
-from .. import jobs
+from . import jobs
 from ..config import get_settings
 from ..db import get_conn
-from ..models import AddLessonRequest, LessonOut, SegmentOut
-from ..pipeline import youtube
-from ..pipeline.youtube import MetadataExtractionError
+from .models import AddLessonRequest, LessonOut, SegmentOut
+from .pipeline import youtube
+from .pipeline.youtube import MetadataExtractionError
 
 router = APIRouter(prefix="/api/lessons", tags=["lessons"])
 

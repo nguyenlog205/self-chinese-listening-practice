@@ -1,13 +1,23 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS } from "../../../shared/contentApi";
 import { useVocabulary } from "../../../shared/useVocabulary";
+import { useVocabProgress } from "../../../shared/useVocabProgress";
+import { selectPracticeWords } from "../../../shared/practiceWords";
 import { useSpeak } from "../../../shared/useSpeak";
+import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
+import { logWordPractice } from "../../../shared/localProgress";
+import { ActivityApi } from "../../../shared/activityApi";
 
 export default function DictationPractice() {
   const { t, language } = useLanguage();
+  const { showPinyin } = usePreferences();
   const speak = useSpeak();
-  const [level, setLevel] = useState(HSK_LEVELS[0]);
+  const level = resolveHskLevel(HSK_LEVELS);
+  const [learnMode] = useState(getLearnMode);
+  const [randomOrder] = useState(getRandomOrder);
+  const { learned } = useVocabProgress();
   const [index, setIndex] = useState(0);
   const [input, setInput] = useState("");
   const [result, setResult] = useState(null);
@@ -15,16 +25,11 @@ export default function DictationPractice() {
   const [score, setScore] = useState({ correct: 0, total: 0 });
 
   const { words, loading, error } = useVocabulary(level);
-  const current = words[index];
-
-  const changeLevel = (lvl) => {
-    setLevel(lvl);
-    setIndex(0);
-    setInput("");
-    setResult(null);
-    setRevealed(false);
-    setScore({ correct: 0, total: 0 });
-  };
+  const practiceWords = useMemo(
+    () => selectPracticeWords(words, { learned, learnMode, randomOrder }),
+    [words, learned, learnMode, randomOrder]
+  );
+  const current = practiceWords[index];
 
   const checkAnswer = () => {
     const isCorrect = input.trim() === current.hanzi;
@@ -33,10 +38,18 @@ export default function DictationPractice() {
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
+    logWordPractice();
+    ActivityApi.logEvent({
+      mode: "listening_dictation",
+      item_type: "vocab",
+      item_id: current.hanzi,
+      level: String(level),
+      is_correct: isCorrect,
+    });
   };
 
   const next = () => {
-    setIndex((i) => (i + 1) % words.length);
+    setIndex((i) => (i + 1) % practiceWords.length);
     setInput("");
     setResult(null);
     setRevealed(false);
@@ -44,21 +57,11 @@ export default function DictationPractice() {
 
   return (
     <div className="listening-panel">
-      <div className="listening-level-row">
-        {HSK_LEVELS.map((lvl) => (
-          <button
-            key={lvl}
-            className={`listening-level-chip${lvl === level ? " active" : ""}`}
-            onClick={() => changeLevel(lvl)}
-            type="button"
-          >
-            HSK {lvl}
-          </button>
-        ))}
-      </div>
-
       {loading && <p className="listening-progress-label">{t("common.loading")}</p>}
       {error && <p className="listening-banner">{error}</p>}
+      {!loading && !error && words.length > 0 && practiceWords.length === 0 && (
+        <p className="listening-banner">{t("practice.allLearned")}</p>
+      )}
 
       {current && (
         <>
@@ -89,7 +92,7 @@ export default function DictationPractice() {
                 {result === "incorrect" && (
                   <span className="listening-result-answer">
                     {" "}
-                    — {current.hanzi} ({current.pinyin})
+                    — {current.hanzi} {showPinyin && `(${current.pinyin})`}
                   </span>
                 )}
               </div>
@@ -106,13 +109,14 @@ export default function DictationPractice() {
 
             {revealed && (
               <p className="listening-progress-label">
-                {current.pinyin} · {language === "en" ? current.en : current.vi}
+                {showPinyin && `${current.pinyin} · `}
+                {language === "en" ? current.en : current.vi}
               </p>
             )}
           </div>
 
           <p className="listening-progress-label">
-            {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{words.length}
+            {t("hsk.listening.score")}: {score.correct}/{score.total} · {index + 1}/{practiceWords.length}
           </p>
         </>
       )}

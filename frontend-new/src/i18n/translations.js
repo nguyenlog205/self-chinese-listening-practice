@@ -42,6 +42,15 @@ export const translations = {
   },
   "home.streak.longest": { vi: "Kỷ lục", en: "Longest streak", zh: "最长记录" },
 
+  "home.progress.title": { vi: "Tiến độ mục tiêu", en: "Goal progress", zh: "目标进度" },
+  "home.progress.sentencesHeard": {
+    vi: "câu đã nghe",
+    en: "sentences heard",
+    zh: "已听句子",
+  },
+  "home.progress.words": { vi: "Từ vựng", en: "Vocabulary", zh: "词汇" },
+  "home.progress.sentences": { vi: "Câu", en: "Sentences", zh: "句子" },
+
   "home.activity.title": { vi: "Câu đã nghe", en: "Sentences listened", zh: "听过的句子" },
   "home.activity.subtitle": {
     vi: "{{count}} câu trong {{days}} ngày qua",
@@ -143,6 +152,11 @@ export const translations = {
     vi: "Không tìm thấy từ nào.",
     en: "No words found.",
     zh: "未找到相关词汇。",
+  },
+  "practice.allLearned": {
+    vi: "🎉 Bạn đã học hết từ vựng ở cấp độ này! Hãy chuyển chế độ học sang \"Toàn bộ từ vựng\" trong Cài đặt để ôn lại.",
+    en: "🎉 You've learned every word at this level! Switch \"Learn mode\" to \"All vocabulary\" in Settings to review.",
+    zh: "🎉 你已经学完了这个级别的所有词汇！可以在设置中把学习模式切换为「全部词汇」来复习。",
   },
 
   "hsk.listening.hint": {

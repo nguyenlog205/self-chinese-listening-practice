@@ -12,7 +12,7 @@ from typing import Callable
 
 import yt_dlp
 
-from ..config import AUDIO_CACHE_DIR, VIDEO_CACHE_DIR
+from ...config import AUDIO_CACHE_DIR, VIDEO_CACHE_DIR
 
 DownloadProgressCallback = Callable[[float], None]  # fraction 0..1 downloaded
 
