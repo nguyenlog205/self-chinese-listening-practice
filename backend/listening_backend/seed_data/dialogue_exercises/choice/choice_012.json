@@ -1,0 +1,37 @@
+{
+  "id": "choice_012",
+  "audio_id": "d12",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "B nghĩ giáo dục trực tuyến thiếu điều gì so với lớp học truyền thống?",
+    "en": "What does B think online education lacks compared to traditional classrooms?",
+    "zh": "女的认为线上教育缺少什么？"
+  },
+  "options": [
+    {
+      "vi": "Sự tương tác và giám sát trực tiếp",
+      "en": "Face-to-face interaction and supervision",
+      "correct": true
+    },
+    {
+      "vi": "Tài liệu học tập",
+      "en": "Study materials",
+      "correct": false
+    },
+    {
+      "vi": "Công nghệ hiện đại",
+      "en": "Modern technology",
+      "correct": false
+    },
+    {
+      "vi": "Giáo viên giỏi",
+      "en": "Good teachers",
+      "correct": false
+    }
+  ]
+}

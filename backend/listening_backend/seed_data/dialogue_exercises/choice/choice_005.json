@@ -1,0 +1,37 @@
+{
+  "id": "choice_005",
+  "audio_id": "d5",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Vì sao B không thể đi xem phim tối nay?",
+    "en": "Why can't B watch the movie tonight?",
+    "zh": "男的为什么今天晚上不能去看电影？"
+  },
+  "options": [
+    {
+      "vi": "Vì phải làm thêm giờ",
+      "en": "Because of overtime work",
+      "correct": true
+    },
+    {
+      "vi": "Vì bị ốm",
+      "en": "Because he is sick",
+      "correct": false
+    },
+    {
+      "vi": "Vì phải đi công tác",
+      "en": "Because of a business trip",
+      "correct": false
+    },
+    {
+      "vi": "Vì đã xem rồi",
+      "en": "Because he already watched it",
+      "correct": false
+    }
+  ]
+}

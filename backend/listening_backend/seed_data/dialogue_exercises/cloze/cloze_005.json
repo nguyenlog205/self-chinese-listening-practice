@@ -1,0 +1,16 @@
+{
+  "id": "cloze_005",
+  "audio_id": "d5",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 1,
+      "answer": "加班"
+    }
+  ]
+}

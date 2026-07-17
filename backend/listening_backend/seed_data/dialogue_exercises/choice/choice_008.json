@@ -1,0 +1,37 @@
+{
+  "id": "choice_008",
+  "audio_id": "d8",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Vì sao B trông không khỏe?",
+    "en": "Why does B look unwell?",
+    "zh": "男的最近为什么脸色不好？"
+  },
+  "options": [
+    {
+      "vi": "Vì áp lực công việc, mất ngủ",
+      "en": "Work stress causing poor sleep",
+      "correct": true
+    },
+    {
+      "vi": "Vì cảm cúm",
+      "en": "Because of a cold",
+      "correct": false
+    },
+    {
+      "vi": "Vì ăn uống thất thường",
+      "en": "Irregular eating",
+      "correct": false
+    },
+    {
+      "vi": "Vì tập thể dục quá sức",
+      "en": "Overexercising",
+      "correct": false
+    }
+  ]
+}

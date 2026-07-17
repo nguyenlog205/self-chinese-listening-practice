@@ -1,0 +1,16 @@
+{
+  "id": "cloze_014",
+  "audio_id": "d14",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 2,
+      "answer": "延长合作期限"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cloze_013",
+  "audio_id": "d13",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 3,
+      "answer": "创造力和判断力"
+    }
+  ]
+}

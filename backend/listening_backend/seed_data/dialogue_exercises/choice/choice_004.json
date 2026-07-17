@@ -1,0 +1,37 @@
+{
+  "id": "choice_004",
+  "audio_id": "d4",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Đến thư viện phải rẽ về hướng nào?",
+    "en": "Which way should you turn to reach the library?",
+    "zh": "去图书馆要往哪边拐？"
+  },
+  "options": [
+    {
+      "vi": "Bên trái",
+      "en": "Left",
+      "correct": true
+    },
+    {
+      "vi": "Bên phải",
+      "en": "Right",
+      "correct": false
+    },
+    {
+      "vi": "Phía trước",
+      "en": "Straight ahead",
+      "correct": false
+    },
+    {
+      "vi": "Phía sau",
+      "en": "Behind",
+      "correct": false
+    }
+  ]
+}

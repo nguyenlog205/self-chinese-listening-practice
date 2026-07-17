@@ -1,0 +1,16 @@
+{
+  "id": "cloze_006",
+  "audio_id": "d6",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 2,
+      "answer": "蓝色"
+    }
+  ]
+}

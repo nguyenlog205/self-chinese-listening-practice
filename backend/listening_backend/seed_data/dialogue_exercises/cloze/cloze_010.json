@@ -1,0 +1,16 @@
+{
+  "id": "cloze_010",
+  "audio_id": "d10",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 1,
+      "answer": "丽江"
+    }
+  ]
+}

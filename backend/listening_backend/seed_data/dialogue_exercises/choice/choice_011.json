@@ -1,0 +1,37 @@
+{
+  "id": "choice_011",
+  "audio_id": "d11",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Theo đoạn hội thoại, nhiều người trẻ hiện nay coi trọng điều gì khi chọn việc?",
+    "en": "What do many young people now value when choosing a job?",
+    "zh": "很多年轻人选择工作时越来越看重什么？"
+  },
+  "options": [
+    {
+      "vi": "Sự cân bằng giữa công việc và cuộc sống",
+      "en": "Work-life balance",
+      "correct": true
+    },
+    {
+      "vi": "Mức lương cao",
+      "en": "High salary",
+      "correct": false
+    },
+    {
+      "vi": "Danh tiếng công ty",
+      "en": "Company reputation",
+      "correct": false
+    },
+    {
+      "vi": "Cơ hội thăng tiến nhanh",
+      "en": "Fast promotion opportunities",
+      "correct": false
+    }
+  ]
+}

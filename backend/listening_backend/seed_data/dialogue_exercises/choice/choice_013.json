@@ -1,0 +1,37 @@
+{
+  "id": "choice_013",
+  "audio_id": "d13",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Theo B, con người nên làm gì để thích ứng với sự thay đổi do AI mang lại?",
+    "en": "According to B, what should people do to adapt to AI-driven change?",
+    "zh": "女的认为人们应该怎样应对人工智能带来的变化？"
+  },
+  "options": [
+    {
+      "vi": "Không ngừng học kỹ năng mới, phát triển sáng tạo",
+      "en": "Keep learning new skills and develop creativity",
+      "correct": true
+    },
+    {
+      "vi": "Phản đối phát triển AI",
+      "en": "Oppose AI development",
+      "correct": false
+    },
+    {
+      "vi": "Chuyển sang ngành nông nghiệp",
+      "en": "Switch to agriculture",
+      "correct": false
+    },
+    {
+      "vi": "Chờ chính phủ hỗ trợ",
+      "en": "Wait for government support",
+      "correct": false
+    }
+  ]
+}

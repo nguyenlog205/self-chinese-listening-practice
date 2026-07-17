@@ -1,0 +1,16 @@
+{
+  "id": "cloze_009",
+  "audio_id": "d9",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 1,
+      "answer": "公共交通"
+    }
+  ]
+}

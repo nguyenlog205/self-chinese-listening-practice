@@ -1,0 +1,37 @@
+{
+  "id": "choice_010",
+  "audio_id": "d10",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Thành phố nào để lại ấn tượng sâu sắc nhất cho B?",
+    "en": "Which city left the deepest impression on B?",
+    "zh": "哪个城市给女的留下的印象最深？"
+  },
+  "options": [
+    {
+      "vi": "Lệ Giang",
+      "en": "Lijiang",
+      "correct": true
+    },
+    {
+      "vi": "Bắc Kinh",
+      "en": "Beijing",
+      "correct": false
+    },
+    {
+      "vi": "Thượng Hải",
+      "en": "Shanghai",
+      "correct": false
+    },
+    {
+      "vi": "Tây An",
+      "en": "Xi'an",
+      "correct": false
+    }
+  ]
+}

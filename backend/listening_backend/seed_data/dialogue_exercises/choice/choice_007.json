@@ -1,0 +1,37 @@
+{
+  "id": "choice_007",
+  "audio_id": "d7",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "B nghĩ gì về diễn xuất trong phim?",
+    "en": "What does B think about the acting?",
+    "zh": "男的觉得演员演得怎么样？"
+  },
+  "options": [
+    {
+      "vi": "Diễn rất hay",
+      "en": "Acted very well",
+      "correct": true
+    },
+    {
+      "vi": "Diễn dở",
+      "en": "Acted poorly",
+      "correct": false
+    },
+    {
+      "vi": "Không có ý kiến",
+      "en": "No opinion",
+      "correct": false
+    },
+    {
+      "vi": "Chỉ nữ chính diễn tốt",
+      "en": "Only the actress acted well",
+      "correct": false
+    }
+  ]
+}

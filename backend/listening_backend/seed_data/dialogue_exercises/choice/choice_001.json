@@ -1,0 +1,37 @@
+{
+  "id": "choice_001",
+  "audio_id": "d1",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Người nam tên là gì?",
+    "en": "What is the man's name?",
+    "zh": "男的叫什么名字？"
+  },
+  "options": [
+    {
+      "vi": "Vương Minh",
+      "en": "Wang Ming",
+      "correct": true
+    },
+    {
+      "vi": "Lệ Lệ",
+      "en": "Lili",
+      "correct": false
+    },
+    {
+      "vi": "Lý Minh",
+      "en": "Li Ming",
+      "correct": false
+    },
+    {
+      "vi": "Trương Vĩ",
+      "en": "Zhang Wei",
+      "correct": false
+    }
+  ]
+}

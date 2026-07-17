@@ -1,0 +1,37 @@
+{
+  "id": "choice_009",
+  "audio_id": "d9",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Chính phủ đang làm gì để giải quyết vấn đề giao thông?",
+    "en": "What is the government doing about the traffic problem?",
+    "zh": "政府正在做什么来解决交通问题？"
+  },
+  "options": [
+    {
+      "vi": "Phát triển giao thông công cộng",
+      "en": "Developing public transportation",
+      "correct": true
+    },
+    {
+      "vi": "Xây thêm đường cao tốc",
+      "en": "Building more highways",
+      "correct": false
+    },
+    {
+      "vi": "Cấm xe máy",
+      "en": "Banning motorbikes",
+      "correct": false
+    },
+    {
+      "vi": "Tăng giá xăng",
+      "en": "Raising fuel prices",
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cloze_011",
+  "audio_id": "d11",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 0,
+      "answer": "工作和生活的平衡"
+    }
+  ]
+}

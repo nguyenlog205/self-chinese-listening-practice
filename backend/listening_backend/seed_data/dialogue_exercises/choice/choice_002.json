@@ -1,0 +1,37 @@
+{
+  "id": "choice_002",
+  "audio_id": "d2",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Cuối cùng giá là bao nhiêu?",
+    "en": "What was the final price?",
+    "zh": "最后多少钱？"
+  },
+  "options": [
+    {
+      "vi": "Mười đồng",
+      "en": "Ten yuan",
+      "correct": true
+    },
+    {
+      "vi": "Mười lăm đồng",
+      "en": "Fifteen yuan",
+      "correct": false
+    },
+    {
+      "vi": "Năm đồng",
+      "en": "Five yuan",
+      "correct": false
+    },
+    {
+      "vi": "Hai mươi đồng",
+      "en": "Twenty yuan",
+      "correct": false
+    }
+  ]
+}

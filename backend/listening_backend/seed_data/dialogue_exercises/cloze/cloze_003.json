@@ -1,0 +1,16 @@
+{
+  "id": "cloze_003",
+  "audio_id": "d3",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 1,
+      "answer": "下雨"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cloze_008",
+  "audio_id": "d8",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 1,
+      "answer": "压力太大"
+    }
+  ]
+}

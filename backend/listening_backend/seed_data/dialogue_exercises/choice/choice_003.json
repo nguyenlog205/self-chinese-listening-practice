@@ -1,0 +1,37 @@
+{
+  "id": "choice_003",
+  "audio_id": "d3",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Thời tiết ngày mai thế nào?",
+    "en": "What will tomorrow's weather be like?",
+    "zh": "明天天气怎么样？"
+  },
+  "options": [
+    {
+      "vi": "Trời mưa",
+      "en": "It will rain",
+      "correct": true
+    },
+    {
+      "vi": "Trời nắng",
+      "en": "It will be sunny",
+      "correct": false
+    },
+    {
+      "vi": "Trời có gió",
+      "en": "It will be windy",
+      "correct": false
+    },
+    {
+      "vi": "Trời có tuyết",
+      "en": "It will snow",
+      "correct": false
+    }
+  ]
+}

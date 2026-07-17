@@ -1,0 +1,37 @@
+{
+  "id": "choice_006",
+  "audio_id": "d6",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "Người mua cuối cùng chọn màu gì?",
+    "en": "Which color did the buyer choose?",
+    "zh": "顾客最后选了什么颜色？"
+  },
+  "options": [
+    {
+      "vi": "Xanh dương",
+      "en": "Blue",
+      "correct": true
+    },
+    {
+      "vi": "Đỏ",
+      "en": "Red",
+      "correct": false
+    },
+    {
+      "vi": "Vàng",
+      "en": "Yellow",
+      "correct": false
+    },
+    {
+      "vi": "Đen",
+      "en": "Black",
+      "correct": false
+    }
+  ]
+}

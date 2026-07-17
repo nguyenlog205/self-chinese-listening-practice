@@ -1,0 +1,16 @@
+{
+  "id": "cloze_012",
+  "audio_id": "d12",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "blanks": [
+    {
+      "lineIndex": 1,
+      "answer": "面对面的互动和监督"
+    }
+  ]
+}

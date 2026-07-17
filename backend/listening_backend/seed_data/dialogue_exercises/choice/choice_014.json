@@ -1,0 +1,37 @@
+{
+  "id": "choice_014",
+  "audio_id": "d14",
+  "lines_from_dialogue": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "question": {
+    "vi": "A đề xuất giải pháp gì để thương lượng giá cả?",
+    "en": "What solution does A propose to negotiate the price?",
+    "zh": "男的提出了什么折中方案？"
+  },
+  "options": [
+    {
+      "vi": "Kéo dài thời hạn hợp tác để đổi lấy giá ưu đãi",
+      "en": "Extend the cooperation period in exchange for a price discount",
+      "correct": true
+    },
+    {
+      "vi": "Giảm chất lượng sản phẩm",
+      "en": "Lower product quality",
+      "correct": false
+    },
+    {
+      "vi": "Hủy hợp đồng",
+      "en": "Cancel the contract",
+      "correct": false
+    },
+    {
+      "vi": "Tìm đối tác khác",
+      "en": "Find another partner",
+      "correct": false
+    }
+  ]
+}
