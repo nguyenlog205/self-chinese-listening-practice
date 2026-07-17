@@ -20,4 +20,30 @@ CREATE TABLE IF NOT EXISTS vocab_progress (
     level TEXT NOT NULL,
     learned_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
+
+CREATE TABLE IF NOT EXISTS dialogue_exercises_choice (
+    id TEXT PRIMARY KEY,
+    audio_id TEXT NOT NULL REFERENCES dialogues(id),
+    data TEXT NOT NULL  -- JSON: {lines_from_dialogue, question, options}
+);
+CREATE INDEX IF NOT EXISTS idx_dialogue_exercises_choice_audio_id ON dialogue_exercises_choice(audio_id);
+
+CREATE TABLE IF NOT EXISTS dialogue_exercises_cloze (
+    id TEXT PRIMARY KEY,
+    audio_id TEXT NOT NULL REFERENCES dialogues(id),
+    data TEXT NOT NULL  -- JSON: {lines_from_dialogue, blanks}
+);
+CREATE INDEX IF NOT EXISTS idx_dialogue_exercises_cloze_audio_id ON dialogue_exercises_cloze(audio_id);
+
+CREATE TABLE IF NOT EXISTS dialogue_exercises_dictation (
+    id TEXT PRIMARY KEY,
+    audio_id TEXT NOT NULL REFERENCES dialogues(id),
+    data TEXT NOT NULL  -- JSON: {lines_from_dialogue, target_line}
+);
+CREATE INDEX IF NOT EXISTS idx_dialogue_exercises_dictation_audio_id ON dialogue_exercises_dictation(audio_id);
+
+CREATE TABLE IF NOT EXISTS dialogues_audio_metadata (
+    id TEXT PRIMARY KEY REFERENCES dialogues(id),
+    data TEXT NOT NULL  -- JSON: {audio_file, duration_sec, exercises: {choice, cloze, dictation}}
+);
 """

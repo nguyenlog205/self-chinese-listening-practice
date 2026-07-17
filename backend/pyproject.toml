@@ -16,6 +16,12 @@ dependencies = [
     "audioop-lts; python_version >= '3.13'",
 ]
 
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["listening_backend*"]

@@ -1,0 +1,6 @@
+{
+  "id": "dictation_001",
+  "audio_id": "d1",
+  "lines_from_dialogue": [0, 1, 2, 3],
+  "target_line": 2
+}

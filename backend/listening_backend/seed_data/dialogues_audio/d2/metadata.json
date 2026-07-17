@@ -26,6 +26,17 @@
           "pause_after": true
         }
       ]
+    },
+    "dictation": {
+      "play_mode": "with_gaps",
+      "gaps": [
+        {
+          "lineIndex": 0,
+          "start": 0,
+          "end": 2.5,
+          "pause_after": true
+        }
+      ]
     }
   }
 }

@@ -11,6 +11,7 @@ backend/**/__pycache__/
 backend/**/*.py[cod]
 backend/*.egg-info/
 backend/**/*.egg-info/
+backend/.pytest_cache/
 
 # Backend runtime storage (SQLite DB + cached audio/video)
 backend/storage/

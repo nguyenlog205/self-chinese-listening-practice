@@ -19,7 +19,7 @@ def get_dialogue_audio(dialogue_id: str) -> FileResponse:
     if cached.is_file():
         return FileResponse(cached, media_type="audio/mpeg")
 
-    bundled = SEED_DIALOGUES_AUDIO_DIR / f"{dialogue_id}.mp3"
+    bundled = SEED_DIALOGUES_AUDIO_DIR / dialogue_id / "audio.mp3"
     if bundled.is_file():
         return FileResponse(bundled, media_type="audio/mpeg")
 

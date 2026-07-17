@@ -309,6 +309,12 @@ export const translations = {
     "zh-TW": "聽力選擇" },
   "listening.tab.order": { vi: "Nghe sắp xếp", en: "Listen & order", zh: "听力排序",
     "zh-TW": "聽力排序" },
+  "listening.tab.sentenceDictation": {
+    vi: "Câu - Chính tả",
+    en: "Sentence - Dictation",
+    zh: "句子 - 听写",
+    "zh-TW": "句子 - 聽寫",
+  },
   "listening.tab.dialogueChoice": {
     vi: "Hội thoại - chọn đáp án",
     en: "Dialogue - multiple choice",
@@ -322,6 +328,12 @@ export const translations = {
     "zh-TW": "對話 - 填空",
   },
 
+  "listening.menu.sentenceDictation": {
+    vi: "Nghe phát âm rồi gõ lại đúng cả câu.",
+    en: "Listen to a sentence, then type it back in full.",
+    zh: "听发音后完整打出这句话。",
+    "zh-TW": "聽發音後完整打出這句話。",
+  },
   "listening.menu.youtube": {
     vi: "Dán link YouTube, hệ thống tự tách câu để bạn luyện nghe từng câu.",
     en: "Paste a YouTube link and practice sentence by sentence.",
@@ -382,6 +394,19 @@ export const translations = {
     en: "Listen and type the Chinese characters you hear.",
     zh: "听录音并输入你听到的汉字。",
     "zh-TW": "聽錄音並輸入你聽到的漢字。",
+  },
+
+  "listening.sentenceDictation.hint": {
+    vi: "Nghe phát âm rồi gõ lại đúng cả câu.",
+    en: "Listen to the sentence, then type it back in full.",
+    zh: "听发音后完整打出这句话。",
+    "zh-TW": "聽發音後完整打出這句話。",
+  },
+  "listening.sentenceDictation.empty": {
+    vi: "Chưa có hội thoại nào để luyện. Hãy cập nhật dữ liệu trong Cài đặt.",
+    en: "No dialogues available yet. Update data in Settings.",
+    zh: "还没有对话可以练习，请先在设置中更新数据。",
+    "zh-TW": "還沒有對話可以練習，請先在設置中更新數據。",
   },
 
   "listening.choice.hint": {

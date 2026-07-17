@@ -102,6 +102,29 @@ Chỉ chứa **lines** (nội dung hội thoại), không chứa exercises:
 - `lines_from_dialogue` — line indices
 - `blanks` — mảng {lineIndex, answer}
 
+### Dictation Exercises
+
+**Folder:** `dialogue_exercises/dictation/`
+**File:** `dictation_NNN.json`
+
+Nghe cả đoạn hội thoại rồi gõ lại **toàn bộ** 1 câu (khác cloze: cloze chỉ
+điền 1 từ/cụm còn trống, dictation gõ lại nguyên câu):
+
+```json
+{
+  "id": "dictation_001",
+  "audio_id": "d1",
+  "lines_from_dialogue": [0, 1, 2, 3],
+  "target_line": 2
+}
+```
+
+**Fields:**
+- `id` — unique exercise ID
+- `audio_id` — reference tới audio (d1, d2, ...)
+- `lines_from_dialogue` — line indices (để show context)
+- `target_line` — line index cần gõ lại toàn bộ
+
 ---
 
 ## Audio & Metadata
@@ -143,6 +166,12 @@ Timing info per exercise type:
       "gaps": [
         { "lineIndex": 1, "start": 4.2, "end": 5.1, "pause_after": true }
       ]
+    },
+    "dictation": {
+      "play_mode": "with_gaps",
+      "gaps": [
+        { "lineIndex": 2, "start": 5.1, "end": 9.0, "pause_after": true }
+      ]
     }
   }
 }
@@ -153,7 +182,7 @@ Timing info per exercise type:
 ## Workflow
 
 1. **Add dialogue lines** → `dialogues.json` (chỉ lines)
-2. **Create exercises** → `dialogue_exercises/choice/*.json` + `dialogue_exercises/cloze/*.json`
+2. **Create exercises** → `dialogue_exercises/choice/*.json` + `dialogue_exercises/cloze/*.json` + `dialogue_exercises/dictation/*.json`
    - Mỗi exercise reference tới audio_id
 3. **Record audio** → `dialogues_audio/{audio_id}/audio.mp3`
 4. **Add timing metadata** → `dialogues_audio/{audio_id}/metadata.json`

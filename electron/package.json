@@ -31,8 +31,8 @@
         "filter": ["**/*", "!.venv", "!*.egg-info", "!storage/audio_cache/*", "!storage/*.db"]
       },
       {
-        "from": "../frontend",
-        "to": "frontend",
+        "from": "../frontend/dist",
+        "to": "frontend/dist",
         "filter": ["**/*"]
       }
     ],

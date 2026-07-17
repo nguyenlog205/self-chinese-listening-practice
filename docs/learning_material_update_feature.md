@@ -171,7 +171,7 @@ app.include_router(audio_metadata_api)
 
 ### Phase 4: Frontend — Hooks & Data Loading (2-3 hours)
 
-**File:** `frontend-new/src/shared/useDialogueExercises.js` (new)
+**File:** `frontend/src/shared/useDialogueExercises.js` (new)
 
 ```js
 export function useDialogueExercises(type) {  // type: 'choice' | 'cloze'
@@ -190,7 +190,7 @@ export function useDialogueExercises(type) {  // type: 'choice' | 'cloze'
 }
 ```
 
-**File:** `frontend-new/src/shared/useExerciseWithAudio.js` (new)
+**File:** `frontend/src/shared/useExerciseWithAudio.js` (new)
 
 ```js
 export function useExerciseWithAudio(exerciseId, type) {
@@ -221,7 +221,7 @@ export function useExerciseWithAudio(exerciseId, type) {
 
 ### Phase 5: Frontend — Audio Playback with Gaps (2-3 hours)
 
-**File:** `frontend-new/src/shared/useDialogueAudio.js` (update)
+**File:** `frontend/src/shared/useDialogueAudio.js` (update)
 
 ```js
 export function useDialogueAudio() {
@@ -280,7 +280,7 @@ async function playAudioWithGaps(url, gaps) {
 
 ### Phase 6: Frontend — Component Updates (1-2 hours)
 
-**File:** `frontend-new/src/features/listening/components/DialogueChoice.jsx` (update)
+**File:** `frontend/src/features/listening/components/DialogueChoice.jsx` (update)
 
 ```js
 export default function DialogueChoice() {
@@ -298,7 +298,7 @@ export default function DialogueChoice() {
 }
 ```
 
-**File:** `frontend-new/src/features/listening/components/DialogueCloze.jsx` (update)
+**File:** `frontend/src/features/listening/components/DialogueCloze.jsx` (update)
 
 ```js
 export default function DialogueCloze() {

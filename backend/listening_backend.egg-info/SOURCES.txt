@@ -15,9 +15,12 @@ listening_backend/activity/repo.py
 listening_backend/activity/router.py
 listening_backend/activity/streak_router.py
 listening_backend/content/__init__.py
+listening_backend/content/audio_router.py
 listening_backend/content/db.py
 listening_backend/content/dialogues_router.py
+listening_backend/content/exercises.py
 listening_backend/content/models.py
+listening_backend/content/progress_router.py
 listening_backend/content/seed.py
 listening_backend/content/sync.py
 listening_backend/content/sync_router.py
@@ -37,3 +40,11 @@ listening_backend/lessons/pipeline/youtube.py
 listening_backend/tts/__init__.py
 listening_backend/tts/router.py
 listening_backend/tts/synth.py
+tests/test_activity_repo.py
+tests/test_activity_router.py
+tests/test_content_seed.py
+tests/test_content_sync.py
+tests/test_db_schema.py
+tests/test_dialogues_router.py
+tests/test_progress_router.py
+tests/test_vocabulary_router.py

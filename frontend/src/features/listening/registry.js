@@ -3,6 +3,7 @@ import ChoiceListening from "./components/ChoiceListening";
 import OrderListening from "./components/OrderListening";
 import DialogueChoice from "./components/DialogueChoice";
 import DialogueCloze from "./components/DialogueCloze";
+import SentenceDictation from "./components/SentenceDictation";
 import YoutubeListening from "./components/YoutubeListening";
 
 // Two-level menu for the "Luyện nghe" page: a group (word-level vs.
@@ -28,6 +29,7 @@ export const GROUPS = [
     key: "sentence",
     icon: "话",
     sections: [
+      { key: "sentenceDictation", icon: "写", component: SentenceDictation },
       { key: "dialogueChoice", icon: "问", component: DialogueChoice },
       { key: "dialogueCloze", icon: "空", component: DialogueCloze },
       { key: "youtube", icon: "▶", component: YoutubeListening },

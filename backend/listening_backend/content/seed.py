@@ -1,8 +1,8 @@
-"""Populates vocab_words/dialogues from the bundled seed_data/ JSON on first
-run. To refresh content after regenerating the seed files (e.g. a new HSK
-level export), delete the relevant rows (or the whole DB file) and restart
-the backend — this only fills empty tables, it never overwrites existing
-rows."""
+"""Populates vocab_words/dialogues/dialogue_exercises_*/dialogues_audio_metadata
+from the bundled seed_data/ JSON on first run. To refresh content after
+regenerating the seed files (e.g. a new HSK level export), delete the
+relevant rows (or the whole DB file) and restart the backend — this only
+fills empty tables, it never overwrites existing rows."""
 
 from __future__ import annotations
 
@@ -11,6 +11,13 @@ import sqlite3
 from pathlib import Path
 
 from ..config import BACKEND_DIR
+from .exercises import (
+    AUDIO_METADATA_REQUIRED_KEYS,
+    EXERCISE_KINDS,
+    EXERCISE_REQUIRED_KEYS,
+    audio_metadata_row,
+    exercise_row,
+)
 
 SEED_DATA_DIR = BACKEND_DIR / "listening_backend" / "seed_data"
 
@@ -54,4 +61,33 @@ def seed_if_empty(db_path: Path) -> None:
                         for d in dialogues
                     ],
                 )
+
+        for kind in EXERCISE_KINDS:
+            table = f"dialogue_exercises_{kind}"
+            (count,) = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()  # noqa: S608 (table from a fixed tuple, not user input)
+            if count != 0:
+                continue
+            required = EXERCISE_REQUIRED_KEYS[kind]
+            for path in sorted((SEED_DATA_DIR / "dialogue_exercises" / kind).glob("*.json")):
+                item = json.loads(path.read_text(encoding="utf-8"))
+                if not required.issubset(item):
+                    raise ValueError(f"{path.name} missing required keys: {required - item.keys()}")
+                conn.execute(
+                    f"INSERT INTO {table} (id, audio_id, data) VALUES (?, ?, ?)",  # noqa: S608
+                    exercise_row(item),
+                )
+
+        (audio_meta_count,) = conn.execute("SELECT COUNT(*) FROM dialogues_audio_metadata").fetchone()
+        if audio_meta_count == 0:
+            for path in sorted((SEED_DATA_DIR / "dialogues_audio").glob("*/metadata.json")):
+                item = json.loads(path.read_text(encoding="utf-8"))
+                if not AUDIO_METADATA_REQUIRED_KEYS.issubset(item):
+                    raise ValueError(
+                        f"{path}: missing required keys: {AUDIO_METADATA_REQUIRED_KEYS - item.keys()}"
+                    )
+                conn.execute(
+                    "INSERT INTO dialogues_audio_metadata (id, data) VALUES (?, ?)",
+                    audio_metadata_row(item),
+                )
+
         conn.commit()

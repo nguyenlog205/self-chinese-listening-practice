@@ -11,3 +11,6 @@ edge-tts
 
 [:python_version >= "3.13"]
 audioop-lts
+
+[dev]
+pytest>=8

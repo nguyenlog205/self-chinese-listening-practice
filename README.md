@@ -1,19 +1,47 @@
 # Listening Practice (desktop app)
 
-A self-contained Electron desktop app for practicing Chinese listening: paste
-a YouTube link, it transcribes it in the background (Whisper + pinyin), and
-lets you practice sentence-by-sentence with video, toggleable subtitles/pinyin,
-volume control, and optional dictation.
+An Electron desktop app for practicing Chinese listening and dictation:
+HSK vocabulary drills, dialogue-based listening exercises, and YouTube-video
+transcription (Whisper + pinyin) for sentence-by-sentence practice — all
+running against a local Python backend, no account or server required.
 
-This directory is fully independent of the rest of the repository — its own
-pipeline code, its own storage, its own dependencies. It does not import from
-or write to `services/`, `data/`, or `outcome/` at the repo root.
+## Features
+
+- **HSK vocabulary practice** (levels 1-6 and 7-9): flashcard-style
+  vocabulary browser, listen-and-type dictation, multiple choice, and
+  character-ordering games, plus a mock test mode.
+- **Dialogue listening**: multiple-choice comprehension, fill-in-the-blank
+  (cloze), and full-sentence dictation, all drawn from a shared pool of
+  dialogue recordings/scripts.
+- **YouTube listening**: paste a link, the backend transcribes it
+  (faster-whisper) and converts to pinyin, then you practice sentence by
+  sentence with toggleable subtitles/pinyin and optional dictation grading.
+- **Progress tracking**: daily streak, activity heatmap, and per-HSK-level
+  progress, all local (SQLite) — no account needed.
+- **Multi-language UI**: Vietnamese, English, Simplified Chinese, and
+  Traditional Chinese, switchable in Settings.
+- **Script/phonetic preferences**: toggle Simplified ↔ Traditional hanzi and
+  Pinyin ↔ Zhuyin (Bopomofo) display anywhere hanzi is shown, independent of
+  the UI language.
+- **Content updates without a new release**: vocabulary, dialogues, and
+  exercises live as JSON in this repo (`backend/listening_backend/seed_data/`)
+  and can be refreshed from Settings ("Cập nhật dữ liệu") without
+  reinstalling the app.
+
+## Project layout
 
 ```
-app/
-  backend/     Self-contained Python/FastAPI pipeline + local API server
-  electron/    Electron shell (spawns the backend, opens the window)
-  frontend/    Plain HTML/CSS/JS renderer UI (library view + practice view)
+backend/        Python/FastAPI backend — REST API, SQLite storage, the
+                 YouTube transcription pipeline (yt-dlp + faster-whisper),
+                 edge-tts pronunciation audio, and content sync from GitHub.
+electron/       Electron main process: spawns the backend, opens the window.
+frontend/       React + Vite renderer UI.
+docs/           Deep-dive docs (architecture, API reference, backend
+                 pipeline) — written against an earlier plain HTML/CSS/JS
+                 frontend that has since been replaced by the current React
+                 app; treat frontend-specific claims there as historical,
+                 not current.
+scripts/        Packaging helpers (e.g. `build_rpm.sh`).
 ```
 
 ## Prerequisites
@@ -30,32 +58,67 @@ needed.
 
 ## Running in development
 
+Development runs the frontend and Electron as two separate processes —
+there's no single script that starts both, so use two terminals:
+
 ```bash
-cd app
-npm install       # installs Electron into electron/node_modules
-npm run dev        # launches Electron, which spawns the Python backend
+# terminal 1: the frontend's Vite dev server (hot reload)
+cd frontend
+npm install
+npm run dev             # serves on http://localhost:5173
+
+# terminal 2: Electron, which spawns the Python backend itself
+npm install              # root install; postinstall also installs electron/node_modules
+npm run dev              # -> cd electron && npm run start -> electron .
 ```
 
-On first launch, Electron's main process runs `backend/scripts/run.sh`
-(`run.ps1` on Windows), which creates `backend/.venv/`, installs the backend
-package (`pip install -e backend`), and starts the API server on a free local
-port. This first run downloads several hundred MB of ML dependencies
-(faster-whisper, its CTranslate2 backend, etc.) — subsequent launches are
-fast.
+Electron's main process (`electron/main.js`) spawns
+`backend/scripts/run.sh` (`run.ps1` on Windows) before opening any window.
+That script creates `backend/.venv/` on first run and installs the backend
+package (`pip install -e backend`) — this pulls in faster-whisper + its
+CTranslate2 backend + yt-dlp, several hundred MB, so the very first launch
+is slow; subsequent launches just exec the already-installed venv and are
+fast. In dev mode (`!app.isPackaged`), the window loads
+`http://localhost:5173` (terminal 1's Vite server) directly.
+
+For backend-only iteration (no Electron/frontend needed), once the venv
+exists:
+
+```bash
+cd backend
+.venv/bin/python -m listening_backend.main
+# prints "READY <port>" once bound, e.g.:
+curl http://127.0.0.1:<port>/health
+```
+
+## Running tests
+
+```bash
+cd backend
+.venv/bin/pip install -e ".[dev]"   # once, installs pytest
+.venv/bin/python -m pytest -v
+```
+
+There is currently no frontend test suite (`frontend/` has no
+vitest/testing-library set up yet) — `npm run lint` (oxlint) and `npm run
+build` are the only automated frontend checks.
 
 ## Building an installer
 
 ```bash
-cd app
-npm run build:linux   # produces an AppImage under app/dist/
-npm run build:win     # produces an NSIS installer under app/dist/ (run on Windows, or cross-build)
+npm run build:linux   # builds frontend/, then packages -> produces an AppImage under dist/
+npm run build:win     # same, but an NSIS installer (run on Windows, or cross-build)
 ```
 
-**Known v1 limitation**: the built installer still requires the end user to
+Both scripts build `frontend/` first (`frontend/dist/`) and bundle that
+output via `electron/package.json`'s `extraResources`, which
+`electron/main.js` loads in production (`frontend/dist/index.html`).
+
+**Known limitation**: the built installer still requires the end user to
 have Python 3.10+ and ffmpeg on their machine — the backend venv is created
 on first launch, it is not frozen into the installer. A fully offline,
 single-binary build (PyInstaller-freezing the backend) is a follow-up, not
-included in v1.
+done yet.
 
 ## Configuration
 
@@ -70,28 +133,23 @@ LISTENING_WHISPER_DEVICE=cuda LISTENING_WHISPER_COMPUTE_TYPE=float16 npm run dev
 Whisper defaults to CPU (`model_size=base`, `compute_type=int8`) so the app
 works out of the box on any machine, GPU or not.
 
-## How it works
+## Content updates
 
-1. **Add a link**: the library view (`frontend/index.html`) posts a YouTube
-   URL to the backend, which immediately returns a `queued` lesson and starts
-   a background job (download audio via yt-dlp → transcribe with
-   faster-whisper → split into sentences → convert to pinyin). Progress is
-   pushed to the UI over a WebSocket and rendered as a per-lesson progress
-   bar.
-2. **Practice**: once a lesson is `ready`, opening it (`frontend/practice.html`)
-   plays the downloaded video locally (a plain HTML5 `<video>` tag pointed at
-   the backend's `/media/video/{id}.mp4`) and steps through sentences one at a
-   time — seeking to each sentence's start time and auto-pausing at its end.
-   Subtitle and pinyin are hidden by default and can be toggled independently;
-   dictation is an optional toggle that grades your typed answer
-   character-by-character against the transcript.
+Vocabulary, dialogues, and dialogue exercises (choice/cloze/dictation) live
+as JSON under `backend/listening_backend/seed_data/` (see
+`seed_data/CONVENTION.md` for the file formats) and are seeded into SQLite
+on first run. Clicking "Cập nhật dữ liệu" in Settings re-pulls the latest
+versions of these files straight from this repo on GitHub — so content can
+be updated by committing new/edited seed files and pushing, without a new
+app release.
 
-Data is stored under `backend/storage/` (SQLite database + cached audio
-files) — entirely local, gitignored, and independent of the rest of the repo.
+Data lives under `backend/storage/` (SQLite database + cached audio/video) —
+entirely local and gitignored.
 
 ## Further documentation
 
-See [docs/](docs/) for a deeper technical dive: architecture and process
-model, the backend pipeline in detail, the full API reference, the
-frontend's internals, and dev workflow / packaging notes. Start with
-[docs/architecture.md](docs/architecture.md).
+See [docs/](docs/) for architecture notes, the backend pipeline in detail,
+and the full API reference — useful for the backend and data model, but
+written against an earlier plain-JS frontend that no longer exists (see
+"Project layout" above), so frontend-specific sections there are out of
+date.
