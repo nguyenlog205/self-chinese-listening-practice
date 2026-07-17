@@ -24,39 +24,45 @@
         "pinyin": "wǒ yě hěn gāoxìng rènshi nǐ."
       }
     ],
-    "question": {
-      "vi": "Người nam tên là gì?",
-      "en": "What is the man's name?",
-      "zh": "男的叫什么名字？"
-    },
-    "options": [
-      {
-        "vi": "Vương Minh",
-        "en": "Wang Ming",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Người nam tên là gì?",
+          "en": "What is the man's name?",
+          "zh": "男的叫什么名字？"
+        },
+        "options": [
+          {
+            "vi": "Vương Minh",
+            "en": "Wang Ming",
+            "correct": true
+          },
+          {
+            "vi": "Lệ Lệ",
+            "en": "Lili",
+            "correct": false
+          },
+          {
+            "vi": "Lý Minh",
+            "en": "Li Ming",
+            "correct": false
+          },
+          {
+            "vi": "Trương Vĩ",
+            "en": "Zhang Wei",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Lệ Lệ",
-        "en": "Lili",
-        "correct": false
-      },
-      {
-        "vi": "Lý Minh",
-        "en": "Li Ming",
-        "correct": false
-      },
-      {
-        "vi": "Trương Vĩ",
-        "en": "Zhang Wei",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "王明"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "王明"
-      }
-    ]
+    }
   },
   {
     "id": "d2",
@@ -83,39 +89,45 @@
         "pinyin": "hǎo ba, shí kuài gěi nǐ."
       }
     ],
-    "question": {
-      "vi": "Cuối cùng giá là bao nhiêu?",
-      "en": "What was the final price?",
-      "zh": "最后多少钱？"
-    },
-    "options": [
-      {
-        "vi": "Mười đồng",
-        "en": "Ten yuan",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Cuối cùng giá là bao nhiêu?",
+          "en": "What was the final price?",
+          "zh": "最后多少钱？"
+        },
+        "options": [
+          {
+            "vi": "Mười đồng",
+            "en": "Ten yuan",
+            "correct": true
+          },
+          {
+            "vi": "Mười lăm đồng",
+            "en": "Fifteen yuan",
+            "correct": false
+          },
+          {
+            "vi": "Năm đồng",
+            "en": "Five yuan",
+            "correct": false
+          },
+          {
+            "vi": "Hai mươi đồng",
+            "en": "Twenty yuan",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Mười lăm đồng",
-        "en": "Fifteen yuan",
-        "correct": false
-      },
-      {
-        "vi": "Năm đồng",
-        "en": "Five yuan",
-        "correct": false
-      },
-      {
-        "vi": "Hai mươi đồng",
-        "en": "Twenty yuan",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 3,
+            "answer": "十块"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 3,
-        "answer": "十块"
-      }
-    ]
+    }
   },
   {
     "id": "d3",
@@ -142,39 +154,45 @@
         "pinyin": "bú kèqi."
       }
     ],
-    "question": {
-      "vi": "Thời tiết ngày mai thế nào?",
-      "en": "What will tomorrow's weather be like?",
-      "zh": "明天天气怎么样？"
-    },
-    "options": [
-      {
-        "vi": "Trời mưa",
-        "en": "It will rain",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Thời tiết ngày mai thế nào?",
+          "en": "What will tomorrow's weather be like?",
+          "zh": "明天天气怎么样？"
+        },
+        "options": [
+          {
+            "vi": "Trời mưa",
+            "en": "It will rain",
+            "correct": true
+          },
+          {
+            "vi": "Trời nắng",
+            "en": "It will be sunny",
+            "correct": false
+          },
+          {
+            "vi": "Trời có gió",
+            "en": "It will be windy",
+            "correct": false
+          },
+          {
+            "vi": "Trời có tuyết",
+            "en": "It will snow",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Trời nắng",
-        "en": "It will be sunny",
-        "correct": false
-      },
-      {
-        "vi": "Trời có gió",
-        "en": "It will be windy",
-        "correct": false
-      },
-      {
-        "vi": "Trời có tuyết",
-        "en": "It will snow",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "下雨"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "下雨"
-      }
-    ]
+    }
   },
   {
     "id": "d4",
@@ -201,39 +219,45 @@
         "pinyin": "bú kèqi, zhù nǐ shùnlì."
       }
     ],
-    "question": {
-      "vi": "Đến thư viện phải rẽ về hướng nào?",
-      "en": "Which way should you turn to reach the library?",
-      "zh": "去图书馆要往哪边拐？"
-    },
-    "options": [
-      {
-        "vi": "Bên trái",
-        "en": "Left",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Đến thư viện phải rẽ về hướng nào?",
+          "en": "Which way should you turn to reach the library?",
+          "zh": "去图书馆要往哪边拐？"
+        },
+        "options": [
+          {
+            "vi": "Bên trái",
+            "en": "Left",
+            "correct": true
+          },
+          {
+            "vi": "Bên phải",
+            "en": "Right",
+            "correct": false
+          },
+          {
+            "vi": "Phía trước",
+            "en": "Straight ahead",
+            "correct": false
+          },
+          {
+            "vi": "Phía sau",
+            "en": "Behind",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Bên phải",
-        "en": "Right",
-        "correct": false
-      },
-      {
-        "vi": "Phía trước",
-        "en": "Straight ahead",
-        "correct": false
-      },
-      {
-        "vi": "Phía sau",
-        "en": "Behind",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "往左拐"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "往左拐"
-      }
-    ]
+    }
   },
   {
     "id": "d5",
@@ -260,39 +284,45 @@
         "pinyin": "hǎo de, zhōumò zěnmeyàng?"
       }
     ],
-    "question": {
-      "vi": "Vì sao B không thể đi xem phim tối nay?",
-      "en": "Why can't B watch the movie tonight?",
-      "zh": "男的为什么今天晚上不能去看电影？"
-    },
-    "options": [
-      {
-        "vi": "Vì phải làm thêm giờ",
-        "en": "Because of overtime work",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Vì sao B không thể đi xem phim tối nay?",
+          "en": "Why can't B watch the movie tonight?",
+          "zh": "男的为什么今天晚上不能去看电影？"
+        },
+        "options": [
+          {
+            "vi": "Vì phải làm thêm giờ",
+            "en": "Because of overtime work",
+            "correct": true
+          },
+          {
+            "vi": "Vì bị ốm",
+            "en": "Because he is sick",
+            "correct": false
+          },
+          {
+            "vi": "Vì phải đi công tác",
+            "en": "Because of a business trip",
+            "correct": false
+          },
+          {
+            "vi": "Vì đã xem rồi",
+            "en": "Because he already watched it",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Vì bị ốm",
-        "en": "Because he is sick",
-        "correct": false
-      },
-      {
-        "vi": "Vì phải đi công tác",
-        "en": "Because of a business trip",
-        "correct": false
-      },
-      {
-        "vi": "Vì đã xem rồi",
-        "en": "Because he already watched it",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "加班"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "加班"
-      }
-    ]
+    }
   },
   {
     "id": "d6",
@@ -319,39 +349,45 @@
         "pinyin": "hǎo de, lánsè de zhèbiān qǐng."
       }
     ],
-    "question": {
-      "vi": "Người mua cuối cùng chọn màu gì?",
-      "en": "Which color did the buyer choose?",
-      "zh": "顾客最后选了什么颜色？"
-    },
-    "options": [
-      {
-        "vi": "Xanh dương",
-        "en": "Blue",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Người mua cuối cùng chọn màu gì?",
+          "en": "Which color did the buyer choose?",
+          "zh": "顾客最后选了什么颜色？"
+        },
+        "options": [
+          {
+            "vi": "Xanh dương",
+            "en": "Blue",
+            "correct": true
+          },
+          {
+            "vi": "Đỏ",
+            "en": "Red",
+            "correct": false
+          },
+          {
+            "vi": "Vàng",
+            "en": "Yellow",
+            "correct": false
+          },
+          {
+            "vi": "Đen",
+            "en": "Black",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Đỏ",
-        "en": "Red",
-        "correct": false
-      },
-      {
-        "vi": "Vàng",
-        "en": "Yellow",
-        "correct": false
-      },
-      {
-        "vi": "Đen",
-        "en": "Black",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 2,
+            "answer": "蓝色"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 2,
-        "answer": "蓝色"
-      }
-    ]
+    }
   },
   {
     "id": "d7",
@@ -378,39 +414,45 @@
         "pinyin": "xiàcì yǒu lèisì de diànyǐng, wǒmen hái yìqǐ qù kàn ba."
       }
     ],
-    "question": {
-      "vi": "B nghĩ gì về diễn xuất trong phim?",
-      "en": "What does B think about the acting?",
-      "zh": "男的觉得演员演得怎么样？"
-    },
-    "options": [
-      {
-        "vi": "Diễn rất hay",
-        "en": "Acted very well",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "B nghĩ gì về diễn xuất trong phim?",
+          "en": "What does B think about the acting?",
+          "zh": "男的觉得演员演得怎么样？"
+        },
+        "options": [
+          {
+            "vi": "Diễn rất hay",
+            "en": "Acted very well",
+            "correct": true
+          },
+          {
+            "vi": "Diễn dở",
+            "en": "Acted poorly",
+            "correct": false
+          },
+          {
+            "vi": "Không có ý kiến",
+            "en": "No opinion",
+            "correct": false
+          },
+          {
+            "vi": "Chỉ nữ chính diễn tốt",
+            "en": "Only the actress acted well",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Diễn dở",
-        "en": "Acted poorly",
-        "correct": false
-      },
-      {
-        "vi": "Không có ý kiến",
-        "en": "No opinion",
-        "correct": false
-      },
-      {
-        "vi": "Chỉ nữ chính diễn tốt",
-        "en": "Only the actress acted well",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "非常好"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "非常好"
-      }
-    ]
+    }
   },
   {
     "id": "d8",
@@ -437,39 +479,45 @@
         "pinyin": "xièxie nǐ de guānxīn, wǒ huì tiáozhěng yíxià zìjǐ de."
       }
     ],
-    "question": {
-      "vi": "Vì sao B trông không khỏe?",
-      "en": "Why does B look unwell?",
-      "zh": "男的最近为什么脸色不好？"
-    },
-    "options": [
-      {
-        "vi": "Vì áp lực công việc, mất ngủ",
-        "en": "Work stress causing poor sleep",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Vì sao B trông không khỏe?",
+          "en": "Why does B look unwell?",
+          "zh": "男的最近为什么脸色不好？"
+        },
+        "options": [
+          {
+            "vi": "Vì áp lực công việc, mất ngủ",
+            "en": "Work stress causing poor sleep",
+            "correct": true
+          },
+          {
+            "vi": "Vì cảm cúm",
+            "en": "Because of a cold",
+            "correct": false
+          },
+          {
+            "vi": "Vì ăn uống thất thường",
+            "en": "Irregular eating",
+            "correct": false
+          },
+          {
+            "vi": "Vì tập thể dục quá sức",
+            "en": "Overexercising",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Vì cảm cúm",
-        "en": "Because of a cold",
-        "correct": false
-      },
-      {
-        "vi": "Vì ăn uống thất thường",
-        "en": "Irregular eating",
-        "correct": false
-      },
-      {
-        "vi": "Vì tập thể dục quá sức",
-        "en": "Overexercising",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "压力太大"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "压力太大"
-      }
-    ]
+    }
   },
   {
     "id": "d9",
@@ -496,39 +544,45 @@
         "pinyin": "xīwàng yǐhòu yuè lái yuè duō de rén yuànyì xuǎnzé gōnggòng jiāotōng chūxíng."
       }
     ],
-    "question": {
-      "vi": "Chính phủ đang làm gì để giải quyết vấn đề giao thông?",
-      "en": "What is the government doing about the traffic problem?",
-      "zh": "政府正在做什么来解决交通问题？"
-    },
-    "options": [
-      {
-        "vi": "Phát triển giao thông công cộng",
-        "en": "Developing public transportation",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Chính phủ đang làm gì để giải quyết vấn đề giao thông?",
+          "en": "What is the government doing about the traffic problem?",
+          "zh": "政府正在做什么来解决交通问题？"
+        },
+        "options": [
+          {
+            "vi": "Phát triển giao thông công cộng",
+            "en": "Developing public transportation",
+            "correct": true
+          },
+          {
+            "vi": "Xây thêm đường cao tốc",
+            "en": "Building more highways",
+            "correct": false
+          },
+          {
+            "vi": "Cấm xe máy",
+            "en": "Banning motorbikes",
+            "correct": false
+          },
+          {
+            "vi": "Tăng giá xăng",
+            "en": "Raising fuel prices",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Xây thêm đường cao tốc",
-        "en": "Building more highways",
-        "correct": false
-      },
-      {
-        "vi": "Cấm xe máy",
-        "en": "Banning motorbikes",
-        "correct": false
-      },
-      {
-        "vi": "Tăng giá xăng",
-        "en": "Raising fuel prices",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "公共交通"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "公共交通"
-      }
-    ]
+    }
   },
   {
     "id": "d10",
@@ -555,39 +609,45 @@
         "pinyin": "méi cuò, zhèng yīnwèi zhèyàng, wǒ cái juéde tèbié fàngsōng."
       }
     ],
-    "question": {
-      "vi": "Thành phố nào để lại ấn tượng sâu sắc nhất cho B?",
-      "en": "Which city left the deepest impression on B?",
-      "zh": "哪个城市给女的留下的印象最深？"
-    },
-    "options": [
-      {
-        "vi": "Lệ Giang",
-        "en": "Lijiang",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Thành phố nào để lại ấn tượng sâu sắc nhất cho B?",
+          "en": "Which city left the deepest impression on B?",
+          "zh": "哪个城市给女的留下的印象最深？"
+        },
+        "options": [
+          {
+            "vi": "Lệ Giang",
+            "en": "Lijiang",
+            "correct": true
+          },
+          {
+            "vi": "Bắc Kinh",
+            "en": "Beijing",
+            "correct": false
+          },
+          {
+            "vi": "Thượng Hải",
+            "en": "Shanghai",
+            "correct": false
+          },
+          {
+            "vi": "Tây An",
+            "en": "Xi'an",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Bắc Kinh",
-        "en": "Beijing",
-        "correct": false
-      },
-      {
-        "vi": "Thượng Hải",
-        "en": "Shanghai",
-        "correct": false
-      },
-      {
-        "vi": "Tây An",
-        "en": "Xi'an",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "丽江"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "丽江"
-      }
-    ]
+    }
   },
   {
     "id": "d11",
@@ -614,39 +674,45 @@
         "pinyin": "zhè liǎng zhǒng xiǎngfǎ gè yǒu dàolǐ, guānjiàn háishi yào kàn měige rén zìjǐ de jiàzhíguān."
       }
     ],
-    "question": {
-      "vi": "Theo đoạn hội thoại, nhiều người trẻ hiện nay coi trọng điều gì khi chọn việc?",
-      "en": "What do many young people now value when choosing a job?",
-      "zh": "很多年轻人选择工作时越来越看重什么？"
-    },
-    "options": [
-      {
-        "vi": "Sự cân bằng giữa công việc và cuộc sống",
-        "en": "Work-life balance",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Theo đoạn hội thoại, nhiều người trẻ hiện nay coi trọng điều gì khi chọn việc?",
+          "en": "What do many young people now value when choosing a job?",
+          "zh": "很多年轻人选择工作时越来越看重什么？"
+        },
+        "options": [
+          {
+            "vi": "Sự cân bằng giữa công việc và cuộc sống",
+            "en": "Work-life balance",
+            "correct": true
+          },
+          {
+            "vi": "Mức lương cao",
+            "en": "High salary",
+            "correct": false
+          },
+          {
+            "vi": "Danh tiếng công ty",
+            "en": "Company reputation",
+            "correct": false
+          },
+          {
+            "vi": "Cơ hội thăng tiến nhanh",
+            "en": "Fast promotion opportunities",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Mức lương cao",
-        "en": "High salary",
-        "correct": false
-      },
-      {
-        "vi": "Danh tiếng công ty",
-        "en": "Company reputation",
-        "correct": false
-      },
-      {
-        "vi": "Cơ hội thăng tiến nhanh",
-        "en": "Fast promotion opportunities",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 0,
+            "answer": "工作和生活的平衡"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 0,
-        "answer": "工作和生活的平衡"
-      }
-    ]
+    }
   },
   {
     "id": "d12",
@@ -673,39 +739,45 @@
         "pinyin": "wǒ wánquán tóngyì, zhèyàng jì néng bǎozhèng xuéxí xiàoguǒ, yòu néng tígāo línghuóxìng."
       }
     ],
-    "question": {
-      "vi": "B nghĩ giáo dục trực tuyến thiếu điều gì so với lớp học truyền thống?",
-      "en": "What does B think online education lacks compared to traditional classrooms?",
-      "zh": "女的认为线上教育缺少什么？"
-    },
-    "options": [
-      {
-        "vi": "Sự tương tác và giám sát trực tiếp",
-        "en": "Face-to-face interaction and supervision",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "B nghĩ giáo dục trực tuyến thiếu điều gì so với lớp học truyền thống?",
+          "en": "What does B think online education lacks compared to traditional classrooms?",
+          "zh": "女的认为线上教育缺少什么？"
+        },
+        "options": [
+          {
+            "vi": "Sự tương tác và giám sát trực tiếp",
+            "en": "Face-to-face interaction and supervision",
+            "correct": true
+          },
+          {
+            "vi": "Tài liệu học tập",
+            "en": "Study materials",
+            "correct": false
+          },
+          {
+            "vi": "Công nghệ hiện đại",
+            "en": "Modern technology",
+            "correct": false
+          },
+          {
+            "vi": "Giáo viên giỏi",
+            "en": "Good teachers",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Tài liệu học tập",
-        "en": "Study materials",
-        "correct": false
-      },
-      {
-        "vi": "Công nghệ hiện đại",
-        "en": "Modern technology",
-        "correct": false
-      },
-      {
-        "vi": "Giáo viên giỏi",
-        "en": "Good teachers",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 1,
+            "answer": "面对面的互动和监督"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 1,
-        "answer": "面对面的互动和监督"
-      }
-    ]
+    }
   },
   {
     "id": "d13",
@@ -732,39 +804,45 @@
         "pinyin": "guānjiàn zàiyú búduàn xuéxí xīn jìnéng, péiyǎng jīqì nányǐ qǔdài de chuàngzàolì hé pànduànlì."
       }
     ],
-    "question": {
-      "vi": "Theo B, con người nên làm gì để thích ứng với sự thay đổi do AI mang lại?",
-      "en": "According to B, what should people do to adapt to AI-driven change?",
-      "zh": "女的认为人们应该怎样应对人工智能带来的变化？"
-    },
-    "options": [
-      {
-        "vi": "Không ngừng học kỹ năng mới, phát triển sáng tạo",
-        "en": "Keep learning new skills and develop creativity",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "Theo B, con người nên làm gì để thích ứng với sự thay đổi do AI mang lại?",
+          "en": "According to B, what should people do to adapt to AI-driven change?",
+          "zh": "女的认为人们应该怎样应对人工智能带来的变化？"
+        },
+        "options": [
+          {
+            "vi": "Không ngừng học kỹ năng mới, phát triển sáng tạo",
+            "en": "Keep learning new skills and develop creativity",
+            "correct": true
+          },
+          {
+            "vi": "Phản đối phát triển AI",
+            "en": "Oppose AI development",
+            "correct": false
+          },
+          {
+            "vi": "Chuyển sang ngành nông nghiệp",
+            "en": "Switch to agriculture",
+            "correct": false
+          },
+          {
+            "vi": "Chờ chính phủ hỗ trợ",
+            "en": "Wait for government support",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Phản đối phát triển AI",
-        "en": "Oppose AI development",
-        "correct": false
-      },
-      {
-        "vi": "Chuyển sang ngành nông nghiệp",
-        "en": "Switch to agriculture",
-        "correct": false
-      },
-      {
-        "vi": "Chờ chính phủ hỗ trợ",
-        "en": "Wait for government support",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 3,
+            "answer": "创造力和判断力"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 3,
-        "answer": "创造力和判断力"
-      }
-    ]
+    }
   },
   {
     "id": "d14",
@@ -791,38 +869,44 @@
         "pinyin": "zhège sīlù búcuò, zhídé zài xià yì lún tánpàn zhōng chángshì."
       }
     ],
-    "question": {
-      "vi": "A đề xuất giải pháp gì để thương lượng giá cả?",
-      "en": "What solution does A propose to negotiate the price?",
-      "zh": "男的提出了什么折中方案？"
-    },
-    "options": [
-      {
-        "vi": "Kéo dài thời hạn hợp tác để đổi lấy giá ưu đãi",
-        "en": "Extend the cooperation period in exchange for a price discount",
-        "correct": true
+    "exercises": {
+      "choice": {
+        "question": {
+          "vi": "A đề xuất giải pháp gì để thương lượng giá cả?",
+          "en": "What solution does A propose to negotiate the price?",
+          "zh": "男的提出了什么折中方案？"
+        },
+        "options": [
+          {
+            "vi": "Kéo dài thời hạn hợp tác để đổi lấy giá ưu đãi",
+            "en": "Extend the cooperation period in exchange for a price discount",
+            "correct": true
+          },
+          {
+            "vi": "Giảm chất lượng sản phẩm",
+            "en": "Lower product quality",
+            "correct": false
+          },
+          {
+            "vi": "Hủy hợp đồng",
+            "en": "Cancel the contract",
+            "correct": false
+          },
+          {
+            "vi": "Tìm đối tác khác",
+            "en": "Find another partner",
+            "correct": false
+          }
+        ]
       },
-      {
-        "vi": "Giảm chất lượng sản phẩm",
-        "en": "Lower product quality",
-        "correct": false
-      },
-      {
-        "vi": "Hủy hợp đồng",
-        "en": "Cancel the contract",
-        "correct": false
-      },
-      {
-        "vi": "Tìm đối tác khác",
-        "en": "Find another partner",
-        "correct": false
+      "cloze": {
+        "blanks": [
+          {
+            "lineIndex": 2,
+            "answer": "延长合作期限"
+          }
+        ]
       }
-    ],
-    "blanks": [
-      {
-        "lineIndex": 2,
-        "answer": "延长合作期限"
-      }
-    ]
+    }
   }
 ]

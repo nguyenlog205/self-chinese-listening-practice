@@ -1,36 +1,59 @@
-# Dialogue audio (real recordings)
+# Dialogue Audio & Metadata
 
-Source of truth for **real, human-recorded** conversation audio backing
-`listening/DialogueChoice.jsx` and `listening/DialogueCloze.jsx`. These
-modes originally only had TTS (synthesized) playback, but the point of the
-feature is listening practice on real conversations, not machine speech —
-TTS there is a fallback for dialogues that don't have a recording yet, not
-the intended long-term source.
+Real conversation audio + exercise-specific timing metadata for `DialogueChoice` and `DialogueCloze`.
 
-## Convention
+## Folder Structure
 
-- One file per dialogue: `{dialogue.id}.mp3` (e.g. `d1.mp3`), matching the
-  `id` field in `../dialogues.json`.
-- Recording covers the **entire dialogue as one continuous take** (both
-  speakers, in order) — not split per line. This mirrors how the app plays
-  it (`listening.dialogue.playAll`) and how real listening-exam audio
-  works.
-- Format: mp3, mono, 44.1kHz is a safe default (no hard requirement — the
-  backend serves whatever bytes are in the file with `media_type:
-  audio/mpeg`, no transcoding).
-- A dialogue with no matching file here simply falls back to TTS
-  (`shared/useDialogueAudio.js` handles this automatically on the frontend)
-  — you don't need to add every dialogue's audio at once.
+```
+dialogues_audio/
+└─ {dialogue_id}/
+   ├─ audio.mp3           ← Master audio (both speakers, continuous)
+   └─ metadata.json       ← Timing + play modes per exercise
+```
 
-## How it reaches a running app
+## Per-Dialogue Files
 
-Two ways a file here becomes audible:
+### audio.mp3
+- **Format:** MP3, mono, 44.1kHz
+- **Content:** Entire dialogue as one continuous take (both speakers in order)
+- **Duration:** Typically 5-15 seconds
+- **Fallback:** If missing, app uses TTS synthesis (automatic on frontend)
 
-1. **Bundled with the app** — if you added the file to a checkout/release
-   before build, `content/audio_router.py` serves it directly from this
-   folder as a fallback.
-2. **Pulled by "Cập nhật dữ liệu" in Settings** — pushing a new file here to
-   `main` on GitHub, then clicking "Cập nhật dữ liệu" downloads it into the
-   local writable cache (`storage/dialogue_audio_cache/`), same mechanism
-   `content/sync.py` already uses for `dialogues.json`/vocabulary. This is
-   the path for updating already-installed apps without a new release.
+### metadata.json
+Exercise-specific timing and play modes. See `../CONVENTION.md` for schema.
+
+**Example:**
+```json
+{
+  "id": "greeting_001",
+  "audio_file": "audio.mp3",
+  "duration_sec": 8.3,
+  "exercises": {
+    "choice": {
+      "play_mode": "full",
+      "timings": { "start": 0, "end": 8.3 }
+    },
+    "cloze": {
+      "play_mode": "with_gaps",
+      "gaps": [
+        { "lineIndex": 0, "start": 0.5, "end": 1.2, "pause_after": true }
+      ]
+    }
+  }
+}
+```
+
+## Adding Audio
+
+1. Create folder: `mkdir dialogues_audio/{dialogue_id}`
+2. Add audio file: `cp recording.mp3 dialogues_audio/{dialogue_id}/audio.mp3`
+3. Add metadata: Create `metadata.json` with timing info
+4. Ensure `../dialogues.json` has matching dialogue definition
+5. Commit & push → User clicks "Cập nhật dữ liệu" → auto-sync ✓
+
+## Distribution
+
+Two ways files reach users:
+
+1. **Bundled** — included in app release (fallback)
+2. **Live sync** — "Cập nhật dữ liệu" downloads from GitHub into local cache (preferred for updates)
