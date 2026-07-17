@@ -1,4 +1,4 @@
-// Standalone site — no build step, no framework, no dependency on
+// Standalone site. No build step, no framework, no dependency on
 // frontend/electron/backend. Just: mobile nav toggle + current year.
 
 document.getElementById("year").textContent = new Date().getFullYear();

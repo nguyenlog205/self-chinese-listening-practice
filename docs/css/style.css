@@ -1,4 +1,4 @@
-/* Standalone marketing site for 听力练习 — colors copied (not imported) from
+/* Standalone marketing site for 听力练习. Colors copied (not imported) from
    the app's own palette (frontend/src/index.css) to stay on-brand while
    keeping this folder fully independent. */
 
@@ -196,6 +196,7 @@ img, svg {
   display: flex;
   flex-direction: column;
   line-height: 1.2;
+  white-space: nowrap;
 }
 .brand-text strong {
   font-size: 15px;
@@ -218,6 +219,38 @@ img, svg {
 }
 .header-cta {
   flex-shrink: 0;
+}
+.lang-switch {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  flex-shrink: 0;
+  background: var(--surface-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px;
+}
+.lang-switch button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+  padding: 6px 10px;
+  border-radius: 999px;
+  color: var(--text-muted);
+}
+.lang-switch button.is-active {
+  background: var(--surface);
+  color: var(--accent);
+  box-shadow: var(--shadow);
+}
+.lang-switch-mobile {
+  display: none;
+  margin-top: 4px;
+  align-self: flex-start;
 }
 .nav-toggle {
   display: none;
@@ -284,7 +317,7 @@ img, svg {
   color: var(--text-muted);
 }
 
-/* App mockup illustration (no image assets — pure CSS) */
+/* App mockup illustration (no image assets, pure CSS) */
 .mock-window {
   background: var(--surface);
   border-radius: 14px;
@@ -538,6 +571,14 @@ img, svg {
 .download {
   padding: 64px 0;
 }
+.download-cta {
+  text-align: center;
+  margin-bottom: 36px;
+}
+.download-cta-note {
+  margin: 12px 0 0;
+  font-size: 0.85rem;
+}
 .download-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -587,28 +628,31 @@ img, svg {
 }
 .team-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(200px, 260px));
+  grid-template-columns: repeat(2, minmax(280px, 420px));
   gap: 20px;
   justify-content: center;
 }
 .team-card {
+  display: flex;
+  align-items: center;
+  gap: 18px;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 28px;
-  text-align: center;
+  padding: 20px;
+  text-align: left;
   box-shadow: var(--shadow);
 }
 .team-avatar {
-  width: 56px;
-  height: 56px;
-  margin: 0 auto 14px;
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
   border-radius: 50%;
-  display: grid;
-  place-items: center;
-  background: linear-gradient(150deg, var(--accent), #b8352c);
-  color: #fff8f3;
-  font-weight: 700;
+  object-fit: cover;
+  border: 2px solid var(--accent-soft);
+}
+.team-info {
+  min-width: 0;
 }
 .team-card h3 {
   font-size: 1rem;
@@ -616,7 +660,31 @@ img, svg {
 }
 .team-card p {
   font-size: 0.85rem;
-  margin-bottom: 0;
+  margin-bottom: 4px;
+}
+.team-role {
+  color: var(--accent);
+  font-weight: 600;
+}
+.team-school {
+  font-size: 0.76rem;
+  line-height: 1.35;
+  margin-bottom: 10px;
+}
+.team-social {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 5px 14px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+.team-social:hover {
+  background: var(--accent);
+  color: #fff8f3;
 }
 
 /* Footer */
@@ -674,6 +742,12 @@ img, svg {
   }
   .header-cta {
     display: none;
+  }
+  .lang-switch-desktop {
+    display: none;
+  }
+  .lang-switch-mobile {
+    display: flex;
   }
 }
 
