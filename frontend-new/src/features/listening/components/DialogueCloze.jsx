@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayHanzi } from "../../../shared/chineseText";
 
 function pickDialogue(pool, excludeId) {
   const candidates = pool.filter((d) => d.id !== excludeId);
@@ -17,6 +19,7 @@ function blankFor(dialogue, lineIndex) {
 
 export default function DialogueCloze() {
   const { t } = useLanguage();
+  const { scriptMode } = usePreferences();
   const playDialogue = useDialogueAudio();
   const { dialogues, loading, error } = useDialogues();
   const [dialogue, setDialogue] = useState(null);
@@ -82,13 +85,20 @@ export default function DialogueCloze() {
               if (!blank) {
                 return (
                   <p key={i}>
-                    <strong>{line.speaker}:</strong> {line.hanzi}
+                    <strong>{line.speaker}:</strong> {toDisplayHanzi(line.hanzi, scriptMode)}
                   </p>
                 );
               }
+              // Convert the whole line first, then slice by the original
+              // (length-preserving 1:1) indices — converting `before`/`after`
+              // as isolated fragments would drop the neighboring context that
+              // some characters need to pick the right variant (e.g. 以后
+              // -> 以後, but a cut right after 以 would isolate 后 and could
+              // mis-convert it).
               const blankStart = line.hanzi.indexOf(blank.answer);
-              const before = line.hanzi.slice(0, blankStart);
-              const after = line.hanzi.slice(blankStart + blank.answer.length);
+              const displayLine = toDisplayHanzi(line.hanzi, scriptMode);
+              const before = displayLine.slice(0, blankStart);
+              const after = displayLine.slice(blankStart + blank.answer.length);
               const isCorrect = checked && (answers[i] || "").trim() === blank.answer;
               const inputCls = checked ? (isCorrect ? " correct" : " incorrect") : "";
               return (

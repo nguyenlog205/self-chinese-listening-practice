@@ -1,18 +1,6 @@
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { last7DayLabels } from "../../../i18n/locale";
 import { useStreak } from "../../../shared/useStreak";
-
-const LOCALES = { vi: "vi-VN", en: "en-US", zh: "zh-CN" };
-
-function last7DayLabels(language) {
-  const locale = LOCALES[language] ?? LOCALES.vi;
-  const formatter = new Intl.DateTimeFormat(locale, { weekday: "narrow" });
-  const today = new Date();
-  return Array.from({ length: 7 }, (_, i) => {
-    const d = new Date(today);
-    d.setDate(today.getDate() - (6 - i));
-    return formatter.format(d);
-  });
-}
 
 export default function StreakCard() {
   const { t, language } = useLanguage();

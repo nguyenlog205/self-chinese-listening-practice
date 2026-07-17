@@ -9,10 +9,11 @@ import { useSpeak } from "../../../shared/useSpeak";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
 import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 
 export default function DictationPractice() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
   const speak = useSpeak();
   const level = resolveHskLevel(HSK_LEVELS);
   const [learnMode] = useState(getLearnMode);
@@ -92,7 +93,8 @@ export default function DictationPractice() {
                 {result === "incorrect" && (
                   <span className="listening-result-answer">
                     {" "}
-                    — {current.hanzi} {showPinyin && `(${current.pinyin})`}
+                    — {toDisplayHanzi(current.hanzi, scriptMode)}{" "}
+                    {showPinyin && `(${toDisplayPhonetic(current.pinyin, phoneticMode)})`}
                   </span>
                 )}
               </div>
@@ -109,7 +111,7 @@ export default function DictationPractice() {
 
             {revealed && (
               <p className="listening-progress-label">
-                {showPinyin && `${current.pinyin} · `}
+                {showPinyin && `${toDisplayPhonetic(current.pinyin, phoneticMode)} · `}
                 {language === "en" ? current.en : current.vi}
               </p>
             )}

@@ -33,7 +33,8 @@ const STORAGE = {
 
 export default function SettingsPage() {
   const { t, language, setLanguage, languages } = useLanguage();
-  const { showPinyin, setShowPinyin } = usePreferences();
+  const { showPinyin, setShowPinyin, scriptMode, setScriptMode, phoneticMode, setPhoneticMode } =
+    usePreferences();
 
   const [name, setName] = useState(localStorage.getItem(STORAGE.NAME) || "");
   const [hsk, setHsk] = useState(localStorage.getItem(STORAGE.HSK) || "1");
@@ -103,10 +104,17 @@ export default function SettingsPage() {
       clearVocabularyCache();
       clearDialoguesCache();
       const wordCount = Object.values(result.vocabulary).reduce((a, b) => a + b, 0);
-      const audioNote = result.dialogue_audio > 0 ? ` (${result.dialogue_audio} có audio thật)` : "";
+      const audioNote =
+        result.dialogue_audio > 0
+          ? t("settings.dataRefreshAudioNote", { count: result.dialogue_audio })
+          : "";
       setRefreshState({
         status: "success",
-        message: `Đã cập nhật ${wordCount} từ vựng và ${result.dialogues} hội thoại${audioNote}.`,
+        message: t("settings.dataRefreshSuccess", {
+          words: wordCount,
+          dialogues: result.dialogues,
+          audioNote,
+        }),
       });
     } catch (err) {
       setRefreshState({ status: "error", message: err.message });
@@ -116,7 +124,7 @@ export default function SettingsPage() {
   const [resetState, setResetState] = useState({ status: "idle", message: "" });
 
   const handleResetProgress = async () => {
-    if (!window.confirm("Xoá toàn bộ tiến trình học? Hành động này không thể hoàn tác.")) return;
+    if (!window.confirm(t("settings.resetConfirm"))) return;
     setResetState({ status: "loading", message: "" });
     try {
       await Promise.all([ContentApi.resetVocabProgress(), ActivityApi.resetActivity()]);
@@ -158,14 +166,20 @@ export default function SettingsPage() {
 
       {/* Thông tin cá nhân – grid 2 cột */}
       <section className="settings-card">
-        <h2>Thông tin cá nhân</h2>
+        <h2>{t("settings.personalInfoTitle")}</h2>
         <div className="settings-grid">
           <div className="settings-field">
-            <label htmlFor="name">Tên</label>
-            <input id="name" type="text" value={name} onChange={handleName} placeholder="Nhập tên" />
+            <label htmlFor="name">{t("settings.nameLabel")}</label>
+            <input
+              id="name"
+              type="text"
+              value={name}
+              onChange={handleName}
+              placeholder={t("settings.namePlaceholder")}
+            />
           </div>
           <div className="settings-field">
-            <label htmlFor="hsk">Trình độ HSK mong muốn</label>
+            <label htmlFor="hsk">{t("settings.hskLevelLabel")}</label>
             <select id="hsk" value={hsk} onChange={handleHsk}>
               <option value="1">HSK 1</option>
               <option value="2">HSK 2</option>
@@ -177,7 +191,7 @@ export default function SettingsPage() {
             </select>
           </div>
           <div className="settings-field">
-            <label htmlFor="examDate">Ngày thi dự kiến</label>
+            <label htmlFor="examDate">{t("settings.examDateLabel")}</label>
             <input id="examDate" type="date" value={examDate} onChange={handleExamDate} />
           </div>
         </div>
@@ -185,14 +199,14 @@ export default function SettingsPage() {
 
       {/* Cài đặt học tập – grid 2 cột, checkbox chiếm cả 2 */}
       <section className="settings-card">
-        <h2>Cài đặt học tập</h2>
+        <h2>{t("settings.learningSettingsTitle")}</h2>
         <div className="settings-grid">
           <div className="settings-field">
-            <label htmlFor="goal">Mục tiêu từ vựng/ngày</label>
+            <label htmlFor="goal">{t("settings.wordGoalLabel")}</label>
             <input id="goal" type="number" min="0" value={goal} onChange={handleGoal} />
           </div>
           <div className="settings-field">
-            <label htmlFor="sentenceGoal">Số câu mục tiêu</label>
+            <label htmlFor="sentenceGoal">{t("settings.sentenceGoalLabel")}</label>
             <input
               id="sentenceGoal"
               type="number"
@@ -202,18 +216,25 @@ export default function SettingsPage() {
             />
           </div>
           <div className="settings-field">
-            <label htmlFor="rate">Tốc độ phát âm</label>
+            <label htmlFor="rate">{t("settings.rateLabel")}</label>
             <select id="rate" value={rate} onChange={handleRate}>
               <option value="0.8">0.8x</option>
-              <option value="1.0">1.0x</option>
+              <option value="1">1.0x</option>
               <option value="1.2">1.2x</option>
             </select>
           </div>
           <div className="settings-field">
-            <label htmlFor="learnMode">Chế độ học</label>
+            <label htmlFor="learnMode">{t("settings.learnModeLabel")}</label>
             <select id="learnMode" value={learnMode} onChange={handleLearnMode}>
-              <option value="all">Toàn bộ từ vựng</option>
-              <option value="unknown">Chỉ từ chưa biết</option>
+              <option value="all">{t("settings.learnModeAll")}</option>
+              <option value="unknown">{t("settings.learnModeUnknown")}</option>
+            </select>
+          </div>
+          <div className="settings-field">
+            <label htmlFor="scriptMode">{t("settings.scriptModeLabel")}</label>
+            <select id="scriptMode" value={scriptMode} onChange={(e) => setScriptMode(e.target.value)}>
+              <option value="simplified">{t("settings.scriptSimplified")}</option>
+              <option value="traditional">{t("settings.scriptTraditional")}</option>
             </select>
           </div>
           <div className="settings-field checkbox">
@@ -223,13 +244,25 @@ export default function SettingsPage() {
                 checked={showPinyin}
                 onChange={(e) => setShowPinyin(e.target.checked)}
               />
-              Hiển thị pinyin
+              {t("settings.showPhoneticLabel")}
             </label>
+          </div>
+          <div className="settings-field">
+            <label htmlFor="phoneticMode">{t("settings.phoneticModeLabel")}</label>
+            <select
+              id="phoneticMode"
+              value={phoneticMode}
+              onChange={(e) => setPhoneticMode(e.target.value)}
+              disabled={!showPinyin}
+            >
+              <option value="pinyin">{t("settings.phoneticPinyin")}</option>
+              <option value="zhuyin">{t("settings.phoneticZhuyin")}</option>
+            </select>
           </div>
           <div className="settings-field checkbox">
             <label>
               <input type="checkbox" checked={randomOrder} onChange={handleRandomOrder} />
-              Xáo trộn thứ tự từ vựng khi luyện tập
+              {t("settings.randomOrderLabel")}
             </label>
           </div>
         </div>
@@ -237,17 +270,17 @@ export default function SettingsPage() {
 
       {/* Dữ liệu học tập – tải lại từ vựng/hội thoại mới nhất từ GitHub */}
       <section className="settings-card">
-        <h2>Dữ liệu học tập</h2>
-        <p className="settings-card-desc">
-          Tải lại từ vựng và hội thoại mới nhất (nếu có cập nhật trên GitHub).
-        </p>
+        <h2>{t("settings.dataTitle")}</h2>
+        <p className="settings-card-desc">{t("settings.dataDescription")}</p>
         <button
           type="button"
           className="btn-accent"
           onClick={handleRefreshContent}
           disabled={refreshState.status === "loading"}
         >
-          {refreshState.status === "loading" ? "Đang cập nhật..." : "Cập nhật dữ liệu"}
+          {refreshState.status === "loading"
+            ? t("settings.dataRefreshing")
+            : t("settings.dataRefreshButton")}
         </button>
         {refreshState.status === "success" && (
           <p className="settings-refresh-message success">{refreshState.message}</p>
@@ -259,17 +292,15 @@ export default function SettingsPage() {
 
       {/* Vùng nguy hiểm – xoá sạch tiến trình học, không hoàn tác được */}
       <section className="settings-card settings-danger-zone">
-        <h2>Vùng nguy hiểm</h2>
-        <p className="settings-card-desc">
-          Xoá toàn bộ từ đã học, streak, biểu đồ hoạt động và số từ/câu đã luyện. Không thể hoàn tác.
-        </p>
+        <h2>{t("settings.dangerZoneTitle")}</h2>
+        <p className="settings-card-desc">{t("settings.dangerZoneDescription")}</p>
         <button
           type="button"
           className="btn-danger"
           onClick={handleResetProgress}
           disabled={resetState.status === "loading"}
         >
-          {resetState.status === "loading" ? "Đang xoá..." : "Xoá toàn bộ tiến trình"}
+          {resetState.status === "loading" ? t("settings.resetting") : t("settings.resetButton")}
         </button>
         {resetState.status === "error" && (
           <p className="settings-refresh-message error">{resetState.message}</p>

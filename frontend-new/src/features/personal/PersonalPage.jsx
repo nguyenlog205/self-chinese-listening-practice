@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useLanguage } from "../../i18n/LanguageContext";
+import { localeFor, last7DayLabels } from "../../i18n/locale";
 import { useStreak } from "../../shared/useStreak";
 import { useVocabProgress } from "../../shared/useVocabProgress";
 import { useVocabulary } from "../../shared/useVocabulary";
@@ -15,6 +16,7 @@ const STORAGE = {
 export default function PersonalPage() {
   const { t, language } = useLanguage();
   const { streak, loading: streakLoading } = useStreak();
+  const weekdayLabels = last7DayLabels(language, { weekday: "short" });
   const { learned } = useVocabProgress();
   const [editMode, setEditMode] = useState(false);
 
@@ -104,7 +106,9 @@ export default function PersonalPage() {
             </div>
             <div className="info-row">
               <span className="label">{t("personal.examDate")}:</span>
-              <span className="value">{examDate ? new Date(examDate).toLocaleDateString(language === "vi" ? "vi-VN" : language === "en" ? "en-US" : "zh-CN") : t("personal.notSet")}</span>
+              <span className="value">
+                {examDate ? new Date(examDate).toLocaleDateString(localeFor(language)) : t("personal.notSet")}
+              </span>
             </div>
           </div>
         )}
@@ -131,9 +135,9 @@ export default function PersonalPage() {
                 <div
                   key={idx}
                   className={`day-bar${active ? " active" : ""}`}
-                  title={["T2", "T3", "T4", "T5", "T6", "T7", "CN"][idx]}
+                  title={weekdayLabels[idx]}
                 >
-                  {["T2", "T3", "T4", "T5", "T6", "T7", "CN"][idx]}
+                  {weekdayLabels[idx]}
                 </div>
               ))}
             </div>

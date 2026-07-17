@@ -5,10 +5,11 @@ import { Api, STAGE_LABELS } from "../../../shared/lessonsApi";
 import { useLessons } from "../../../shared/useLessons";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 
 export default function YoutubeListening() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
   const { lessons, error, addLesson, deleteLesson } = useLessons();
   const [url, setUrl] = useState("");
   const [selectedId, setSelectedId] = useState(null);
@@ -136,8 +137,12 @@ export default function YoutubeListening() {
               🔊 {t("listening.youtube.playSegment")}
             </button>
 
-            {showText && <p className="listening-practice-text">{segment.text_zh}</p>}
-            {showPinyin && <p className="listening-practice-pinyin">{segment.pinyin}</p>}
+            {showText && (
+              <p className="listening-practice-text">{toDisplayHanzi(segment.text_zh, scriptMode)}</p>
+            )}
+            {showPinyin && (
+              <p className="listening-practice-pinyin">{toDisplayPhonetic(segment.pinyin, phoneticMode)}</p>
+            )}
 
             <div className="listening-toggle-row">
               <label>

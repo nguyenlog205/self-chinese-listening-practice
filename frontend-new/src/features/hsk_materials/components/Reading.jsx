@@ -4,10 +4,11 @@ import { usePreferences } from "../../../shared/PreferencesContext";
 import { HSK_LEVELS, READING_PASSAGES } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
 import { resolveHskLevel } from "../../../shared/userSettings";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 
 export default function Reading() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
   const speak = useSpeak();
   const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [showTranslation, setShowTranslation] = useState(false);
@@ -37,8 +38,10 @@ export default function Reading() {
           </button>
         </div>
 
-        <p className="hsk-reading-hanzi">{passage.hanzi}</p>
-        {showPinyin && <p className="hsk-reading-pinyin">{passage.pinyin}</p>}
+        <p className="hsk-reading-hanzi">{toDisplayHanzi(passage.hanzi, scriptMode)}</p>
+        {showPinyin && (
+          <p className="hsk-reading-pinyin">{toDisplayPhonetic(passage.pinyin, phoneticMode)}</p>
+        )}
 
         <div className="hsk-reading-toggles">
           <button type="button" onClick={() => setShowTranslation((v) => !v)}>

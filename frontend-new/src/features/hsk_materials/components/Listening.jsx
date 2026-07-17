@@ -9,10 +9,11 @@ import { selectPracticeWords } from "../../../shared/practiceWords";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
 import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 
 export default function Listening() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
   const speak = useSpeak();
   const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [learnMode] = useState(getLearnMode);
@@ -114,7 +115,8 @@ export default function Listening() {
                 {result === "incorrect" && (
                   <span className="hsk-result-answer">
                     {" "}
-                    — {current.hanzi} {showPinyin && `(${current.pinyin})`}
+                    — {toDisplayHanzi(current.hanzi, scriptMode)}{" "}
+                    {showPinyin && `(${toDisplayPhonetic(current.pinyin, phoneticMode)})`}
                   </span>
                 )}
               </div>
@@ -131,7 +133,7 @@ export default function Listening() {
 
             {revealed && (
               <p className="hsk-listening-reveal">
-                {showPinyin && `${current.pinyin} · `}
+                {showPinyin && `${toDisplayPhonetic(current.pinyin, phoneticMode)} · `}
                 {language === "en" ? current.en : current.vi}
               </p>
             )}

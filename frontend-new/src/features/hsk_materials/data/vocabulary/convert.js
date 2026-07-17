@@ -9,7 +9,7 @@ const __dirname = path.dirname(__filename);
 // Đọc CSV
 const csv = fs.readFileSync(path.join(__dirname, 'hsk_level_07_09.csv'), 'utf8');
 const lines = csv.split('\n').filter(line => line.trim() !== '');
-const header = lines.shift();
+lines.shift(); // header row
 
 const items = lines.map(line => {
   let parts = line.match(/(".*?"|[^,]+)(?=\s*,|\s*$)/g);
@@ -34,7 +34,7 @@ async function translateAll() {
       result.push({ ...item, vi, en: '' });
       console.log(`✅ ${item.hanzi} -> ${vi}`);
       count++;
-    } catch (e) {
+    } catch {
       result.push({ ...item, vi: '', en: '' });
       console.log(`❌ Lỗi dịch ${item.hanzi}`);
     }

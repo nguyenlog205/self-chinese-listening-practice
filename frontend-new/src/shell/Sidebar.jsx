@@ -36,7 +36,7 @@ export default function Sidebar() {
         <li>
           <NavLink to="/personal">
             <span className="nav-dot" />
-            {t("nav.personal") || "Hồ sơ"}
+            {t("nav.personal")}
           </NavLink>
         </li>
         <li>

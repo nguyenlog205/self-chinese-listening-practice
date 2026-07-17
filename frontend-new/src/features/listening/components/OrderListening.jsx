@@ -9,6 +9,7 @@ import { useSpeak } from "../../../shared/useSpeak";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
 import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 
 // `index` walks `words` round-robin instead of a fresh Math.random() pick
 // each round — see ChoiceListening.jsx for why.
@@ -25,7 +26,7 @@ function shuffleTiles(word) {
 
 export default function OrderListening() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
   const speak = useSpeak();
   const level = resolveHskLevel(HSK_LEVELS);
   const [learnMode] = useState(getLearnMode);
@@ -58,6 +59,16 @@ export default function OrderListening() {
 
   const placedTiles = placed.map((id) => tiles.find((tl) => tl.id === id));
   const poolTiles = tiles.filter((tl) => !placed.includes(tl.id));
+
+  // Converted as a whole word, not tile-by-tile: some characters change
+  // differently depending on their neighbors (e.g. 后 alone -> 後, but 皇后
+  // "empress" stays 皇后; 干净 -> 乾淨 but 干活 -> 幹活), so converting each
+  // already-split tile in isolation silently picks the wrong variant.
+  const displayChars = useMemo(
+    () => (word ? toDisplayHanzi(word.hanzi, scriptMode).split("") : []),
+    [word, scriptMode]
+  );
+  const displayFor = (tl) => displayChars[Number(tl.id.split("-")[0])] ?? tl.char;
 
   const placeTile = (id) => {
     if (result) return;
@@ -116,7 +127,7 @@ export default function OrderListening() {
                   onClick={() => removeTile(tl.id)}
                   disabled={!!result}
                 >
-                  {tl.char}
+                  {displayFor(tl)}
                 </button>
               ))}
             </div>
@@ -130,7 +141,7 @@ export default function OrderListening() {
                   onClick={() => placeTile(tl.id)}
                   disabled={!!result}
                 >
-                  {tl.char}
+                  {displayFor(tl)}
                 </button>
               ))}
             </div>
@@ -141,7 +152,9 @@ export default function OrderListening() {
                 {result === "incorrect" && (
                   <span className="listening-result-answer">
                     {" "}
-                    — {word.hanzi} {showPinyin && `(${word.pinyin})`} · {language === "en" ? word.en : word.vi}
+                    — {toDisplayHanzi(word.hanzi, scriptMode)}{" "}
+                    {showPinyin && `(${toDisplayPhonetic(word.pinyin, phoneticMode)})`} ·{" "}
+                    {language === "en" ? word.en : word.vi}
                   </span>
                 )}
               </div>

@@ -6,12 +6,13 @@ import { useSpeak } from "../../../shared/useSpeak";
 import { useVocabulary } from "../../../shared/useVocabulary";
 import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { resolveHskLevel } from "../../../shared/userSettings";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 
 const PAGE_SIZE = 50;
 
 export default function Vocabulary() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
   const speak = useSpeak();
   const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [query, setQuery] = useState("");
@@ -83,8 +84,10 @@ export default function Vocabulary() {
             className={`hsk-word-card${learned.has(word.hanzi) ? " learned" : ""}`}
           >
             <div className="hsk-word-main" onClick={() => speak(word.hanzi)}>
-              <span className="hsk-word-hanzi">{word.hanzi}</span>
-              {showPinyin && <span className="hsk-word-pinyin">{word.pinyin}</span>}
+              <span className="hsk-word-hanzi">{toDisplayHanzi(word.hanzi, scriptMode)}</span>
+              {showPinyin && (
+                <span className="hsk-word-pinyin">{toDisplayPhonetic(word.pinyin, phoneticMode)}</span>
+              )}
               <span className="hsk-word-meaning">
                 {language === "en" ? word.en : word.vi}
               </span>

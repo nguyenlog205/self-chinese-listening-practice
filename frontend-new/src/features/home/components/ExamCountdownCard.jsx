@@ -1,8 +1,7 @@
 import { Link } from "react-router-dom";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { localeFor } from "../../../i18n/locale";
 import { getExamDate, getHskGoal } from "../../../shared/userSettings";
-
-const LOCALES = { vi: "vi-VN", en: "en-US", zh: "zh-CN" };
 
 function daysUntil(dateStr) {
   const target = new Date(`${dateStr}T00:00:00`);
@@ -29,7 +28,7 @@ export default function ExamCountdownCard() {
   }
 
   const days = daysUntil(examDate);
-  const locale = LOCALES[language] ?? LOCALES.vi;
+  const locale = localeFor(language);
   const formattedDate = new Intl.DateTimeFormat(locale, {
     day: "numeric",
     month: "long",

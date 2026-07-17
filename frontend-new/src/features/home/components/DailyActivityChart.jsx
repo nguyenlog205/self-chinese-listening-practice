@@ -1,7 +1,6 @@
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { localeFor } from "../../../i18n/locale";
 import { useDailyActivity } from "../../../shared/useDailyActivity";
-
-const LOCALES = { vi: "vi-VN", en: "en-US", zh: "zh-CN" };
 
 function levelFor(count) {
   if (count === 0) return 0;
@@ -34,7 +33,7 @@ function monthLabelFor(week, locale) {
 export default function DailyActivityChart() {
   const { t, language } = useLanguage();
   const { days } = useDailyActivity();
-  const locale = LOCALES[language] ?? LOCALES.vi;
+  const locale = localeFor(language);
   const weeks = buildWeeks(days);
   const total = days.reduce((sum, d) => sum + d.count, 0);
   const dateFormatter = new Intl.DateTimeFormat(locale, { day: "numeric", month: "short" });

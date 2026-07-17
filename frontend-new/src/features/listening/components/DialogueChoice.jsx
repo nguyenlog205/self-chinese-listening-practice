@@ -1,9 +1,11 @@
 import { useEffect, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
+import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayHanzi } from "../../../shared/chineseText";
 
 function pickDialogue(pool, excludeId) {
   const candidates = pool.filter((d) => d.id !== excludeId);
@@ -13,6 +15,7 @@ function pickDialogue(pool, excludeId) {
 
 export default function DialogueChoice() {
   const { t, language } = useLanguage();
+  const { scriptMode } = usePreferences();
   const playDialogue = useDialogueAudio();
   const { dialogues, loading, error } = useDialogues();
   const [dialogue, setDialogue] = useState(null);
@@ -76,7 +79,7 @@ export default function DialogueChoice() {
               <div className="listening-dialogue-script">
                 {dialogue.lines.map((line, i) => (
                   <p key={i}>
-                    <strong>{line.speaker}:</strong> {line.hanzi}
+                    <strong>{line.speaker}:</strong> {toDisplayHanzi(line.hanzi, scriptMode)}
                   </p>
                 ))}
               </div>

@@ -9,10 +9,11 @@ import { buildQuiz } from "../../../shared/buildQuiz";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
 import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import { toDisplayPhonetic } from "../../../shared/chineseText";
 
 export default function MockTest() {
   const { t, language } = useLanguage();
-  const { showPinyin } = usePreferences();
+  const { showPinyin, phoneticMode } = usePreferences();
   const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [learnMode] = useState(getLearnMode);
   const [randomOrder] = useState(getRandomOrder);
@@ -108,7 +109,9 @@ export default function MockTest() {
               {t("hsk.mocktest.question")} {index + 1}/{quiz.length}
             </div>
             <p className="hsk-mocktest-prompt">{t("hsk.mocktest.prompt")}</p>
-            {showPinyin && <p className="hsk-mocktest-pinyin">{question.pinyin}</p>}
+            {showPinyin && (
+              <p className="hsk-mocktest-pinyin">{toDisplayPhonetic(question.pinyin, phoneticMode)}</p>
+            )}
 
             <div className="hsk-mocktest-options">
               {question.options.map((option) => {
