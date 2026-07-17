@@ -1,0 +1,25 @@
+{
+  "id": "d3",
+  "audio_file": "audio.mp3",
+  "duration_sec": 14.2,
+  "exercises": {
+    "choice": {
+      "play_mode": "full",
+      "timings": {
+        "start": 0,
+        "end": 14.2
+      }
+    },
+    "cloze": {
+      "play_mode": "with_gaps",
+      "gaps": [
+        {
+          "lineIndex": 0,
+          "start": 1.0,
+          "end": 2.5,
+          "pause_after": true
+        }
+      ]
+    }
+  }
+}

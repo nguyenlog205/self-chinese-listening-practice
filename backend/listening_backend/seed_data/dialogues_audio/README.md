@@ -51,6 +51,15 @@ Exercise-specific timing and play modes. See `../CONVENTION.md` for schema.
 4. Ensure `../dialogues.json` has matching dialogue definition
 5. Commit & push → User clicks "Cập nhật dữ liệu" → auto-sync ✓
 
+## Exercise Type Examples
+
+- **[DIALOGUE_CHOICE_EXAMPLE.md](DIALOGUE_CHOICE_EXAMPLE.md)** — Multiple choice setup (d1)
+  - Full audio playback, no special timing needed
+- **[DIALOGUE_CLOZE_EXAMPLE.md](DIALOGUE_CLOZE_EXAMPLE.md)** — Fill-the-blank setup (d2)
+  - Gap timing for auto-pause at blanks
+
+Existing examples: `d1/`, `d2/`, `d3/`, `d4/`
+
 ## Distribution
 
 Two ways files reach users:
