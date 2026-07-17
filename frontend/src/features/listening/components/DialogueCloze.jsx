@@ -3,33 +3,41 @@ import { useLanguage } from "../../../i18n/LanguageContext";
 import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
+import { useDialogueExercises } from "../../../shared/useDialogueExercises";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi } from "../../../shared/chineseText";
 
-function pickDialogue(pool, excludeId) {
-  const candidates = pool.filter((d) => d.id !== excludeId);
+function pickExercise(pool, excludeId) {
+  const candidates = pool.filter((e) => e.id !== excludeId);
   const from = candidates.length > 0 ? candidates : pool;
   return from[Math.floor(Math.random() * from.length)];
 }
 
-function blankFor(dialogue, lineIndex) {
-  return dialogue.blanks.find((b) => b.lineIndex === lineIndex);
+function blankFor(exercise, lineIndex) {
+  return exercise.blanks.find((b) => b.lineIndex === lineIndex);
 }
 
 export default function DialogueCloze() {
   const { t } = useLanguage();
   const { scriptMode } = usePreferences();
   const playDialogue = useDialogueAudio();
-  const { dialogues, loading, error } = useDialogues();
-  const [dialogue, setDialogue] = useState(null);
+  const { dialogues, loading: dialoguesLoading, error: dialoguesError } = useDialogues();
+  const {
+    exercises,
+    loading: exercisesLoading,
+    error: exercisesError,
+  } = useDialogueExercises("cloze");
+  const [exercise, setExercise] = useState(null);
   const [answers, setAnswers] = useState({});
   const [checked, setChecked] = useState(false);
 
   useEffect(() => {
-    if (dialogues.length > 0 && !dialogue) setDialogue(pickDialogue(dialogues));
+    if (exercises.length > 0 && !exercise) setExercise(pickExercise(exercises));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [dialogues]);
+  }, [exercises]);
+
+  const dialogue = exercise && dialogues.find((d) => d.id === exercise.audio_id);
 
   const play = () => playDialogue(dialogue);
 
@@ -38,40 +46,44 @@ export default function DialogueCloze() {
   };
 
   const allFilled =
-    !!dialogue && dialogue.blanks.every((b) => (answers[b.lineIndex] || "").trim().length > 0);
+    !!exercise && exercise.blanks.every((b) => (answers[b.lineIndex] || "").trim().length > 0);
 
   const check = () => {
     setChecked(true);
     logSentencePractice();
-    const isCorrect = dialogue.blanks.every(
+    const isCorrect = exercise.blanks.every(
       (b) => (answers[b.lineIndex] || "").trim() === b.answer
     );
     ActivityApi.logEvent({
       mode: "dialogue_cloze",
       item_type: "dialogue",
-      item_id: dialogue.id,
+      item_id: exercise.audio_id,
       level: null,
       is_correct: isCorrect,
     });
   };
 
   const next = () => {
-    setDialogue((d) => pickDialogue(dialogues, d.id));
+    setExercise((e) => pickExercise(exercises, e.id));
     setAnswers({});
     setChecked(false);
   };
 
   const allCorrect =
     checked &&
-    !!dialogue &&
-    dialogue.blanks.every((b) => (answers[b.lineIndex] || "").trim() === b.answer);
+    !!exercise &&
+    exercise.blanks.every((b) => (answers[b.lineIndex] || "").trim() === b.answer);
 
   return (
     <div className="listening-panel">
-      {loading && <p className="listening-progress-label">{t("common.loading")}</p>}
-      {error && <p className="listening-banner">{error}</p>}
+      {(dialoguesLoading || exercisesLoading) && (
+        <p className="listening-progress-label">{t("common.loading")}</p>
+      )}
+      {(dialoguesError || exercisesError) && (
+        <p className="listening-banner">{dialoguesError || exercisesError}</p>
+      )}
 
-      {dialogue && (
+      {dialogue && exercise && (
         <div className="listening-card">
           <p className="listening-progress-label">{t("listening.dialogueCloze.hint")}</p>
 
@@ -81,7 +93,7 @@ export default function DialogueCloze() {
 
           <div className="listening-dialogue-script">
             {dialogue.lines.map((line, i) => {
-              const blank = blankFor(dialogue, i);
+              const blank = blankFor(exercise, i);
               if (!blank) {
                 return (
                   <p key={i}>

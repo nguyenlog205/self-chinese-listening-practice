@@ -50,16 +50,22 @@ $PythonExe = Join-Path $VenvDir "Scripts\python.exe"
 # interrupted partway through the much longer `pip install`, a bare
 # directory-existence check would wrongly treat that half-installed venv as
 # done on the next launch.
+#
+# The marker stores a hash of pyproject.toml, not just a bare touch: if the
+# app is upgraded and pyproject.toml's dependencies change, a marker left
+# over from an older install must not cause the new dependencies to be
+# silently skipped.
 $Marker = Join-Path $VenvDir ".install-complete"
+$DepsHash = (Get-FileHash -Path (Join-Path $SourceForInstall "pyproject.toml") -Algorithm SHA256).Hash
 
-if (-not (Test-Path $Marker)) {
+if (-not (Test-Path $Marker) -or (Get-Content -Raw $Marker).Trim() -ne $DepsHash) {
     Write-Host "Setting up backend virtual environment (first run only)..."
     if (-not (Test-Path $VenvDir)) {
         python -m venv $VenvDir
     }
     & $PythonExe -m pip install --upgrade pip
     & $PythonExe -m pip install -e $SourceForInstall
-    New-Item -ItemType File -Force -Path $Marker | Out-Null
+    Set-Content -Path $Marker -Value $DepsHash -NoNewline
 }
 
 & $PythonExe -m listening_backend.main

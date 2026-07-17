@@ -48,6 +48,32 @@ class DialogueOut(BaseModel):
     id: str
     level: str
     lines: list[DialogueLine]
+
+
+class ChoiceExerciseOut(BaseModel):
+    id: str
+    audio_id: str
+    lines_from_dialogue: list[int]
     question: DialogueQuestion
     options: list[DialogueOption]
+
+
+class ClozeExerciseOut(BaseModel):
+    id: str
+    audio_id: str
+    lines_from_dialogue: list[int]
     blanks: list[DialogueBlank]
+
+
+class DictationExerciseOut(BaseModel):
+    id: str
+    audio_id: str
+    lines_from_dialogue: list[int]
+    target_line: int
+
+
+class AudioMetadataOut(BaseModel):
+    id: str
+    audio_file: str
+    duration_sec: float
+    exercises: dict

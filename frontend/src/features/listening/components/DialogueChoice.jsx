@@ -3,12 +3,13 @@ import { useLanguage } from "../../../i18n/LanguageContext";
 import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
+import { useDialogueExercises } from "../../../shared/useDialogueExercises";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi } from "../../../shared/chineseText";
 
-function pickDialogue(pool, excludeId) {
-  const candidates = pool.filter((d) => d.id !== excludeId);
+function pickExercise(pool, excludeId) {
+  const candidates = pool.filter((e) => e.id !== excludeId);
   const from = candidates.length > 0 ? candidates : pool;
   return from[Math.floor(Math.random() * from.length)];
 }
@@ -17,16 +18,23 @@ export default function DialogueChoice() {
   const { t, language } = useLanguage();
   const { scriptMode } = usePreferences();
   const playDialogue = useDialogueAudio();
-  const { dialogues, loading, error } = useDialogues();
-  const [dialogue, setDialogue] = useState(null);
+  const { dialogues, loading: dialoguesLoading, error: dialoguesError } = useDialogues();
+  const {
+    exercises,
+    loading: exercisesLoading,
+    error: exercisesError,
+  } = useDialogueExercises("choice");
+  const [exercise, setExercise] = useState(null);
   const [revealed, setRevealed] = useState(false);
   const [selected, setSelected] = useState(null);
   const [score, setScore] = useState({ correct: 0, total: 0 });
 
   useEffect(() => {
-    if (dialogues.length > 0 && !dialogue) setDialogue(pickDialogue(dialogues));
+    if (exercises.length > 0 && !exercise) setExercise(pickExercise(exercises));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [dialogues]);
+  }, [exercises]);
+
+  const dialogue = exercise && dialogues.find((d) => d.id === exercise.audio_id);
 
   const play = () => playDialogue(dialogue);
 
@@ -41,24 +49,27 @@ export default function DialogueChoice() {
     ActivityApi.logEvent({
       mode: "dialogue_choice",
       item_type: "dialogue",
-      item_id: dialogue.id,
+      item_id: exercise.audio_id,
       level: null,
       is_correct: option.correct,
     });
   };
 
   const next = () => {
-    setDialogue((d) => pickDialogue(dialogues, d.id));
+    setExercise((e) => pickExercise(exercises, e.id));
     setSelected(null);
     setRevealed(false);
   };
+
+  const loading = dialoguesLoading || exercisesLoading;
+  const error = dialoguesError || exercisesError;
 
   return (
     <div className="listening-panel">
       {loading && <p className="listening-progress-label">{t("common.loading")}</p>}
       {error && <p className="listening-banner">{error}</p>}
 
-      {dialogue && (
+      {dialogue && exercise && (
         <>
           <div className="listening-card">
             <p className="listening-progress-label">{t("listening.dialogueChoice.hint")}</p>
@@ -86,11 +97,11 @@ export default function DialogueChoice() {
             )}
 
             <p className="listening-practice-text">
-              {language === "en" ? dialogue.question.en : dialogue.question.vi}
+              {language === "en" ? exercise.question.en : exercise.question.vi}
             </p>
 
             <div className="listening-choice-options">
-              {dialogue.options.map((option) => {
+              {exercise.options.map((option) => {
                 const isSelected = selected === option;
                 let cls = "listening-choice-option";
                 if (selected) {

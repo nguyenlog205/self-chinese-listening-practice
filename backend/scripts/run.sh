@@ -36,16 +36,22 @@ fi
 # interrupted (app closed, network drop) partway through the much longer
 # `pip install`, a bare directory-existence check would wrongly treat that
 # half-installed venv as done on the next launch.
+#
+# The marker stores a hash of pyproject.toml, not just a bare touch: if the
+# app is upgraded and pyproject.toml's dependencies change, a marker left
+# over from an older install must not cause the new dependencies to be
+# silently skipped.
 MARKER="$VENV_DIR/.install-complete"
+DEPS_HASH="$(sha256sum "$SOURCE_FOR_INSTALL/pyproject.toml" | cut -d' ' -f1)"
 
-if [ ! -f "$MARKER" ]; then
+if [ ! -f "$MARKER" ] || [ "$(cat "$MARKER")" != "$DEPS_HASH" ]; then
   echo "Setting up backend virtual environment (first run only)..." >&2
   if [ ! -d "$VENV_DIR" ]; then
     python3 -m venv "$VENV_DIR"
   fi
   "$VENV_DIR/bin/pip" install --upgrade pip >&2
   "$VENV_DIR/bin/pip" install -e "$SOURCE_FOR_INSTALL" >&2
-  touch "$MARKER"
+  echo "$DEPS_HASH" > "$MARKER"
 fi
 
 exec "$VENV_DIR/bin/python" -m listening_backend.main

@@ -136,9 +136,6 @@ def test_refresh_content_imports_vocab_and_dialogues(urlopen_map, conn):
         "id": "d1",
         "level": 1,
         "lines": [{"speaker": "A", "hanzi": "你好", "pinyin": "nǐ hǎo"}],
-        "question": {"vi": "?", "en": "?", "zh": "？"},
-        "options": [{"vi": "a", "en": "a", "correct": True}],
-        "blanks": [],
     }
     urlopen_map[_dialogues_url()] = lambda: _FakeResponse(_json_bytes([dialogue]))
     _stub_no_audio_metadata_or_exercises(urlopen_map, ["d1"])
@@ -166,11 +163,10 @@ def test_refresh_content_imports_vocab_and_dialogues(urlopen_map, conn):
 
 def test_refresh_content_rejects_dialogue_missing_required_keys(urlopen_map, conn):
     _stub_all_vocab_levels_empty(urlopen_map)
-    # current seed_data/dialogues.json no longer has question/options/blanks —
-    # this is exactly what makes "Cập nhật dữ liệu" fail today, see
-    # test_content_seed.py::test_real_dialogues_json_matches_sync_requirements
+    # missing "lines" -- REQUIRED_DIALOGUE_KEYS is just {id, level, lines}
+    # now that question/options/blanks live in dialogue_exercises/ instead.
     urlopen_map[_dialogues_url()] = lambda: _FakeResponse(
-        _json_bytes([{"id": "d1", "level": 1, "lines": []}])
+        _json_bytes([{"id": "d1", "level": 1}])
     )
     with pytest.raises(ContentSyncError, match="thiếu trường bắt buộc"):
         refresh_content(conn)
@@ -283,9 +279,6 @@ def test_refresh_content_syncs_audio_metadata_and_all_exercise_kinds(urlopen_map
         "id": "d1",
         "level": 1,
         "lines": [{"speaker": "A", "hanzi": "你好", "pinyin": "nǐ hǎo"}],
-        "question": {"vi": "?", "en": "?", "zh": "？"},
-        "options": [{"vi": "a", "en": "a", "correct": True}],
-        "blanks": [],
     }
     urlopen_map[_dialogues_url()] = lambda: _FakeResponse(_json_bytes([dialogue]))
 

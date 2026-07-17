@@ -48,15 +48,7 @@ def seed_if_empty(db_path: Path) -> None:
                         (
                             d["id"],
                             str(d["level"]),
-                            json.dumps(
-                                {
-                                    "lines": d["lines"],
-                                    "question": d["question"],
-                                    "options": d["options"],
-                                    "blanks": d["blanks"],
-                                },
-                                ensure_ascii=False,
-                            ),
+                            json.dumps({"lines": d["lines"]}, ensure_ascii=False),
                         )
                         for d in dialogues
                     ],

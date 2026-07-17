@@ -17,6 +17,7 @@ import { ContentApi } from "../../shared/contentApi";
 import { ActivityApi } from "../../shared/activityApi";
 import { clearVocabularyCache } from "../../shared/useVocabulary";
 import { clearDialoguesCache } from "../../shared/useDialogues";
+import { clearDialogueExercisesCache } from "../../shared/useDialogueExercises";
 import { clearVocabProgressCache } from "../../shared/useVocabProgress";
 import { resetLocalProgress } from "../../shared/localProgress";
 
@@ -103,6 +104,7 @@ export default function SettingsPage() {
       const result = await ContentApi.refreshContent();
       clearVocabularyCache();
       clearDialoguesCache();
+      clearDialogueExercisesCache();
       const wordCount = Object.values(result.vocabulary).reduce((a, b) => a + b, 0);
       const audioNote =
         result.dialogue_audio > 0

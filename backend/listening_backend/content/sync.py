@@ -35,7 +35,7 @@ SEED_DIALOGUES_AUDIO_DIR = BACKEND_DIR / "listening_backend" / "seed_data" / "di
 VOCAB_LEVELS = ["1", "2", "3", "4", "5", "6", "7-9"]
 
 REQUIRED_WORD_KEYS = {"hanzi", "pinyin"}
-REQUIRED_DIALOGUE_KEYS = {"id", "level", "lines", "question", "options", "blanks"}
+REQUIRED_DIALOGUE_KEYS = {"id", "level", "lines"}
 
 
 class ContentSyncError(RuntimeError):
@@ -175,6 +175,8 @@ def refresh_content(conn) -> dict:
         if not isinstance(d, dict) or not REQUIRED_DIALOGUE_KEYS.issubset(d):
             raise ContentSyncError(f"Hội thoại thiếu trường bắt buộc: {d.get('id', '?')!r}")
 
+    dialogue_ids = {d["id"] for d in dialogues}
+
     conn.execute("DELETE FROM dialogues")
     conn.executemany(
         "INSERT INTO dialogues (id, level, data) VALUES (?, ?, ?)",
@@ -182,21 +184,12 @@ def refresh_content(conn) -> dict:
             (
                 d["id"],
                 str(d["level"]),
-                json.dumps(
-                    {
-                        "lines": d["lines"],
-                        "question": d["question"],
-                        "options": d["options"],
-                        "blanks": d["blanks"],
-                    },
-                    ensure_ascii=False,
-                ),
+                json.dumps({"lines": d["lines"]}, ensure_ascii=False),
             )
             for d in dialogues
         ],
     )
     result["dialogues"] = len(dialogues)
-    dialogue_ids = {d["id"] for d in dialogues}
 
     audio_meta_items = [
         item for d in dialogues if (item := _fetch_audio_metadata(d["id"])) is not None

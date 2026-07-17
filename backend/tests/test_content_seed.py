@@ -1,26 +1,18 @@
-"""content/seed.py against the REAL bundled seed_data/ (not a fixture) —
+"""content/seed.py against the REAL bundled seed_data/ (not a fixture) --
 catches drift between the seed files and the code that loads them.
 
-Known bug (tracked, not fixed here — see docs/learning_material_update_feature.md):
-after "refactor: separate exercises from dialogue definitions" (ec3fe19),
-seed_data/dialogues.json entries only have {id, level, lines}, but
-content/seed.py and content/sync.py still read d["question"]/d["options"]/
-d["blanks"] unconditionally. A fresh install (empty DB) crashes with
-KeyError while seeding dialogues, and clicking "Cập nhật dữ liệu" fails
-every time with ContentSyncError, because REQUIRED_DIALOGUE_KEYS still
-requires those fields too. This currently goes unnoticed because already-
-running installs seeded before the refactor still have the old shape sitting
-in their `dialogues` table (seed_if_empty only fills empty tables).
-Fixing it for real means finishing the dialogue_exercises loading feature
-described in that doc, not just patching this schema check.
-"""
+After "refactor: separate exercises from dialogue definitions" (ec3fe19),
+seed_data/dialogues.json entries only have {id, level, lines};
+question/options/blanks live in dialogue_exercises/{choice,cloze}/*.json
+instead, served independently via content/exercises_router.py (see
+test_exercises_router.py) -- content/seed.py and content/sync.py were
+updated to match, dropping question/options/blanks from the dialogues
+table entirely."""
 
 from __future__ import annotations
 
 import json
 import sqlite3
-
-import pytest
 
 from listening_backend.content.seed import SEED_DATA_DIR, seed_if_empty
 from listening_backend.content.sync import REQUIRED_DIALOGUE_KEYS
@@ -34,27 +26,18 @@ def test_real_seed_vocabulary_files_have_required_fields():
             assert "hanzi" in w and "pinyin" in w, f"{path.name}: {w!r} missing hanzi/pinyin"
 
 
-@pytest.mark.xfail(
-    reason=(
-        "seed_data/dialogues.json no longer carries question/options/blanks "
-        "(split into seed_data/dialogue_exercises/), but content/seed.py "
-        "still requires them — fresh installs currently crash seeding "
-        "dialogues. Fix belongs to the dialogue_exercises loading feature, "
-        "see docs/learning_material_update_feature.md."
-    ),
-    strict=True,
-)
 def test_seed_if_empty_loads_real_dialogues_json(db_path):
     seed_if_empty(db_path)
 
+    with sqlite3.connect(db_path) as conn:
+        conn.row_factory = sqlite3.Row
+        count = conn.execute("SELECT COUNT(*) c FROM dialogues").fetchone()["c"]
+        sample = conn.execute("SELECT data FROM dialogues WHERE id = 'd1'").fetchone()
 
-@pytest.mark.xfail(
-    reason=(
-        "Same schema drift as test_seed_if_empty_loads_real_dialogues_json: "
-        "real dialogues.json entries no longer satisfy REQUIRED_DIALOGUE_KEYS."
-    ),
-    strict=True,
-)
+    assert count > 0
+    assert "lines" in json.loads(sample["data"])
+
+
 def test_real_dialogues_json_matches_sync_requirements():
     dialogues = json.loads((SEED_DATA_DIR / "dialogues.json").read_text(encoding="utf-8"))
     for d in dialogues:
@@ -62,18 +45,6 @@ def test_real_dialogues_json_matches_sync_requirements():
 
 
 def test_seed_exercises_and_audio_metadata_from_real_seed_data(db_path):
-    # Pre-populate `dialogues` directly, bypassing the known-broken
-    # dialogues-seeding path above (out of scope here, see the two xfail
-    # tests) — exercises/audio-metadata seeding only needs the referenced
-    # dialogue ids to already exist, not how they got there.
-    dialogues = json.loads((SEED_DATA_DIR / "dialogues.json").read_text(encoding="utf-8"))
-    with sqlite3.connect(db_path) as setup_conn:
-        setup_conn.executemany(
-            "INSERT INTO dialogues (id, level, data) VALUES (?, ?, ?)",
-            [(d["id"], str(d["level"]), json.dumps({"lines": d["lines"]})) for d in dialogues],
-        )
-        setup_conn.commit()
-
     seed_if_empty(db_path)
 
     with sqlite3.connect(db_path) as conn:

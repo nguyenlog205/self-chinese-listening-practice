@@ -1,12 +1,27 @@
 from __future__ import annotations
 
+import json
+
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import FileResponse
 
 from ..config import DIALOGUE_AUDIO_CACHE_DIR
+from ..db import get_conn
+from .models import AudioMetadataOut
 from .sync import SEED_DIALOGUES_AUDIO_DIR
 
 router = APIRouter(prefix="/api/dialogues", tags=["dialogues"])
+
+
+@router.get("/{dialogue_id}/audio/metadata", response_model=AudioMetadataOut)
+def get_dialogue_audio_metadata(dialogue_id: str) -> AudioMetadataOut:
+    with get_conn() as conn:
+        row = conn.execute(
+            "SELECT id, data FROM dialogues_audio_metadata WHERE id = ?", (dialogue_id,)
+        ).fetchone()
+    if row is None:
+        raise HTTPException(status_code=404, detail="No audio metadata for this dialogue yet")
+    return AudioMetadataOut(id=row["id"], **json.loads(row["data"]))
 
 
 @router.get("/{dialogue_id}/audio")

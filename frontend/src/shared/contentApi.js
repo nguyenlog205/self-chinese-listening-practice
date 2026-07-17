@@ -8,6 +8,13 @@ export const ContentApi = {
   listVocabulary: (level) => apiFetch(`/api/vocabulary?level=${encodeURIComponent(level)}`),
   listDialogues: (level) =>
     apiFetch(`/api/dialogues${level ? `?level=${encodeURIComponent(level)}` : ""}`),
+  // Exercises are stored independently of dialogues (kind: choice/cloze/
+  // dictation) and joined only through audio_id, so the same audio can back
+  // multiple exercises. See content/exercises_router.py.
+  listDialogueExercises: (kind, level) =>
+    apiFetch(
+      `/api/dialogue-exercises/${kind}${level ? `?level=${encodeURIComponent(level)}` : ""}`
+    ),
   // Re-downloads vocabulary/dialogues from the seed_data JSON on GitHub and
   // replaces the backend's tables. Returns { vocabulary: {level: count}, dialogues: count }.
   refreshContent: () => apiFetch("/api/content/refresh", { method: "POST" }),
