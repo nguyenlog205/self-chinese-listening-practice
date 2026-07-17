@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { useSpeakSequence } from "../../../shared/useSpeak";
+import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
@@ -13,7 +13,7 @@ function pickDialogue(pool, excludeId) {
 
 export default function DialogueChoice() {
   const { t, language } = useLanguage();
-  const speakSequence = useSpeakSequence();
+  const playDialogue = useDialogueAudio();
   const { dialogues, loading, error } = useDialogues();
   const [dialogue, setDialogue] = useState(null);
   const [revealed, setRevealed] = useState(false);
@@ -25,7 +25,7 @@ export default function DialogueChoice() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [dialogues]);
 
-  const play = () => speakSequence(dialogue.lines.map((l) => l.hanzi));
+  const play = () => playDialogue(dialogue);
 
   const choose = (option) => {
     if (selected) return;

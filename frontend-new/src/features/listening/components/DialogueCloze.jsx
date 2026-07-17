@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { useSpeakSequence } from "../../../shared/useSpeak";
+import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
 import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
@@ -17,7 +17,7 @@ function blankFor(dialogue, lineIndex) {
 
 export default function DialogueCloze() {
   const { t } = useLanguage();
-  const speakSequence = useSpeakSequence();
+  const playDialogue = useDialogueAudio();
   const { dialogues, loading, error } = useDialogues();
   const [dialogue, setDialogue] = useState(null);
   const [answers, setAnswers] = useState({});
@@ -28,7 +28,7 @@ export default function DialogueCloze() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [dialogues]);
 
-  const play = () => speakSequence(dialogue.lines.map((l) => l.hanzi));
+  const play = () => playDialogue(dialogue);
 
   const setAnswer = (lineIndex, value) => {
     setAnswers((a) => ({ ...a, [lineIndex]: value }));

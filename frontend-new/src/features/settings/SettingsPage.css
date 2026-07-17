@@ -141,3 +141,33 @@
   color: var(--accent);
 }
 
+/* DANGER ZONE */
+.settings-danger-zone {
+  border-color: rgba(var(--accent-rgb), 0.4);
+}
+
+.btn-danger {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 11px 18px;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  background: transparent;
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.12s ease, color 0.12s ease;
+}
+
+.btn-danger:hover {
+  background: var(--accent);
+  color: #fff8f3;
+}
+
+.btn-danger:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+

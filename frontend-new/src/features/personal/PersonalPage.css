@@ -1,0 +1,311 @@
+.personal-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.personal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+  border-bottom: 2px solid var(--border);
+  padding-bottom: 20px;
+}
+
+.personal-header h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0;
+}
+
+.btn-edit {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 16px;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+
+.btn-edit:hover {
+  background: var(--accent);
+  color: #fff8f3;
+}
+
+/* Card Section */
+.personal-card {
+  margin-bottom: 24px;
+  padding: 20px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg-secondary);
+}
+
+.personal-card h2 {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 16px 0;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Personal Info View Mode */
+.personal-info-view {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+}
+
+.info-row .label {
+  font-weight: 600;
+  color: var(--text-muted);
+  flex: 0 0 140px;
+}
+
+.info-row .value {
+  color: var(--text);
+  font-size: 14px;
+}
+
+/* Personal Info Edit Mode */
+.personal-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-group label {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.form-group input,
+.form-group select {
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(var(--accent-rgb), 0.1);
+}
+
+.form-actions {
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  margin-top: 12px;
+}
+
+.btn-save,
+.btn-cancel {
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+
+.btn-save {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff8f3;
+}
+
+.btn-save:hover {
+  opacity: 0.9;
+}
+
+.btn-cancel:hover {
+  border-color: var(--accent);
+  background: var(--bg-secondary);
+}
+
+/* Streak Section */
+.streak-info {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 20px;
+}
+
+.streak-stat {
+  flex: 1;
+  text-align: center;
+  padding: 16px;
+  background: var(--bg);
+  border-radius: 10px;
+}
+
+.stat-value {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.weekly-chart {
+  margin-top: 20px;
+}
+
+.weekly-chart h3 {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin: 0 0 12px 0;
+}
+
+.weekly-bars {
+  display: flex;
+  gap: 8px;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.day-bar {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  background: var(--bg);
+  color: var(--text-muted);
+  font-size: 11px;
+  font-weight: 600;
+  min-height: 80px;
+  justify-content: flex-end;
+  border: 2px solid transparent;
+  transition: all 0.12s ease;
+}
+
+.day-bar.active {
+  background: var(--accent);
+  color: #fff8f3;
+  border-color: var(--accent);
+  min-height: 100px;
+}
+
+/* Progress by Level Section */
+.progress-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 16px;
+}
+
+.progress-card {
+  padding: 16px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  transition: all 0.12s ease;
+}
+
+.progress-card:hover {
+  border-color: var(--accent);
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.level-name {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.progress-percent {
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--accent);
+  background: rgba(var(--accent-rgb), 0.1);
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
+
+.progress-text {
+  font-size: 12px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .personal-page {
+    color: var(--text);
+  }
+
+  .personal-card {
+    background: rgba(255, 248, 243, 0.02);
+  }
+
+  .form-group input,
+  .form-group select {
+    background: rgba(0, 0, 0, 0.2);
+  }
+
+  .progress-card {
+    background: rgba(255, 248, 243, 0.02);
+  }
+}

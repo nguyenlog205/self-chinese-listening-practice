@@ -14,6 +14,16 @@ function notify() {
   listeners.forEach((fn) => fn(cache));
 }
 
+// Called after a "xoá toàn bộ tiến trình" reset so any mounted component
+// stops showing stale learned-words immediately, without needing a reload
+// (a reload happens anyway at the reset call site, but this keeps the
+// module usable standalone too).
+export function clearVocabProgressCache() {
+  cache = new Set();
+  loadPromise = null;
+  notify();
+}
+
 function ensureLoaded() {
   if (cache) return Promise.resolve(cache);
   if (!loadPromise) {

@@ -33,3 +33,9 @@ export function getWordsDone() {
 export function getSentencesDone() {
   return readCount(SENTENCES_KEY);
 }
+
+export function resetLocalProgress() {
+  if (typeof window === "undefined") return;
+  window.localStorage.removeItem(WORDS_KEY);
+  window.localStorage.removeItem(SENTENCES_KEY);
+}

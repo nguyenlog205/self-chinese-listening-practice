@@ -21,6 +21,7 @@ export const translations = {
   "nav.home": { vi: "Trang chủ", en: "Home", zh: "首页" },
   "nav.listening": { vi: "Luyện nghe", en: "Listening", zh: "听力练习" },
   "nav.hsk": { vi: "Tài liệu HSK", en: "HSK Materials", zh: "HSK 材料" },
+  "nav.personal": { vi: "Hồ sơ", en: "Profile", zh: "档案" },
   "nav.settings": { vi: "Cài đặt", en: "Settings", zh: "设置" },
 
   "home.eyebrow": { vi: "听力练习", en: "Listening practice", zh: "听力练习" },
@@ -307,6 +308,23 @@ export const translations = {
     en: "Listen to the dialogue, then type the missing word into the blank.",
     zh: "听对话，然后在空白处输入缺失的词。",
   },
+
+  "personal.title": { vi: "Hồ sơ cá nhân", en: "Personal Profile", zh: "个人档案" },
+  "personal.personalInfo": { vi: "Thông tin cá nhân", en: "Personal info", zh: "个人信息" },
+  "personal.name": { vi: "Tên", en: "Name", zh: "名字" },
+  "personal.hskLevel": { vi: "Trình độ HSK mong muốn", en: "Target HSK level", zh: "目标 HSK 级别" },
+  "personal.examDate": { vi: "Ngày thi dự kiến", en: "Exam date", zh: "考试日期" },
+  "personal.notSet": { vi: "Chưa cập nhật", en: "Not set", zh: "未设置" },
+  "personal.edit": { vi: "✏️ Sửa", en: "✏️ Edit", zh: "✏️ 编辑" },
+  "personal.cancel": { vi: "✕ Hủy", en: "✕ Cancel", zh: "✕ 取消" },
+  "personal.save": { vi: "Lưu", en: "Save", zh: "保存" },
+  "personal.streak": { vi: "Chuỗi luyện tập", en: "Learning streak", zh: "学习连胜" },
+  "personal.streakCurrent": { vi: "Hiện tại", en: "Current", zh: "当前" },
+  "personal.streakLongest": { vi: "Dài nhất", en: "Longest", zh: "最长" },
+  "personal.weekChart": { vi: "Tuần này", en: "This week", zh: "本周" },
+  "personal.progress": { vi: "Tiến trình theo cấp độ", en: "Progress by level", zh: "按级别的进度" },
+  "personal.wordsLearned": { vi: "từ", en: "words", zh: "个词" },
+  "personal.percentage": { vi: "%", en: "%", zh: "%" },
 
   "settings.title": { vi: "Cài đặt", en: "Settings", zh: "设置" },
   "settings.description": {

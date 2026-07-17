@@ -6,6 +6,7 @@ import HomePage from "./features/home/HomePage";
 import HSKPage from './features/hsk_materials/HSKPage';
 import ListeningPage from "./features/listening/ListeningPage";
 import SettingsPage from "./features/settings/SettingsPage";
+import PersonalPage from "./features/personal/PersonalPage";
 
 import AboutPage from "./features/about/AboutPage";
 
@@ -23,6 +24,7 @@ export default function App() {
             <Route element={<Shell />}>
               <Route path="/" element={<HomePage />} />
               <Route path="/listening" element={<ListeningPage />} />
+              <Route path="/personal" element={<PersonalPage />} />
               <Route path="/settings" element={<SettingsPage />} />
               <Route path="/hsk" element={<HSKPage />} />
               <Route path="/about" element={<AboutPage />} />

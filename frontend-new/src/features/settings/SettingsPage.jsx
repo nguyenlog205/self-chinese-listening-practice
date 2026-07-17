@@ -14,8 +14,11 @@ import {
   getRandomOrder,
 } from "../../shared/userSettings";
 import { ContentApi } from "../../shared/contentApi";
+import { ActivityApi } from "../../shared/activityApi";
 import { clearVocabularyCache } from "../../shared/useVocabulary";
 import { clearDialoguesCache } from "../../shared/useDialogues";
+import { clearVocabProgressCache } from "../../shared/useVocabProgress";
+import { resetLocalProgress } from "../../shared/localProgress";
 
 const STORAGE = {
   NAME: USER_NAME_KEY,
@@ -100,12 +103,28 @@ export default function SettingsPage() {
       clearVocabularyCache();
       clearDialoguesCache();
       const wordCount = Object.values(result.vocabulary).reduce((a, b) => a + b, 0);
+      const audioNote = result.dialogue_audio > 0 ? ` (${result.dialogue_audio} có audio thật)` : "";
       setRefreshState({
         status: "success",
-        message: `Đã cập nhật ${wordCount} từ vựng và ${result.dialogues} hội thoại.`,
+        message: `Đã cập nhật ${wordCount} từ vựng và ${result.dialogues} hội thoại${audioNote}.`,
       });
     } catch (err) {
       setRefreshState({ status: "error", message: err.message });
+    }
+  };
+
+  const [resetState, setResetState] = useState({ status: "idle", message: "" });
+
+  const handleResetProgress = async () => {
+    if (!window.confirm("Xoá toàn bộ tiến trình học? Hành động này không thể hoàn tác.")) return;
+    setResetState({ status: "loading", message: "" });
+    try {
+      await Promise.all([ContentApi.resetVocabProgress(), ActivityApi.resetActivity()]);
+      resetLocalProgress();
+      clearVocabProgressCache();
+      window.location.reload();
+    } catch (err) {
+      setResetState({ status: "error", message: err.message });
     }
   };
 
@@ -235,6 +254,25 @@ export default function SettingsPage() {
         )}
         {refreshState.status === "error" && (
           <p className="settings-refresh-message error">{refreshState.message}</p>
+        )}
+      </section>
+
+      {/* Vùng nguy hiểm – xoá sạch tiến trình học, không hoàn tác được */}
+      <section className="settings-card settings-danger-zone">
+        <h2>Vùng nguy hiểm</h2>
+        <p className="settings-card-desc">
+          Xoá toàn bộ từ đã học, streak, biểu đồ hoạt động và số từ/câu đã luyện. Không thể hoàn tác.
+        </p>
+        <button
+          type="button"
+          className="btn-danger"
+          onClick={handleResetProgress}
+          disabled={resetState.status === "loading"}
+        >
+          {resetState.status === "loading" ? "Đang xoá..." : "Xoá toàn bộ tiến trình"}
+        </button>
+        {resetState.status === "error" && (
+          <p className="settings-refresh-message error">{resetState.message}</p>
         )}
       </section>
     </div>

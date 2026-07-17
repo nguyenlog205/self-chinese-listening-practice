@@ -34,6 +34,12 @@ export default function Sidebar() {
 
       <ul className="sidebar-bottom">
         <li>
+          <NavLink to="/personal">
+            <span className="nav-dot" />
+            {t("nav.personal") || "Hồ sơ"}
+          </NavLink>
+        </li>
+        <li>
           <NavLink to="/settings">
             <span className="nav-dot" />
             {t("nav.settings")}
