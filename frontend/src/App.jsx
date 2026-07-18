@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Shell from "./shell/Shell";
 
 
@@ -19,7 +19,12 @@ export default function App() {
   return (
     <LanguageProvider>
       <PreferencesProvider>
-        <BrowserRouter>
+        {/* HashRouter, not BrowserRouter: packaged builds load via file://,
+            where location.pathname is the real filesystem path to
+            index.html, not an app route -- HashRouter keeps routing in the
+            URL fragment (#/...) instead, which works regardless of how the
+            page was loaded. */}
+        <HashRouter>
           <Routes>
             <Route element={<Shell />}>
               <Route path="/" element={<HomePage />} />
@@ -30,7 +35,7 @@ export default function App() {
               <Route path="/about" element={<AboutPage />} />
             </Route>
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </PreferencesProvider>
     </LanguageProvider>
   );

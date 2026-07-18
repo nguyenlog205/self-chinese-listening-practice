@@ -3,6 +3,13 @@ const path = require("path");
 const { spawn } = require("child_process");
 const fs = require("fs");
 
+// The Chromium GPU process fails to init on some Linux setups (missing/
+// incompatible GL drivers), which crashes the whole app ("GPU process
+// isn't usable. Goodbye.") before the renderer ever paints -- looks like a
+// blank white window with no error dialog. Software (CPU) rendering avoids
+// depending on the GPU process at all.
+app.disableHardwareAcceleration();
+
 let backendProcess = null;
 let mainWindow = null;
 let backendPort = null;
@@ -68,6 +75,20 @@ async function createWindow() {
       contextIsolation: true,
       nodeIntegration: false,
     },
+  });
+
+  // Packaged builds block ad-hoc CLI switches like --enable-logging /
+  // --remote-debugging-port (Electron's hardening for signed apps), so a
+  // renderer-side failure (blank window, JS exception, load error) is
+  // otherwise invisible -- these forward it to our own stdout instead.
+  mainWindow.webContents.on("console-message", (_event, level, message, line, sourceId) => {
+    console.log(`[renderer:${level}] ${message} (${sourceId}:${line})`);
+  });
+  mainWindow.webContents.on("did-fail-load", (_event, errorCode, errorDescription, validatedURL) => {
+    console.error(`[renderer] did-fail-load ${errorCode} ${errorDescription} ${validatedURL}`);
+  });
+  mainWindow.webContents.on("render-process-gone", (_event, details) => {
+    console.error(`[renderer] render-process-gone ${JSON.stringify(details)}`);
   });
 
   if (!app.isPackaged) {
