@@ -1,44 +1,58 @@
 # Dev workflow, debugging, packaging
 
+Linux only for now — there is no Windows build (see
+[architecture.md](architecture.md#process-lifecycle)).
+
 ## Prerequisites
 
-- Python 3.10+ on `PATH` (`python3` on Linux, `python` on Windows).
+- Python 3.10+ on `PATH` (`python3`).
 - Node.js 18+ and npm.
-- `ffmpeg` on `PATH` (used by `pipeline/youtube.py` to extract WAV audio
-  from the downloaded video — required even though yt-dlp itself doesn't
-  need it for the download step).
+- `ffmpeg` on `PATH` (used by `lessons/pipeline/youtube.py` to extract WAV
+  audio from the downloaded video — required even though yt-dlp itself
+  doesn't need it for the download step). Fedora: `sudo dnf install ffmpeg`.
 
 ## Running locally
 
+Development runs the frontend and Electron as two separate processes —
+there's no single script that starts both:
+
 ```bash
-npm install    # postinstall hook runs `cd electron && npm install`
-npm run dev    # -> cd electron && npm run start -> `electron .`
+# terminal 1: the frontend's Vite dev server (hot reload)
+cd frontend
+npm install
+npm run dev             # serves on http://localhost:5173
+
+# terminal 2: Electron, which spawns the Python backend itself
+npm install              # root install; postinstall also installs electron/node_modules
+npm run dev              # -> cd electron && npm run start -> `electron .`
 ```
 
-`npm run dev` launches Electron, which (in `electron/main.js`) spawns
-`backend/scripts/run.sh` (`run.ps1` on Windows) as a child process. First
-run creates `backend/.venv/` and does `pip install -e backend` — this
-pulls in faster-whisper + CTranslate2 + yt-dlp, several hundred MB, so the
-very first launch is slow; every launch after that just execs
-`.venv/bin/python -m listening_backend.main` and is fast.
+`npm run dev` (root) launches Electron, which (in `electron/main.js`)
+spawns `backend/scripts/run.sh` as a child process. First run creates
+`backend/.venv/` and does `pip install -e backend` — this pulls in
+faster-whisper + CTranslate2 + yt-dlp + edge-tts, several hundred MB, so
+the very first launch is slow; every launch after that just execs
+`.venv/bin/python -m listening_backend.main` and is fast. In dev mode
+(`!app.isPackaged`), the window loads `http://localhost:5173` (terminal
+1's Vite server) directly and opens DevTools.
 
-There is no separate "run backend only" or "run frontend only" script —
-the backend is a standard FastAPI app though, so for backend-only
-iteration you can bypass Electron entirely:
+For backend-only iteration (no Electron/frontend needed), once the venv
+exists:
 
 ```bash
 cd backend
-source .venv/bin/activate   # after at least one npm run dev has bootstrapped it
-python -m listening_backend.main
-# prints "READY <port>" once bound — hit it directly, e.g.:
+.venv/bin/python -m listening_backend.main
+# prints "READY <port>" once bound, e.g.:
 curl http://127.0.0.1:<port>/health
 ```
 
-For frontend-only iteration against an already-running backend, you'd need
-to either open `frontend/index.html` directly in a browser (it will fail —
-`window.listeningApp` only exists inside Electron's preload-injected
-context) or temporarily stub `getBackendPort()`; there's no dev proxy/mock
-set up for this today.
+For frontend-only iteration in a plain browser (not inside Electron),
+`frontend/src/shared/api.js::apiBase()` falls back to
+`VITE_LISTENING_API_BASE` (or `http://127.0.0.1:8000`) when
+`window.listeningApp` doesn't exist, so you can run `vite dev` against an
+already-running backend (started via the "backend-only" command above)
+without Electron at all — `window.listeningApp` (the Electron IPC bridge)
+simply won't be there, and nothing else in the frontend depends on it.
 
 ## Configuration while developing
 
@@ -52,19 +66,20 @@ LISTENING_WHISPER_DEVICE=cuda LISTENING_WHISPER_COMPUTE_TYPE=float16 npm run dev
 LISTENING_PINYIN_STYLE=numeric npm run dev             # ni3 hao3 instead of nǐ hǎo
 ```
 
-Since `npm run dev` execs through two shells (`npm` → `electron` → `bash
-run.sh` → `python`), env vars set on the `npm run dev` invocation do
-propagate through (child processes inherit the environment), so the above
-works as shown.
+Since `npm run dev` execs through several layers (`npm` → `electron` →
+`bash run.sh` → `python`), env vars set on the `npm run dev` invocation do
+propagate through (child processes inherit the environment).
 
 ## Storage / cache during development
 
 Everything lives under `backend/storage/` in a repo checkout (writable
-case of `config._storage_dir()`): `listening.db` (SQLite) plus
-`audio_cache/*.wav` and `video_cache/*.mp4`, keyed by YouTube video id.
+case of `config._storage_dir()`): `listening.db` (SQLite), plus
+`audio_cache/*.wav`, `video_cache/*.mp4`, `dialogue_audio_cache/*.mp3`, and
+`tts_cache/*.mp3` — all keyed by content id / text hash, never by session.
 
 - To fully reset app state: stop the app and delete `backend/storage/`
-  (it's recreated by `ensure_storage_dirs()`/`init_db()` on next launch).
+  (it's recreated by `ensure_storage_dirs()`/`init_db()` on next launch,
+  which also re-seeds bundled vocabulary/dialogues from `listening_backend/seed_data/`).
 - To force a lesson to re-download/re-transcribe without wiping everything:
   delete the lesson via the UI (or `DELETE /api/lessons/{id}`) **and**
   manually remove its cached files from `audio_cache/`/`video_cache/` —
@@ -79,16 +94,16 @@ case of `config._storage_dir()`): `listening.db` (SQLite) plus
 - Backend logs (uvicorn `log_level="warning"` plus any `print`/exceptions)
   are piped to Electron's stdout/stderr and printed with a `[backend]`
   prefix by `main.js` — check the terminal you ran `npm run dev` from.
-- Open Electron's DevTools for frontend debugging: not currently wired to
-  a shortcut or auto-opened in `main.js` — add
-  `mainWindow.webContents.openDevTools()` temporarily in `createWindow()`
-  if you need it (don't leave it in for a shipped build).
+- `main.js` also forwards renderer console messages, load failures, and
+  render-process crashes to that same stdout (`[renderer:*]` prefix) —
+  useful for a packaged build where DevTools aren't open by default.
+  DevTools are opened automatically in dev mode.
 - A silently-stuck lesson (stuck at some `status`/`progress_pct` forever)
   almost always means the backend process died mid-job — background jobs
   run on a `ThreadPoolExecutor` with no persistence/resume, so a backend
   restart abandons any in-flight job (see
-  [backend.md](backend.md#background-jobs--progress-jobspy)). Check the
-  terminal for a Python traceback, and manually reset/delete the stuck
+  [backend.md](backend.md#background-jobs--progress-lessonsjobspy)). Check
+  the terminal for a Python traceback, and manually reset/delete the stuck
   lesson row.
 - `yt_dlp`/ffmpeg failures usually surface cleanly as the lesson's
   `error_message` (both `youtube.py` functions wrap failures in typed
@@ -97,52 +112,52 @@ case of `config._storage_dir()`): `listening.db` (SQLite) plus
 
 ## Known limitations to be aware of when extending
 
-- **Sentence splitting** (`pipeline/sentence_split.py`) is a simple regex
-  on `。！？!?` — it doesn't account for quotes, parentheses, ellipses, or
-  Whisper mistranscribing punctuation. If a Whisper segment has no
-  sentence-final punctuation at all, `split_sentences` returns it as a
-  single "sentence" (the regex still matches the whole unterminated run).
+- **Sentence splitting** (`lessons/pipeline/sentence_split.py`) is a simple
+  regex on `。！？!?` — it doesn't account for quotes, parentheses,
+  ellipses, or Whisper mistranscribing punctuation. If a Whisper segment
+  has no sentence-final punctuation at all, `split_sentences` returns it
+  as a single "sentence."
 - **Sentence timestamps are approximated**, not real per-sentence ASR
   output — proportional-to-character-count redistribution within each
-  Whisper segment (see [backend.md](backend.md#pipeline-stages)). This can
-  visibly drift for segments with pauses or non-uniform speech rate.
-- **Dictation grading** (`practice.js: checkAnswer`) is a naive index-wise
-  character comparison, not an edit-distance/alignment diff — a single
-  extra/missing character makes every following character show as wrong
-  even if correct. See [frontend.md](frontend.md#practicehtml--jspracticejs--practice-view).
+  Whisper segment. This can visibly drift for segments with pauses or
+  non-uniform speech rate.
+- **Dictation grading** (in the dictation practice components) compares
+  the typed guess against the target character-by-character by index, not
+  via an edit-distance/alignment diff — a single extra/missing character
+  makes every following character show as wrong even if correct.
 - **No job resume after backend restart/crash** — an in-flight lesson is
   simply abandoned; there's no persisted job queue.
 - **Re-adding a previously-errored lesson does nothing** —
   `POST /api/lessons` treats any existing row (including `error` status) as
   "already exists," returns it unchanged, and does *not* restart the job.
   The user must delete it first.
-- The top-level README describes practice video playback via "the YouTube
-  IFrame API" — that's stale relative to the current implementation, which
-  downloads the full video and plays it with a plain HTML5 `<video>` tag
-  pointed at `/media/video/{id}.mp4` (see
-  [architecture.md](architecture.md#data-flow-practicing-a-lesson)). Trust
-  the code/these docs over that specific README paragraph if they ever
-  diverge further.
+- **No Windows build.** The app currently ships for Linux only (AppImage /
+  Fedora `.rpm`). A Windows build isn't in progress; if it's ever picked
+  back up, it needs a Windows-specific spawn path in `electron/main.js`
+  (removed, see git history) plus an `nsis`/`win` target back in
+  `electron/package.json`.
+- **No frontend test suite** — `frontend/` has no vitest/testing-library
+  set up; `npm run lint` (oxlint) and `npm run build` are the only
+  automated frontend checks today.
 
 ## Packaging / building an installer
 
 ```bash
 npm run build:linux   # electron-builder --linux -> dist/*.AppImage, dist/linux-unpacked/
-npm run build:win     # electron-builder --win  -> dist/*.exe (NSIS installer)
 npm run build:rpm     # build:linux, then scripts/build_rpm.sh -> dist/*.rpm
 ```
 
 `electron/package.json`'s `build` config controls what gets bundled:
-`backend/` and `frontend/` are copied in as `extraResources` (excluding
-`.venv`, `*.egg-info`, and any existing `storage/` cache/db — packaging
-always ships a clean backend source tree, never a dev machine's cached
-media or database).
+`backend/` and `frontend/dist/` are copied in as `extraResources`
+(excluding `.venv`, `*.egg-info`, and any existing `storage/` cache/db —
+packaging always ships a clean backend source tree, never a dev machine's
+cached media or database).
 
 **The installer does not bundle Python or ffmpeg** — the end user still
-needs both on their system; `run.sh`/`run.ps1` create the venv on first
-launch of the *installed* app too. This is called out as a known v1
-limitation in the top-level README; a fully offline single-binary build
-(PyInstaller-freezing the backend into the app) would be the follow-up if
+needs both on their system; `run.sh` creates the venv on first launch of
+the *installed* app too. This is called out as a known limitation in the
+top-level README; a fully offline single-binary build
+(PyInstaller-freezing the backend into the app) would be a follow-up if
 that's ever prioritized.
 
 **Fedora `.rpm` specifics** (`scripts/build_rpm.sh`): bypasses
@@ -151,6 +166,6 @@ by extension current Fedora releases) doesn't honor fpm's
 `--define buildroot=...` override — the script hand-writes an rpm spec
 instead and lets `rpmbuild` compute its own buildroot. It installs to
 `/opt/ListeningPractice` (root-owned, hence `config.py`'s writable-check
-fallback to `~/.local/share/ListeningPractice` for storage and
-`run.sh`'s equivalent fallback for the venv). Prerequisite: run
-`npm run build:linux` first so `dist/linux-unpacked/` exists.
+fallback to `~/.local/share/ListeningPractice` for storage and `run.sh`'s
+equivalent fallback for the venv). Prerequisite: run `npm run build:linux`
+first so `dist/linux-unpacked/` exists.

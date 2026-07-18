@@ -32,7 +32,7 @@ mkdir -p "$RPMBUILD_ROOT"/{SPECS,SOURCES,BUILD,RPMS,SRPMS,BUILDROOT}
 cp -a "$LINUX_UNPACKED" "$RPMBUILD_ROOT/SOURCES/linux-unpacked"
 cp "$PACKAGING_DIR/listening-electron.desktop" "$RPMBUILD_ROOT/SOURCES/"
 
-ICON_SRC="$ELECTRON_DIR/node_modules/app-builder-lib/templates/icons/electron-linux/256x256.png"
+ICON_SRC="$ELECTRON_DIR/build/icon.png"
 HAS_ICON=0
 if [ -f "$ICON_SRC" ]; then
   cp "$ICON_SRC" "$RPMBUILD_ROOT/SOURCES/icon.png"

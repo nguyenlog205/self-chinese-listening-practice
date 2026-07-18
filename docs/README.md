@@ -11,7 +11,10 @@ docs/
   css/style.css
   js/main.js   Menu mobile + năm hiện tại ở footer
   js/i18n.js   Từ điển 4 ngôn ngữ (vi/en/zh/zh-TW) + bộ chọn ngôn ngữ
-  img/         Ảnh đại diện đội ngũ (long.jpg, nhu.jpg)
+  img/         Ảnh đại diện đội ngũ (long.jpg, nhu.jpg) + logo.svg (logo chính
+               thức của app) + logo-linux.svg / logo-windows.svg (cùng bộ
+               nhận diện, dùng ở phần "Tải xuống")
+  LOGO.md      Thuyết minh ý nghĩa và cách vẽ lại logo.svg / logo-*.svg
 ```
 
 Tài liệu kỹ thuật (architecture, API...) đã chuyển sang `documents/` để
@@ -38,9 +41,11 @@ Vercel, Cloudflare Pages...) với root directory là `docs/`.
 - Màu sắc lấy theo đúng bảng màu của app (`frontend/src/index.css`) nhưng
   copy giá trị vào `css/style.css` thay vì import, để giữ đúng nguyên tắc
   "độc lập". Nếu đổi theme app, nhớ đồng bộ tay lại đây.
-- Phần "Tải xuống" hiện trỏ tới thư mục Google Drive chứa file `.rpm`/`.exe`
-  đã build. Khi repo có GitHub Releases chính thức, đổi link đó sang link
-  release thay vì Drive.
+- Phần "Tải xuống" hiện trỏ tới thư mục Google Drive chứa file `.rpm`/`.AppImage`
+  đã build cho Linux. Khi repo có GitHub Releases chính thức, đổi link đó
+  sang link release thay vì Drive. Thẻ Windows đang ở trạng thái "chưa công
+  bố" (`is-unreleased` trong CSS, ảnh xám) vì chưa có bản build Windows —
+  khi nào có bản build thật, bỏ class đó và điền lại link tải giống thẻ Linux.
 - Đội ngũ ở `#team` chỉ để tên/vai trò thật, không dùng email/social giả
   (khác với `frontend/src/features/about/membersData.js`, nơi đang có dữ
   liệu placeholder). Muốn thêm liên hệ thật thì sửa trực tiếp trong

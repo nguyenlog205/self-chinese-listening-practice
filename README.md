@@ -36,25 +36,26 @@ backend/        Python/FastAPI backend — REST API, SQLite storage, the
                  edge-tts pronunciation audio, and content sync from GitHub.
 electron/       Electron main process: spawns the backend, opens the window.
 frontend/       React + Vite renderer UI.
-docs/           Deep-dive docs (architecture, API reference, backend
-                 pipeline) — written against an earlier plain HTML/CSS/JS
-                 frontend that has since been replaced by the current React
-                 app; treat frontend-specific claims there as historical,
-                 not current.
+documents/       Deep-dive docs (architecture, API reference, backend
+                 pipeline, frontend) — kept in sync with the current React
+                 frontend and multi-domain backend. Start at
+                 documents/README.md.
+docs/            The project's public landing page (static HTML site), not
+                 app documentation.
 scripts/        Packaging helpers (e.g. `build_rpm.sh`).
 ```
 
 ## Prerequisites
 
-- **Python 3.10+** on PATH (`python3` on Linux, `python` on Windows)
+Linux only for now — there is no Windows build yet.
+
+- **Python 3.10+** on PATH (`python3`)
 - **Node.js 18+** and npm
 - **ffmpeg** on PATH (required by yt-dlp/faster-whisper for audio extraction)
   - Fedora: `sudo dnf install ffmpeg`
-  - Windows: `winget install ffmpeg` (or download and add to PATH manually)
 
 The Python backend's virtual environment is created automatically on first
-run (see `backend/scripts/run.sh` / `run.ps1`) — no manual `pip install`
-needed.
+run (see `backend/scripts/run.sh`) — no manual `pip install` needed.
 
 ## Running in development
 
@@ -72,9 +73,9 @@ npm install              # root install; postinstall also installs electron/node
 npm run dev              # -> cd electron && npm run start -> electron .
 ```
 
-Electron's main process (`electron/main.js`) spawns
-`backend/scripts/run.sh` (`run.ps1` on Windows) before opening any window.
-That script creates `backend/.venv/` on first run and installs the backend
+Electron's main process (`electron/main.js`) spawns `backend/scripts/run.sh`
+before opening any window. That script creates `backend/.venv/` on first
+run and installs the backend
 package (`pip install -e backend`) — this pulls in faster-whisper + its
 CTranslate2 backend + yt-dlp, several hundred MB, so the very first launch
 is slow; subsequent launches just exec the already-installed venv and are
@@ -107,8 +108,10 @@ build` are the only automated frontend checks.
 
 ```bash
 npm run build:linux   # builds frontend/, then packages -> produces an AppImage under dist/
-npm run build:win     # same, but an NSIS installer (run on Windows, or cross-build)
+npm run build:rpm     # build:linux, then a Fedora .rpm under dist/ (see scripts/build_rpm.sh)
 ```
+
+There is no Windows build target — the app currently ships for Linux only.
 
 Both scripts build `frontend/` first (`frontend/dist/`) and bundle that
 output via `electron/package.json`'s `extraResources`, which
@@ -148,8 +151,6 @@ entirely local and gitignored.
 
 ## Further documentation
 
-See [docs/](docs/) for architecture notes, the backend pipeline in detail,
-and the full API reference — useful for the backend and data model, but
-written against an earlier plain-JS frontend that no longer exists (see
-"Project layout" above), so frontend-specific sections there are out of
-date.
+See [documents/](documents/) for architecture notes, the backend pipeline
+in detail, the React frontend, and the full API reference — start at
+[documents/README.md](documents/README.md).

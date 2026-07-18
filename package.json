@@ -7,7 +7,6 @@
     "postinstall": "cd electron && npm install",
     "dev": "cd electron && npm run start",
     "build:linux": "cd frontend && npm install && npm run build && cd ../electron && npm run build:linux",
-    "build:win": "cd frontend && npm install && npm run build && cd ../electron && npm run build:win",
     "build:rpm": "npm run build:linux && bash scripts/build_rpm.sh"
   }
 }

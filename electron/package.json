@@ -8,8 +8,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build:linux": "electron-builder --linux",
-    "build:win": "electron-builder --win"
+    "build:linux": "electron-builder --linux"
   },
   "devDependencies": {
     "electron": "^31.0.0",
@@ -36,9 +35,7 @@
         "filter": ["**/*"]
       }
     ],
-    "win": {
-      "target": "nsis"
-    },
+    "icon": "build/icon.png",
     "linux": {
       "target": "AppImage",
       "category": "Education"

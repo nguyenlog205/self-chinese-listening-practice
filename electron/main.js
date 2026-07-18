@@ -16,22 +16,11 @@ let backendPort = null;
 
 const BACKEND_DIR = path.join(__dirname, "..", "backend");
 
-function isWindows() {
-  return process.platform === "win32";
-}
-
 function spawnBackend() {
   return new Promise((resolve, reject) => {
-    const scriptPath = isWindows()
-      ? path.join(BACKEND_DIR, "scripts", "run.ps1")
-      : path.join(BACKEND_DIR, "scripts", "run.sh");
+    const scriptPath = path.join(BACKEND_DIR, "scripts", "run.sh");
 
-    const command = isWindows() ? "powershell.exe" : "bash";
-    const args = isWindows()
-      ? ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", scriptPath]
-      : [scriptPath];
-
-    backendProcess = spawn(command, args, { cwd: BACKEND_DIR });
+    backendProcess = spawn("bash", [scriptPath], { cwd: BACKEND_DIR });
 
     let resolved = false;
     let stdoutBuf = "";

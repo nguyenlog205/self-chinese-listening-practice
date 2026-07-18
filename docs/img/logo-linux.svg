@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Linux">
+  <defs>
+    <linearGradient id="badge-linux" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2483c"/>
+      <stop offset="1" stop-color="#b8352c"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="112" height="112" rx="26" fill="url(#badge-linux)"/>
+  <rect x="4" y="4" width="112" height="112" rx="26" fill="none" stroke="#fff8f3" stroke-opacity="0.12" stroke-width="1.5"/>
+
+  <!-- A simplified penguin silhouette (the generic Linux mascot shape), one flat
+       cream tone to match the Windows/app badges instead of Tux's own colors -->
+  <g fill="#fff8f3">
+    <ellipse cx="60" cy="47" rx="14" ry="13"/>
+    <path d="M39 55c0-3 4-6 21-6s21 3 21 6c3 12 4 24 0 34-3 8-11 13-21 13s-18-5-21-13c-4-10-3-22 0-34z"/>
+    <ellipse cx="47" cy="88" rx="8" ry="4" fill="#b8352c" opacity="0.001"/>
+  </g>
+  <g fill="#b8352c">
+    <ellipse cx="54" cy="45" rx="3" ry="3.6"/>
+    <ellipse cx="66" cy="45" rx="3" ry="3.6"/>
+    <path d="M56 51h8l-4 5z"/>
+  </g>
+  <g fill="#fff8f3">
+    <path d="M40 92c-2 4-2 8 2 9 3 1 6-1 7-4z"/>
+    <path d="M80 92c2 4 2 8-2 9-3 1-6-1-7-4z"/>
+  </g>
+</svg>
