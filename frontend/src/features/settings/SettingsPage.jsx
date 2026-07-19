@@ -17,6 +17,7 @@ import { ContentApi } from "../../shared/contentApi";
 import { ActivityApi } from "../../shared/activityApi";
 import { clearVocabularyCache } from "../../shared/useVocabulary";
 import { clearGrammarCache } from "../../shared/useGrammar";
+import { clearReadingCache } from "../../shared/useReading";
 import { clearDialoguesCache } from "../../shared/useDialogues";
 import { clearDialogueExercisesCache } from "../../shared/useDialogueExercises";
 import { clearVocabProgressCache } from "../../shared/useVocabProgress";
@@ -105,10 +106,12 @@ export default function SettingsPage() {
       const result = await ContentApi.refreshContent();
       clearVocabularyCache();
       clearGrammarCache();
+      clearReadingCache();
       clearDialoguesCache();
       clearDialogueExercisesCache();
       const wordCount = Object.values(result.vocabulary).reduce((a, b) => a + b, 0);
       const grammarCount = Object.values(result.grammar ?? {}).reduce((a, b) => a + b, 0);
+      const readingCount = Object.values(result.reading ?? {}).reduce((a, b) => a + b, 0);
       const audioNote =
         result.dialogue_audio > 0
           ? t("settings.dataRefreshAudioNote", { count: result.dialogue_audio })
@@ -118,6 +121,7 @@ export default function SettingsPage() {
         message: t("settings.dataRefreshSuccess", {
           words: wordCount,
           grammar: grammarCount,
+          reading: readingCount,
           dialogues: result.dialogues,
           audioNote,
         }),

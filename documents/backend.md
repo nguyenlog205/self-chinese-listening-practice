@@ -82,6 +82,11 @@ pool (SQLite + a single local process doesn't need one).
   "known" tracking keys off it), `level`, `data` (JSON blob — `title`,
   `structure`, `explanation`, `examples`; see
   `seed_data/CONVENTION.md#grammar`).
+- **`reading_passages`**: `id` (PK, stable across syncs), `level`, `data`
+  (JSON blob — `title`, `hanzi`, `pinyin`, `translation`; see
+  `seed_data/CONVENTION.md#reading`). Unlike `READING_PASSAGES` in the old
+  frontend-bundled version, this is a list per level (multiple passages),
+  not exactly one.
 - **`dialogues`**: `id`, `level`, `data` (JSON blob — the dialogue lines).
 - **`vocab_progress`**: `hanzi` (PK), `level`, `learned_at` — which words
   the user has marked "learned"; existence of a row *is* the state (no
@@ -230,7 +235,7 @@ wholesale from GitHub, never generated on the fly.
 
 - **`content/seed.py::seed_if_empty(conn)`** — called once from top-level
   `db.init_db()`. Loads `listening_backend/seed_data/vocabulary/hsk_*.json`,
-  `grammar/hsk_*.json`, `dialogues.json`, and
+  `grammar/hsk_*.json`, `reading/hsk_*.json`, `dialogues.json`, and
   `dialogue_exercises/{choice,cloze,dictation}/*.json` into their tables,
   but **only if the relevant table is empty** — a first-run-only seed, it
   never overwrites existing rows.
@@ -241,7 +246,8 @@ wholesale from GitHub, never generated on the fly.
   seed content.
 - **`content/sync.py::refresh_content(conn)`** — the GitHub content-sync
   mechanism, invoked by `POST /api/content/refresh`. Fetches vocabulary,
-  grammar, and dialogues via `raw.githubusercontent.com/.../seed_data/...`
+  grammar, reading, and dialogues via
+  `raw.githubusercontent.com/.../seed_data/...`
   (no auth, public repo), and lists exercise JSON files per-kind via the
   GitHub Contents API (raw doesn't support directory listing). Unlike the
   first-run seed, this always `DELETE`s then re-`INSERT`s each table, so it
@@ -258,17 +264,16 @@ wholesale from GitHub, never generated on the fly.
   neither exists, which is how the frontend (`useDialogueAudio.js`)
   decides to fall back to `GET /api/tts` instead.
 - **`content/vocabulary_router.py`, `grammar_router.py`,
-  `dialogues_router.py`, `exercises_router.py`, `progress_router.py`** —
-  plain read/write endpoints over the tables above; see [api.md](api.md)
-  for exact shapes. `grammar_router.py`'s single `GET /api/grammar?level=`
-  reads `grammar_points` and re-hydrates its JSON `data` column into the
-  response shape — there's no separate progress endpoint for it: unlike
-  vocabulary's "learned" state, grammar's "known" tracking lives only in
-  frontend `localStorage` (`useGrammarProgress.js`), not the backend.
-  `hsk_materials`'s frontend feature also still bundles its own static
-  `READING_PASSAGES` reference data
-  (`frontend/src/features/hsk_materials/data/hskData.js`) — that one isn't
-  backed by this domain yet (see [frontend.md](frontend.md)).
+  `reading_router.py`, `dialogues_router.py`, `exercises_router.py`,
+  `progress_router.py`** — plain read/write endpoints over the tables
+  above; see [api.md](api.md) for exact shapes. `grammar_router.py`'s and
+  `reading_router.py`'s single `GET /api/grammar?level=` /
+  `GET /api/reading?level=` read `grammar_points` / `reading_passages` and
+  re-hydrate each row's JSON `data` column into the response shape —
+  neither has a progress endpoint: unlike vocabulary's server-side
+  "learned" state, grammar's "known" tracking lives only in frontend
+  `localStorage` (`useGrammarProgress.js`), and reading has no progress
+  concept at all yet.
 
 ## `activity` domain — streaks & daily activity
 

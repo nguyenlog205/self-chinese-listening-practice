@@ -92,3 +92,12 @@ class GrammarPointOut(BaseModel):
     structure: str
     explanation: dict[str, str]  # {vi, en, zh}
     examples: list[GrammarExample]
+
+
+class ReadingPassageOut(BaseModel):
+    id: str
+    level: str
+    title: dict[str, str]  # {vi, en, zh}
+    hanzi: str
+    pinyin: str
+    translation: dict[str, str]  # {vi, en}

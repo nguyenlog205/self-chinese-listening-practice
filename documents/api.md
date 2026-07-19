@@ -181,6 +181,16 @@ explanation: {vi, en, zh}, examples: [{hanzi, pinyin, translation: {vi,
 en}}]}` each. No progress endpoint here — "known" tracking for grammar is
 frontend-only (`localStorage`), unlike vocabulary's server-side progress.
 
+## Reading — `content/reading_router.py`, prefix `/api/reading`
+
+### `GET /api/reading?level=<level>`
+
+List reading passages for one HSK level (a level can have multiple
+passages — unlike the old frontend-bundled version, which had exactly
+one). `level` is required. Response: `list[ReadingPassageOut]` (200) —
+`{id, level, title: {vi, en, zh}, hanzi, pinyin, translation: {vi, en}}`
+each. No progress-tracking endpoint at all for reading.
+
 ## Dialogues — `content/dialogues_router.py`, prefix `/api/dialogues`
 
 ### `GET /api/dialogues?level=<level>` (optional)
@@ -226,8 +236,8 @@ instead.
 
 ### `POST /api/content/refresh`
 
-Re-pulls vocabulary, grammar, dialogues, all three exercise kinds, and
-dialogue audio from this repo on GitHub, replacing local rows
+Re-pulls vocabulary, grammar, reading, dialogues, all three exercise
+kinds, and dialogue audio from this repo on GitHub, replacing local rows
 (delete-then-insert,
 so it picks up edits/removals too, not just additions) — this is what
 Settings' "Cập nhật dữ liệu" button calls. `502` with

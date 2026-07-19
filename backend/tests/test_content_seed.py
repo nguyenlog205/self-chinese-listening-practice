@@ -49,6 +49,29 @@ def test_seed_if_empty_loads_real_grammar_json(db_path):
     assert "structure" in json.loads(sample["data"])
 
 
+def test_real_seed_reading_files_have_required_fields():
+    for path in (SEED_DATA_DIR / "reading").glob("hsk_*.json"):
+        passages = json.loads(path.read_text(encoding="utf-8"))
+        assert isinstance(passages, list) and passages, f"{path.name} is empty or not a list"
+        for p in passages:
+            assert {"id", "title", "hanzi", "pinyin", "translation"}.issubset(p), (
+                f"{path.name}: {p.get('id')} missing required keys"
+            )
+
+
+def test_seed_if_empty_loads_real_reading_json(db_path):
+    seed_if_empty(db_path)
+
+    with sqlite3.connect(db_path) as conn:
+        conn.row_factory = sqlite3.Row
+        count = conn.execute("SELECT COUNT(*) c FROM reading_passages").fetchone()["c"]
+        sample = conn.execute("SELECT level, data FROM reading_passages WHERE id = 'r1'").fetchone()
+
+    assert count > 0
+    assert sample["level"] == "1"
+    assert "hanzi" in json.loads(sample["data"])
+
+
 def test_seed_if_empty_loads_real_dialogues_json(db_path):
     seed_if_empty(db_path)
 

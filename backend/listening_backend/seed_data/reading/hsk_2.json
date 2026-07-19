@@ -1,0 +1,16 @@
+[
+  {
+    "id": "r2",
+    "title": {
+      "vi": "Một chuyến du lịch",
+      "en": "A trip",
+      "zh": "一次旅游"
+    },
+    "hanzi": "上个星期，我和朋友去了北京旅游。我们坐飞机到机场，然后住在一个宾馆里。北京的天气很冷，但是我们玩得很开心。",
+    "pinyin": "Shàng ge xīngqī, wǒ hé péngyou qùle Běijīng lǚyóu. Wǒmen zuò fēijī dào jīchǎng, ránhòu zhù zài yí ge bīnguǎn lǐ. Běijīng de tiānqì hěn lěng, dànshì wǒmen wán de hěn kāixīn.",
+    "translation": {
+      "vi": "Tuần trước, tôi và bạn đã đi du lịch Bắc Kinh. Chúng tôi đi máy bay tới sân bay, sau đó ở tại một khách sạn. Thời tiết Bắc Kinh rất lạnh, nhưng chúng tôi chơi rất vui.",
+      "en": "Last week, my friend and I traveled to Beijing. We took a flight to the airport, then stayed at a hotel. Beijing's weather was cold, but we had a great time."
+    }
+  }
+]

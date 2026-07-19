@@ -14,14 +14,30 @@ an app route — `HashRouter` keeps routing in the URL fragment (`#/...`)
 instead, which works regardless of how the page was loaded. Routes, all
 nested under a `<Shell>` layout route:
 
-| Path         | Page             |
-|--------------|------------------|
-| `/`          | `HomePage`       |
-| `/listening` | `ListeningPage`  |
-| `/personal`  | `PersonalPage`   |
-| `/settings`  | `SettingsPage`   |
-| `/hsk`       | `HSKPage`        |
-| `/about`     | `AboutPage`      |
+| Path                     | Page             |
+|--------------------------|------------------|
+| `/`                      | `HomePage`       |
+| `/listening`             | `ListeningPage`  |
+| `/listening/:sectionKey` | `ListeningPage`  |
+| `/personal`              | `PersonalPage`   |
+| `/settings`              | `SettingsPage`   |
+| `/hsk`                   | `HSKPage`        |
+| `/hsk/:sectionKey`       | `HSKPage`        |
+| `/about`                 | `AboutPage`      |
+
+`:sectionKey` addresses a sub-tab within `HSKPage`/`ListeningPage` (e.g.
+`#/hsk/grammar`, `#/listening/dictation`) — each reads it via
+`useParams()` and looks it up in its own `SECTIONS`/`GROUPS` list rather
+than tracking the active tab in local `useState`, so a sub-tab is a real,
+bookmarkable/shareable route, not just in-memory UI state.
+
+Every page component above, plus every `HSKPage`/`ListeningPage` sub-tab
+component, is loaded via `React.lazy()` and rendered inside a `<Suspense
+fallback={<RouteLoading />}>` (`shell/RouteLoading.jsx`) — Vite emits one
+chunk per lazy component, so opening the app only downloads/parses the
+code for the page actually being viewed, not the whole feature set. If you
+add a new page or sub-tab, follow the existing `lazy(() => import(...))`
+pattern at that same call site rather than a static import.
 
 `App.jsx` also wraps everything in `LanguageProvider` (i18n) and
 `PreferencesProvider` (script/phonetic display prefs) — both available
@@ -66,19 +82,17 @@ directly from a component.
   (both read HSK-goal/exam-date settings from `userSettings.js`,
   localStorage-backed).
 - **`hsk_materials/`** — `HSKPage.jsx`, tabbed:
-  `components/{Vocabulary,Listening,Reading,Grammar,MockTest}.jsx`.
-  `Vocabulary`/`Listening`/`MockTest` use their own bundled static data
-  (`data/hskData.js`'s `HSK_LEVELS` re-export + `data/vocabulary/hsk{1..6,79}.js`,
-  generated from CSVs via `data/convert.js`) — **separate from** the
-  backend-served `/api/vocabulary` used by the `listening` feature's
-  word-practice modes; the two datasets are not the same and aren't kept in
-  sync automatically. `Reading` still uses static `data/hskData.js`
-  (`READING_PASSAGES`), not backed by the server. `Grammar` is the odd one
-  out: it fetches `/api/grammar?level=` via `useGrammar.js`, same
-  bundled-content lifecycle as vocabulary/dialogues (seeded once, refreshed
-  by "Cập nhật dữ liệu") — its "known" state, unlike vocabulary's, is
-  tracked client-only in `localStorage` (`useGrammarProgress.js`), not
-  synced to the backend.
+  `components/{Vocabulary,Listening,Reading,Grammar,MockTest}.jsx`. All
+  five now fetch from the backend `content` domain (same
+  `/api/vocabulary` the `listening` feature's word-practice modes use for
+  `Vocabulary`/`Listening`/`MockTest`; `/api/grammar` via `useGrammar.js`
+  for `Grammar`; `/api/reading` via `useReading.js` for `Reading`) — none
+  of them bundle static content anymore. `data/hskData.js` only re-exports
+  `HSK_LEVELS` at this point. Grammar's "known" state and reading both
+  differ slightly from vocabulary's pattern: grammar's is tracked
+  client-only in `localStorage` (`useGrammarProgress.js`), and reading has
+  no progress-tracking concept at all — see [backend.md](backend.md) for
+  why.
 - **`listening/`** — the core dictation/listening practice feature,
   `ListeningPage.jsx` + `registry.js`. `registry.js` defines a two-level
   menu (a `GROUPS` array: `word`-level modes vs. `sentence`/dialogue-level
@@ -105,7 +119,7 @@ directly from a component.
 | `activityApi.js` | client for `/api/activity/*` |
 | `buildQuiz.js` | builds multiple-choice quiz data from a vocab word list |
 | `chineseText.js` | Simplified↔Traditional conversion (opencc-js) and pinyin↔zhuyin |
-| `contentApi.js` | client for `/api/vocabulary`, `/api/grammar`, `/api/dialogues`, `/api/dialogue-exercises`, `/api/content/refresh` |
+| `contentApi.js` | client for `/api/vocabulary`, `/api/grammar`, `/api/reading`, `/api/dialogues`, `/api/dialogue-exercises`, `/api/content/refresh` |
 | `lessonsApi.js` | client for `/api/lessons` + the jobs WebSocket |
 | `localProgress.js` | session-local counters (a stand-in for parts not yet wired to `activityApi.logEvent`) |
 | `PreferencesContext.jsx` | React context: pinyin/script/phonetic display preferences, app-wide |
@@ -116,6 +130,7 @@ directly from a component.
 | `useGrammar.js` | fetches/caches grammar points by level (`useGrammar`) or every level at once (`useAllGrammarLevels`) |
 | `useGrammarProgress.js` | module-level, `localStorage`-backed "known" state for grammar points (not server-synced, unlike vocab progress) |
 | `useLessons.js` | lists lessons, live-updates via WebSocket while any are in-progress |
+| `useReading.js` | fetches/caches reading passages by level |
 | `userSettings.js` | localStorage keys for name/HSK goal/exam date |
 | `useSpeak.js` | pronunciation via the backend TTS endpoint (not the Web Speech API) |
 | `useStreak.js` | fetches `/api/streak` |
@@ -144,7 +159,8 @@ Traditional characters and Zhuyin).
 ## Adding a new page or major feature
 
 - New page: add a folder under `src/features/`, register its route in
-  `App.jsx`, add a nav entry in `Sidebar.jsx`.
+  `App.jsx` as `lazy(() => import(...))` (see the Routing section above),
+  add a nav entry in `Sidebar.jsx`.
 - New listening practice mode: see `registry.js` above — no `App.jsx` or
   routing change needed, it's entirely within the `listening` feature.
 - New per-segment/lesson field: add it to the backend's `SegmentOut`/

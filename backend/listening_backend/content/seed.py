@@ -62,6 +62,31 @@ def seed_if_empty(db_path: Path) -> None:
                     ],
                 )
 
+        (reading_count,) = conn.execute("SELECT COUNT(*) FROM reading_passages").fetchone()
+        if reading_count == 0:
+            for path in sorted((SEED_DATA_DIR / "reading").glob("hsk_*.json")):
+                level = path.stem.removeprefix("hsk_").replace("_", "-")
+                passages = json.loads(path.read_text(encoding="utf-8"))
+                conn.executemany(
+                    "INSERT INTO reading_passages (id, level, data) VALUES (?, ?, ?)",
+                    [
+                        (
+                            p["id"],
+                            level,
+                            json.dumps(
+                                {
+                                    "title": p["title"],
+                                    "hanzi": p["hanzi"],
+                                    "pinyin": p["pinyin"],
+                                    "translation": p["translation"],
+                                },
+                                ensure_ascii=False,
+                            ),
+                        )
+                        for p in passages
+                    ],
+                )
+
         (dialogue_count,) = conn.execute("SELECT COUNT(*) FROM dialogues").fetchone()
         if dialogue_count == 0:
             dialogues_path = SEED_DATA_DIR / "dialogues.json"

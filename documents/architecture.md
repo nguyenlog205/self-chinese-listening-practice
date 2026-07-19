@@ -155,6 +155,7 @@ update:
 frontend (hsk_materials/, listening/ dialogue components, via contentApi.js)
   → GET /api/vocabulary?level=...         vocabulary_router.py
   → GET /api/grammar?level=...            grammar_router.py
+  → GET /api/reading?level=...            reading_router.py
   → GET /api/dialogues                    dialogues_router.py (lines only)
   → GET /api/dialogue-exercises/{choice,cloze,dictation}   exercises_router.py
   → GET /api/dialogues/{id}/audio          audio_router.py (real recording,
@@ -164,15 +165,16 @@ frontend (hsk_materials/, listening/ dialogue components, via contentApi.js)
 
 Settings → "Cập nhật dữ liệu" triggers `POST /api/content/refresh`
 (`content/sync_router.py` → `content/sync.py`), which re-pulls vocabulary,
-grammar, dialogues, exercises, and dialogue audio from this repo on GitHub
-and replaces the local rows — this is how content is updated without a new
-app release. See [backend.md](backend.md#content-domain-contentseed-content-content) for the sync mechanics.
+grammar, reading, dialogues, exercises, and dialogue audio from this repo
+on GitHub and replaces the local rows — this is how content is updated
+without a new app release. See [backend.md](backend.md#content-domain-contentseed-content-content) for the sync mechanics.
 
 Grammar's "known" tracking is the one exception to this domain's usual
 shape: unlike vocabulary's `POST /api/vocabulary/progress`, there is no
 `/api/grammar/progress` — the frontend tracks it entirely in
 `localStorage` (`useGrammarProgress.js`), since it's a small local-only
-convenience rather than data that needs to survive a reinstall.
+convenience rather than data that needs to survive a reinstall. Reading
+has no progress-tracking concept at all — passages are just browsable.
 
 ## Data flow: activity tracking (streaks, daily heatmap)
 

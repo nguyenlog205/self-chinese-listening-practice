@@ -54,6 +54,33 @@
 
 ---
 
+## Reading
+
+**File:** `reading/hsk_N.json` (N = 1-6, `7_9`) — mảng nhiều bài đọc cho 1 cấp
+(không giới hạn 1 bài/cấp, thêm bài mới bằng cách append vào mảng)
+
+```json
+[
+  {
+    "id": "r1",
+    "title": { "vi": "Gia đình tôi", "en": "My family", "zh": "我的家" },
+    "hanzi": "我叫马丁。这是我的爸爸，那是我的妈妈。...",
+    "pinyin": "Wǒ jiào Mǎdīng. Zhè shì wǒ de bàba...",
+    "translation": {
+      "vi": "Tôi tên là Martin. Đây là bố tôi...",
+      "en": "My name is Martin. This is my father..."
+    }
+  }
+]
+```
+
+**Fields:**
+- `id` — unique string trong toàn bộ file (dùng làm khóa chính khi sync, đổi `id` = xóa bài cũ + thêm bài mới thay vì cập nhật tại chỗ)
+- `title`, `translation` — object `{vi, en, zh}` (`translation` chỉ cần `{vi, en}`)
+- `hanzi`, `pinyin` — toàn bộ đoạn văn, không tách câu
+
+---
+
 ## Dialogues
 
 **File:** `dialogues.json`

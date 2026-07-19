@@ -53,4 +53,11 @@ CREATE TABLE IF NOT EXISTS grammar_points (
     data TEXT NOT NULL  -- JSON: {title, structure, explanation, examples}
 );
 CREATE INDEX IF NOT EXISTS idx_grammar_points_level ON grammar_points(level);
+
+CREATE TABLE IF NOT EXISTS reading_passages (
+    id TEXT PRIMARY KEY,
+    level TEXT NOT NULL,
+    data TEXT NOT NULL  -- JSON: {title, hanzi, pinyin, translation}
+);
+CREATE INDEX IF NOT EXISTS idx_reading_passages_level ON reading_passages(level);
 """

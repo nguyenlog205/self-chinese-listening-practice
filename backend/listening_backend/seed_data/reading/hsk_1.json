@@ -1,0 +1,16 @@
+[
+  {
+    "id": "r1",
+    "title": {
+      "vi": "Gia đình tôi",
+      "en": "My family",
+      "zh": "我的家"
+    },
+    "hanzi": "我叫马丁。这是我的爸爸，那是我的妈妈。我喜欢我的家。今天天气很好，我们一起吃饭。",
+    "pinyin": "Wǒ jiào Mǎdīng. Zhè shì wǒ de bàba, nà shì wǒ de māma. Wǒ xǐhuan wǒ de jiā. Jīntiān tiānqì hěn hǎo, wǒmen yìqǐ chīfàn.",
+    "translation": {
+      "vi": "Tôi tên là Martin. Đây là bố tôi, kia là mẹ tôi. Tôi yêu gia đình mình. Hôm nay thời tiết đẹp, chúng tôi cùng nhau ăn cơm.",
+      "en": "My name is Martin. This is my father, that is my mother. I love my family. The weather is nice today, we're eating together."
+    }
+  }
+]

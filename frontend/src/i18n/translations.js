@@ -263,6 +263,12 @@ export const translations = {
     zh: "隐藏翻译",
     "zh-TW": "隱藏翻譯",
   },
+  "hsk.reading.noResults": {
+    vi: "Chưa có bài đọc cho cấp độ này.",
+    en: "No reading passages for this level yet.",
+    zh: "该级别暂无阅读材料。",
+    "zh-TW": "該級別暫無閱讀材料。",
+  },
 
   "hsk.grammar.noResults": {
     vi: "Chưa có ngữ pháp cho cấp độ này.",
@@ -584,10 +590,10 @@ export const translations = {
   "settings.dataRefreshButton": { vi: "Cập nhật dữ liệu", en: "Update data", zh: "更新数据",
     "zh-TW": "更新數據" },
   "settings.dataRefreshSuccess": {
-    vi: "Đã cập nhật {{words}} từ vựng, {{grammar}} ngữ pháp và {{dialogues}} hội thoại{{audioNote}}.",
-    en: "Updated {{words}} vocabulary words, {{grammar}} grammar points and {{dialogues}} dialogues{{audioNote}}.",
-    zh: "已更新 {{words}} 个词汇、{{grammar}} 个语法点和 {{dialogues}} 段对话{{audioNote}}。",
-    "zh-TW": "已更新 {{words}} 個詞彙、{{grammar}} 個語法點和 {{dialogues}} 段對話{{audioNote}}。",
+    vi: "Đã cập nhật {{words}} từ vựng, {{grammar}} ngữ pháp, {{reading}} bài đọc và {{dialogues}} hội thoại{{audioNote}}.",
+    en: "Updated {{words}} vocabulary words, {{grammar}} grammar points, {{reading}} reading passages and {{dialogues}} dialogues{{audioNote}}.",
+    zh: "已更新 {{words}} 个词汇、{{grammar}} 个语法点、{{reading}} 篇阅读材料和 {{dialogues}} 段对话{{audioNote}}。",
+    "zh-TW": "已更新 {{words}} 個詞彙、{{grammar}} 個語法點、{{reading}} 篇閱讀材料和 {{dialogues}} 段對話{{audioNote}}。",
   },
   "settings.dataRefreshAudioNote": {
     vi: " ({{count}} có audio thật)",

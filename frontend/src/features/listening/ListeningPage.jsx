@@ -1,5 +1,7 @@
+import { Suspense } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { useLanguage } from "../../i18n/LanguageContext";
+import RouteLoading from "../../shell/RouteLoading";
 import { GROUPS } from "./registry";
 import "./ListeningPage.css";
 
@@ -22,7 +24,9 @@ export default function ListeningPage() {
             <p>{t(`listening.menu.${section.key}`)}</p>
           </div>
           <div className="listening-content">
-            <SectionComponent />
+            <Suspense fallback={<RouteLoading />}>
+              <SectionComponent />
+            </Suspense>
           </div>
         </div>
       );

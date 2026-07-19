@@ -1,11 +1,14 @@
+import { lazy, Suspense } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useLanguage } from '../../i18n/LanguageContext';
-import Vocabulary from './components/Vocabulary';
-import Listening from './components/Listening';
-import Reading from './components/Reading';
-import Grammar from './components/Grammar';
-import MockTest from './components/MockTest';
+import RouteLoading from '../../shell/RouteLoading';
 import './HSKPage.css';
+
+const Vocabulary = lazy(() => import('./components/Vocabulary'));
+const Listening = lazy(() => import('./components/Listening'));
+const Reading = lazy(() => import('./components/Reading'));
+const Grammar = lazy(() => import('./components/Grammar'));
+const MockTest = lazy(() => import('./components/MockTest'));
 
 const SECTIONS = [
   { key: 'vocabulary', icon: '词', component: Vocabulary },
@@ -59,7 +62,9 @@ export default function HSKPage() {
         <p>{t(`hsk.menu.${section.key}`)}</p>
       </div>
       <div className="hsk-content">
-        <SectionComponent />
+        <Suspense fallback={<RouteLoading />}>
+          <SectionComponent />
+        </Suspense>
       </div>
     </div>
   );

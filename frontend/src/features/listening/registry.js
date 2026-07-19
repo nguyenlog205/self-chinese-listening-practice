@@ -1,10 +1,12 @@
-import DictationPractice from "./components/DictationPractice";
-import ChoiceListening from "./components/ChoiceListening";
-import OrderListening from "./components/OrderListening";
-import DialogueChoice from "./components/DialogueChoice";
-import DialogueCloze from "./components/DialogueCloze";
-import SentenceDictation from "./components/SentenceDictation";
-import YoutubeListening from "./components/YoutubeListening";
+import { lazy } from "react";
+
+const DictationPractice = lazy(() => import("./components/DictationPractice"));
+const ChoiceListening = lazy(() => import("./components/ChoiceListening"));
+const OrderListening = lazy(() => import("./components/OrderListening"));
+const DialogueChoice = lazy(() => import("./components/DialogueChoice"));
+const DialogueCloze = lazy(() => import("./components/DialogueCloze"));
+const SentenceDictation = lazy(() => import("./components/SentenceDictation"));
+const YoutubeListening = lazy(() => import("./components/YoutubeListening"));
 
 // Two-level menu for the "Luyện nghe" page: a group (word-level vs.
 // sentence/dialogue-level practice), then a mode within that group.
