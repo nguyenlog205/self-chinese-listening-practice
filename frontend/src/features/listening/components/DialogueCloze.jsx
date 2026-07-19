@@ -52,7 +52,7 @@ export default function DialogueCloze() {
     setChecked(true);
     logSentencePractice();
     const isCorrect = exercise.blanks.every(
-      (b) => (answers[b.lineIndex] || "").trim() === b.answer
+      (b) => (answers[b.lineIndex] || "").trim() === toDisplayHanzi(b.answer, scriptMode)
     );
     ActivityApi.logEvent({
       mode: "dialogue_cloze",
@@ -72,7 +72,9 @@ export default function DialogueCloze() {
   const allCorrect =
     checked &&
     !!exercise &&
-    exercise.blanks.every((b) => (answers[b.lineIndex] || "").trim() === b.answer);
+    exercise.blanks.every(
+      (b) => (answers[b.lineIndex] || "").trim() === toDisplayHanzi(b.answer, scriptMode)
+    );
 
   return (
     <div className="listening-panel">
@@ -111,7 +113,8 @@ export default function DialogueCloze() {
               const displayLine = toDisplayHanzi(line.hanzi, scriptMode);
               const before = displayLine.slice(0, blankStart);
               const after = displayLine.slice(blankStart + blank.answer.length);
-              const isCorrect = checked && (answers[i] || "").trim() === blank.answer;
+              const isCorrect =
+                checked && (answers[i] || "").trim() === toDisplayHanzi(blank.answer, scriptMode);
               const inputCls = checked ? (isCorrect ? " correct" : " incorrect") : "";
               return (
                 <p key={i}>

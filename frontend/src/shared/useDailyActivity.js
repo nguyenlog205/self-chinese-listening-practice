@@ -1,29 +1,23 @@
 import { useEffect, useState } from "react";
 import { ActivityApi } from "./activityApi";
 
-const DAYS = 182; // ~26 weeks (half a year), GitHub-style contribution graph
-
-export function useDailyActivity() {
-  const [days, setDays] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+export function useDailyActivity(days = 182) {
+  const [state, setState] = useState({ days: [], loading: true, error: null });
 
   useEffect(() => {
     let cancelled = false;
-    ActivityApi.getDaily(DAYS)
+    setState({ days: [], loading: true, error: null });
+    ActivityApi.getDaily(days)
       .then((data) => {
-        if (!cancelled) setDays(data);
+        if (!cancelled) setState({ days: data, loading: false, error: null });
       })
       .catch((err) => {
-        if (!cancelled) setError(err.message);
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
+        if (!cancelled) setState({ days: [], loading: false, error: err.message });
       });
     return () => {
       cancelled = true;
     };
-  }, []);
+  }, [days]);
 
-  return { days, loading, error };
+  return state;
 }

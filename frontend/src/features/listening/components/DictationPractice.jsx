@@ -33,7 +33,10 @@ export default function DictationPractice() {
   const current = practiceWords[index];
 
   const checkAnswer = () => {
-    const isCorrect = input.trim() === current.hanzi;
+    // Compare against the script the user is actually shown/expected to type
+    // (Simplified or Traditional), not always the Simplified data as-stored --
+    // otherwise a correct Traditional answer gets marked wrong.
+    const isCorrect = input.trim() === toDisplayHanzi(current.hanzi, scriptMode);
     setResult(isCorrect ? "correct" : "incorrect");
     setScore((s) => ({
       correct: s.correct + (isCorrect ? 1 : 0),

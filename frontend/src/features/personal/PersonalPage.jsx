@@ -1,13 +1,18 @@
 import { useMemo, useState } from "react";
 import { useLanguage } from "../../i18n/LanguageContext";
-import { localeFor, last7DayLabels } from "../../i18n/locale";
+import { localeFor } from "../../i18n/locale";
 import { useStreak } from "../../shared/useStreak";
 import { useVocabProgress } from "../../shared/useVocabProgress";
 import { useVocabulary } from "../../shared/useVocabulary";
 import { useAllGrammarLevels } from "../../shared/useGrammar";
 import { useGrammarProgress } from "../../shared/useGrammarProgress";
+import { useAllReadingLevels } from "../../shared/useReading";
+import { useReadingProgress } from "../../shared/useReadingProgress";
+import DailyActivityChart from "../home/components/DailyActivityChart";
 import { HSK_LEVELS } from "../hsk_materials/data/hskData";
 import "./PersonalPage.css";
+
+const YEAR_DAYS = 365;
 
 const STORAGE = {
   NAME: "listening-app:user-name",
@@ -18,10 +23,11 @@ const STORAGE = {
 export default function PersonalPage() {
   const { t, language } = useLanguage();
   const { streak, loading: streakLoading } = useStreak();
-  const weekdayLabels = last7DayLabels(language, { weekday: "short" });
   const { learned } = useVocabProgress();
   const { known: grammarKnown } = useGrammarProgress();
   const { byLevel: grammarByLevel } = useAllGrammarLevels();
+  const { learned: readingLearned } = useReadingProgress();
+  const { byLevel: readingByLevel } = useAllReadingLevels();
   const [editMode, setEditMode] = useState(false);
 
   const totalGrammarPoints = useMemo(
@@ -35,6 +41,19 @@ export default function PersonalPage() {
         0
       ),
     [grammarByLevel, grammarKnown]
+  );
+
+  const totalReadingPassages = useMemo(
+    () => Object.values(readingByLevel).reduce((sum, passages) => sum + passages.length, 0),
+    [readingByLevel]
+  );
+  const readingLearnedCount = useMemo(
+    () =>
+      Object.values(readingByLevel).reduce(
+        (sum, passages) => sum + passages.filter((p) => readingLearned.has(p.id)).length,
+        0
+      ),
+    [readingByLevel, readingLearned]
   );
 
   const [name, setName] = useState(localStorage.getItem(STORAGE.NAME) || "");
@@ -89,21 +108,16 @@ export default function PersonalPage() {
           </span>
           <span className="personal-stat-label">{t("personal.grammarKnown")}</span>
         </div>
+        <div className="personal-stat-tile">
+          <span className="personal-stat-value">
+            {readingLearnedCount}
+            <span className="personal-stat-value-total">/{totalReadingPassages}</span>
+          </span>
+          <span className="personal-stat-label">{t("personal.readingLearned")}</span>
+        </div>
       </section>
 
-      {!streakLoading && streak && (
-        <div className="personal-week-strip" title={t("personal.weekChart")}>
-          {streak.weekly.map((active, idx) => (
-            <div
-              key={idx}
-              className={`personal-week-tick${active ? " active" : ""}`}
-              title={weekdayLabels[idx]}
-            >
-              <span>{weekdayLabels[idx]}</span>
-            </div>
-          ))}
-        </div>
-      )}
+      <DailyActivityChart days={YEAR_DAYS} />
 
       {/* Personal Info Section */}
       <section className="personal-card">
@@ -179,6 +193,8 @@ export default function PersonalPage() {
               learned={learned}
               grammarKnown={grammarKnown}
               grammarPoints={grammarByLevel[level] ?? []}
+              readingLearned={readingLearned}
+              readingPassages={readingByLevel[level] ?? []}
             />
           ))}
         </div>
@@ -187,7 +203,14 @@ export default function PersonalPage() {
   );
 }
 
-function ProgressByLevel({ level, learned, grammarKnown, grammarPoints }) {
+function ProgressByLevel({
+  level,
+  learned,
+  grammarKnown,
+  grammarPoints,
+  readingLearned,
+  readingPassages,
+}) {
   const { t } = useLanguage();
   const { words } = useVocabulary(level);
   const vocabLearnedCount = words.filter((w) => learned.has(w.hanzi)).length;
@@ -196,6 +219,11 @@ function ProgressByLevel({ level, learned, grammarKnown, grammarPoints }) {
   const grammarKnownCount = grammarPoints.filter((p) => grammarKnown.has(p.id)).length;
   const grammarPercent = grammarPoints.length
     ? Math.round((grammarKnownCount / grammarPoints.length) * 100)
+    : 0;
+
+  const readingLearnedCount = readingPassages.filter((p) => readingLearned.has(p.id)).length;
+  const readingPercent = readingPassages.length
+    ? Math.round((readingLearnedCount / readingPassages.length) * 100)
     : 0;
 
   return (
@@ -219,6 +247,16 @@ function ProgressByLevel({ level, learned, grammarKnown, grammarPoints }) {
         </div>
         <div className="progress-bar">
           <div className="progress-fill progress-fill-alt" style={{ width: `${grammarPercent}%` }}></div>
+        </div>
+      </div>
+
+      <div className="progress-row">
+        <div className="progress-row-header">
+          <span className="progress-row-label">{t("personal.readingLabel")}</span>
+          <span className="progress-row-count">{readingLearnedCount}/{readingPassages.length}</span>
+        </div>
+        <div className="progress-bar">
+          <div className="progress-fill" style={{ width: `${readingPercent}%` }}></div>
         </div>
       </div>
     </div>

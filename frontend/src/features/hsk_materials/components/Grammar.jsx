@@ -7,6 +7,8 @@ import { useGrammar } from "../../../shared/useGrammar";
 import { useGrammarProgress } from "../../../shared/useGrammarProgress";
 import { resolveHskLevel } from "../../../shared/userSettings";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import { ActivityApi } from "../../../shared/activityApi";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 const PAGE_SIZE = 10;
 
@@ -20,6 +22,21 @@ export default function Grammar() {
   const [selectedId, setSelectedId] = useState(null);
 
   const { points, loading, error } = useGrammar(level);
+
+  // Only the "not known -> known" transition counts as a practice event --
+  // un-marking is just correcting a mistake, not new activity.
+  const handleToggleKnown = (pointId) => {
+    const wasKnown = known.has(pointId);
+    toggleKnown(pointId);
+    if (!wasKnown) {
+      ActivityApi.logEvent({
+        mode: "hsk_grammar",
+        item_type: "grammar",
+        item_id: pointId,
+        level: String(level),
+      });
+    }
+  };
 
   const changeLevel = (lvl) => {
     setLevel(lvl);
@@ -50,7 +67,7 @@ export default function Grammar() {
             <button
               type="button"
               className={known.has(selected.id) ? "active" : ""}
-              onClick={() => toggleKnown(selected.id)}
+              onClick={() => handleToggleKnown(selected.id)}
             >
               {known.has(selected.id) ? t("hsk.grammar.known") : t("hsk.grammar.markKnown")}
             </button>
@@ -82,7 +99,7 @@ export default function Grammar() {
                   onClick={() => speak(ex.hanzi)}
                   title={t("hsk.common.play")}
                 >
-                  🔊
+                  <SpeakerIcon />
                 </button>
               </div>
             ))}
@@ -130,7 +147,7 @@ export default function Grammar() {
             <button
               type="button"
               className={`hsk-grammar-known-btn${known.has(point.id) ? " active" : ""}`}
-              onClick={() => toggleKnown(point.id)}
+              onClick={() => handleToggleKnown(point.id)}
             >
               {known.has(point.id) ? t("hsk.grammar.known") : t("hsk.grammar.markKnown")}
             </button>

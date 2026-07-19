@@ -7,6 +7,7 @@ import { useVocabulary } from "../../../shared/useVocabulary";
 import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { resolveHskLevel } from "../../../shared/userSettings";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 const PAGE_SIZE = 50;
 
@@ -94,7 +95,7 @@ export default function Vocabulary() {
             </div>
             <div className="hsk-word-actions">
               <button type="button" onClick={() => speak(word.hanzi)} title={t("hsk.common.play")}>
-                🔊
+                <SpeakerIcon />
               </button>
               <button
                 type="button"

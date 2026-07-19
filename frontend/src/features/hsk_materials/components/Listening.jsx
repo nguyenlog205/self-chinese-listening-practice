@@ -10,6 +10,7 @@ import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/u
 import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 export default function Listening() {
   const { t, language } = useLanguage();
@@ -42,7 +43,10 @@ export default function Listening() {
   };
 
   const checkAnswer = () => {
-    const isCorrect = input.trim() === current.hanzi;
+    // Compare against the script the user is actually shown/expected to type
+    // (Simplified or Traditional), not always the Simplified data as-stored --
+    // otherwise a correct Traditional answer gets marked wrong.
+    const isCorrect = input.trim() === toDisplayHanzi(current.hanzi, scriptMode);
     setResult(isCorrect ? "correct" : "incorrect");
     setScore((s) => ({
       correct: s.correct + (isCorrect ? 1 : 0),
@@ -92,7 +96,7 @@ export default function Listening() {
             <p className="hsk-listening-hint">{t("hsk.listening.hint")}</p>
 
             <button type="button" className="hsk-play-btn" onClick={() => speak(current.hanzi)}>
-              🔊 {t("hsk.common.play")}
+              <SpeakerIcon /> {t("hsk.common.play")}
             </button>
 
             <div className="hsk-listening-input-row">

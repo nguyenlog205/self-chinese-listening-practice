@@ -9,11 +9,14 @@ import { buildQuiz } from "../../../shared/buildQuiz";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
 import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
-import { toDisplayPhonetic } from "../../../shared/chineseText";
+import { useSpeak } from "../../../shared/useSpeak";
+import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 export default function MockTest() {
   const { t, language } = useLanguage();
-  const { showPinyin, phoneticMode } = usePreferences();
+  const { showPinyin, scriptMode, phoneticMode } = usePreferences();
+  const speak = useSpeak();
   const [level, setLevel] = useState(() => resolveHskLevel(HSK_LEVELS));
   const [learnMode] = useState(getLearnMode);
   const [randomOrder] = useState(getRandomOrder);
@@ -109,6 +112,17 @@ export default function MockTest() {
               {t("hsk.mocktest.question")} {index + 1}/{quiz.length}
             </div>
             <p className="hsk-mocktest-prompt">{t("hsk.mocktest.prompt")}</p>
+            <div className="hsk-mocktest-hanzi-row">
+              <span className="hsk-mocktest-hanzi">{toDisplayHanzi(question.question, scriptMode)}</span>
+              <button
+                type="button"
+                className="hsk-grammar-play-btn"
+                onClick={() => speak(question.question)}
+                title={t("hsk.common.play")}
+              >
+                <SpeakerIcon />
+              </button>
+            </div>
             {showPinyin && (
               <p className="hsk-mocktest-pinyin">{toDisplayPhonetic(question.pinyin, phoneticMode)}</p>
             )}
