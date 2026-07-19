@@ -3,8 +3,8 @@ from __future__ import annotations
 from fastapi import APIRouter, Query
 
 from ..db import get_conn
-from .models import DailyActivityOut, PracticeEventIn
-from .repo import clear_all, get_daily_counts, insert_event
+from .models import DailyActivityOut, PracticeEventIn, TodayActivityOut
+from .repo import clear_all, get_daily_counts, get_today_counts, insert_event
 
 router = APIRouter(prefix="/api/activity", tags=["activity"])
 
@@ -27,3 +27,9 @@ def reset_events() -> dict:
 def daily(days: int = Query(default=182, ge=1, le=730)) -> list[dict]:
     with get_conn() as conn:
         return get_daily_counts(conn, days)
+
+
+@router.get("/today", response_model=TodayActivityOut)
+def today() -> dict:
+    with get_conn() as conn:
+        return get_today_counts(conn)

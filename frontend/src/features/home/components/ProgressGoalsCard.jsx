@@ -1,5 +1,5 @@
 import { useLanguage } from "../../../i18n/LanguageContext";
-import { getWordsDone, getSentencesDone } from "../../../shared/localProgress";
+import { useTodayActivity } from "../../../shared/useTodayActivity";
 import { getWordGoal, getSentenceGoal } from "../../../shared/userSettings";
 
 function pct(done, goal) {
@@ -9,8 +9,7 @@ function pct(done, goal) {
 
 export default function ProgressGoalsCard() {
   const { t } = useLanguage();
-  const wordsDone = getWordsDone();
-  const sentencesDone = getSentencesDone();
+  const { words: wordsDone, sentences: sentencesDone } = useTodayActivity();
   const wordGoal = getWordGoal();
   const sentenceGoal = getSentenceGoal();
   const wordPct = pct(wordsDone, wordGoal);

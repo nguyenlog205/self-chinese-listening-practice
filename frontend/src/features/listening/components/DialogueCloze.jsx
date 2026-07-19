@@ -4,9 +4,9 @@ import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
 import { useDialogueExercises } from "../../../shared/useDialogueExercises";
-import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi } from "../../../shared/chineseText";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 function pickExercise(pool, excludeId) {
   const candidates = pool.filter((e) => e.id !== excludeId);
@@ -50,7 +50,6 @@ export default function DialogueCloze() {
 
   const check = () => {
     setChecked(true);
-    logSentencePractice();
     const isCorrect = exercise.blanks.every(
       (b) => (answers[b.lineIndex] || "").trim() === toDisplayHanzi(b.answer, scriptMode)
     );
@@ -90,7 +89,7 @@ export default function DialogueCloze() {
           <p className="listening-progress-label">{t("listening.dialogueCloze.hint")}</p>
 
           <button type="button" className="listening-play-btn" onClick={play}>
-            🔊 {t("listening.dialogue.playAll")}
+            <SpeakerIcon /> {t("listening.dialogue.playAll")}
           </button>
 
           <div className="listening-dialogue-script">

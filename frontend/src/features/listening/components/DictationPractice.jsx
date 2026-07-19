@@ -7,9 +7,10 @@ import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { selectPracticeWords } from "../../../shared/practiceWords";
 import { useSpeak } from "../../../shared/useSpeak";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
-import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import { alignedDiff, isDictationCorrect } from "../../../shared/dictationCheck";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 export default function DictationPractice() {
   const { t, language } = useLanguage();
@@ -32,17 +33,22 @@ export default function DictationPractice() {
   );
   const current = practiceWords[index];
 
+  const diff = useMemo(() => {
+    if (!current || !result) return [];
+    return alignedDiff(input, toDisplayHanzi(current.hanzi, scriptMode));
+  }, [current, result, input, scriptMode]);
+
   const checkAnswer = () => {
     // Compare against the script the user is actually shown/expected to type
     // (Simplified or Traditional), not always the Simplified data as-stored --
-    // otherwise a correct Traditional answer gets marked wrong.
-    const isCorrect = input.trim() === toDisplayHanzi(current.hanzi, scriptMode);
+    // otherwise a correct Traditional answer gets marked wrong. Punctuation is
+    // never graded either — chữ đúng là đủ.
+    const isCorrect = isDictationCorrect(input, toDisplayHanzi(current.hanzi, scriptMode));
     setResult(isCorrect ? "correct" : "incorrect");
     setScore((s) => ({
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
-    logWordPractice();
     ActivityApi.logEvent({
       mode: "listening_dictation",
       item_type: "vocab",
@@ -73,7 +79,7 @@ export default function DictationPractice() {
             <p className="listening-progress-label">{t("listening.dictation.hint")}</p>
 
             <button type="button" className="listening-play-btn" onClick={() => speak(current.hanzi)}>
-              🔊 {t("hsk.common.play")}
+              <SpeakerIcon /> {t("hsk.common.play")}
             </button>
 
             <div className="listening-toggle-row" style={{ gap: 10 }}>
@@ -93,13 +99,14 @@ export default function DictationPractice() {
             {result && (
               <div className={`listening-result listening-result-${result}`}>
                 {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
-                {result === "incorrect" && (
-                  <span className="listening-result-answer">
-                    {" "}
-                    — {toDisplayHanzi(current.hanzi, scriptMode)}{" "}
-                    {showPinyin && `(${toDisplayPhonetic(current.pinyin, phoneticMode)})`}
-                  </span>
-                )}
+                <p className="listening-progress-label" style={{ marginTop: 8 }}>
+                  {diff.map((d, i) => (
+                    <span key={i} style={{ color: d.ok ? "var(--accent-2)" : "var(--accent)" }}>
+                      {d.ok ? d.ch : "*"}
+                    </span>
+                  ))}
+                  {showPinyin && ` (${toDisplayPhonetic(current.pinyin, phoneticMode)})`}
+                </p>
               </div>
             )}
 

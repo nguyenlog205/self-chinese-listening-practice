@@ -7,7 +7,6 @@ import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { selectPracticeWords } from "../../../shared/practiceWords";
 import { buildQuiz } from "../../../shared/buildQuiz";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
-import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { useSpeak } from "../../../shared/useSpeak";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
@@ -53,7 +52,6 @@ export default function MockTest() {
     setSelected(option);
     const isCorrect = option.hanzi === question.answer;
     if (isCorrect) setScore((s) => s + 1);
-    logWordPractice();
     ActivityApi.logEvent({
       mode: "hsk_mocktest",
       item_type: "vocab",

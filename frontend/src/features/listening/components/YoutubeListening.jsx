@@ -3,9 +3,10 @@ import { useLanguage } from "../../../i18n/LanguageContext";
 import { usePreferences } from "../../../shared/PreferencesContext";
 import { Api, STAGE_LABELS } from "../../../shared/lessonsApi";
 import { useLessons } from "../../../shared/useLessons";
-import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import { alignedDiff, isDictationCorrect } from "../../../shared/dictationCheck";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 export default function YoutubeListening() {
   const { t, language } = useLanguage();
@@ -80,7 +81,6 @@ export default function YoutubeListening() {
     setCurrentIndex(index);
     setChecked(false);
     setGuess("");
-    logSentencePractice();
     ActivityApi.logEvent({
       mode: "youtube_dictation",
       item_type: "segment",
@@ -95,20 +95,18 @@ export default function YoutubeListening() {
 
   const checkDictation = () => {
     setChecked(true);
-    logSentencePractice();
     ActivityApi.logEvent({
       mode: "youtube_dictation",
       item_type: "segment",
       item_id: `${selectedId}:${currentIndex}`,
       level: null,
-      is_correct: guess === segment.text_zh,
+      is_correct: isDictationCorrect(guess, segment.text_zh),
     });
   };
 
   const diff = useMemo(() => {
     if (!segment) return [];
-    const target = segment.text_zh;
-    return target.split("").map((ch, i) => ({ ch, ok: guess[i] === ch }));
+    return alignedDiff(guess, segment.text_zh);
   }, [segment, guess]);
 
   const selectedLesson = lessons.find((l) => l.id === selectedId);
@@ -134,7 +132,7 @@ export default function YoutubeListening() {
         {segment && (
           <div className="listening-card">
             <button type="button" className="listening-play-btn" onClick={playSegment}>
-              🔊 {t("listening.youtube.playSegment")}
+              <SpeakerIcon /> {t("listening.youtube.playSegment")}
             </button>
 
             {showText && (
@@ -172,7 +170,7 @@ export default function YoutubeListening() {
                   <p className="listening-practice-text" style={{ marginTop: 8 }}>
                     {diff.map((d, i) => (
                       <span key={i} style={{ color: d.ok ? "var(--accent-2)" : "var(--accent)" }}>
-                        {d.ch}
+                        {d.ok ? d.ch : "*"}
                       </span>
                     ))}
                   </p>

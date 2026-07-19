@@ -3,9 +3,10 @@ import { useLanguage } from "../../../i18n/LanguageContext";
 import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogues } from "../../../shared/useDialogues";
 import { useSpeak } from "../../../shared/useSpeak";
-import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import { alignedDiff, isDictationCorrect } from "../../../shared/dictationCheck";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 // Pool of practice sentences is every line from every dialogue — same
 // source DialogueChoice/DialogueCloze draw from, just flattened instead of
@@ -31,15 +32,19 @@ export default function SentenceDictation() {
 
   const current = sentences.length > 0 ? sentences[index % sentences.length] : null;
 
+  const diff = useMemo(() => {
+    if (!current || !result) return [];
+    return alignedDiff(input, toDisplayHanzi(current.hanzi, scriptMode));
+  }, [current, result, input, scriptMode]);
+
   const checkAnswer = () => {
     if (!current) return;
-    const isCorrect = input.trim() === toDisplayHanzi(current.hanzi, scriptMode);
+    const isCorrect = isDictationCorrect(input, toDisplayHanzi(current.hanzi, scriptMode));
     setResult(isCorrect ? "correct" : "incorrect");
     setScore((s) => ({
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
-    logSentencePractice();
     ActivityApi.logEvent({
       mode: "sentence_dictation",
       item_type: "dialogue_line",
@@ -70,7 +75,7 @@ export default function SentenceDictation() {
             <p className="listening-progress-label">{t("listening.sentenceDictation.hint")}</p>
 
             <button type="button" className="listening-play-btn" onClick={() => speak(current.hanzi)}>
-              🔊 {t("hsk.common.play")}
+              <SpeakerIcon /> {t("hsk.common.play")}
             </button>
 
             <div className="listening-toggle-row" style={{ gap: 10 }}>
@@ -90,9 +95,13 @@ export default function SentenceDictation() {
             {result && (
               <div className={`listening-result listening-result-${result}`}>
                 {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
-                {result === "incorrect" && (
-                  <span className="listening-result-answer"> — {toDisplayHanzi(current.hanzi, scriptMode)}</span>
-                )}
+                <p className="listening-practice-text" style={{ marginTop: 8 }}>
+                  {diff.map((d, i) => (
+                    <span key={i} style={{ color: d.ok ? "var(--accent-2)" : "var(--accent)" }}>
+                      {d.ok ? d.ch : "*"}
+                    </span>
+                  ))}
+                </p>
               </div>
             )}
 

@@ -122,6 +122,37 @@ button {
   font: inherit;
 }
 
+/* Shared across nearly every feature (home, listening, HSK materials,
+   settings) — kept in this always-loaded stylesheet rather than a
+   feature's own CSS chunk, since those chunks only load once that
+   feature's page has mounted (see App.jsx's route-level lazy imports) and
+   a page reached directly, e.g. via a hash-route reload, would otherwise
+   render this class completely unstyled. */
+.btn-accent {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 11px 18px;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--accent), #c93a2f);
+  color: #fff8f3;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 8px 18px -8px rgba(var(--accent-rgb), 0.55);
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+.btn-accent:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 10px 22px -8px rgba(var(--accent-rgb), 0.65);
+}
+
+.btn-accent:active {
+  transform: translateY(0);
+}
+
 ::selection {
   background: var(--accent-soft);
 }

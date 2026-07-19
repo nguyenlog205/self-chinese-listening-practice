@@ -4,9 +4,9 @@ import { usePreferences } from "../../../shared/PreferencesContext";
 import { useDialogueAudio } from "../../../shared/useDialogueAudio";
 import { useDialogues } from "../../../shared/useDialogues";
 import { useDialogueExercises } from "../../../shared/useDialogueExercises";
-import { logSentencePractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi } from "../../../shared/chineseText";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 function pickExercise(pool, excludeId) {
   const candidates = pool.filter((e) => e.id !== excludeId);
@@ -45,7 +45,6 @@ export default function DialogueChoice() {
       correct: s.correct + (option.correct ? 1 : 0),
       total: s.total + 1,
     }));
-    logSentencePractice();
     ActivityApi.logEvent({
       mode: "dialogue_choice",
       item_type: "dialogue",
@@ -75,7 +74,7 @@ export default function DialogueChoice() {
             <p className="listening-progress-label">{t("listening.dialogueChoice.hint")}</p>
 
             <button type="button" className="listening-play-btn" onClick={play}>
-              🔊 {t("listening.dialogue.playAll")}
+              <SpeakerIcon /> {t("listening.dialogue.playAll")}
             </button>
 
             <button

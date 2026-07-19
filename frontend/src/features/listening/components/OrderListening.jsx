@@ -7,9 +7,9 @@ import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { selectPracticeWords } from "../../../shared/practiceWords";
 import { useSpeak } from "../../../shared/useSpeak";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
-import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 // `index` walks `words` round-robin instead of a fresh Math.random() pick
 // each round — see ChoiceListening.jsx for why.
@@ -88,7 +88,6 @@ export default function OrderListening() {
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
-    logWordPractice();
     ActivityApi.logEvent({
       mode: "listening_order",
       item_type: "vocab",
@@ -115,7 +114,7 @@ export default function OrderListening() {
             <p className="listening-progress-label">{t("listening.order.hint")}</p>
 
             <button type="button" className="listening-play-btn" onClick={() => speak(word.hanzi)}>
-              🔊 {t("hsk.common.play")}
+              <SpeakerIcon /> {t("hsk.common.play")}
             </button>
 
             <div className="listening-order-target">

@@ -24,6 +24,22 @@ def insert_event(
     )
 
 
+def get_today_counts(conn: sqlite3.Connection) -> dict:
+    """Words vs. sentences practiced today, split by item_type: 'vocab' is
+    word-level practice, everything else (dialogue/dialogue_line/segment) is
+    sentence-level — mirrors the logWordPractice/logSentencePractice split
+    the frontend used to track locally before this endpoint existed."""
+    today = date.today().isoformat()
+    row = conn.execute(
+        """SELECT
+               SUM(CASE WHEN item_type = 'vocab' THEN 1 ELSE 0 END) AS words,
+               SUM(CASE WHEN item_type != 'vocab' THEN 1 ELSE 0 END) AS sentences
+           FROM practice_events WHERE date(created_at) = ?""",
+        (today,),
+    ).fetchone()
+    return {"words": row["words"] or 0, "sentences": row["sentences"] or 0}
+
+
 def get_daily_counts(conn: sqlite3.Connection, days: int) -> list[dict]:
     """[{date: 'YYYY-MM-DD', count: N}] liên tục `days` ngày, kể cả ngày count=0."""
     since = date.today() - timedelta(days=days - 1)

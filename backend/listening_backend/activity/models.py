@@ -16,6 +16,11 @@ class DailyActivityOut(BaseModel):
     count: int
 
 
+class TodayActivityOut(BaseModel):
+    words: int
+    sentences: int
+
+
 class StreakOut(BaseModel):
     current: int
     longest: int

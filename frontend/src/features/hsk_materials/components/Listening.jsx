@@ -7,9 +7,9 @@ import { useVocabulary } from "../../../shared/useVocabulary";
 import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { selectPracticeWords } from "../../../shared/practiceWords";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
-import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
+import { alignedDiff, isDictationCorrect } from "../../../shared/dictationCheck";
 import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 export default function Listening() {
@@ -33,6 +33,11 @@ export default function Listening() {
   );
   const current = practiceWords[index];
 
+  const diff = useMemo(() => {
+    if (!current || !result) return [];
+    return alignedDiff(input, toDisplayHanzi(current.hanzi, scriptMode));
+  }, [current, result, input, scriptMode]);
+
   const changeLevel = (lvl) => {
     setLevel(lvl);
     setIndex(0);
@@ -45,14 +50,14 @@ export default function Listening() {
   const checkAnswer = () => {
     // Compare against the script the user is actually shown/expected to type
     // (Simplified or Traditional), not always the Simplified data as-stored --
-    // otherwise a correct Traditional answer gets marked wrong.
-    const isCorrect = input.trim() === toDisplayHanzi(current.hanzi, scriptMode);
+    // otherwise a correct Traditional answer gets marked wrong. Punctuation is
+    // never graded either — chữ đúng là đủ.
+    const isCorrect = isDictationCorrect(input, toDisplayHanzi(current.hanzi, scriptMode));
     setResult(isCorrect ? "correct" : "incorrect");
     setScore((s) => ({
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
-    logWordPractice();
     ActivityApi.logEvent({
       mode: "hsk_dictation",
       item_type: "vocab",
@@ -116,13 +121,14 @@ export default function Listening() {
             {result && (
               <div className={`hsk-result hsk-result-${result}`}>
                 {result === "correct" ? t("hsk.common.correct") : t("hsk.common.incorrect")}
-                {result === "incorrect" && (
-                  <span className="hsk-result-answer">
-                    {" "}
-                    — {toDisplayHanzi(current.hanzi, scriptMode)}{" "}
-                    {showPinyin && `(${toDisplayPhonetic(current.pinyin, phoneticMode)})`}
-                  </span>
-                )}
+                <p className="hsk-progress-label" style={{ marginTop: 8 }}>
+                  {diff.map((d, i) => (
+                    <span key={i} style={{ color: d.ok ? "var(--accent-2)" : "var(--accent)" }}>
+                      {d.ok ? d.ch : "*"}
+                    </span>
+                  ))}
+                  {showPinyin && ` (${toDisplayPhonetic(current.pinyin, phoneticMode)})`}
+                </p>
               </div>
             )}
 

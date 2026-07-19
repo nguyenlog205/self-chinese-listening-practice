@@ -21,7 +21,6 @@ import { clearReadingCache } from "../../shared/useReading";
 import { clearDialoguesCache } from "../../shared/useDialogues";
 import { clearDialogueExercisesCache } from "../../shared/useDialogueExercises";
 import { clearVocabProgressCache } from "../../shared/useVocabProgress";
-import { resetLocalProgress } from "../../shared/localProgress";
 
 const STORAGE = {
   NAME: USER_NAME_KEY,
@@ -138,7 +137,6 @@ export default function SettingsPage() {
     setResetState({ status: "loading", message: "" });
     try {
       await Promise.all([ContentApi.resetVocabProgress(), ActivityApi.resetActivity()]);
-      resetLocalProgress();
       clearVocabProgressCache();
       window.location.reload();
     } catch (err) {

@@ -8,6 +8,7 @@ export const ActivityApi = {
       body: JSON.stringify(event),
     }).catch(() => {}), // best-effort — lỗi log không được làm hỏng trải nghiệm học
   getDaily: (days = 182) => apiFetch(`/api/activity/daily?days=${days}`),
+  getToday: () => apiFetch("/api/activity/today"),
   getStreak: () => apiFetch("/api/streak"),
   resetActivity: () => apiFetch("/api/activity/events", { method: "DELETE" }),
 };

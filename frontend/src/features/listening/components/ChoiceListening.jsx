@@ -6,8 +6,8 @@ import { useVocabProgress } from "../../../shared/useVocabProgress";
 import { selectPracticeWords } from "../../../shared/practiceWords";
 import { useSpeak } from "../../../shared/useSpeak";
 import { resolveHskLevel, getLearnMode, getRandomOrder } from "../../../shared/userSettings";
-import { logWordPractice } from "../../../shared/localProgress";
 import { ActivityApi } from "../../../shared/activityApi";
+import SpeakerIcon from "../../../shared/SpeakerIcon";
 
 // `index` walks `words` sequentially (round-robin) instead of picking with
 // Math.random() each round, so the "xáo trộn thứ tự" setting — which
@@ -58,7 +58,6 @@ export default function ChoiceListening() {
       correct: s.correct + (isCorrect ? 1 : 0),
       total: s.total + 1,
     }));
-    logWordPractice();
     ActivityApi.logEvent({
       mode: "listening_choice",
       item_type: "vocab",
@@ -88,7 +87,7 @@ export default function ChoiceListening() {
               className="listening-play-btn"
               onClick={() => speak(round.answer.hanzi)}
             >
-              🔊 {t("hsk.common.play")}
+              <SpeakerIcon /> {t("hsk.common.play")}
             </button>
 
             <div className="listening-choice-options">
