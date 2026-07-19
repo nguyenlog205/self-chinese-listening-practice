@@ -584,10 +584,10 @@ export const translations = {
   "settings.dataRefreshButton": { vi: "Cập nhật dữ liệu", en: "Update data", zh: "更新数据",
     "zh-TW": "更新數據" },
   "settings.dataRefreshSuccess": {
-    vi: "Đã cập nhật {{words}} từ vựng và {{dialogues}} hội thoại{{audioNote}}.",
-    en: "Updated {{words}} vocabulary words and {{dialogues}} dialogues{{audioNote}}.",
-    zh: "已更新 {{words}} 个词汇和 {{dialogues}} 段对话{{audioNote}}。",
-    "zh-TW": "已更新 {{words}} 個詞彙和 {{dialogues}} 段對話{{audioNote}}。",
+    vi: "Đã cập nhật {{words}} từ vựng, {{grammar}} ngữ pháp và {{dialogues}} hội thoại{{audioNote}}.",
+    en: "Updated {{words}} vocabulary words, {{grammar}} grammar points and {{dialogues}} dialogues{{audioNote}}.",
+    zh: "已更新 {{words}} 个词汇、{{grammar}} 个语法点和 {{dialogues}} 段对话{{audioNote}}。",
+    "zh-TW": "已更新 {{words}} 個詞彙、{{grammar}} 個語法點和 {{dialogues}} 段對話{{audioNote}}。",
   },
   "settings.dataRefreshAudioNote": {
     vi: " ({{count}} có audio thật)",

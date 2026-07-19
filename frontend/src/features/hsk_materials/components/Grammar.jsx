@@ -1,8 +1,9 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import { useLanguage } from "../../../i18n/LanguageContext";
 import { usePreferences } from "../../../shared/PreferencesContext";
-import { HSK_LEVELS, GRAMMAR_POINTS } from "../data/hskData";
+import { HSK_LEVELS } from "../data/hskData";
 import { useSpeak } from "../../../shared/useSpeak";
+import { useGrammar } from "../../../shared/useGrammar";
 import { useGrammarProgress } from "../../../shared/useGrammarProgress";
 import { resolveHskLevel } from "../../../shared/userSettings";
 import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
@@ -18,7 +19,7 @@ export default function Grammar() {
   const [page, setPage] = useState(0);
   const [selectedId, setSelectedId] = useState(null);
 
-  const points = useMemo(() => GRAMMAR_POINTS[level] ?? [], [level]);
+  const { points, loading, error } = useGrammar(level);
 
   const changeLevel = (lvl) => {
     setLevel(lvl);
@@ -112,7 +113,9 @@ export default function Grammar() {
         </span>
       </div>
 
-      {points.length === 0 && <p className="hsk-empty">{t("hsk.grammar.noResults")}</p>}
+      {loading && <p className="hsk-progress-label">{t("common.loading")}</p>}
+      {error && <p className="hsk-empty">{error}</p>}
+      {!loading && points.length === 0 && <p className="hsk-empty">{t("hsk.grammar.noResults")}</p>}
 
       <div className="hsk-grammar-grid">
         {paged.map((point) => (

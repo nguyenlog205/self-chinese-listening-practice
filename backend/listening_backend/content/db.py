@@ -46,4 +46,11 @@ CREATE TABLE IF NOT EXISTS dialogues_audio_metadata (
     id TEXT PRIMARY KEY REFERENCES dialogues(id),
     data TEXT NOT NULL  -- JSON: {audio_file, duration_sec, exercises: {choice, cloze, dictation}}
 );
+
+CREATE TABLE IF NOT EXISTS grammar_points (
+    id TEXT PRIMARY KEY,
+    level TEXT NOT NULL,
+    data TEXT NOT NULL  -- JSON: {title, structure, explanation, examples}
+);
+CREATE INDEX IF NOT EXISTS idx_grammar_points_level ON grammar_points(level);
 """

@@ -37,6 +37,10 @@ def _vocab_url(level: str) -> str:
     return f"{sync_module.RAW_BASE}/vocabulary/{sync_module._level_filename(level)}"
 
 
+def _grammar_url(level: str) -> str:
+    return f"{sync_module.RAW_BASE}/grammar/{sync_module._level_filename(level)}"
+
+
 def _dialogues_url() -> str:
     return f"{sync_module.RAW_BASE}/dialogues.json"
 
@@ -96,6 +100,11 @@ def _stub_all_vocab_levels_empty(urlopen_map):
         urlopen_map[_vocab_url(level)] = lambda: _FakeResponse(_json_bytes([]))
 
 
+def _stub_all_grammar_levels_empty(urlopen_map):
+    for level in sync_module.GRAMMAR_LEVELS:
+        urlopen_map[_grammar_url(level)] = lambda: _FakeResponse(_json_bytes([]))
+
+
 def test_fetch_json_wraps_network_error(urlopen_map):
     def raise_url_error():
         raise URLError("boom")
@@ -131,6 +140,7 @@ def test_refresh_content_imports_vocab_and_dialogues(urlopen_map, conn):
     )
     for level in VOCAB_LEVELS[1:]:
         urlopen_map[_vocab_url(level)] = lambda: _FakeResponse(_json_bytes([]))
+    _stub_all_grammar_levels_empty(urlopen_map)
 
     dialogue = {
         "id": "d1",
@@ -161,8 +171,64 @@ def test_refresh_content_imports_vocab_and_dialogues(urlopen_map, conn):
     assert stored["lines"][0]["hanzi"] == "你好"
 
 
+def test_refresh_content_rejects_non_list_grammar_payload(urlopen_map, conn):
+    _stub_all_vocab_levels_empty(urlopen_map)
+    urlopen_map[_grammar_url(sync_module.GRAMMAR_LEVELS[0])] = lambda: _FakeResponse(
+        _json_bytes({"not": "a list"})
+    )
+    with pytest.raises(ContentSyncError, match="danh sách"):
+        refresh_content(conn)
+
+
+def test_refresh_content_rejects_grammar_missing_required_keys(urlopen_map, conn):
+    _stub_all_vocab_levels_empty(urlopen_map)
+    urlopen_map[_grammar_url(sync_module.GRAMMAR_LEVELS[0])] = lambda: _FakeResponse(
+        _json_bytes([{"id": "shi", "title": {"vi": "..."}}])  # missing structure/explanation/examples
+    )
+    with pytest.raises(ContentSyncError, match="thiếu trường bắt buộc"):
+        refresh_content(conn)
+
+
+def test_refresh_content_imports_grammar(urlopen_map, conn):
+    _stub_all_vocab_levels_empty(urlopen_map)
+    point = {
+        "id": "shi",
+        "title": {"vi": "Câu với 是", "en": "Sentences with 是", "zh": "是字句"},
+        "structure": "A + 是 + B",
+        "explanation": {"vi": "...", "en": "...", "zh": "..."},
+        "examples": [
+            {"hanzi": "我是学生。", "pinyin": "Wǒ shì xuésheng.", "translation": {"vi": "...", "en": "..."}}
+        ],
+    }
+    first_level = sync_module.GRAMMAR_LEVELS[0]
+    urlopen_map[_grammar_url(first_level)] = lambda: _FakeResponse(_json_bytes([point]))
+    for level in sync_module.GRAMMAR_LEVELS[1:]:
+        urlopen_map[_grammar_url(level)] = lambda: _FakeResponse(_json_bytes([]))
+
+    dialogue = {"id": "d1", "level": 1, "lines": []}
+    urlopen_map[_dialogues_url()] = lambda: _FakeResponse(_json_bytes([dialogue]))
+    _stub_no_audio_metadata_or_exercises(urlopen_map, ["d1"])
+
+    def audio_404():
+        raise HTTPError(_dialogue_audio_url("d1"), 404, "not found", None, None)
+
+    urlopen_map[_dialogue_audio_url("d1")] = audio_404
+
+    result = refresh_content(conn)
+
+    assert result["grammar"][first_level] == 1
+    row = conn.execute(
+        "SELECT level, data FROM grammar_points WHERE id = 'shi'"
+    ).fetchone()
+    assert row["level"] == first_level
+    stored = json.loads(row["data"])
+    assert stored["structure"] == "A + 是 + B"
+    assert stored["examples"][0]["hanzi"] == "我是学生。"
+
+
 def test_refresh_content_rejects_dialogue_missing_required_keys(urlopen_map, conn):
     _stub_all_vocab_levels_empty(urlopen_map)
+    _stub_all_grammar_levels_empty(urlopen_map)
     # missing "lines" -- REQUIRED_DIALOGUE_KEYS is just {id, level, lines}
     # now that question/options/blanks live in dialogue_exercises/ instead.
     urlopen_map[_dialogues_url()] = lambda: _FakeResponse(
@@ -274,6 +340,7 @@ def test_fetch_exercises_rejects_missing_required_keys(urlopen_map):
 
 def test_refresh_content_syncs_audio_metadata_and_all_exercise_kinds(urlopen_map, conn):
     _stub_all_vocab_levels_empty(urlopen_map)
+    _stub_all_grammar_levels_empty(urlopen_map)
 
     dialogue = {
         "id": "d1",

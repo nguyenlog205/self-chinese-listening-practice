@@ -77,3 +77,18 @@ class AudioMetadataOut(BaseModel):
     audio_file: str
     duration_sec: float
     exercises: dict
+
+
+class GrammarExample(BaseModel):
+    hanzi: str
+    pinyin: str
+    translation: dict[str, str]  # {vi, en}
+
+
+class GrammarPointOut(BaseModel):
+    id: str
+    level: str
+    title: dict[str, str]  # {vi, en, zh}
+    structure: str
+    explanation: dict[str, str]  # {vi, en, zh}
+    examples: list[GrammarExample]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "guo",
+    "title": {
+      "vi": "Trợ từ 过 (kinh nghiệm)",
+      "en": "Aspect particle 过 (experience)",
+      "zh": "经历助词「过」"
+    },
+    "structure": "V + 过",
+    "explanation": {
+      "vi": "过 sau động từ diễn tả kinh nghiệm đã từng làm trong quá khứ, không nhấn mạnh thời điểm cụ thể.",
+      "en": "过 after a verb expresses a past experience, without emphasizing a specific time.",
+      "zh": "「过」放在动词后，表示曾经有过某种经历，不强调具体时间。"
+    },
+    "examples": [
+      {
+        "hanzi": "我去过北京。",
+        "pinyin": "Wǒ qùguo Běijīng.",
+        "translation": {
+          "vi": "Tôi đã từng đến Bắc Kinh.",
+          "en": "I have been to Beijing before."
+        }
+      },
+      {
+        "hanzi": "他没吃过中国菜。",
+        "pinyin": "Tā méi chīguo Zhōngguó cài.",
+        "translation": {
+          "vi": "Anh ấy chưa từng ăn món Trung Quốc.",
+          "en": "He has never eaten Chinese food."
+        }
+      }
+    ]
+  },
+  {
+    "id": "bijiao",
+    "title": {
+      "vi": "Câu so sánh với 比",
+      "en": "Comparisons with 比",
+      "zh": "比字句"
+    },
+    "structure": "A + 比 + B + Adj",
+    "explanation": {
+      "vi": "比 dùng để so sánh hai đối tượng, tính từ đặt sau B, không thêm 很 trước tính từ.",
+      "en": "比 compares two things; the adjective follows B, and 很 is not added before it.",
+      "zh": "「比」用于比较两者，形容词放在 B 之后，前面不加「很」。"
+    },
+    "examples": [
+      {
+        "hanzi": "他比我高。",
+        "pinyin": "Tā bǐ wǒ gāo.",
+        "translation": {
+          "vi": "Anh ấy cao hơn tôi.",
+          "en": "He is taller than me."
+        }
+      },
+      {
+        "hanzi": "今天比昨天冷。",
+        "pinyin": "Jīntiān bǐ zuótiān lěng.",
+        "translation": {
+          "vi": "Hôm nay lạnh hơn hôm qua.",
+          "en": "Today is colder than yesterday."
+        }
+      }
+    ]
+  }
+]

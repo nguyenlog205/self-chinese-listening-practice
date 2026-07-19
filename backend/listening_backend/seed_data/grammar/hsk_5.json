@@ -1,0 +1,50 @@
+[
+  {
+    "id": "jinguan",
+    "title": {
+      "vi": "尽管...但是... (mặc dù...nhưng...)",
+      "en": "尽管...但是... (although...but...)",
+      "zh": "尽管…但是…"
+    },
+    "structure": "尽管 + A，但是 + B",
+    "explanation": {
+      "vi": "Cấu trúc nhượng bộ, thừa nhận sự thật A nhưng kết luận B vẫn xảy ra trái ngược.",
+      "en": "A concessive structure: acknowledges fact A, but concludes with contrasting result B.",
+      "zh": "表示让步关系，承认事实 A，但结果 B 与预期相反。"
+    },
+    "examples": [
+      {
+        "hanzi": "尽管很累，但是他还在工作。",
+        "pinyin": "Jǐnguǎn hěn lèi, dànshì tā hái zài gōngzuò.",
+        "translation": {
+          "vi": "Mặc dù rất mệt, nhưng anh ấy vẫn đang làm việc.",
+          "en": "Although very tired, he is still working."
+        }
+      }
+    ]
+  },
+  {
+    "id": "yuelaiyueduo",
+    "title": {
+      "vi": "越来越 (ngày càng)",
+      "en": "越来越 (more and more)",
+      "zh": "越来越"
+    },
+    "structure": "越来越 + Adj/V",
+    "explanation": {
+      "vi": "Diễn tả mức độ tăng dần theo thời gian.",
+      "en": "Expresses a degree that increases progressively over time.",
+      "zh": "表示程度随时间不断增加。"
+    },
+    "examples": [
+      {
+        "hanzi": "天气越来越冷了。",
+        "pinyin": "Tiānqì yuè lái yuè lěng le.",
+        "translation": {
+          "vi": "Thời tiết ngày càng lạnh.",
+          "en": "The weather is getting colder and colder."
+        }
+      }
+    ]
+  }
+]

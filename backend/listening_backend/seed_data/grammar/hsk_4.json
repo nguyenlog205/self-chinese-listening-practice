@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bei",
+    "title": {
+      "vi": "Câu bị động với 被",
+      "en": "Passive sentences with 被",
+      "zh": "被字句"
+    },
+    "structure": "A + 被 + B + V",
+    "explanation": {
+      "vi": "被 đưa tân ngữ chịu tác động lên đầu câu, B là chủ thể gây ra hành động, có thể lược bỏ.",
+      "en": "被 fronts the affected object; B is the agent performing the action and can be omitted.",
+      "zh": "「被」把受动作影响的对象提到句首，B 是施动者，可以省略。"
+    },
+    "examples": [
+      {
+        "hanzi": "我的钱包被偷了。",
+        "pinyin": "Wǒ de qiánbāo bèi tōu le.",
+        "translation": {
+          "vi": "Ví của tôi bị mất trộm.",
+          "en": "My wallet was stolen."
+        }
+      },
+      {
+        "hanzi": "杯子被他打破了。",
+        "pinyin": "Bēizi bèi tā dǎpò le.",
+        "translation": {
+          "vi": "Cái cốc bị anh ấy làm vỡ.",
+          "en": "The cup was broken by him."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ba",
+    "title": {
+      "vi": "Câu chữ 把",
+      "en": "把 sentences",
+      "zh": "把字句"
+    },
+    "structure": "A + 把 + B + V + 结果",
+    "explanation": {
+      "vi": "把 đưa tân ngữ lên trước động từ để nhấn mạnh kết quả xử lý tân ngữ đó.",
+      "en": "把 moves the object before the verb to emphasize the result of handling that object.",
+      "zh": "「把」把宾语提到动词前，强调对该宾语的处置结果。"
+    },
+    "examples": [
+      {
+        "hanzi": "请把门关上。",
+        "pinyin": "Qǐng bǎ mén guānshàng.",
+        "translation": {
+          "vi": "Hãy đóng cửa lại.",
+          "en": "Please close the door."
+        }
+      },
+      {
+        "hanzi": "我把作业写完了。",
+        "pinyin": "Wǒ bǎ zuòyè xiěwán le.",
+        "translation": {
+          "vi": "Tôi đã viết xong bài tập.",
+          "en": "I finished writing my homework."
+        }
+      }
+    ]
+  }
+]

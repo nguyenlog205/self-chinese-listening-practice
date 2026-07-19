@@ -1,0 +1,66 @@
+[
+  {
+    "id": "le",
+    "title": {
+      "vi": "Trợ từ 了 (hoàn thành)",
+      "en": "Aspect particle 了 (completion)",
+      "zh": "动态助词「了」"
+    },
+    "structure": "V + 了 + O",
+    "explanation": {
+      "vi": "了 đặt sau động từ để chỉ hành động đã hoàn thành hoặc đã xảy ra.",
+      "en": "了 after a verb marks that the action has been completed or has occurred.",
+      "zh": "「了」放在动词后，表示动作已经完成或发生。"
+    },
+    "examples": [
+      {
+        "hanzi": "我吃了早饭。",
+        "pinyin": "Wǒ chīle zǎofàn.",
+        "translation": {
+          "vi": "Tôi đã ăn sáng.",
+          "en": "I have eaten breakfast."
+        }
+      },
+      {
+        "hanzi": "他买了一件衣服。",
+        "pinyin": "Tā mǎile yí jiàn yīfu.",
+        "translation": {
+          "vi": "Anh ấy đã mua một chiếc áo.",
+          "en": "He bought a piece of clothing."
+        }
+      }
+    ]
+  },
+  {
+    "id": "zai-progressive",
+    "title": {
+      "vi": "在 / 正在 (đang)",
+      "en": "在 / 正在 (progressive)",
+      "zh": "在／正在表示进行"
+    },
+    "structure": "(正)在 + V",
+    "explanation": {
+      "vi": "在 hoặc 正在 trước động từ diễn tả hành động đang diễn ra, thường đi kèm 呢 cuối câu.",
+      "en": "在 or 正在 before the verb shows an ongoing action, often paired with 呢 at the end.",
+      "zh": "「在」或「正在」放在动词前，表示动作正在进行，句末常加「呢」。"
+    },
+    "examples": [
+      {
+        "hanzi": "我在看电视呢。",
+        "pinyin": "Wǒ zài kàn diànshì ne.",
+        "translation": {
+          "vi": "Tôi đang xem TV.",
+          "en": "I am watching TV."
+        }
+      },
+      {
+        "hanzi": "她正在做饭。",
+        "pinyin": "Tā zhèngzài zuò fàn.",
+        "translation": {
+          "vi": "Cô ấy đang nấu ăn.",
+          "en": "She is cooking."
+        }
+      }
+    ]
+  }
+]

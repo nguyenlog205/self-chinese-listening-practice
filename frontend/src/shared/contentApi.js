@@ -6,6 +6,7 @@ import { apiBase, apiFetch } from "./api";
 export const ContentApi = {
   listVocabularyLevels: () => apiFetch("/api/vocabulary/levels"),
   listVocabulary: (level) => apiFetch(`/api/vocabulary?level=${encodeURIComponent(level)}`),
+  listGrammar: (level) => apiFetch(`/api/grammar?level=${encodeURIComponent(level)}`),
   listDialogues: (level) =>
     apiFetch(`/api/dialogues${level ? `?level=${encodeURIComponent(level)}` : ""}`),
   // Exercises are stored independently of dialogues (kind: choice/cloze/

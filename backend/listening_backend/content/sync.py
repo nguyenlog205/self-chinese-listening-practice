@@ -1,8 +1,8 @@
-"""Refreshes vocab_words/dialogues from the JSON files committed under
-seed_data/ on GitHub, via raw.githubusercontent.com — no auth needed since
-the repo is public. This lets content (new HSK levels, more dialogues) be
-updated by pushing to the repo and clicking "Cập nhật dữ liệu" in Settings,
-without a new app release.
+"""Refreshes vocab_words/grammar_points/dialogues from the JSON files
+committed under seed_data/ on GitHub, via raw.githubusercontent.com — no
+auth needed since the repo is public. This lets content (new HSK levels,
+more dialogues, more grammar points) be updated by pushing to the repo and
+clicking "Cập nhật dữ liệu" in Settings, without a new app release.
 
 Unlike the first-run seeding in db.py (which only fills empty tables), this
 always replaces: DELETE then INSERT, so it also picks up edits/removals to
@@ -33,9 +33,11 @@ RAW_BASE = f"https://raw.githubusercontent.com/{GITHUB_OWNER_REPO}/main/{GITHUB_
 SEED_DIALOGUES_AUDIO_DIR = BACKEND_DIR / "listening_backend" / "seed_data" / "dialogues_audio"
 
 VOCAB_LEVELS = ["1", "2", "3", "4", "5", "6", "7-9"]
+GRAMMAR_LEVELS = VOCAB_LEVELS
 
 REQUIRED_WORD_KEYS = {"hanzi", "pinyin"}
 REQUIRED_DIALOGUE_KEYS = {"id", "level", "lines"}
+REQUIRED_GRAMMAR_KEYS = {"id", "title", "structure", "explanation", "examples"}
 
 
 class ContentSyncError(RuntimeError):
@@ -144,6 +146,7 @@ def _fetch_exercises(kind: str, dialogue_ids: set[str]) -> list[dict]:
 def refresh_content(conn) -> dict:
     result: dict = {
         "vocabulary": {},
+        "grammar": {},
         "dialogues": 0,
         "dialogue_audio": 0,
         "audio_metadata": 0,
@@ -167,6 +170,37 @@ def refresh_content(conn) -> dict:
             [(level, w["hanzi"], w["pinyin"], w.get("en", ""), w.get("vi", "")) for w in words],
         )
         result["vocabulary"][level] = len(words)
+
+    for level in GRAMMAR_LEVELS:
+        url = f"{RAW_BASE}/grammar/{_level_filename(level)}"
+        points = _fetch_json(url)
+        if not isinstance(points, list):
+            raise ContentSyncError(f"Payload ngữ pháp cấp {level} phải là một danh sách")
+        for p in points:
+            if not isinstance(p, dict) or not REQUIRED_GRAMMAR_KEYS.issubset(p):
+                raise ContentSyncError(f"Ngữ pháp thiếu trường bắt buộc ở cấp {level}: {p!r}")
+
+        conn.execute("DELETE FROM grammar_points WHERE level = ?", (level,))
+        conn.executemany(
+            "INSERT INTO grammar_points (id, level, data) VALUES (?, ?, ?)",
+            [
+                (
+                    p["id"],
+                    level,
+                    json.dumps(
+                        {
+                            "title": p["title"],
+                            "structure": p["structure"],
+                            "explanation": p["explanation"],
+                            "examples": p["examples"],
+                        },
+                        ensure_ascii=False,
+                    ),
+                )
+                for p in points
+            ],
+        )
+        result["grammar"][level] = len(points)
 
     dialogues = _fetch_json(f"{RAW_BASE}/dialogues.json")
     if not isinstance(dialogues, list):

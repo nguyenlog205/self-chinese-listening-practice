@@ -1,0 +1,26 @@
+[
+  {
+    "id": "yizhi",
+    "title": {
+      "vi": "以至于 (đến nỗi)",
+      "en": "以至于 (to such an extent that)",
+      "zh": "以至于"
+    },
+    "structure": "A，以至于 + B",
+    "explanation": {
+      "vi": "Diễn tả kết quả B là hệ quả tự nhiên hoặc cực đoan của mức độ A, thường mang sắc thái tiêu cực.",
+      "en": "Expresses that B is a natural or extreme consequence of the degree of A, often with a negative nuance.",
+      "zh": "表示 B 是 A 达到的程度所自然导致的结果，常带负面语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "他工作太投入，以至于忘记了吃饭。",
+        "pinyin": "Tā gōngzuò tài tóurù, yǐzhìyú wàngjìle chīfàn.",
+        "translation": {
+          "vi": "Anh ấy làm việc quá say mê, đến nỗi quên cả ăn cơm.",
+          "en": "He was so absorbed in work that he forgot to eat."
+        }
+      }
+    ]
+  }
+]

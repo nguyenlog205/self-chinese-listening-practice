@@ -78,6 +78,10 @@ pool (SQLite + a single local process doesn't need one).
 
 - **`vocab_words`**: `id`, `level` (`"1"`..`"6"` or `"7-9"`), `hanzi`,
   `pinyin`, `en`, `vi`.
+- **`grammar_points`**: `id` (PK, stable across syncs — the frontend's local
+  "known" tracking keys off it), `level`, `data` (JSON blob — `title`,
+  `structure`, `explanation`, `examples`; see
+  `seed_data/CONVENTION.md#grammar`).
 - **`dialogues`**: `id`, `level`, `data` (JSON blob — the dialogue lines).
 - **`vocab_progress`**: `hanzi` (PK), `level`, `learned_at` — which words
   the user has marked "learned"; existence of a row *is* the state (no
@@ -226,19 +230,20 @@ wholesale from GitHub, never generated on the fly.
 
 - **`content/seed.py::seed_if_empty(conn)`** — called once from top-level
   `db.init_db()`. Loads `listening_backend/seed_data/vocabulary/hsk_*.json`,
-  `dialogues.json`, and `dialogue_exercises/{choice,cloze,dictation}/*.json`
-  into their tables, but **only if the relevant table is empty** — a
-  first-run-only seed, it never overwrites existing rows.
+  `grammar/hsk_*.json`, `dialogues.json`, and
+  `dialogue_exercises/{choice,cloze,dictation}/*.json` into their tables,
+  but **only if the relevant table is empty** — a first-run-only seed, it
+  never overwrites existing rows.
 - **`listening_backend/seed_data/CONVENTION.md`** documents the JSON shape for each
   content kind and the authoring workflow (add a dialogue → add exercises
   referencing its `audio_id` → record real audio → add timing metadata →
   push → user clicks "Cập nhật dữ liệu"). Read it before adding/editing
   seed content.
 - **`content/sync.py::refresh_content(conn)`** — the GitHub content-sync
-  mechanism, invoked by `POST /api/content/refresh`. Fetches vocabulary and
-  dialogues via `raw.githubusercontent.com/.../seed_data/...` (no auth,
-  public repo), and lists exercise JSON files per-kind via the GitHub
-  Contents API (raw doesn't support directory listing). Unlike the
+  mechanism, invoked by `POST /api/content/refresh`. Fetches vocabulary,
+  grammar, and dialogues via `raw.githubusercontent.com/.../seed_data/...`
+  (no auth, public repo), and lists exercise JSON files per-kind via the
+  GitHub Contents API (raw doesn't support directory listing). Unlike the
   first-run seed, this always `DELETE`s then re-`INSERT`s each table, so it
   picks up edits and removals, not just additions. Dialogue audio
   (`dialogues_audio/{id}/audio.mp3`) is fetched into
@@ -252,13 +257,18 @@ wholesale from GitHub, never generated on the fly.
   what shipped with the app) over the bundled `seed_data` copy; 404s if
   neither exists, which is how the frontend (`useDialogueAudio.js`)
   decides to fall back to `GET /api/tts` instead.
-- **`content/vocabulary_router.py`, `dialogues_router.py`,
-  `exercises_router.py`, `progress_router.py`** — plain read/write
-  endpoints over the tables above; see [api.md](api.md) for exact shapes.
-  Note `vocabulary_router.py` and `dialogues_router.py` are separate from
-  `hsk_materials`'s frontend feature, which additionally bundles its own
-  static reference data (`frontend/src/features/hsk_materials/data/`) —
-  the two are not the same dataset (see [frontend.md](frontend.md)).
+- **`content/vocabulary_router.py`, `grammar_router.py`,
+  `dialogues_router.py`, `exercises_router.py`, `progress_router.py`** —
+  plain read/write endpoints over the tables above; see [api.md](api.md)
+  for exact shapes. `grammar_router.py`'s single `GET /api/grammar?level=`
+  reads `grammar_points` and re-hydrates its JSON `data` column into the
+  response shape — there's no separate progress endpoint for it: unlike
+  vocabulary's "learned" state, grammar's "known" tracking lives only in
+  frontend `localStorage` (`useGrammarProgress.js`), not the backend.
+  `hsk_materials`'s frontend feature also still bundles its own static
+  `READING_PASSAGES` reference data
+  (`frontend/src/features/hsk_materials/data/hskData.js`) — that one isn't
+  backed by this domain yet (see [frontend.md](frontend.md)).
 
 ## `activity` domain — streaks & daily activity
 

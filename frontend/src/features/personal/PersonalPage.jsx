@@ -4,14 +4,10 @@ import { localeFor, last7DayLabels } from "../../i18n/locale";
 import { useStreak } from "../../shared/useStreak";
 import { useVocabProgress } from "../../shared/useVocabProgress";
 import { useVocabulary } from "../../shared/useVocabulary";
+import { useAllGrammarLevels } from "../../shared/useGrammar";
 import { useGrammarProgress } from "../../shared/useGrammarProgress";
-import { HSK_LEVELS, GRAMMAR_POINTS } from "../hsk_materials/data/hskData";
+import { HSK_LEVELS } from "../hsk_materials/data/hskData";
 import "./PersonalPage.css";
-
-const TOTAL_GRAMMAR_POINTS = HSK_LEVELS.reduce(
-  (sum, lvl) => sum + (GRAMMAR_POINTS[lvl]?.length ?? 0),
-  0
-);
 
 const STORAGE = {
   NAME: "listening-app:user-name",
@@ -25,15 +21,20 @@ export default function PersonalPage() {
   const weekdayLabels = last7DayLabels(language, { weekday: "short" });
   const { learned } = useVocabProgress();
   const { known: grammarKnown } = useGrammarProgress();
+  const { byLevel: grammarByLevel } = useAllGrammarLevels();
   const [editMode, setEditMode] = useState(false);
 
+  const totalGrammarPoints = useMemo(
+    () => Object.values(grammarByLevel).reduce((sum, points) => sum + points.length, 0),
+    [grammarByLevel]
+  );
   const grammarKnownCount = useMemo(
     () =>
-      HSK_LEVELS.reduce((sum, lvl) => {
-        const points = GRAMMAR_POINTS[lvl] ?? [];
-        return sum + points.filter((p) => grammarKnown.has(p.id)).length;
-      }, 0),
-    [grammarKnown]
+      Object.values(grammarByLevel).reduce(
+        (sum, points) => sum + points.filter((p) => grammarKnown.has(p.id)).length,
+        0
+      ),
+    [grammarByLevel, grammarKnown]
   );
 
   const [name, setName] = useState(localStorage.getItem(STORAGE.NAME) || "");
@@ -84,7 +85,7 @@ export default function PersonalPage() {
         <div className="personal-stat-tile">
           <span className="personal-stat-value">
             {grammarKnownCount}
-            <span className="personal-stat-value-total">/{TOTAL_GRAMMAR_POINTS}</span>
+            <span className="personal-stat-value-total">/{totalGrammarPoints}</span>
           </span>
           <span className="personal-stat-label">{t("personal.grammarKnown")}</span>
         </div>
@@ -177,6 +178,7 @@ export default function PersonalPage() {
               level={level}
               learned={learned}
               grammarKnown={grammarKnown}
+              grammarPoints={grammarByLevel[level] ?? []}
             />
           ))}
         </div>
@@ -185,13 +187,12 @@ export default function PersonalPage() {
   );
 }
 
-function ProgressByLevel({ level, learned, grammarKnown }) {
+function ProgressByLevel({ level, learned, grammarKnown, grammarPoints }) {
   const { t } = useLanguage();
   const { words } = useVocabulary(level);
   const vocabLearnedCount = words.filter((w) => learned.has(w.hanzi)).length;
   const vocabPercent = words.length ? Math.round((vocabLearnedCount / words.length) * 100) : 0;
 
-  const grammarPoints = GRAMMAR_POINTS[level] ?? [];
   const grammarKnownCount = grammarPoints.filter((p) => grammarKnown.has(p.id)).length;
   const grammarPercent = grammarPoints.length
     ? Math.round((grammarKnownCount / grammarPoints.length) * 100)

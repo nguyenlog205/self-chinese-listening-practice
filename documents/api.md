@@ -171,6 +171,16 @@ state, there's no boolean flag.
 - `DELETE /api/vocabulary/progress/{hanzi}` — unmarks one word. `200`,
   `{"ok": true}` (no error if it wasn't marked).
 
+## Grammar — `content/grammar_router.py`, prefix `/api/grammar`
+
+### `GET /api/grammar?level=<level>`
+
+List grammar points for one HSK level. `level` is required. Response:
+`list[GrammarPointOut]` (200) — `{id, level, title: {vi, en, zh}, structure,
+explanation: {vi, en, zh}, examples: [{hanzi, pinyin, translation: {vi,
+en}}]}` each. No progress endpoint here — "known" tracking for grammar is
+frontend-only (`localStorage`), unlike vocabulary's server-side progress.
+
 ## Dialogues — `content/dialogues_router.py`, prefix `/api/dialogues`
 
 ### `GET /api/dialogues?level=<level>` (optional)
@@ -216,8 +226,9 @@ instead.
 
 ### `POST /api/content/refresh`
 
-Re-pulls vocabulary, dialogues, all three exercise kinds, and dialogue
-audio from this repo on GitHub, replacing local rows (delete-then-insert,
+Re-pulls vocabulary, grammar, dialogues, all three exercise kinds, and
+dialogue audio from this repo on GitHub, replacing local rows
+(delete-then-insert,
 so it picks up edits/removals too, not just additions) — this is what
 Settings' "Cập nhật dữ liệu" button calls. `502` with
 `{"detail": "<error>"}` on network/GitHub failure. `200` on success (shape:

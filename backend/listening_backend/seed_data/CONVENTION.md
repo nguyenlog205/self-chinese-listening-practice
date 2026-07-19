@@ -20,6 +20,40 @@
 
 ---
 
+## Grammar
+
+**File:** `grammar/hsk_N.json` (N = 1-6, `7_9`)
+
+```json
+[
+  {
+    "id": "shi",
+    "title": { "vi": "Câu với 是 (là)", "en": "Sentences with 是 (to be)", "zh": "是字句" },
+    "structure": "A + 是 + B",
+    "explanation": {
+      "vi": "Dùng 是 để nối chủ ngữ với danh từ vị ngữ...",
+      "en": "Use 是 to link a subject to a noun predicate...",
+      "zh": "用「是」连接主语和名词谓语..."
+    },
+    "examples": [
+      {
+        "hanzi": "我是学生。",
+        "pinyin": "Wǒ shì xuésheng.",
+        "translation": { "vi": "Tôi là học sinh.", "en": "I am a student." }
+      }
+    ]
+  }
+]
+```
+
+**Fields:**
+- `id` — unique string trong toàn bộ file (frontend dùng nó để lưu trạng thái "đã biết" cục bộ, nên đổi `id` sẽ khiến trạng thái đó bị reset cho điểm ngữ pháp đó)
+- `title`, `explanation` — object `{vi, en, zh}`
+- `structure` — chuỗi công thức ngắn gọn, hiển thị trực tiếp (không dịch)
+- `examples` — mảng `{hanzi, pinyin, translation: {vi, en}}`
+
+---
+
 ## Dialogues
 
 **File:** `dialogues.json`

@@ -37,6 +37,31 @@ def seed_if_empty(db_path: Path) -> None:
                     ],
                 )
 
+        (grammar_count,) = conn.execute("SELECT COUNT(*) FROM grammar_points").fetchone()
+        if grammar_count == 0:
+            for path in sorted((SEED_DATA_DIR / "grammar").glob("hsk_*.json")):
+                level = path.stem.removeprefix("hsk_").replace("_", "-")
+                points = json.loads(path.read_text(encoding="utf-8"))
+                conn.executemany(
+                    "INSERT INTO grammar_points (id, level, data) VALUES (?, ?, ?)",
+                    [
+                        (
+                            p["id"],
+                            level,
+                            json.dumps(
+                                {
+                                    "title": p["title"],
+                                    "structure": p["structure"],
+                                    "explanation": p["explanation"],
+                                    "examples": p["examples"],
+                                },
+                                ensure_ascii=False,
+                            ),
+                        )
+                        for p in points
+                    ],
+                )
+
         (dialogue_count,) = conn.execute("SELECT COUNT(*) FROM dialogues").fetchone()
         if dialogue_count == 0:
             dialogues_path = SEED_DATA_DIR / "dialogues.json"

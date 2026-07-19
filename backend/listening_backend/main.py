@@ -17,6 +17,7 @@ from .activity.streak_router import router as streak_api
 from .content.audio_router import router as dialogue_audio_api
 from .content.dialogues_router import router as dialogues_api
 from .content.exercises_router import router as dialogue_exercises_api
+from .content.grammar_router import router as grammar_api
 from .content.progress_router import router as progress_api
 from .content.sync_router import router as content_api
 from .content.vocabulary_router import router as vocabulary_api
@@ -50,6 +51,7 @@ def create_app() -> FastAPI:
     app.include_router(jobs_api)
     app.include_router(media_api)
     app.include_router(vocabulary_api)
+    app.include_router(grammar_api)
     app.include_router(progress_api)
     app.include_router(dialogues_api)
     app.include_router(dialogue_exercises_api)

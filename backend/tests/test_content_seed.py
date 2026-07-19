@@ -26,6 +26,29 @@ def test_real_seed_vocabulary_files_have_required_fields():
             assert "hanzi" in w and "pinyin" in w, f"{path.name}: {w!r} missing hanzi/pinyin"
 
 
+def test_real_seed_grammar_files_have_required_fields():
+    for path in (SEED_DATA_DIR / "grammar").glob("hsk_*.json"):
+        points = json.loads(path.read_text(encoding="utf-8"))
+        assert isinstance(points, list) and points, f"{path.name} is empty or not a list"
+        for p in points:
+            assert {"id", "title", "structure", "explanation", "examples"}.issubset(p), (
+                f"{path.name}: {p.get('id')} missing required keys"
+            )
+
+
+def test_seed_if_empty_loads_real_grammar_json(db_path):
+    seed_if_empty(db_path)
+
+    with sqlite3.connect(db_path) as conn:
+        conn.row_factory = sqlite3.Row
+        count = conn.execute("SELECT COUNT(*) c FROM grammar_points").fetchone()["c"]
+        sample = conn.execute("SELECT level, data FROM grammar_points WHERE id = 'shi'").fetchone()
+
+    assert count > 0
+    assert sample["level"] == "1"
+    assert "structure" in json.loads(sample["data"])
+
+
 def test_seed_if_empty_loads_real_dialogues_json(db_path):
     seed_if_empty(db_path)
 

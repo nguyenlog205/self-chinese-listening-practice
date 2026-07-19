@@ -1,0 +1,26 @@
+[
+  {
+    "id": "wulun",
+    "title": {
+      "vi": "无论...都... (bất kể...đều...)",
+      "en": "无论...都... (regardless...all...)",
+      "zh": "无论…都…"
+    },
+    "structure": "无论 + A，都 + B",
+    "explanation": {
+      "vi": "Nhấn mạnh kết quả B không đổi bất kể điều kiện A là gì, A thường chứa từ nghi vấn hoặc lựa chọn.",
+      "en": "Emphasizes that B holds true regardless of condition A, which usually contains a question word or a choice.",
+      "zh": "强调无论条件 A 如何，结果 B 都不变，A 中常有疑问词或选择项。"
+    },
+    "examples": [
+      {
+        "hanzi": "无论多忙，他都会锻炼身体。",
+        "pinyin": "Wúlùn duō máng, tā dōu huì duànliàn shēntǐ.",
+        "translation": {
+          "vi": "Dù bận đến đâu, anh ấy vẫn tập thể dục.",
+          "en": "No matter how busy he is, he always exercises."
+        }
+      }
+    ]
+  }
+]

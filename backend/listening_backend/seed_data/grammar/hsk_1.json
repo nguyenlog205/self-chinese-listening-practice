@@ -1,0 +1,98 @@
+[
+  {
+    "id": "shi",
+    "title": {
+      "vi": "Câu với 是 (là)",
+      "en": "Sentences with 是 (to be)",
+      "zh": "是字句"
+    },
+    "structure": "A + 是 + B",
+    "explanation": {
+      "vi": "Dùng 是 để nối chủ ngữ với danh từ vị ngữ, tương đương động từ \"là\". Phủ định thêm 不 trước 是.",
+      "en": "Use 是 to link a subject to a noun predicate, like \"to be\". Negate with 不 before 是.",
+      "zh": "用「是」连接主语和名词谓语，相当于英语的 to be。否定时在「是」前加「不」。"
+    },
+    "examples": [
+      {
+        "hanzi": "我是学生。",
+        "pinyin": "Wǒ shì xuésheng.",
+        "translation": {
+          "vi": "Tôi là học sinh.",
+          "en": "I am a student."
+        }
+      },
+      {
+        "hanzi": "他不是老师。",
+        "pinyin": "Tā bú shì lǎoshī.",
+        "translation": {
+          "vi": "Anh ấy không phải là giáo viên.",
+          "en": "He is not a teacher."
+        }
+      }
+    ]
+  },
+  {
+    "id": "you",
+    "title": {
+      "vi": "Câu với 有 (có)",
+      "en": "Sentences with 有 (to have)",
+      "zh": "有字句"
+    },
+    "structure": "A + 有 + B",
+    "explanation": {
+      "vi": "有 diễn tả sự sở hữu hoặc tồn tại. Phủ định dùng 没有, không dùng 不有.",
+      "en": "有 expresses possession or existence. Negate with 没有, never 不有.",
+      "zh": "「有」表示领有或存在。否定形式是「没有」，不能说「不有」。"
+    },
+    "examples": [
+      {
+        "hanzi": "我有一本书。",
+        "pinyin": "Wǒ yǒu yì běn shū.",
+        "translation": {
+          "vi": "Tôi có một quyển sách.",
+          "en": "I have a book."
+        }
+      },
+      {
+        "hanzi": "他没有钱。",
+        "pinyin": "Tā méiyǒu qián.",
+        "translation": {
+          "vi": "Anh ấy không có tiền.",
+          "en": "He doesn't have money."
+        }
+      }
+    ]
+  },
+  {
+    "id": "adj-pred",
+    "title": {
+      "vi": "Câu vị ngữ tính từ",
+      "en": "Adjectival predicate sentences",
+      "zh": "形容词谓语句"
+    },
+    "structure": "A + (很) + Adj",
+    "explanation": {
+      "vi": "Tính từ có thể làm vị ngữ trực tiếp mà không cần 是. Thường thêm 很 phía trước dù không mang nghĩa \"rất\".",
+      "en": "Adjectives can act as the predicate directly without 是. 很 is often added before it even without meaning \"very\".",
+      "zh": "形容词可以直接做谓语，不需要「是」。前面常加「很」，此时不一定表示程度。"
+    },
+    "examples": [
+      {
+        "hanzi": "今天天气很好。",
+        "pinyin": "Jīntiān tiānqì hěn hǎo.",
+        "translation": {
+          "vi": "Hôm nay thời tiết đẹp.",
+          "en": "The weather is nice today."
+        }
+      },
+      {
+        "hanzi": "这个苹果很甜。",
+        "pinyin": "Zhège píngguǒ hěn tián.",
+        "translation": {
+          "vi": "Quả táo này ngọt.",
+          "en": "This apple is sweet."
+        }
+      }
+    ]
+  }
+]
