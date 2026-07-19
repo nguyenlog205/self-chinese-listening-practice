@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import { useNavigate, useParams } from 'react-router-dom';
 import { useLanguage } from '../../i18n/LanguageContext';
 import Vocabulary from './components/Vocabulary';
 import Listening from './components/Listening';
 import Reading from './components/Reading';
+import Grammar from './components/Grammar';
 import MockTest from './components/MockTest';
 import './HSKPage.css';
 
@@ -10,14 +11,16 @@ const SECTIONS = [
   { key: 'vocabulary', icon: '词', component: Vocabulary },
   { key: 'listening', icon: '听', component: Listening },
   { key: 'reading', icon: '读', component: Reading },
+  { key: 'grammar', icon: '语', component: Grammar },
   { key: 'mocktest', icon: '试', component: MockTest },
 ];
 
 export default function HSKPage() {
   const { t } = useLanguage();
-  const [activeSection, setActiveSection] = useState(null);
+  const navigate = useNavigate();
+  const { sectionKey } = useParams();
 
-  const section = SECTIONS.find((s) => s.key === activeSection);
+  const section = SECTIONS.find((s) => s.key === sectionKey);
 
   if (!section) {
     return (
@@ -32,7 +35,7 @@ export default function HSKPage() {
               key={s.key}
               type="button"
               className="hsk-menu-card"
-              onClick={() => setActiveSection(s.key)}
+              onClick={() => navigate(`/hsk/${s.key}`)}
             >
               <span className="hsk-menu-icon">{s.icon}</span>
               <span className="hsk-menu-title">{t(`hsk.tab.${s.key}`)}</span>
@@ -48,7 +51,7 @@ export default function HSKPage() {
 
   return (
     <div className="hsk-page">
-      <button type="button" className="hsk-back-btn" onClick={() => setActiveSection(null)}>
+      <button type="button" className="hsk-back-btn" onClick={() => navigate('/hsk')}>
         ← {t('hsk.common.back')}
       </button>
       <div className="hsk-page-header">

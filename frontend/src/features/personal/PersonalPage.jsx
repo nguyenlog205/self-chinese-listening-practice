@@ -1,11 +1,17 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { useLanguage } from "../../i18n/LanguageContext";
 import { localeFor, last7DayLabels } from "../../i18n/locale";
 import { useStreak } from "../../shared/useStreak";
 import { useVocabProgress } from "../../shared/useVocabProgress";
 import { useVocabulary } from "../../shared/useVocabulary";
-import { HSK_LEVELS } from "../hsk_materials/data/hskData";
+import { useGrammarProgress } from "../../shared/useGrammarProgress";
+import { HSK_LEVELS, GRAMMAR_POINTS } from "../hsk_materials/data/hskData";
 import "./PersonalPage.css";
+
+const TOTAL_GRAMMAR_POINTS = HSK_LEVELS.reduce(
+  (sum, lvl) => sum + (GRAMMAR_POINTS[lvl]?.length ?? 0),
+  0
+);
 
 const STORAGE = {
   NAME: "listening-app:user-name",
@@ -18,7 +24,17 @@ export default function PersonalPage() {
   const { streak, loading: streakLoading } = useStreak();
   const weekdayLabels = last7DayLabels(language, { weekday: "short" });
   const { learned } = useVocabProgress();
+  const { known: grammarKnown } = useGrammarProgress();
   const [editMode, setEditMode] = useState(false);
+
+  const grammarKnownCount = useMemo(
+    () =>
+      HSK_LEVELS.reduce((sum, lvl) => {
+        const points = GRAMMAR_POINTS[lvl] ?? [];
+        return sum + points.filter((p) => grammarKnown.has(p.id)).length;
+      }, 0),
+    [grammarKnown]
+  );
 
   const [name, setName] = useState(localStorage.getItem(STORAGE.NAME) || "");
   const [hsk, setHsk] = useState(localStorage.getItem(STORAGE.HSK) || "1");
@@ -50,6 +66,43 @@ export default function PersonalPage() {
           {editMode ? t("personal.cancel") : t("personal.edit")}
         </button>
       </div>
+
+      {/* Overview: the four numbers that matter at a glance */}
+      <section className="personal-stats">
+        <div className="personal-stat-tile">
+          <span className="personal-stat-value">{streakLoading ? "–" : streak?.current ?? 0}</span>
+          <span className="personal-stat-label">{t("personal.streakCurrent")}</span>
+        </div>
+        <div className="personal-stat-tile">
+          <span className="personal-stat-value">{streakLoading ? "–" : streak?.longest ?? 0}</span>
+          <span className="personal-stat-label">{t("personal.streakLongest")}</span>
+        </div>
+        <div className="personal-stat-tile">
+          <span className="personal-stat-value">{learned.size}</span>
+          <span className="personal-stat-label">{t("personal.wordsKnown")}</span>
+        </div>
+        <div className="personal-stat-tile">
+          <span className="personal-stat-value">
+            {grammarKnownCount}
+            <span className="personal-stat-value-total">/{TOTAL_GRAMMAR_POINTS}</span>
+          </span>
+          <span className="personal-stat-label">{t("personal.grammarKnown")}</span>
+        </div>
+      </section>
+
+      {!streakLoading && streak && (
+        <div className="personal-week-strip" title={t("personal.weekChart")}>
+          {streak.weekly.map((active, idx) => (
+            <div
+              key={idx}
+              className={`personal-week-tick${active ? " active" : ""}`}
+              title={weekdayLabels[idx]}
+            >
+              <span>{weekdayLabels[idx]}</span>
+            </div>
+          ))}
+        </div>
+      )}
 
       {/* Personal Info Section */}
       <section className="personal-card">
@@ -114,38 +167,7 @@ export default function PersonalPage() {
         )}
       </section>
 
-      {/* Streak Section */}
-      {!streakLoading && streak && (
-        <section className="personal-card">
-          <h2>{t("personal.streak")}</h2>
-          <div className="streak-info">
-            <div className="streak-stat">
-              <div className="stat-value">{streak.current}</div>
-              <div className="stat-label">{t("personal.streakCurrent")}</div>
-            </div>
-            <div className="streak-stat">
-              <div className="stat-value">{streak.longest}</div>
-              <div className="stat-label">{t("personal.streakLongest")}</div>
-            </div>
-          </div>
-          <div className="weekly-chart">
-            <h3>{t("personal.weekChart")}</h3>
-            <div className="weekly-bars">
-              {streak.weekly.map((active, idx) => (
-                <div
-                  key={idx}
-                  className={`day-bar${active ? " active" : ""}`}
-                  title={weekdayLabels[idx]}
-                >
-                  {weekdayLabels[idx]}
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-      )}
-
-      {/* Progress by Level Section */}
+      {/* Progress by Level Section: vocabulary and grammar side by side per level */}
       <section className="personal-card">
         <h2>{t("personal.progress")}</h2>
         <div className="progress-grid">
@@ -154,6 +176,7 @@ export default function PersonalPage() {
               key={level}
               level={level}
               learned={learned}
+              grammarKnown={grammarKnown}
             />
           ))}
         </div>
@@ -162,23 +185,40 @@ export default function PersonalPage() {
   );
 }
 
-function ProgressByLevel({ level, learned }) {
+function ProgressByLevel({ level, learned, grammarKnown }) {
   const { t } = useLanguage();
   const { words } = useVocabulary(level);
-  const learnedCount = words.filter((w) => learned.has(w.hanzi)).length;
-  const percentage = words.length ? Math.round((learnedCount / words.length) * 100) : 0;
+  const vocabLearnedCount = words.filter((w) => learned.has(w.hanzi)).length;
+  const vocabPercent = words.length ? Math.round((vocabLearnedCount / words.length) * 100) : 0;
+
+  const grammarPoints = GRAMMAR_POINTS[level] ?? [];
+  const grammarKnownCount = grammarPoints.filter((p) => grammarKnown.has(p.id)).length;
+  const grammarPercent = grammarPoints.length
+    ? Math.round((grammarKnownCount / grammarPoints.length) * 100)
+    : 0;
 
   return (
     <div className="progress-card">
-      <div className="progress-header">
-        <span className="level-name">HSK {level}</span>
-        <span className="progress-percent">{percentage}{t("personal.percentage")}</span>
+      <span className="level-name">HSK {level}</span>
+
+      <div className="progress-row">
+        <div className="progress-row-header">
+          <span className="progress-row-label">{t("personal.vocabLabel")}</span>
+          <span className="progress-row-count">{vocabLearnedCount}/{words.length}</span>
+        </div>
+        <div className="progress-bar">
+          <div className="progress-fill" style={{ width: `${vocabPercent}%` }}></div>
+        </div>
       </div>
-      <div className="progress-bar">
-        <div className="progress-fill" style={{ width: `${percentage}%` }}></div>
-      </div>
-      <div className="progress-text">
-        {learnedCount}/{words.length} {t("personal.wordsLearned")}
+
+      <div className="progress-row">
+        <div className="progress-row-header">
+          <span className="progress-row-label">{t("personal.grammarLabel")}</span>
+          <span className="progress-row-count">{grammarKnownCount}/{grammarPoints.length}</span>
+        </div>
+        <div className="progress-bar">
+          <div className="progress-fill progress-fill-alt" style={{ width: `${grammarPercent}%` }}></div>
+        </div>
       </div>
     </div>
   );

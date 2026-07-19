@@ -1,19 +1,20 @@
-import { useState } from "react";
+import { useNavigate, useParams } from "react-router-dom";
 import { useLanguage } from "../../i18n/LanguageContext";
 import { GROUPS } from "./registry";
 import "./ListeningPage.css";
 
 export default function ListeningPage() {
   const { t } = useLanguage();
-  const [activeSection, setActiveSection] = useState(null);
+  const navigate = useNavigate();
+  const { sectionKey } = useParams();
 
   for (const g of GROUPS) {
-    const section = g.sections.find((s) => s.key === activeSection);
+    const section = g.sections.find((s) => s.key === sectionKey);
     if (section) {
       const SectionComponent = section.component;
       return (
         <div className="listening-page">
-          <button type="button" className="listening-back-btn" onClick={() => setActiveSection(null)}>
+          <button type="button" className="listening-back-btn" onClick={() => navigate("/listening")}>
             ← {t("listening.common.back")}
           </button>
           <div className="listening-page-header">
@@ -45,7 +46,7 @@ export default function ListeningPage() {
                 key={s.key}
                 type="button"
                 className="listening-menu-card"
-                onClick={() => setActiveSection(s.key)}
+                onClick={() => navigate(`/listening/${s.key}`)}
               >
                 <span className="listening-menu-icon">{s.icon}</span>
                 <span className="listening-menu-title">{t(`listening.tab.${s.key}`)}</span>

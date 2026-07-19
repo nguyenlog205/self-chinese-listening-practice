@@ -29,9 +29,11 @@ export default function App() {
             <Route element={<Shell />}>
               <Route path="/" element={<HomePage />} />
               <Route path="/listening" element={<ListeningPage />} />
+              <Route path="/listening/:sectionKey" element={<ListeningPage />} />
               <Route path="/personal" element={<PersonalPage />} />
               <Route path="/settings" element={<SettingsPage />} />
               <Route path="/hsk" element={<HSKPage />} />
+              <Route path="/hsk/:sectionKey" element={<HSKPage />} />
               <Route path="/about" element={<AboutPage />} />
             </Route>
           </Routes>
