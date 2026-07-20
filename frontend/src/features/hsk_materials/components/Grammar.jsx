@@ -10,7 +10,7 @@ import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 import { ActivityApi } from "../../../shared/activityApi";
 import SpeakerIcon from "../../../shared/SpeakerIcon";
 
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 30;
 
 export default function Grammar() {
   const { t, language } = useLanguage();
