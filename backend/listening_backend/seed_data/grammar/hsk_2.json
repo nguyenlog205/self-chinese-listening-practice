@@ -1,6 +1,6 @@
 [
   {
-    "id": "shang",
+    "id": "shang_2",
     "metadata": {
       "id": "一01-01",
       "level": "HSK1",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "id": "li",
+    "id": "li_2",
     "metadata": {
       "id": "一01-03",
       "level": "HSK1",
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "id": "dongbian",
+    "id": "dongbian_2",
     "metadata": {
       "id": "一01-21",
       "level": "HSK1",
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "id": "hui",
+    "id": "hui_2",
     "metadata": {
       "id": "一02-01",
       "level": "HSK1",
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "id": "neng",
+    "id": "neng_2",
     "metadata": {
       "id": "一02-02",
       "level": "HSK1",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "id": "nar",
+    "id": "nar_2",
     "metadata": {
       "id": "一04-05",
       "level": "HSK1",
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "id": "wo",
+    "id": "wo_2",
     "metadata": {
       "id": "一05-01",
       "level": "HSK1",
@@ -315,7 +315,7 @@
     ]
   },
   {
-    "id": "zhe",
+    "id": "zhe_2",
     "metadata": {
       "id": "一06-01",
       "level": "HSK1",
@@ -495,7 +495,7 @@
     ]
   },
   {
-    "id": "shuci-dufa",
+    "id": "shuci-dufa_2",
     "metadata": {
       "id": "一07",
       "level": "HSK1",
@@ -1225,7 +1225,7 @@
     ]
   },
   {
-    "id": "ta",
+    "id": "ta_2",
     "metadata": {
       "id": "二06-03",
       "level": "HSK2",
@@ -1270,7 +1270,7 @@
     ]
   },
   {
-    "id": "tamen",
+    "id": "tamen_2",
     "metadata": {
       "id": "二06-04",
       "level": "HSK2",
@@ -1720,7 +1720,7 @@
     ]
   },
   {
-    "id": "jian",
+    "id": "jian_2",
     "metadata": {
       "id": "二10-03",
       "level": "HSK2",
@@ -1945,7 +1945,7 @@
     ]
   },
   {
-    "id": "chang",
+    "id": "chang_2",
     "metadata": {
       "id": "二11-03",
       "level": "HSK2",
@@ -1990,7 +1990,7 @@
     ]
   },
   {
-    "id": "hui",
+    "id": "hui_3",
     "metadata": {
       "id": "二11-04",
       "level": "HSK2",
@@ -2035,7 +2035,7 @@
     ]
   },
   {
-    "id": "xia",
+    "id": "xia_2",
     "metadata": {
       "id": "二11-05",
       "level": "HSK2",
@@ -3205,7 +3205,7 @@
     ]
   },
   {
-    "id": "you",
+    "id": "you_2",
     "metadata": {
       "id": "二16-05",
       "level": "HSK2",
@@ -3886,7 +3886,7 @@
     ]
   },
   {
-    "id": "li",
+    "id": "li_3",
     "metadata": {
       "id": "二27",
       "level": "HSK2",
@@ -4113,7 +4113,7 @@
     ]
   },
   {
-    "id": "na",
+    "id": "na_2",
     "metadata": {
       "id": "二30-05",
       "level": "HSK2",
