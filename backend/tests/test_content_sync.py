@@ -181,6 +181,40 @@ def test_refresh_content_imports_vocab_and_dialogues(urlopen_map, conn):
     assert stored["lines"][0]["hanzi"] == "你好"
 
 
+def test_refresh_content_removes_existing_dialogue_children_before_replacing_dialogues(
+    urlopen_map, conn
+):
+    _stub_all_vocab_levels_empty(urlopen_map)
+    _stub_all_grammar_levels_empty(urlopen_map)
+    _stub_all_reading_levels_empty(urlopen_map)
+
+    conn.execute("INSERT INTO dialogues (id, level, data) VALUES (?, ?, ?)", ("d1", "1", "{}"))
+    conn.execute(
+        "INSERT INTO dialogue_exercises_choice (id, audio_id, data) VALUES (?, ?, ?)",
+        ("e1", "d1", "{}"),
+    )
+    conn.execute(
+        "INSERT INTO dialogues_audio_metadata (id, data) VALUES (?, ?)",
+        ("d1", "{}"),
+    )
+
+    dialogue = {"id": "d2", "level": 2, "lines": []}
+    urlopen_map[_dialogues_url()] = lambda: _FakeResponse(_json_bytes([dialogue]))
+    _stub_no_audio_metadata_or_exercises(urlopen_map, ["d2"])
+
+    def audio_404():
+        raise HTTPError(_dialogue_audio_url("d2"), 404, "not found", None, None)
+
+    urlopen_map[_dialogue_audio_url("d2")] = audio_404
+
+    refresh_content(conn)
+
+    assert conn.execute("SELECT COUNT(*) FROM dialogue_exercises_choice").fetchone()[0] == 0
+    assert conn.execute("SELECT COUNT(*) FROM dialogues_audio_metadata").fetchone()[0] == 0
+    assert conn.execute("SELECT COUNT(*) FROM dialogues WHERE id = 'd1'").fetchone()[0] == 0
+    assert conn.execute("SELECT COUNT(*) FROM dialogues WHERE id = 'd2'").fetchone()[0] == 1
+
+
 def test_refresh_content_rejects_non_list_grammar_payload(urlopen_map, conn):
     _stub_all_vocab_levels_empty(urlopen_map)
     urlopen_map[_grammar_url(sync_module.GRAMMAR_LEVELS[0])] = lambda: _FakeResponse(

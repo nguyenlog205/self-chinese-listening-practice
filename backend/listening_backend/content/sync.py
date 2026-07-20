@@ -246,6 +246,11 @@ def refresh_content(conn) -> dict:
 
     dialogue_ids = {d["id"] for d in dialogues}
 
+    for kind in EXERCISE_KINDS:
+        table = f"dialogue_exercises_{kind}"
+        conn.execute(f"DELETE FROM {table}")  # noqa: S608 (table from a fixed tuple, not user input)
+
+    conn.execute("DELETE FROM dialogues_audio_metadata")
     conn.execute("DELETE FROM dialogues")
     conn.executemany(
         "INSERT INTO dialogues (id, level, data) VALUES (?, ?, ?)",
@@ -263,7 +268,6 @@ def refresh_content(conn) -> dict:
     audio_meta_items = [
         item for d in dialogues if (item := _fetch_audio_metadata(d["id"])) is not None
     ]
-    conn.execute("DELETE FROM dialogues_audio_metadata")
     conn.executemany(
         "INSERT INTO dialogues_audio_metadata (id, data) VALUES (?, ?)",
         [audio_metadata_row(item) for item in audio_meta_items],
