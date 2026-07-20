@@ -1,97 +1,5774 @@
 [
   {
-    "id": "shi",
-    "title": {
-      "vi": "Câu với 是 (là)",
-      "en": "Sentences with 是 (to be)",
-      "zh": "是字句"
+    "id": "shang",
+    "metadata": {
+      "id": "一01-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
     },
-    "structure": "A + 是 + B",
+    "title": {
+      "vi": "Phương vị từ \"上\" (trên)",
+      "en": "Locality word \"上\" (on/above)",
+      "zh": "方位词「上」"
+    },
+    "structure": "名词 + 上",
     "explanation": {
-      "vi": "Dùng 是 để nối chủ ngữ với danh từ vị ngữ, tương đương động từ \"là\". Phủ định thêm 不 trước 是.",
-      "en": "Use 是 to link a subject to a noun predicate, like \"to be\". Negate with 不 before 是.",
-      "zh": "用「是」连接主语和名词谓语，相当于英语的 to be。否定时在「是」前加「不」。"
+      "vi": "\"上\" là phương vị từ chỉ vị trí, đặt sau danh từ để tạo thành cụm từ chỉ nơi chốn, nghĩa là \"ở trên/phía trên\". Cụm \"N + 上\" thường làm chủ ngữ hoặc trạng ngữ chỉ nơi chốn trong câu. Khi dùng với danh từ chỉ bề mặt, nó biểu thị vị trí trên bề mặt đó.",
+      "en": "\"上\" is a locality word meaning \"on/above\", placed after a noun to form a location phrase. The resulting \"Noun + 上\" phrase often functions as the subject or a location adverbial in a sentence. When used with a surface noun, it indicates the position on that surface.",
+      "zh": "「上」是表示方位的名词，放在名词后构成表示处所的词语，意思是\"在……上面\"。\"名词+上\"常在句中作主语或处所状语。与表示平面的名词搭配时，表示在该平面之上。"
     },
     "examples": [
       {
-        "hanzi": "我是学生。",
-        "pinyin": "Wǒ shì xuésheng.",
-        "translation": {
-          "vi": "Tôi là học sinh.",
-          "en": "I am a student."
-        }
+        "hanzi": "桌子上",
+        "pinyin": "Zhuōzi shàng",
+        "translation": {"vi": "trên bàn", "en": "on the table"}
       },
       {
-        "hanzi": "他不是老师。",
-        "pinyin": "Tā bú shì lǎoshī.",
-        "translation": {
-          "vi": "Anh ấy không phải là giáo viên.",
-          "en": "He is not a teacher."
-        }
+        "hanzi": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "translation": {"vi": "Quyển sách ở trên bàn.", "en": "The book is on the table."}
+      },
+      {
+        "hanzi": "墙上有一幅画。",
+        "pinyin": "Qiáng shàng yǒu yī fú huà.",
+        "translation": {"vi": "Trên tường có một bức tranh.", "en": "There is a picture on the wall."}
+      },
+      {
+        "hanzi": "他坐在椅子。",
+        "pinyin": "Tā zuò zài yǐzi shàng.",
+        "translation": {"vi": "Anh ấy ngồi trên ghế.", "en": "He is sitting on the chair."}
+      }
+    ]
+  },
+  {
+    "id": "xia",
+    "metadata": {
+      "id": "一01-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"下\" (dưới)",
+      "en": "Locality word \"下\" (under/below)",
+      "zh": "方位词「下」"
+    },
+    "structure": "名词 + 下",
+    "explanation": {
+      "vi": "\"下\" đặt sau danh từ để chỉ vị trí bên dưới hoặc phía dưới, tương tự \"上\" nhưng ngược lại. Cụm \"N + 下\" thường làm trạng ngữ chỉ nơi chốn hoặc bổ ngữ vị trí.",
+      "en": "\"下\" is placed after a noun to indicate the position below or under something, similar but opposite to \"上\". The \"N + 下\" phrase often serves as a location adverbial or complement.",
+      "zh": "「下」放在名词后表示在……下面/底下，与「上」相对。\"名词+下\"常用作处所状语或位置补语。"
+    },
+    "examples": [
+      {
+        "hanzi": "树下",
+        "pinyin": "Shù xià",
+        "translation": {"vi": "dưới cây", "en": "under the tree"}
+      },
+      {
+        "hanzi": "椅子下有一只猫。",
+        "pinyin": "Yǐzi xià yǒu yī zhī māo.",
+        "translation": {"vi": "Dưới ghế có một con mèo.", "en": "There is a cat under the chair."}
+      },
+      {
+        "hanzi": "床下有很多书。",
+        "pinyin": "Chuáng xià yǒu hěnduō shū.",
+        "translation": {"vi": "Dưới giường có nhiều sách.", "en": "There are many books under the bed."}
+      }
+    ]
+  },
+  {
+    "id": "li",
+    "metadata": {
+      "id": "一01-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"里\" (trong)",
+      "en": "Locality word \"里\" (inside)",
+      "zh": "方位词「里」"
+    },
+    "structure": "名词 + 里",
+    "explanation": {
+      "vi": "\"里\" là phương vị từ chỉ vị trí, đặt sau danh từ để biểu thị \"ở bên trong\". Thường dùng để tạo cụm từ chỉ nơi chốn. Với danh từ chỉ không gian kín, nó chỉ vị trí bên trong.",
+      "en": "\"里\" is a locality word meaning \"inside\", placed after a noun to indicate being inside that place. It is commonly used to form location phrases. With nouns of enclosed space, it indicates the interior.",
+      "zh": "「里」表示方位，放在名词后，指\"在……里面\"，用于构成处所词语。与表示封闭空间的名词搭配时，表示内部。"
+    },
+    "examples": [
+      {
+        "hanzi": "房间里",
+        "pinyin": "Fángjiān lǐ",
+        "translation": {"vi": "trong phòng", "en": "inside the room"}
+      },
+      {
+        "hanzi": "手机在书包里。",
+        "pinyin": "Shǒujī zài shūbāo lǐ.",
+        "translation": {"vi": "Điện thoại ở trong cặp sách.", "en": "The phone is inside the bag."}
+      },
+      {
+        "hanzi": "房间里没有人。",
+        "pinyin": "Fángjiān lǐ méiyǒu rén.",
+        "translation": {"vi": "Trong phòng không có ai.", "en": "There is no one in the room."}
+      },
+      {
+        "hanzi": "书包里有一本书。",
+        "pinyin": "Shūbāo lǐ yǒu yī běn shū.",
+        "translation": {"vi": "Trong cặp sách có một quyển sách.", "en": "There is a book in the bag."}
+      }
+    ]
+  },
+  {
+    "id": "wai",
+    "metadata": {
+      "id": "一01-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"外\" (ngoài)",
+      "en": "Locality word \"外\" (outside)",
+      "zh": "方位词「外」"
+    },
+    "structure": "名词 + 外",
+    "explanation": {
+      "vi": "\"外\" chỉ vị trí bên ngoài, đặt sau danh từ để tạo cụm từ chỉ nơi chốn, nghĩa là \"ở bên ngoài\". Thường dùng với danh từ chỉ địa điểm hoặc không gian.",
+      "en": "\"外\" indicates the outside position, placed after a noun to form a location phrase meaning \"outside\". It is often used with place or space nouns.",
+      "zh": "「外」表示外部位置，放在名词后构成处所词语，意思是\"在……外面\"。常与地点或空间名词搭配。"
+    },
+    "examples": [
+      {
+        "hanzi": "门外",
+        "pinyin": "Mén wài",
+        "translation": {"vi": "ngoài cửa", "en": "outside the door"}
+      },
+      {
+        "hanzi": "他在门外等你。",
+        "pinyin": "Tā zài mén wài děng nǐ.",
+        "translation": {"vi": "Anh ấy ở ngoài cửa đợi bạn.", "en": "He is waiting for you outside the door."}
+      },
+      {
+        "hanzi": "学校外有一家商店。",
+        "pinyin": "Xuéxiào wài yǒu yī jiā shāngdiàn.",
+        "translation": {"vi": "Bên ngoài trường có một cửa hàng.", "en": "There is a shop outside the school."}
+      }
+    ]
+  },
+  {
+    "id": "qian",
+    "metadata": {
+      "id": "一01-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"前\" (trước)",
+      "en": "Locality word \"前\" (in front of)",
+      "zh": "方位词「前」"
+    },
+    "structure": "名词 + 前",
+    "explanation": {
+      "vi": "\"前\" đặt sau danh từ để chỉ vị trí phía trước, thường dùng để nói về không gian trước một đối tượng. Có thể chỉ vị trí trước mặt hoặc phía trước về thời gian (ít dùng trong HSK1).",
+      "en": "\"前\" placed after a noun indicates the position in front of something, commonly used for spatial location. It can also refer to the front side.",
+      "zh": "「前」放在名词后表示某物前面的位置，常用于空间方位。也可指前面一侧。"
+    },
+    "examples": [
+      {
+        "hanzi": "楼前",
+        "pinyin": "Lóu qián",
+        "translation": {"vi": "trước tòa nhà", "en": "in front of the building"}
+      },
+      {
+        "hanzi": "楼前有一个花园。",
+        "pinyin": "Lóu qián yǒu yī gè huāyuán.",
+        "translation": {"vi": "Trước tòa nhà có một khu vườn.", "en": "There is a garden in front of the building."}
+      },
+      {
+        "hanzi": "车停在学校前。",
+        "pinyin": "Chē tíng zài xuéxiào qián.",
+        "translation": {"vi": "Xe đỗ trước trường.", "en": "The car is parked in front of the school."}
+      }
+    ]
+  },
+  {
+    "id": "hou",
+    "metadata": {
+      "id": "一01-06",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"后\" (sau)",
+      "en": "Locality word \"后\" (behind)",
+      "zh": "方位词「后」"
+    },
+    "structure": "名词 + 后",
+    "explanation": {
+      "vi": "\"后\" chỉ vị trí phía sau, đặt sau danh từ, nghĩa là \"ở đằng sau\". Thường dùng để chỉ không gian sau một đối tượng.",
+      "en": "\"后\" indicates a position behind something, placed after a noun, meaning \"behind\". Commonly used for spatial location.",
+      "zh": "「后」表示在……后面，放在名词后，指后方的位置。常用于空间方位。"
+    },
+    "examples": [
+      {
+        "hanzi": "门后",
+        "pinyin": "Mén hòu",
+        "translation": {"vi": "sau cửa", "en": "behind the door"}
+      },
+      {
+        "hanzi": "门后有一把伞。",
+        "pinyin": "Mén hòu yǒu yī bǎ sǎn.",
+        "translation": {"vi": "Sau cửa có một cái ô.", "en": "There is an umbrella behind the door."}
+      },
+      {
+        "hanzi": "他站在我的后。",
+        "pinyin": "Tā zhàn zài wǒ de hòu.",
+        "translation": {"vi": "Anh ấy đứng sau tôi.", "en": "He is standing behind me."}
+      }
+    ]
+  },
+  {
+    "id": "zuo",
+    "metadata": {
+      "id": "一01-07",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"左\" (trái)",
+      "en": "Locality word \"左\" (left)",
+      "zh": "方位词「左」"
+    },
+    "structure": "名词 + 的 + 左 / 左边",
+    "explanation": {
+      "vi": "\"左\" thường không đứng một mình, mà thường dùng ở dạng \"左边\" hoặc \"左侧\". Khi nói về phía trái của một đối tượng, ta dùng \"的左边\". Trong HSK1, học cách nói vị trí bên trái.",
+      "en": "\"左\" is rarely used alone; it usually appears as \"左边\" or \"左侧\". To say the left side of something, use \"的左边\". In HSK1, learn to express left-side positions.",
+      "zh": "「左」一般不单独使用，常用作\"左边\"或\"左侧\"。表示某物的左侧时，用\"的左边\"。HSK1中学习表达左侧位置。"
+    },
+    "examples": [
+      {
+        "hanzi": "我的左边",
+        "pinyin": "Wǒ de zuǒbiān",
+        "translation": {"vi": "bên trái của tôi", "en": "my left side"}
+      },
+      {
+        "hanzi": "教室的左边是办公室。",
+        "pinyin": "Jiàoshì de zuǒbiān shì bàngōngshì.",
+        "translation": {"vi": "Bên trái lớp học là văn phòng.", "en": "To the left of the classroom is the office."}
+      },
+      {
+        "hanzi": "请往左边走。",
+        "pinyin": "Qǐng wǎng zuǒbiān zǒu.",
+        "translation": {"vi": "Xin hãy đi về bên trái.", "en": "Please go to the left."}
       }
     ]
   },
   {
     "id": "you",
-    "title": {
-      "vi": "Câu với 有 (có)",
-      "en": "Sentences with 有 (to have)",
-      "zh": "有字句"
+    "metadata": {
+      "id": "一01-08",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
     },
-    "structure": "A + 有 + B",
+    "title": {
+      "vi": "Phương vị từ \"右\" (phải)",
+      "en": "Locality word \"右\" (right)",
+      "zh": "方位词「右」"
+    },
+    "structure": "名词 + 的 + 右 / 右边",
     "explanation": {
-      "vi": "有 diễn tả sự sở hữu hoặc tồn tại. Phủ định dùng 没有, không dùng 不有.",
-      "en": "有 expresses possession or existence. Negate with 没有, never 不有.",
-      "zh": "「有」表示领有或存在。否定形式是「没有」，不能说「不有」。"
+      "vi": "\"右\" thường ở dạng \"右边\" hoặc \"右侧\". Để nói phía phải của một đối tượng, ta dùng \"的右边\". Học cách diễn đạt vị trí bên phải.",
+      "en": "\"右\" commonly appears as \"右边\" or \"右侧\". To express the right side of something, use \"的右边\". Learn to express right-side positions.",
+      "zh": "「右」常用作\"右边\"或\"右侧\"。表示某物的右侧，用\"的右边\"。学习表达右侧位置。"
     },
     "examples": [
       {
-        "hanzi": "我有一本书。",
-        "pinyin": "Wǒ yǒu yì běn shū.",
-        "translation": {
-          "vi": "Tôi có một quyển sách.",
-          "en": "I have a book."
-        }
+        "hanzi": "我的右边",
+        "pinyin": "Wǒ de yòubiān",
+        "translation": {"vi": "bên phải của tôi", "en": "my right side"}
       },
       {
-        "hanzi": "他没有钱。",
-        "pinyin": "Tā méiyǒu qián.",
-        "translation": {
-          "vi": "Anh ấy không có tiền.",
-          "en": "He doesn't have money."
-        }
+        "hanzi": "图书馆的右边是操场。",
+        "pinyin": "Túshūguǎn de yòubiān shì cāochǎng.",
+        "translation": {"vi": "Bên phải thư viện là sân vận động.", "en": "To the right of the library is the playground."}
+      },
+      {
+        "hanzi": "你往右边看。",
+        "pinyin": "Nǐ wǎng yòubiān kàn.",
+        "translation": {"vi": "Bạn hãy nhìn sang bên phải.", "en": "Look to the right."}
       }
     ]
   },
   {
-    "id": "adj-pred",
-    "title": {
-      "vi": "Câu vị ngữ tính từ",
-      "en": "Adjectival predicate sentences",
-      "zh": "形容词谓语句"
+    "id": "dong",
+    "metadata": {
+      "id": "一01-09",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
     },
-    "structure": "A + (很) + Adj",
+    "title": {
+      "vi": "Phương vị từ \"东\" (đông)",
+      "en": "Locality word \"东\" (east)",
+      "zh": "方位词「东」"
+    },
+    "structure": "名词 + 的 + 东 / 东边",
     "explanation": {
-      "vi": "Tính từ có thể làm vị ngữ trực tiếp mà không cần 是. Thường thêm 很 phía trước dù không mang nghĩa \"rất\".",
-      "en": "Adjectives can act as the predicate directly without 是. 很 is often added before it even without meaning \"very\".",
-      "zh": "形容词可以直接做谓语，不需要「是」。前面常加「很」，此时不一定表示程度。"
+      "vi": "\"东\" là từ chỉ hướng đông, thường dùng với \"边\" tạo thành \"东边\" để chỉ phía đông của một địa điểm. Đặt sau danh từ với \"的\" để chỉ phía đông của đối tượng đó.",
+      "en": "\"东\" indicates the east direction, often used with \"边\" to form \"东边\" meaning the east side of a place. It can follow a noun with \"的\" to indicate its east side.",
+      "zh": "「东」表示方向东，常与「边」结合成「东边」指某地的东面。可用「……的东边」表示某物的东侧。"
     },
     "examples": [
       {
-        "hanzi": "今天天气很好。",
-        "pinyin": "Jīntiān tiānqì hěn hǎo.",
-        "translation": {
-          "vi": "Hôm nay thời tiết đẹp.",
-          "en": "The weather is nice today."
-        }
+        "hanzi": "学校的东边",
+        "pinyin": "Xuéxiào de dōngbiān",
+        "translation": {"vi": "phía đông của trường", "en": "the east side of the school"}
       },
       {
-        "hanzi": "这个苹果很甜。",
-        "pinyin": "Zhège píngguǒ hěn tián.",
-        "translation": {
-          "vi": "Quả táo này ngọt.",
-          "en": "This apple is sweet."
-        }
+        "hanzi": "东边有山。",
+        "pinyin": "Dōngbiān yǒu shān.",
+        "translation": {"vi": "Phía đông có núi.", "en": "There are mountains to the east."}
+      },
+      {
+        "hanzi": "他住在城东。",
+        "pinyin": "Tā zhù zài chéng dōng.",
+        "translation": {"vi": "Anh ấy sống ở phía đông thành phố.", "en": "He lives in the east of the city."}
+      }
+    ]
+  },
+  {
+    "id": "nan",
+    "metadata": {
+      "id": "一01-10",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"南\" (nam)",
+      "en": "Locality word \"南\" (south)",
+      "zh": "方位词「南」"
+    },
+    "structure": "名词 + 的 + 南 / 南边",
+    "explanation": {
+      "vi": "\"南\" chỉ hướng nam, thường kết hợp với \"边\" thành \"南边\". Được dùng để chỉ phía nam của địa điểm.",
+      "en": "\"南\" indicates the south direction, often combined with \"边\" to form \"南边\". It is used to indicate the south side of a place.",
+      "zh": "「南」表示方向南，常与「边」构成「南边」，用于表示某地的南面。"
+    },
+    "examples": [
+      {
+        "hanzi": "南边的房子",
+        "pinyin": "Nánbiān de fángzi",
+        "translation": {"vi": "ngôi nhà ở phía nam", "en": "the house on the south side"}
+      },
+      {
+        "hanzi": "我们向南走。",
+        "pinyin": "Wǒmen xiàng nán zǒu.",
+        "translation": {"vi": "Chúng tôi đi về phía nam.", "en": "We walk south."}
+      },
+      {
+        "hanzi": "学校南边是医院。",
+        "pinyin": "Xuéxiào nánbiān shì yīyuàn.",
+        "translation": {"vi": "Phía nam trường học là bệnh viện.", "en": "To the south of the school is the hospital."}
+      }
+    ]
+  },
+  {
+    "id": "xi",
+    "metadata": {
+      "id": "一01-11",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"西\" (tây)",
+      "en": "Locality word \"西\" (west)",
+      "zh": "方位词「西」"
+    },
+    "structure": "名词 + 的 + 西 / 西边",
+    "explanation": {
+      "vi": "\"西\" chỉ hướng tây, thường dùng với \"边\" thành \"西边\". Biểu thị phía tây của địa điểm.",
+      "en": "\"西\" indicates the west direction, often used with \"边\" to form \"西边\". It denotes the west side of a place.",
+      "zh": "「西」表示方向西，常与「边」构成「西边」，表示某地的西面。"
+    },
+    "examples": [
+      {
+        "hanzi": "公园的西边",
+        "pinyin": "Gōngyuán de xībiān",
+        "translation": {"vi": "phía tây của công viên", "en": "the west side of the park"}
+      },
+      {
+        "hanzi": "太阳从西边落下。",
+        "pinyin": "Tàiyáng cóng xībiān luòxià.",
+        "translation": {"vi": "Mặt trời lặn ở phía tây.", "en": "The sun sets in the west."}
+      },
+      {
+        "hanzi": "车站西边有很多商店。",
+        "pinyin": "Chēzhàn xībiān yǒu hěnduō shāngdiàn.",
+        "translation": {"vi": "Phía tây bến xe có nhiều cửa hàng.", "en": "There are many shops to the west of the station."}
+      }
+    ]
+  },
+  {
+    "id": "bei",
+    "metadata": {
+      "id": "一01-12",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"北\" (bắc)",
+      "en": "Locality word \"北\" (north)",
+      "zh": "方位词「北」"
+    },
+    "structure": "名词 + 的 + 北 / 北边",
+    "explanation": {
+      "vi": "\"北\" chỉ hướng bắc, kết hợp với \"边\" thành \"北边\". Dùng để nói về phía bắc của một địa điểm.",
+      "en": "\"北\" indicates the north direction, combined with \"边\" to form \"北边\". Used to express the north side of a place.",
+      "zh": "「北」表示方向北，与「边」组合成「北边」，表示某地的北面。"
+    },
+    "examples": [
+      {
+        "hanzi": "图书馆的北边",
+        "pinyin": "Túshūguǎn de běibiān",
+        "translation": {"vi": "phía bắc của thư viện", "en": "the north side of the library"}
+      },
+      {
+        "hanzi": "北边有一家超市。",
+        "pinyin": "Běibiān yǒu yī jiā chāoshì.",
+        "translation": {"vi": "Phía bắc có một siêu thị.", "en": "There is a supermarket to the north."}
+      },
+      {
+        "hanzi": "汽车站北边是公园。",
+        "pinyin": "Qìchēzhàn běibiān shì gōngyuán.",
+        "translation": {"vi": "Phía bắc bến xe là công viên.", "en": "To the north of the bus station is the park."}
+      }
+    ]
+  },
+  {
+    "id": "shangbian",
+    "metadata": {
+      "id": "一01-13",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"上边\" (bên trên)",
+      "en": "Locality word \"上边\" (the top/above)",
+      "zh": "方位词「上边」"
+    },
+    "structure": "名词 + 的 + 上边",
+    "explanation": {
+      "vi": "\"上边\" tương tự \"上\" nhưng mang nghĩa \"bên trên\" hoặc \"phía trên\", thường dùng với \"的\" để chỉ vị trí trên một đối tượng cụ thể. Thường làm trạng ngữ chỉ nơi chốn.",
+      "en": "\"上边\" is similar to \"上\" but means \"the top side/above\", often used with \"的\" to indicate the position above a specific object. It commonly serves as a location adverbial.",
+      "zh": "「上边」与「上」类似，但更强调\"上方/上边\"，常与「的」搭配表示在某物上面。常作处所状语。"
+    },
+    "examples": [
+      {
+        "hanzi": "桌子上边",
+        "pinyin": "Zhuōzi shàngbian",
+        "translation": {"vi": "trên bàn", "en": "on top of the table"}
+      },
+      {
+        "hanzi": "桌子上边有一本书。",
+        "pinyin": "Zhuōzi shàngbian yǒu yī běn shū.",
+        "translation": {"vi": "Trên bàn có một quyển sách.", "en": "There is a book on the table."}
+      },
+      {
+        "hanzi": "书放在桌子上边。",
+        "pinyin": "Shū fàng zài zhuōzi shàngbian.",
+        "translation": {"vi": "Quyển sách được đặt trên bàn.", "en": "The book is placed on the table."}
+      }
+    ]
+  },
+  {
+    "id": "xiabian",
+    "metadata": {
+      "id": "一01-14",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"下边\" (bên dưới)",
+      "en": "Locality word \"下边\" (the bottom/under)",
+      "zh": "方位词「下边」"
+    },
+    "structure": "名词 + 的 + 下边",
+    "explanation": {
+      "vi": "\"下边\" chỉ vị trí bên dưới, tương tự \"下\" nhưng dùng \"边\". Thường đi với \"的\" để chỉ phía dưới của một vật.",
+      "en": "\"下边\" means the underside/below, similar to \"下\" but with \"边\". It is often used with \"的\" to indicate the area under something.",
+      "zh": "「下边」表示下面，与「下」同义，但常用\"边\"形式。常与「的」连用表示某物的下方。"
+    },
+    "examples": [
+      {
+        "hanzi": "桌子下边",
+        "pinyin": "Zhuōzi xiàbian",
+        "translation": {"vi": "dưới bàn", "en": "under the table"}
+      },
+      {
+        "hanzi": "下边有一条狗。",
+        "pinyin": "Xiàbian yǒu yī tiáo gǒu.",
+        "translation": {"vi": "Bên dưới có một con chó.", "en": "There is a dog underneath."}
+      },
+      {
+        "hanzi": "书包下边有作业本。",
+        "pinyin": "Shūbāo xiàbian yǒu zuòyèběn.",
+        "translation": {"vi": "Dưới cặp sách có vở bài tập.", "en": "There is a workbook under the bag."}
+      }
+    ]
+  },
+  {
+    "id": "libian",
+    "metadata": {
+      "id": "一01-15",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"里边\" (bên trong)",
+      "en": "Locality word \"里边\" (inside)",
+      "zh": "方位词「里边」"
+    },
+    "structure": "名词 + 的 + 里边",
+    "explanation": {
+      "vi": "\"里边\" tương tự \"里\", chỉ bên trong, nhưng dùng \"边\" để nhấn mạnh ranh giới. Thường dùng với \"的\" để chỉ vị trí bên trong một không gian.",
+      "en": "\"里边\" is similar to \"里\" meaning inside, but with \"边\" to emphasize the boundary. Often used with \"的\" to indicate the inside of a space.",
+      "zh": "「里边」与「里」同义，但更强调\"内侧/里面\"，常与「的」搭配表示空间内部。"
+    },
+    "examples": [
+      {
+        "hanzi": "书包里边",
+        "pinyin": "Shūbāo lǐbian",
+        "translation": {"vi": "bên trong cặp sách", "en": "inside the bag"}
+      },
+      {
+        "hanzi": "书包里边有笔。",
+        "pinyin": "Shūbāo lǐbian yǒu bǐ.",
+        "translation": {"vi": "Bên trong cặp sách có bút.", "en": "There are pens inside the bag."}
+      },
+      {
+        "hanzi": "教室里边很安静。",
+        "pinyin": "Jiàoshì lǐbian hěn ānjìng.",
+        "translation": {"vi": "Bên trong lớp học rất yên tĩnh.", "en": "It's very quiet inside the classroom."}
+      }
+    ]
+  },
+  {
+    "id": "waibian",
+    "metadata": {
+      "id": "一01-16",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"外边\" (bên ngoài)",
+      "en": "Locality word \"外边\" (outside)",
+      "zh": "方位词「外边」"
+    },
+    "structure": "名词 + 的 + 外边",
+    "explanation": {
+      "vi": "\"外边\" chỉ bên ngoài, tương tự \"外\" nhưng nhấn mạnh ranh giới bên ngoài. Dùng với \"的\" để chỉ vị trí bên ngoài một vật.",
+      "en": "\"外边\" means the outside, similar to \"外\" but emphasizing the exterior boundary. Used with \"的\" to indicate the area outside something.",
+      "zh": "「外边」表示外部，与「外」同义，强调外侧。常与「的」连用表示某物外面。"
+    },
+    "examples": [
+      {
+        "hanzi": "房子外边",
+        "pinyin": "Fángzi wàibian",
+        "translation": {"vi": "bên ngoài nhà", "en": "outside the house"}
+      },
+      {
+        "hanzi": "外边下雨了。",
+        "pinyin": "Wàibian xià yǔ le.",
+        "translation": {"vi": "Bên ngoài trời đang mưa.", "en": "It's raining outside."}
+      },
+      {
+        "hanzi": "请在外边等我。",
+        "pinyin": "Qǐng zài wàibian děng wǒ.",
+        "translation": {"vi": "Xin hãy đợi tôi ở bên ngoài.", "en": "Please wait for me outside."}
+      }
+    ]
+  },
+  {
+    "id": "qianbian",
+    "metadata": {
+      "id": "一01-17",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"前边\" (phía trước)",
+      "en": "Locality word \"前边\" (the front)",
+      "zh": "方位词「前边」"
+    },
+    "structure": "名词 + 的 + 前边",
+    "explanation": {
+      "vi": "\"前边\" chỉ phía trước, dùng với \"的\" để chỉ vị trí trước một đối tượng. Thường làm trạng ngữ chỉ nơi chốn.",
+      "en": "\"前边\" means the front side, used with \"的\" to indicate the position in front of an object. Commonly a location adverbial.",
+      "zh": "「前边」表示前面，与「的」连用表示某物的前方。常作处所状语。"
+    },
+    "examples": [
+      {
+        "hanzi": "饭店的前边",
+        "pinyin": "Fàndiàn de qiánbian",
+        "translation": {"vi": "phía trước nhà hàng", "en": "the front of the restaurant"}
+      },
+      {
+        "hanzi": "前边有一条河。",
+        "pinyin": "Qiánbian yǒu yī tiáo hé.",
+        "translation": {"vi": "Phía trước có một con sông.", "en": "There is a river ahead."}
+      },
+      {
+        "hanzi": "你坐在我的前边。",
+        "pinyin": "Nǐ zuò zài wǒ de qiánbian.",
+        "translation": {"vi": "Bạn ngồi trước tôi.", "en": "You sit in front of me."}
+      }
+    ]
+  },
+  {
+    "id": "houbian",
+    "metadata": {
+      "id": "一01-18",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"后边\" (phía sau)",
+      "en": "Locality word \"后边\" (the back/behind)",
+      "zh": "方位词「后边」"
+    },
+    "structure": "名词 + 的 + 后边",
+    "explanation": {
+      "vi": "\"后边\" chỉ phía sau, dùng với \"的\" để chỉ vị trí sau một đối tượng. Thường dùng để chỉ không gian phía sau.",
+      "en": "\"后边\" indicates the back/behind, used with \"的\" to mean the area behind something. Often used for spatial reference.",
+      "zh": "「后边」表示后面，与「的」连用表示某物的后方。常用于空间方位。"
+    },
+    "examples": [
+      {
+        "hanzi": "门后边",
+        "pinyin": "Mén hòubian",
+        "translation": {"vi": "sau cửa", "en": "behind the door"}
+      },
+      {
+        "hanzi": "后边有棵树。",
+        "pinyin": "Hòubian yǒu kē shù.",
+        "translation": {"vi": "Phía sau có một cái cây.", "en": "There is a tree behind."}
+      },
+      {
+        "hanzi": "我的后边是墙。",
+        "pinyin": "Wǒ de hòubian shì qiáng.",
+        "translation": {"vi": "Phía sau tôi là tường.", "en": "Behind me is a wall."}
+      }
+    ]
+  },
+  {
+    "id": "zuobian",
+    "metadata": {
+      "id": "一01-19",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"左边\" (bên trái)",
+      "en": "Locality word \"左边\" (left side)",
+      "zh": "方位词「左边」"
+    },
+    "structure": "名词 + 的 + 左边",
+    "explanation": {
+      "vi": "\"左边\" là cách nói thông dụng để chỉ bên trái. Đặt sau danh từ với \"的\" để chỉ phía bên trái của đối tượng. Có thể đứng một mình làm trạng ngữ.",
+      "en": "\"左边\" is the common way to say \"left side\". It follows a noun with \"的\" to indicate the left side of the object. It can also stand alone as an adverbial.",
+      "zh": "「左边」是表示左侧的常用词。放在名词后加「的」表示某物的左边。也可单独作状语。"
+    },
+    "examples": [
+      {
+        "hanzi": "教室的左边",
+        "pinyin": "Jiàoshì de zuǒbiān",
+        "translation": {"vi": "bên trái lớp học", "en": "the left side of the classroom"}
+      },
+      {
+        "hanzi": "左边是银行。",
+        "pinyin": "Zuǒbiān shì yínháng.",
+        "translation": {"vi": "Bên trái là ngân hàng.", "en": "To the left is the bank."}
+      },
+      {
+        "hanzi": "请把书放在左边。",
+        "pinyin": "Qǐng bǎ shū fàng zài zuǒbiān.",
+        "translation": {"vi": "Xin hãy đặt sách ở bên trái.", "en": "Please put the book on the left."}
+      }
+    ]
+  },
+  {
+    "id": "youbian",
+    "metadata": {
+      "id": "一01-20",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"右边\" (bên phải)",
+      "en": "Locality word \"右边\" (right side)",
+      "zh": "方位词「右边」"
+    },
+    "structure": "名词 + 的 + 右边",
+    "explanation": {
+      "vi": "\"右边\" là cách nói bên phải, dùng với \"的\" để chỉ phía bên phải của một vật. Có thể dùng độc lập.",
+      "en": "\"右边\" is the common expression for the right side, used with \"的\" to indicate the right side of something. It can be used alone.",
+      "zh": "「右边」表示右侧，与「的」连用表示某物的右边。也可单独使用。"
+    },
+    "examples": [
+      {
+        "hanzi": "图书馆的右边",
+        "pinyin": "Túshūguǎn de yòubiān",
+        "translation": {"vi": "bên phải thư viện", "en": "the right side of the library"}
+      },
+      {
+        "hanzi": "右边是食堂。",
+        "pinyin": "Yòubiān shì shítáng.",
+        "translation": {"vi": "Bên phải là căng tin.", "en": "To the right is the cafeteria."}
+      },
+      {
+        "hanzi": "向右走。",
+        "pinyin": "Xiàng yòu zǒu.",
+        "translation": {"vi": "Đi về bên phải.", "en": "Go to the right."}
+      }
+    ]
+  },
+  {
+    "id": "dongbian",
+    "metadata": {
+      "id": "一01-21",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"东边\" (phía đông)",
+      "en": "Locality word \"东边\" (the east side)",
+      "zh": "方位词「东边」"
+    },
+    "structure": "(名词) + 的 + 东边",
+    "explanation": {
+      "vi": "\"东边\" chỉ phía đông của một địa điểm. Có thể ghép sau danh từ bằng \"的\" để tạo cụm chỉ nơi chốn (\"A 的东边\" = phía đông của A), hoặc đứng đầu câu làm chủ ngữ.",
+      "en": "\"东边\" means \"the east side\" of a place. It can follow a noun with \"的\" to form a location phrase (\"the east side of A\"), or stand alone as the subject of a sentence.",
+      "zh": "「东边」指某处的东面，可用\"……的东边\"构成处所词语，也可直接作主语。"
+    },
+    "examples": [
+      {
+        "hanzi": "他去东边的车站。",
+        "pinyin": "Tā qù dōngbiān de chēzhàn.",
+        "translation": {"vi": "Anh ấy đến trạm xe ở phía đông.", "en": "He is going to the station on the east side."}
+      },
+      {
+        "hanzi": "学校东边有一家超市。",
+        "pinyin": "Xuéxiào dōngbiān yǒu yī jiā chāoshì.",
+        "translation": {"vi": "Phía đông trường có một siêu thị.", "en": "There is a supermarket to the east of the school."}
+      },
+      {
+        "hanzi": "东边的山很高。",
+        "pinyin": "Dōngbiān de shān hěn gāo.",
+        "translation": {"vi": "Ngọn núi phía đông rất cao.", "en": "The mountains to the east are very high."}
+      }
+    ]
+  },
+  {
+    "id": "nanbian",
+    "metadata": {
+      "id": "一01-22",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"南边\" (phía nam)",
+      "en": "Locality word \"南边\" (the south side)",
+      "zh": "方位词「南边」"
+    },
+    "structure": "(名词) + 的 + 南边",
+    "explanation": {
+      "vi": "\"南边\" chỉ phía nam, dùng với \"的\" để chỉ phía nam của địa điểm. Cũng có thể dùng độc lập.",
+      "en": "\"南边\" indicates the south side, used with \"的\" to mean the south of a place. It can also stand alone.",
+      "zh": "「南边」指南面，与「的」连用表示某地的南侧，也可独立使用。"
+    },
+    "examples": [
+      {
+        "hanzi": "南边的房子",
+        "pinyin": "Nánbiān de fángzi",
+        "translation": {"vi": "ngôi nhà ở phía nam", "en": "the house on the south side"}
+      },
+      {
+        "hanzi": "南边有条河。",
+        "pinyin": "Nánbiān yǒu tiáo hé.",
+        "translation": {"vi": "Phía nam có một con sông.", "en": "There is a river to the south."}
+      },
+      {
+        "hanzi": "图书馆南边是停车场。",
+        "pinyin": "Túshūguǎn nánbiān shì tíngchēchǎng.",
+        "translation": {"vi": "Phía nam thư viện là bãi đỗ xe.", "en": "To the south of the library is the parking lot."}
+      }
+    ]
+  },
+  {
+    "id": "xibian",
+    "metadata": {
+      "id": "一01-23",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"西边\" (phía tây)",
+      "en": "Locality word \"西边\" (the west side)",
+      "zh": "方位词「西边」"
+    },
+    "structure": "(名词) + 的 + 西边",
+    "explanation": {
+      "vi": "\"西边\" chỉ phía tây, dùng với \"的\" để chỉ phía tây của một địa điểm. Có thể dùng độc lập.",
+      "en": "\"西边\" refers to the west side, used with \"的\" to indicate the west of a place. Can also be used alone.",
+      "zh": "「西边」指西面，与「的」连用表示某地的西侧，也可单独使用。"
+    },
+    "examples": [
+      {
+        "hanzi": "学校的西边",
+        "pinyin": "Xuéxiào de xībiān",
+        "translation": {"vi": "phía tây của trường", "en": "the west side of the school"}
+      },
+      {
+        "hanzi": "西边有山。",
+        "pinyin": "Xībiān yǒu shān.",
+        "translation": {"vi": "Phía tây có núi.", "en": "There are mountains to the west."}
+      },
+      {
+        "hanzi": "食堂西边是篮球场。",
+        "pinyin": "Shítáng xībiān shì lánqiúchǎng.",
+        "translation": {"vi": "Phía tây căng tin là sân bóng rổ.", "en": "To the west of the cafeteria is the basketball court."}
+      }
+    ]
+  },
+  {
+    "id": "beibian",
+    "metadata": {
+      "id": "一01-24",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.1", "label": "名词"}
+      ],
+      "category": "方位名词"
+    },
+    "title": {
+      "vi": "Phương vị từ \"北边\" (phía bắc)",
+      "en": "Locality word \"北边\" (the north side)",
+      "zh": "方位词「北边」"
+    },
+    "structure": "(名词) + 的 + 北边",
+    "explanation": {
+      "vi": "\"北边\" chỉ phía bắc, dùng với \"的\" để chỉ phía bắc của một địa điểm. Có thể đứng một mình.",
+      "en": "\"北边\" indicates the north side, used with \"的\" to mean the north of a place. Can stand alone.",
+      "zh": "「北边」指北面，与「的」连用表示某地的北侧，也可独立使用。"
+    },
+    "examples": [
+      {
+        "hanzi": "图书馆的北边",
+        "pinyin": "Túshūguǎn de běibiān",
+        "translation": {"vi": "phía bắc của thư viện", "en": "the north side of the library"}
+      },
+      {
+        "hanzi": "北边是公园。",
+        "pinyin": "Běibiān shì gōngyuán.",
+        "translation": {"vi": "Phía bắc là công viên.", "en": "To the north is the park."}
+      },
+      {
+        "hanzi": "车站北边有很多商店。",
+        "pinyin": "Chēzhàn běibiān yǒu hěnduō shāngdiàn.",
+        "translation": {"vi": "Phía bắc bến xe có nhiều cửa hàng.", "en": "There are many shops to the north of the station."}
+      }
+    ]
+  },
+  {
+    "id": "hui",
+    "metadata": {
+      "id": "一02-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.2", "label": "动词"}
+      ],
+      "category": "能愿动词"
+    },
+    "title": {
+      "vi": "Động từ năng nguyện \"会\" (biết, sẽ)",
+      "en": "Modal verb \"会\" (know how to / will)",
+      "zh": "能愿动词「会」"
+    },
+    "structure": "主语 + (不) + 会 + 动词",
+    "explanation": {
+      "vi": "\"会\" là động từ năng nguyện, biểu thị khả năng đã học được (biết làm gì) hoặc khả năng xảy ra trong tương lai. Phủ định dùng \"不会\". Trong câu hỏi, dùng \"会……吗?\".",
+      "en": "\"会\" is a modal verb expressing a learned ability (knowing how to do something) or the likelihood of something happening. Negate with \"不会\". In questions, use \"会……吗?\".",
+      "zh": "「会」是能愿动词，表示通过学习获得的能力，或表示将来发生的可能性。否定形式为\"不会\"。疑问句用\"会……吗?\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "我不会说中文。",
+        "pinyin": "Wǒ bú huì shuō zhōngwén.",
+        "translation": {"vi": "Tôi không biết nói tiếng Trung.", "en": "I can't speak Chinese."}
+      },
+      {
+        "hanzi": "他会开车吗？",
+        "pinyin": "Tā huì kāichē ma?",
+        "translation": {"vi": "Anh ấy có biết lái xe không?", "en": "Can he drive?"}
+      },
+      {
+        "hanzi": "明天会下雨。",
+        "pinyin": "Míngtiān huì xià yǔ.",
+        "translation": {"vi": "Ngày mai sẽ mưa.", "en": "It will rain tomorrow."}
+      },
+      {
+        "hanzi": "我朋友会说英语。",
+        "pinyin": "Wǒ péngyou huì shuō Yīngyǔ.",
+        "translation": {"vi": "Bạn tôi biết nói tiếng Anh.", "en": "My friend can speak English."}
+      }
+    ]
+  },
+  {
+    "id": "neng",
+    "metadata": {
+      "id": "一02-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.2", "label": "动词"}
+      ],
+      "category": "能愿动词"
+    },
+    "title": {
+      "vi": "Động từ năng nguyện \"能\" (có thể)",
+      "en": "Modal verb \"能\" (can / to be able to)",
+      "zh": "能愿动词「能」"
+    },
+    "structure": "主语 + 能 + 动词 + (吗？)",
+    "explanation": {
+      "vi": "\"能\" biểu thị khả năng hoặc được phép làm gì đó (do điều kiện khách quan hoặc chủ quan cho phép). Thường dùng trong câu hỏi để hỏi khả năng/sự cho phép. Phủ định là \"不能\".",
+      "en": "\"能\" expresses ability or permission to do something (due to objective or subjective conditions). It's often used in questions asking about possibility or permission. Negate with \"不能\".",
+      "zh": "「能」表示具备某种能力或获得允许做某事，常用于疑问句询问可能性。否定用「不能」。"
+    },
+    "examples": [
+      {
+        "hanzi": "明天你能来吗？",
+        "pinyin": "Míngtiān nǐ néng lái ma?",
+        "translation": {"vi": "Ngày mai anh có thể đến được không?", "en": "Can you come tomorrow?"}
+      },
+      {
+        "hanzi": "我能用一下你的笔吗？",
+        "pinyin": "Wǒ néng yòng yīxià nǐ de bǐ ma?",
+        "translation": {"vi": "Tôi có thể dùng bút của bạn một chút không?", "en": "Can I use your pen for a moment?"}
+      },
+      {
+        "hanzi": "你不能在这里吸烟。",
+        "pinyin": "Nǐ bùnéng zài zhèlǐ xīyān.",
+        "translation": {"vi": "Bạn không được hút thuốc ở đây.", "en": "You cannot smoke here."}
+      },
+      {
+        "hanzi": "她能唱歌。",
+        "pinyin": "Tā néng chànggē.",
+        "translation": {"vi": "Cô ấy có thể hát.", "en": "She can sing."}
+      }
+    ]
+  },
+  {
+    "id": "xiang",
+    "metadata": {
+      "id": "一03-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.2", "label": "动词"}
+      ],
+      "category": "能愿动词"
+    },
+    "title": {
+      "vi": "Động từ năng nguyện \"想\" (muốn)",
+      "en": "Modal verb \"想\" (want to / would like to)",
+      "zh": "能愿动词「想」"
+    },
+    "structure": "主语 + 想 + 动词/名词",
+    "explanation": {
+      "vi": "\"想\" diễn tả mong muốn hoặc ý định làm gì, thường đi với động từ. Có thể dùng với tân ngữ danh từ để biểu thị \"nhớ\" (ít dùng trong HSK1). Phủ định là \"不想\".",
+      "en": "\"想\" expresses a desire or intention to do something, often followed by a verb. It can also take a noun object meaning \"miss\", but less common in HSK1. Negate with \"不想\".",
+      "zh": "「想」表示意愿或打算做某事，后面常接动词。也可接名词表示\"想念\"，但HSK1较少。否定用\"不想\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "我想学中文。",
+        "pinyin": "Wǒ xiǎng xué zhōngwén.",
+        "translation": {"vi": "Tôi muốn học tiếng Trung.", "en": "I want to learn Chinese."}
+      },
+      {
+        "hanzi": "你想吃什么？",
+        "pinyin": "Nǐ xiǎng chī shénme?",
+        "translation": {"vi": "Bạn muốn ăn gì?", "en": "What would you like to eat?"}
+      },
+      {
+        "hanzi": "我不想看电视。",
+        "pinyin": "Wǒ bù xiǎng kàn diànshì.",
+        "translation": {"vi": "Tôi không muốn xem TV.", "en": "I don't want to watch TV."}
+      },
+      {
+        "hanzi": "他想去北京。",
+        "pinyin": "Tā xiǎng qù Běijīng.",
+        "translation": {"vi": "Anh ấy muốn đi Bắc Kinh.", "en": "He wants to go to Beijing."}
+      }
+    ]
+  },
+  {
+    "id": "yao",
+    "metadata": {
+      "id": "一03-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.2", "label": "动词"}
+      ],
+      "category": "能愿动词"
+    },
+    "title": {
+      "vi": "Động từ năng nguyện \"要\" (muốn, cần)",
+      "en": "Modal verb \"要\" (want / need / will)",
+      "zh": "能愿动词「要」"
+    },
+    "structure": "主语 + 要 + 动词/名词",
+    "explanation": {
+      "vi": "\"要\" có thể biểu thị ý muốn mạnh mẽ (muốn), hoặc cần phải, cũng có thể chỉ dự định trong tương lai (sẽ). Phủ định là \"不要\" hoặc \"不想\" (tùy ngữ cảnh).",
+      "en": "\"要\" can express strong desire (want), necessity (need), or future intention (will). Negation can be \"不要\" or \"不想\" depending on context.",
+      "zh": "「要」表示强烈的意愿（要）、需要（须要）或将来打算（将要）。否定可用「不要」或「不想」。"
+    },
+    "examples": [
+      {
+        "hanzi": "他要去书店。",
+        "pinyin": "Tā yào qù shūdiàn.",
+        "translation": {"vi": "Anh ấy muốn đi nhà sách.", "en": "He wants to go to the bookstore."}
+      },
+      {
+        "hanzi": "我要一杯水。",
+        "pinyin": "Wǒ yào yī bēi shuǐ.",
+        "translation": {"vi": "Tôi muốn một cốc nước.", "en": "I'd like a glass of water."}
+      },
+      {
+        "hanzi": "你不要去那里。",
+        "pinyin": "Nǐ bùyào qù nàlǐ.",
+        "translation": {"vi": "Bạn đừng đi đó.", "en": "Don't go there."}
+      },
+      {
+        "hanzi": "明天要下雨。",
+        "pinyin": "Míngtiān yào xià yǔ.",
+        "translation": {"vi": "Ngày mai trời sẽ mưa.", "en": "It's going to rain tomorrow."}
+      }
+    ]
+  },
+  {
+    "id": "duo",
+    "metadata": {
+      "id": "一04-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"多\" (bao nhiêu - hỏi về mức độ)",
+      "en": "Interrogative pronoun \"多\" (how - asking about degree)",
+      "zh": "疑问代词「多」"
+    },
+    "structure": "多 + 形容词？",
+    "explanation": {
+      "vi": "\"多\" dùng trước tính từ để hỏi về mức độ, thường hỏi về tuổi tác, chiều cao, kích thước. Không dùng với danh từ. Câu trả lời thường là số + đơn vị.",
+      "en": "\"多\" is placed before an adjective to ask about degree, often used for age, height, size. It is not used with nouns. The answer is usually a number with a unit.",
+      "zh": "「多」放在形容词前询问程度，常问年龄、身高、尺寸等。不与名词连用。回答通常是数字+单位。"
+    },
+    "examples": [
+      {
+        "hanzi": "他多大？",
+        "pinyin": "Tā duō dà?",
+        "translation": {"vi": "Anh ấy bao nhiêu tuổi?", "en": "How old is he?"}
+      },
+      {
+        "hanzi": "这棵树多高？",
+        "pinyin": "Zhè kē shù duō gāo?",
+        "translation": {"vi": "Cây này cao bao nhiêu?", "en": "How tall is this tree?"}
+      },
+      {
+        "hanzi": "这个房间多大？",
+        "pinyin": "Zhège fángjiān duō dà?",
+        "translation": {"vi": "Căn phòng này rộng bao nhiêu?", "en": "How big is this room?"}
+      }
+    ]
+  },
+  {
+    "id": "duoshao",
+    "metadata": {
+      "id": "一04-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"多少\" (bao nhiêu)",
+      "en": "Interrogative pronoun \"多少\" (how many/how much)",
+      "zh": "疑问代词「多少」"
+    },
+    "structure": "多少 + 名词？",
+    "explanation": {
+      "vi": "\"多少\" dùng để hỏi về số lượng, thường đi trước danh từ. Dùng cho số lượng lớn hoặc không xác định. Có thể đứng một mình.",
+      "en": "\"多少\" is used to ask about quantity, usually preceding a noun. It is used for larger or indeterminate quantities. It can stand alone.",
+      "zh": "「多少」用于询问数量，通常放在名词前。用于较大或不确定的数量。也可单独使用。"
+    },
+    "examples": [
+      {
+        "hanzi": "你们班有多少个学生？",
+        "pinyin": "Nǐmen bān yǒu duōshao gè xuésheng?",
+        "translation": {"vi": "Lớp của các bạn có bao nhiêu học sinh?", "en": "How many students are in your class?"}
+      },
+      {
+        "hanzi": "这本书多少钱？",
+        "pinyin": "Zhè běn shū duōshao qián?",
+        "translation": {"vi": "Quyển sách này bao nhiêu tiền?", "en": "How much is this book?"}
+      },
+      {
+        "hanzi": "你家有多少人？",
+        "pinyin": "Nǐ jiā yǒu duōshao rén?",
+        "translation": {"vi": "Gia đình bạn có bao nhiêu người?", "en": "How many people are in your family?"}
+      }
+    ]
+  },
+  {
+    "id": "ji",
+    "metadata": {
+      "id": "一04-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"几\" (mấy)",
+      "en": "Interrogative pronoun \"几\" (how many - for small numbers)",
+      "zh": "疑问代词「几」"
+    },
+    "structure": "几 + 量词 + 名词？",
+    "explanation": {
+      "vi": "\"几\" dùng để hỏi số lượng, thường đi với lượng từ, ám chỉ số lượng ít (thường dưới 10). Câu trả lời là số + lượng từ.",
+      "en": "\"几\" is used to ask about quantity with a measure word, implying a small number (usually less than 10). The answer is a number with a measure word.",
+      "zh": "「几」用于询问数量，常与量词搭配，暗指数目较小（通常十以下）。回答为数字+量词。"
+    },
+    "examples": [
+      {
+        "hanzi": "现在几点？",
+        "pinyin": "Xiànzài jǐ diǎn?",
+        "translation": {"vi": "Bây giờ mấy giờ?", "en": "What time is it now?"}
+      },
+      {
+        "hanzi": "你有几个哥哥？",
+        "pinyin": "Nǐ yǒu jǐ gè gēge?",
+        "translation": {"vi": "Bạn có mấy anh trai?", "en": "How many elder brothers do you have?"}
+      },
+      {
+        "hanzi": "这本书几块？",
+        "pinyin": "Zhè běn shū jǐ kuài?",
+        "translation": {"vi": "Quyển sách này mấy đồng?", "en": "How much is this book (in yuan)?"}
+      }
+    ]
+  },
+  {
+    "id": "na",
+    "metadata": {
+      "id": "一04-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"哪\" (nào)",
+      "en": "Interrogative pronoun \"哪\" (which)",
+      "zh": "疑问代词「哪」"
+    },
+    "structure": "哪 + 量词 + 名词？",
+    "explanation": {
+      "vi": "\"哪\" dùng để hỏi về sự lựa chọn, đi cùng lượng từ và danh từ. Có thể dùng \"哪个\" cho số ít, \"哪些\" cho số nhiều. Lưu ý phát âm biến thành \"nǎ\".",
+      "en": "\"哪\" is used to ask about choices, followed by a measure word and noun. Use \"哪个\" for singular, \"哪些\" for plural. Note the pronunciation changes to \"nǎ\".",
+      "zh": "「哪」用于询问选择，后接量词和名词。单数用「哪个」，复数用「哪些」。发音为「nǎ」。"
+    },
+    "examples": [
+      {
+        "hanzi": "你喜欢哪个电影？",
+        "pinyin": "Nǐ xǐhuān nǎge diànyǐng?",
+        "translation": {"vi": "Bạn thích bộ phim nào?", "en": "Which movie do you like?"}
+      },
+      {
+        "hanzi": "哪个是你的书包？",
+        "pinyin": "Nǎge shì nǐ de shūbāo?",
+        "translation": {"vi": "Cái nào là cặp sách của bạn?", "en": "Which one is your bag?"}
+      },
+      {
+        "hanzi": "你想去哪个国家？",
+        "pinyin": "Nǐ xiǎng qù nǎge guójiā?",
+        "translation": {"vi": "Bạn muốn đi nước nào?", "en": "Which country do you want to go to?"}
+      }
+    ]
+  },
+  {
+    "id": "nar",
+    "metadata": {
+      "id": "一04-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"哪儿\" (ở đâu)",
+      "en": "Interrogative pronoun \"哪儿\" (where)",
+      "zh": "疑问代词「哪儿」"
+    },
+    "structure": "主语 + 去/在 + 哪儿？",
+    "explanation": {
+      "vi": "\"哪儿\" dùng để hỏi về địa điểm, tương đương \"ở đâu\". Thường đứng sau động từ chỉ vị trí/di chuyển như \"去\", \"在\".",
+      "en": "\"哪儿\" asks about a location, equivalent to \"where\". It usually follows a verb of location or motion such as \"去\" (go) or \"在\" (be at).",
+      "zh": "「哪儿」用于询问地点，相当于\"什么地方\"，常放在\"去、在\"等动词后面。"
+    },
+    "examples": [
+      {
+        "hanzi": "你们去哪儿？",
+        "pinyin": "Nǐmen qù nǎr?",
+        "translation": {"vi": "Các bạn đi đâu?", "en": "Where are you (all) going?"}
+      },
+      {
+        "hanzi": "他在哪儿？",
+        "pinyin": "Tā zài nǎr?",
+        "translation": {"vi": "Anh ấy ở đâu?", "en": "Where is he?"}
+      },
+      {
+        "hanzi": "学校在哪儿？",
+        "pinyin": "Xuéxiào zài nǎr?",
+        "translation": {"vi": "Trường học ở đâu?", "en": "Where is the school?"}
+      }
+    ]
+  },
+  {
+    "id": "nali",
+    "metadata": {
+      "id": "一04-06",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"哪里\" (ở đâu)",
+      "en": "Interrogative pronoun \"哪里\" (where)",
+      "zh": "疑问代词「哪里」"
+    },
+    "structure": "主语 + 在/去 + 哪里？",
+    "explanation": {
+      "vi": "\"哪里\" tương tự \"哪儿\" nhưng trang trọng hơn, dùng để hỏi địa điểm. Có thể đứng sau \"在\" hoặc \"去\".",
+      "en": "\"哪里\" is similar to \"哪儿\" but more formal, used to ask for a location. It follows \"在\" or \"去\".",
+      "zh": "「哪里」与「哪儿」同义，但更正式，用于询问地点。常放在「在」或「去」后面。"
+    },
+    "examples": [
+      {
+        "hanzi": "车站在哪里？",
+        "pinyin": "Chēzhàn zài nǎlǐ?",
+        "translation": {"vi": "Bến xe ở đâu?", "en": "Where is the bus station?"}
+      },
+      {
+        "hanzi": "你在哪里学习？",
+        "pinyin": "Nǐ zài nǎlǐ xuéxí?",
+        "translation": {"vi": "Bạn học ở đâu?", "en": "Where do you study?"}
+      },
+      {
+        "hanzi": "他要到哪里去？",
+        "pinyin": "Tā yào dào nǎlǐ qù?",
+        "translation": {"vi": "Anh ấy muốn đi đâu?", "en": "Where does he want to go?"}
+      }
+    ]
+  },
+  {
+    "id": "naxie",
+    "metadata": {
+      "id": "一04-07",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"哪些\" (những cái nào)",
+      "en": "Interrogative pronoun \"哪些\" (which ones)",
+      "zh": "疑问代词「哪些」"
+    },
+    "structure": "哪些 + 名词？",
+    "explanation": {
+      "vi": "\"哪些\" là dạng số nhiều của \"哪\", dùng để hỏi về nhiều đối tượng, thường đi trước danh từ số nhiều hoặc tập thể.",
+      "en": "\"哪些\" is the plural form of \"哪\", used to ask about multiple items, often preceding a plural or collective noun.",
+      "zh": "「哪些」是「哪」的复数形式，用于询问多个对象，通常放在复数或集合名词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "你们班有哪些国家的学生？",
+        "pinyin": "Nǐmen bān yǒu nǎxiē guójiā de xuésheng?",
+        "translation": {"vi": "Lớp của các bạn có những học sinh nước nào?", "en": "Which countries' students are in your class?"}
+      },
+      {
+        "hanzi": "你想买哪些书？",
+        "pinyin": "Nǐ xiǎng mǎi nǎxiē shū?",
+        "translation": {"vi": "Bạn muốn mua những quyển sách nào?", "en": "Which books do you want to buy?"}
+      },
+      {
+        "hanzi": "哪些水果好吃？",
+        "pinyin": "Nǎxiē shuǐguǒ hǎochī?",
+        "translation": {"vi": "Những loại trái cây nào ngon?", "en": "Which fruits are delicious?"}
+      }
+    ]
+  },
+  {
+    "id": "shenme",
+    "metadata": {
+      "id": "一04-08",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"什么\" (cái gì)",
+      "en": "Interrogative pronoun \"什么\" (what)",
+      "zh": "疑问代词「什么」"
+    },
+    "structure": "什么 + (名词)？",
+    "explanation": {
+      "vi": "\"什么\" dùng để hỏi về sự vật hoặc hành động. Có thể đứng trước danh từ hoặc một mình. Thường dùng trong \"是……的\" để hỏi đối tượng.",
+      "en": "\"什么\" is used to ask about things or actions. It can precede a noun or stand alone. Often used in \"是……的\" questions to ask about the object.",
+      "zh": "「什么」用于询问事物或行为。可放在名词前或单独使用。常用于\"是……的\"问句询问对象。"
+    },
+    "examples": [
+      {
+        "hanzi": "你买什么？",
+        "pinyin": "Nǐ mǎi shénme?",
+        "translation": {"vi": "Bạn mua gì?", "en": "What are you buying?"}
+      },
+      {
+        "hanzi": "这是什么？",
+        "pinyin": "Zhè shì shénme?",
+        "translation": {"vi": "Đây là gì?", "en": "What is this?"}
+      },
+      {
+        "hanzi": "你喜欢什么运动？",
+        "pinyin": "Nǐ xǐhuān shénme yùndòng?",
+        "translation": {"vi": "Bạn thích môn thể thao nào?", "en": "What sport do you like?"}
+      }
+    ]
+  },
+  {
+    "id": "shei",
+    "metadata": {
+      "id": "一04-09",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"谁\" (ai)",
+      "en": "Interrogative pronoun \"谁\" (who)",
+      "zh": "疑问代词「谁」"
+    },
+    "structure": "谁 + 谓语？",
+    "explanation": {
+      "vi": "\"谁\" dùng để hỏi về người, thường đứng ở vị trí chủ ngữ hoặc tân ngữ. Có thể dùng với \"的\" để hỏi sở hữu.",
+      "en": "\"谁\" is used to ask about people, often as subject or object. It can be used with \"的\" to ask about possession.",
+      "zh": "「谁」用于询问人，常作主语或宾语。可与「的」连用问所属。"
+    },
+    "examples": [
+      {
+        "hanzi": "谁是老师？",
+        "pinyin": "Shéi shì lǎoshī?",
+        "translation": {"vi": "Ai là giáo viên?", "en": "Who is the teacher?"}
+      },
+      {
+        "hanzi": "你的朋友是谁？",
+        "pinyin": "Nǐ de péngyou shì shéi?",
+        "translation": {"vi": "Bạn của bạn là ai?", "en": "Who is your friend?"}
+      },
+      {
+        "hanzi": "谁来了？",
+        "pinyin": "Shéi lái le?",
+        "translation": {"vi": "Ai đến rồi?", "en": "Who came?"}
+      }
+    ]
+  },
+  {
+    "id": "zenme",
+    "metadata": {
+      "id": "一04-10",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "疑问代词"
+    },
+    "title": {
+      "vi": "Đại từ nghi vấn \"怎么\" (thế nào, bằng cách nào)",
+      "en": "Interrogative pronoun \"怎么\" (how / in what way)",
+      "zh": "疑问代词「怎么」"
+    },
+    "structure": "怎么 + 动词？",
+    "explanation": {
+      "vi": "\"怎么\" dùng để hỏi về cách thức, phương tiện hoặc trạng thái (khi đi với tính từ). Thường đứng trước động từ.",
+      "en": "\"怎么\" is used to ask about manner, means, or state (with adjectives). Usually placed before a verb.",
+      "zh": "「怎么」用于询问方式、手段或状态（与形容词连用），常放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "你怎么去医院？",
+        "pinyin": "Nǐ zěnme qù yīyuàn?",
+        "translation": {"vi": "Bạn đi bệnh viện bằng cách nào?", "en": "How do you go to the hospital?"}
+      },
+      {
+        "hanzi": "这个字怎么读？",
+        "pinyin": "Zhège zì zěnme dú?",
+        "translation": {"vi": "Chữ này đọc thế nào?", "en": "How do you read this character?"}
+      },
+      {
+        "hanzi": "你怎么了？",
+        "pinyin": "Nǐ zěnme le?",
+        "translation": {"vi": "Bạn làm sao vậy?", "en": "What's wrong with you?"}
+      }
+    ]
+  },
+  {
+    "id": "wo",
+    "metadata": {
+      "id": "一05-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"我\" (tôi)",
+      "en": "Personal pronoun \"我\" (I / me)",
+      "zh": "人称代词「我」"
+    },
+    "structure": "我 + 谓语",
+    "explanation": {
+      "vi": "\"我\" là đại từ nhân xưng ngôi thứ nhất số ít, dùng để chỉ chính người nói, tương đương \"tôi/mình\".",
+      "en": "\"我\" is the first-person singular pronoun, referring to the speaker, equivalent to \"I/me\".",
+      "zh": "「我」是第一人称单数代词，指说话人自己。"
+    },
+    "examples": [
+      {
+        "hanzi": "你好，我要两个本子。",
+        "pinyin": "Nǐ hǎo, wǒ yào liǎng gè běnzi.",
+        "translation": {"vi": "Xin chào, tôi muốn hai quyển vở.", "en": "Hello, I want two notebooks."}
+      },
+      {
+        "hanzi": "她们是我的同学。",
+        "pinyin": "Tāmen shì wǒ de tóngxué.",
+        "translation": {"vi": "Họ là bạn học của tôi.", "en": "They are my classmates."}
+      },
+      {
+        "hanzi": "我喜欢看电影。",
+        "pinyin": "Wǒ xǐhuān kàn diànyǐng.",
+        "translation": {"vi": "Tôi thích xem phim.", "en": "I like watching movies."}
+      }
+    ]
+  },
+  {
+    "id": "ni",
+    "metadata": {
+      "id": "一05-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"你\" (bạn)",
+      "en": "Personal pronoun \"你\" (you)",
+      "zh": "人称代词「你」"
+    },
+    "structure": "你 + 谓语",
+    "explanation": {
+      "vi": "\"你\" là đại từ nhân xưng ngôi thứ hai số ít, dùng để chỉ người đối thoại.",
+      "en": "\"你\" is the second-person singular pronoun, used to address the listener.",
+      "zh": "「你」是第二人称单数代词，指对方。"
+    },
+    "examples": [
+      {
+        "hanzi": "你好，我要两个本子。",
+        "pinyin": "Nǐ hǎo, wǒ yào liǎng gè běnzi.",
+        "translation": {"vi": "Xin chào, tôi muốn hai quyển vở.", "en": "Hello, I want two notebooks."}
+      },
+      {
+        "hanzi": "你是学生吗？",
+        "pinyin": "Nǐ shì xuésheng ma?",
+        "translation": {"vi": "Bạn là học sinh à?", "en": "Are you a student?"}
+      },
+      {
+        "hanzi": "你吃什么？",
+        "pinyin": "Nǐ chī shénme?",
+        "translation": {"vi": "Bạn ăn gì?", "en": "What do you eat?"}
+      }
+    ]
+  },
+  {
+    "id": "nin",
+    "metadata": {
+      "id": "一05-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"您\" (bạn - trang trọng)",
+      "en": "Personal pronoun \"您\" (you - polite)",
+      "zh": "人称代词「您」"
+    },
+    "structure": "您 + 谓语",
+    "explanation": {
+      "vi": "\"您\" là dạng lịch sự của \"你\", dùng để thể hiện sự tôn trọng với người lớn tuổi hoặc cấp trên.",
+      "en": "\"您\" is a polite form of \"你\", used to show respect to elders or superiors.",
+      "zh": "「您」是「你」的敬称，用于对长辈或上级表示尊重。"
+    },
+    "examples": [
+      {
+        "hanzi": "您好！",
+        "pinyin": "Nín hǎo!",
+        "translation": {"vi": "Xin chào (lịch sự)!", "en": "Hello (polite)!"}
+      },
+      {
+        "hanzi": "您要喝什么？",
+        "pinyin": "Nín yào hē shénme?",
+        "translation": {"vi": "Ngài muốn uống gì?", "en": "What would you like to drink?"}
+      },
+      {
+        "hanzi": "您是老师吗？",
+        "pinyin": "Nín shì lǎoshī ma?",
+        "translation": {"vi": "Ngài là giáo viên ạ?", "en": "Are you a teacher?"}
+      }
+    ]
+  },
+  {
+    "id": "ta",
+    "metadata": {
+      "id": "一05-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"他\" (anh ấy / ông ấy)",
+      "en": "Personal pronoun \"他\" (he / him)",
+      "zh": "人称代词「他」"
+    },
+    "structure": "他 + 谓语",
+    "explanation": {
+      "vi": "\"他\" là đại từ nhân xưng ngôi thứ ba số ít chỉ nam giới hoặc giới tính không xác định.",
+      "en": "\"他\" is the third-person singular pronoun for male or unspecified gender.",
+      "zh": "「他」是第三人称单数代词，指男性或性别未明确者。"
+    },
+    "examples": [
+      {
+        "hanzi": "他想喝水。",
+        "pinyin": "Tā xiǎng hē shuǐ.",
+        "translation": {"vi": "Anh ấy muốn uống nước.", "en": "He wants to drink water."}
+      },
+      {
+        "hanzi": "他是我爸爸。",
+        "pinyin": "Tā shì wǒ bàba.",
+        "translation": {"vi": "Anh ấy là bố tôi.", "en": "He is my father."}
+      },
+      {
+        "hanzi": "他在看电视。",
+        "pinyin": "Tā zài kàn diànshì.",
+        "translation": {"vi": "Anh ấy đang xem TV.", "en": "He is watching TV."}
+      }
+    ]
+  },
+  {
+    "id": "ta_nu",
+    "metadata": {
+      "id": "一05-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"她\" (cô ấy)",
+      "en": "Personal pronoun \"她\" (she / her)",
+      "zh": "人称代词「她」"
+    },
+    "structure": "她 + 谓语",
+    "explanation": {
+      "vi": "\"她\" là đại từ ngôi thứ ba số ít chỉ nữ giới.",
+      "en": "\"她\" is the third-person singular pronoun for female.",
+      "zh": "「她」是第三人称单数代词，指女性。"
+    },
+    "examples": [
+      {
+        "hanzi": "她很高。",
+        "pinyin": "Tā hěn gāo.",
+        "translation": {"vi": "Cô ấy rất cao.", "en": "She is very tall."}
+      },
+      {
+        "hanzi": "她是我妹妹。",
+        "pinyin": "Tā shì wǒ mèimei.",
+        "translation": {"vi": "Cô ấy là em gái tôi.", "en": "She is my younger sister."}
+      },
+      {
+        "hanzi": "她喜欢唱歌。",
+        "pinyin": "Tā xǐhuān chànggē.",
+        "translation": {"vi": "Cô ấy thích hát.", "en": "She likes singing."}
+      }
+    ]
+  },
+  {
+    "id": "women",
+    "metadata": {
+      "id": "一05-06",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"我们\" (chúng tôi)",
+      "en": "Personal pronoun \"我们\" (we / us)",
+      "zh": "人称代词「我们」"
+    },
+    "structure": "我们 + 谓语",
+    "explanation": {
+      "vi": "\"我们\" là đại từ nhân xưng ngôi thứ nhất số nhiều, chỉ người nói và những người khác (có thể bao gồm hoặc không bao gồm người nghe tùy ngữ cảnh).",
+      "en": "\"我们\" is the first-person plural pronoun, referring to the speaker and others (may or may not include the listener depending on context).",
+      "zh": "「我们」是第一人称复数代词，指说话人和其他人（是否包含对方视语境而定）。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们去书店，你们去哪儿？",
+        "pinyin": "Wǒmen qù shūdiàn, nǐmen qù nǎr?",
+        "translation": {"vi": "Chúng tôi đi nhà sách, các bạn đi đâu?", "en": "We are going to the bookstore, where are you going?"}
+      },
+      {
+        "hanzi": "我们都是学生。",
+        "pinyin": "Wǒmen dōu shì xuésheng.",
+        "translation": {"vi": "Chúng tôi đều là học sinh.", "en": "We are all students."}
+      },
+      {
+        "hanzi": "我们明天去公园。",
+        "pinyin": "Wǒmen míngtiān qù gōngyuán.",
+        "translation": {"vi": "Ngày mai chúng tôi đi công viên.", "en": "We are going to the park tomorrow."}
+      }
+    ]
+  },
+  {
+    "id": "nimen",
+    "metadata": {
+      "id": "一05-07",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"你们\" (các bạn)",
+      "en": "Personal pronoun \"你们\" (you all)",
+      "zh": "人称代词「你们」"
+    },
+    "structure": "你们 + 谓语",
+    "explanation": {
+      "vi": "\"你们\" là đại từ nhân xưng ngôi thứ hai số nhiều, dùng để chỉ nhóm người đối thoại.",
+      "en": "\"你们\" is the second-person plural pronoun, used to address a group of listeners.",
+      "zh": "「你们」是第二人称复数代词，指对方群体。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们去书店，你们去哪儿？",
+        "pinyin": "Wǒmen qù shūdiàn, nǐmen qù nǎr?",
+        "translation": {"vi": "Chúng tôi đi nhà sách, các bạn đi đâu?", "en": "We are going to the bookstore, where are you going?"}
+      },
+      {
+        "hanzi": "你们都是学生吗？",
+        "pinyin": "Nǐmen dōu shì xuésheng ma?",
+        "translation": {"vi": "Các bạn đều là học sinh à?", "en": "Are you all students?"}
+      },
+      {
+        "hanzi": "你们喜欢什么运动？",
+        "pinyin": "Nǐmen xǐhuān shénme yùndòng?",
+        "translation": {"vi": "Các bạn thích môn thể thao nào?", "en": "What sports do you like?"}
+      }
+    ]
+  },
+  {
+    "id": "tamen",
+    "metadata": {
+      "id": "一05-08",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"他们\" (họ - nam/không rõ)",
+      "en": "Personal pronoun \"他们\" (they - male/mixed)",
+      "zh": "人称代词「他们」"
+    },
+    "structure": "他们 + 谓语",
+    "explanation": {
+      "vi": "\"他们\" là đại từ ngôi thứ ba số nhiều, chỉ nhóm người bao gồm nam hoặc hỗn hợp (không rõ giới tính).",
+      "en": "\"他们\" is the third-person plural pronoun for a group of males or mixed gender (unknown).",
+      "zh": "「他们」是第三人称复数代词，指包含男性或混合性别的群体。"
+    },
+    "examples": [
+      {
+        "hanzi": "他们是学生。",
+        "pinyin": "Tāmen shì xuésheng.",
+        "translation": {"vi": "Họ là học sinh.", "en": "They are students."}
+      },
+      {
+        "hanzi": "他们都在教室。",
+        "pinyin": "Tāmen dōu zài jiàoshì.",
+        "translation": {"vi": "Họ đều ở trong lớp học.", "en": "They are all in the classroom."}
+      },
+      {
+        "hanzi": "他们喜欢打球。",
+        "pinyin": "Tāmen xǐhuān dǎ qiú.",
+        "translation": {"vi": "Họ thích chơi bóng.", "en": "They like playing ball."}
+      }
+    ]
+  },
+  {
+    "id": "tamen_nu",
+    "metadata": {
+      "id": "一05-09",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "人称代词"
+    },
+    "title": {
+      "vi": "Đại từ nhân xưng \"她们\" (họ - nữ)",
+      "en": "Personal pronoun \"她们\" (they - female)",
+      "zh": "人称代词「她们」"
+    },
+    "structure": "她们 + 谓语",
+    "explanation": {
+      "vi": "\"她们\" là đại từ ngôi thứ ba số nhiều chỉ nhóm toàn nữ.",
+      "en": "\"她们\" is the third-person plural pronoun for a group of females.",
+      "zh": "「她们」是第三人称复数代词，指全女性群体。"
+    },
+    "examples": [
+      {
+        "hanzi": "她们是我的同学。",
+        "pinyin": "Tāmen shì wǒ de tóngxué.",
+        "translation": {"vi": "Họ là bạn học của tôi.", "en": "They are my classmates."}
+      },
+      {
+        "hanzi": "她们在唱歌。",
+        "pinyin": "Tāmen zài chànggē.",
+        "translation": {"vi": "Họ đang hát.", "en": "They are singing."}
+      },
+      {
+        "hanzi": "她们都是医生。",
+        "pinyin": "Tāmen dōu shì yīshēng.",
+        "translation": {"vi": "Họ đều là bác sĩ.", "en": "They are all doctors."}
+      }
+    ]
+  },
+  {
+    "id": "zhe",
+    "metadata": {
+      "id": "一06-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"这\" (này)",
+      "en": "Demonstrative pronoun \"这\" (this)",
+      "zh": "指示代词「这」"
+    },
+    "structure": "这 + (量词) + 名词 / 这 + 是 + ……",
+    "explanation": {
+      "vi": "\"这\" dùng để chỉ người/vật/sự việc ở gần người nói, tương đương \"này\", thường đứng trước danh từ hoặc kết hợp với \"是\".",
+      "en": "\"这\" points to something near the speaker, equivalent to \"this\". It often precedes a noun or combines with \"是\" (\"this is...\").",
+      "zh": "「这」指称距离说话人较近的人、事、物，常用于\"这是……\"句式。"
+    },
+    "examples": [
+      {
+        "hanzi": "这是谁的手机？",
+        "pinyin": "Zhè shì shéi de shǒujī?",
+        "translation": {"vi": "Đây là điện thoại của ai?", "en": "Whose phone is this?"}
+      },
+      {
+        "hanzi": "这本书很好。",
+        "pinyin": "Zhè běn shū hěn hǎo.",
+        "translation": {"vi": "Quyển sách này rất hay.", "en": "This book is very good."}
+      },
+      {
+        "hanzi": "我住这儿。",
+        "pinyin": "Wǒ zhù zhèr.",
+        "translation": {"vi": "Tôi ở đây.", "en": "I live here."}
+      }
+    ]
+  },
+  {
+    "id": "na_dem",
+    "metadata": {
+      "id": "一06-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"那\" (đó, kia)",
+      "en": "Demonstrative pronoun \"那\" (that)",
+      "zh": "指示代词「那」"
+    },
+    "structure": "那 + (量词) + 名词 / 那 + 是 + ……",
+    "explanation": {
+      "vi": "\"那\" chỉ người/vật ở xa người nói, tương đương \"đó/kia\". Đứng trước danh từ hoặc với \"是\".",
+      "en": "\"那\" points to something far from the speaker, equivalent to \"that\". It precedes a noun or combines with \"是\".",
+      "zh": "「那」指称较远的人、事、物，常用\"那是……\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "她喜欢那个书包。",
+        "pinyin": "Tā xǐhuān nàge shūbāo.",
+        "translation": {"vi": "Cô ấy thích cái cặp sách đó.", "en": "She likes that bag."}
+      },
+      {
+        "hanzi": "那是我的学校。",
+        "pinyin": "Nà shì wǒ de xuéxiào.",
+        "translation": {"vi": "Đó là trường của tôi.", "en": "That is my school."}
+      },
+      {
+        "hanzi": "那些人是谁？",
+        "pinyin": "Nàxiē rén shì shéi?",
+        "translation": {"vi": "Những người đó là ai?", "en": "Who are those people?"}
+      }
+    ]
+  },
+  {
+    "id": "zher",
+    "metadata": {
+      "id": "一06-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"这儿\" (ở đây)",
+      "en": "Demonstrative pronoun \"这儿\" (here)",
+      "zh": "指示代词「这儿」"
+    },
+    "structure": "这儿 + 谓语",
+    "explanation": {
+      "vi": "\"这儿\" chỉ địa điểm gần người nói, tương đương \"ở đây\". Thường làm trạng ngữ hoặc chủ ngữ.",
+      "en": "\"这儿\" refers to a place near the speaker, meaning \"here\". Often used as an adverbial or subject.",
+      "zh": "「这儿」指离说话人近的地方，意为\"这里\"。常作状语或主语。"
+    },
+    "examples": [
+      {
+        "hanzi": "这儿很好。",
+        "pinyin": "Zhèr hěn hǎo.",
+        "translation": {"vi": "Ở đây rất tốt.", "en": "It's nice here."}
+      },
+      {
+        "hanzi": "我在这儿等你。",
+        "pinyin": "Wǒ zài zhèr děng nǐ.",
+        "translation": {"vi": "Tôi đợi bạn ở đây.", "en": "I'll wait for you here."}
+      },
+      {
+        "hanzi": "这儿离学校很近。",
+        "pinyin": "Zhèr lí xuéxiào hěn jìn.",
+        "translation": {"vi": "Ở đây gần trường học.", "en": "It's very close to the school here."}
+      }
+    ]
+  },
+  {
+    "id": "nar_dem",
+    "metadata": {
+      "id": "一06-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"那儿\" (ở đó)",
+      "en": "Demonstrative pronoun \"那儿\" (there)",
+      "zh": "指示代词「那儿」"
+    },
+    "structure": "那儿 + 谓语",
+    "explanation": {
+      "vi": "\"那儿\" chỉ địa điểm xa người nói, nghĩa là \"ở đó\". Thường dùng với động từ chỉ vị trí.",
+      "en": "\"那儿\" refers to a place far from the speaker, meaning \"there\". Often used with location verbs.",
+      "zh": "「那儿」指离说话人远的地方，意为\"那里\"。常与方位动词连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "我去那儿学习。",
+        "pinyin": "Wǒ qù nàr xuéxí.",
+        "translation": {"vi": "Tôi đến đó học.", "en": "I go there to study."}
+      },
+      {
+        "hanzi": "他在那儿工作。",
+        "pinyin": "Tā zài nàr gōngzuò.",
+        "translation": {"vi": "Anh ấy làm việc ở đó.", "en": "He works there."}
+      },
+      {
+        "hanzi": "那儿有很多人。",
+        "pinyin": "Nàr yǒu hěnduō rén.",
+        "translation": {"vi": "Ở đó có nhiều người.", "en": "There are many people there."}
+      }
+    ]
+  },
+  {
+    "id": "zheli",
+    "metadata": {
+      "id": "一06-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"这里\" (ở đây)",
+      "en": "Demonstrative pronoun \"这里\" (here)",
+      "zh": "指示代词「这里」"
+    },
+    "structure": "这里 + 谓语",
+    "explanation": {
+      "vi": "\"这里\" tương tự \"这儿\" nhưng trang trọng hơn, chỉ địa điểm gần.",
+      "en": "\"这里\" is similar to \"这儿\" but more formal, referring to a near place.",
+      "zh": "「这里」与「这儿」同义，更正式，指近处。"
+    },
+    "examples": [
+      {
+        "hanzi": "你坐这里，弟弟坐那里。",
+        "pinyin": "Nǐ zuò zhèlǐ, dìdi zuò nàlǐ.",
+        "translation": {"vi": "Bạn ngồi đây, em trai ngồi đó.", "en": "You sit here, younger brother sits there."}
+      },
+      {
+        "hanzi": "这里很安静。",
+        "pinyin": "Zhèlǐ hěn ānjìng.",
+        "translation": {"vi": "Ở đây rất yên tĩnh.", "en": "It's quiet here."}
+      },
+      {
+        "hanzi": "我住在这里。",
+        "pinyin": "Wǒ zhù zài zhèlǐ.",
+        "translation": {"vi": "Tôi sống ở đây.", "en": "I live here."}
+      }
+    ]
+  },
+  {
+    "id": "nali_dem",
+    "metadata": {
+      "id": "一06-06",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"那里\" (ở đó)",
+      "en": "Demonstrative pronoun \"那里\" (there)",
+      "zh": "指示代词「那里」"
+    },
+    "structure": "那里 + 谓语",
+    "explanation": {
+      "vi": "\"那里\" tương tự \"那儿\" nhưng trang trọng hơn, chỉ địa điểm xa.",
+      "en": "\"那里\" is similar to \"那儿\" but more formal, referring to a distant place.",
+      "zh": "「那里」与「那儿」同义，更正式，指远处。"
+    },
+    "examples": [
+      {
+        "hanzi": "你坐这里，弟弟坐那里。",
+        "pinyin": "Nǐ zuò zhèlǐ, dìdi zuò nàlǐ.",
+        "translation": {"vi": "Bạn ngồi đây, em trai ngồi đó.", "en": "You sit here, younger brother sits there."}
+      },
+      {
+        "hanzi": "那里有一家商店。",
+        "pinyin": "Nàlǐ yǒu yī jiā shāngdiàn.",
+        "translation": {"vi": "Ở đó có một cửa hàng.", "en": "There is a shop there."}
+      },
+      {
+        "hanzi": "我去过那里。",
+        "pinyin": "Wǒ qùguo nàlǐ.",
+        "translation": {"vi": "Tôi đã đến đó.", "en": "I have been there."}
+      }
+    ]
+  },
+  {
+    "id": "zhexie",
+    "metadata": {
+      "id": "一06-07",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"这些\" (những cái này)",
+      "en": "Demonstrative pronoun \"这些\" (these)",
+      "zh": "指示代词「这些」"
+    },
+    "structure": "这些 + 名词",
+    "explanation": {
+      "vi": "\"这些\" là dạng số nhiều của \"这\", chỉ nhiều người/vật ở gần.",
+      "en": "\"这些\" is the plural of \"这\", referring to multiple things/persons near the speaker.",
+      "zh": "「这些」是「这」的复数，指离说话人近的多个对象。"
+    },
+    "examples": [
+      {
+        "hanzi": "这些书很新。",
+        "pinyin": "Zhèxiē shū hěn xīn.",
+        "translation": {"vi": "Những quyển sách này rất mới.", "en": "These books are very new."}
+      },
+      {
+        "hanzi": "这些都是我的。",
+        "pinyin": "Zhèxiē dōu shì wǒ de.",
+        "translation": {"vi": "Những cái này đều là của tôi.", "en": "These are all mine."}
+      },
+      {
+        "hanzi": "这些水果好吃。",
+        "pinyin": "Zhèxiē shuǐguǒ hǎochī.",
+        "translation": {"vi": "Những loại trái cây này ngon.", "en": "These fruits are delicious."}
+      }
+    ]
+  },
+  {
+    "id": "naxie_dem",
+    "metadata": {
+      "id": "一06-08",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"那些\" (những cái đó)",
+      "en": "Demonstrative pronoun \"那些\" (those)",
+      "zh": "指示代词「那些」"
+    },
+    "structure": "那些 + 名词",
+    "explanation": {
+      "vi": "\"那些\" là dạng số nhiều của \"那\", chỉ nhiều người/vật ở xa.",
+      "en": "\"那些\" is the plural of \"那\", referring to multiple things/persons far away.",
+      "zh": "「那些」是「那」的复数，指离说话人远的多个对象。"
+    },
+    "examples": [
+      {
+        "hanzi": "那些东西都很贵。",
+        "pinyin": "Nàxiē dōngxi dōu hěn guì.",
+        "translation": {"vi": "Những thứ đó đều rất đắt.", "en": "Those things are all expensive."}
+      },
+      {
+        "hanzi": "那些是我的朋友。",
+        "pinyin": "Nàxiē shì wǒ de péngyou.",
+        "translation": {"vi": "Những người đó là bạn của tôi.", "en": "Those are my friends."}
+      },
+      {
+        "hanzi": "那些书我已经看过了。",
+        "pinyin": "Nàxiē shū wǒ yǐjīng kànguo le.",
+        "translation": {"vi": "Tôi đã đọc những quyển sách đó rồi.", "en": "I have read those books."}
+      }
+    ]
+  },
+  {
+    "id": "biede",
+    "metadata": {
+      "id": "一06-09",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"别的\" (cái khác)",
+      "en": "Demonstrative pronoun \"别的\" (other / else)",
+      "zh": "指示代词「别的」"
+    },
+    "structure": "别的 + 名词",
+    "explanation": {
+      "vi": "\"别的\" dùng để chỉ các đối tượng khác ngoài đối tượng đã đề cập, thường đi trước danh từ.",
+      "en": "\"别的\" is used to refer to other things besides those already mentioned, usually preceding a noun.",
+      "zh": "「别的」指除已提及外的其他事物，常放在名词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "你还要别的东西吗？",
+        "pinyin": "Nǐ hái yào bié de dōngxi ma?",
+        "translation": {"vi": "Bạn còn muốn thứ khác không?", "en": "Do you want anything else?"}
+      },
+      {
+        "hanzi": "别的学生都来了。",
+        "pinyin": "Bié de xuésheng dōu lái le.",
+        "translation": {"vi": "Những học sinh khác đều đã đến.", "en": "The other students have all arrived."}
+      },
+      {
+        "hanzi": "我喜欢这个，不喜欢别的。",
+        "pinyin": "Wǒ xǐhuān zhège, bù xǐhuān bié de.",
+        "translation": {"vi": "Tôi thích cái này, không thích cái khác.", "en": "I like this one, not the others."}
+      }
+    ]
+  },
+  {
+    "id": "youde",
+    "metadata": {
+      "id": "一06-10",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.3", "label": "代词"}
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ thị \"有的\" (có một số)",
+      "en": "Demonstrative pronoun \"有的\" (some)",
+      "zh": "指示代词「有的」"
+    },
+    "structure": "有的 + 名词 / 有的……，有的……",
+    "explanation": {
+      "vi": "\"有的\" chỉ một bộ phận trong nhóm, thường dùng trong cấu trúc \"有的……，有的……\" để phân chia.",
+      "en": "\"有的\" indicates a part of a group, often used in the structure \"有的…，有的…\" to contrast subgroups.",
+      "zh": "「有的」指群体中的一部分，常用\"有的……，有的……\"结构表示对比。"
+    },
+    "examples": [
+      {
+        "hanzi": "有的同学在休息，有的同学在看书。",
+        "pinyin": "Yǒude tóngxué zài xiūxi, yǒude tóngxué zài kànshū.",
+        "translation": {"vi": "Có một số học sinh đang nghỉ, có một số đang đọc sách.", "en": "Some students are resting, some are reading."}
+      },
+      {
+        "hanzi": "有的人喜欢喝茶。",
+        "pinyin": "Yǒude rén xǐhuān hē chá.",
+        "translation": {"vi": "Có một số người thích uống trà.", "en": "Some people like drinking tea."}
+      },
+      {
+        "hanzi": "这些水果有的很甜，有的不甜。",
+        "pinyin": "Zhèxiē shuǐguǒ yǒude hěn tián, yǒude bù tián.",
+        "translation": {"vi": "Những trái cây này có quả ngọt, có quả không ngọt.", "en": "Some of these fruits are sweet, some are not."}
+      }
+    ]
+  },
+  {
+    "id": "shuci-dufa",
+    "metadata": {
+      "id": "一07",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.4", "label": "数词"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cách đọc số từ trong tiếng Trung",
+      "en": "How to read numerals in Chinese",
+      "zh": "数词读法"
+    },
+    "structure": "二 vs 两 ； X百X十X（零）； 整数 + 半",
+    "explanation": {
+      "vi": "Số từ tiếng Trung có vài quy tắc cần lưu ý: (1) dùng \"二\" khi đếm/liệt kê số, còn \"两\" khi đứng trước lượng từ hoặc danh từ; (2) khi số ở giữa một số nhiều chữ số là 0 thì đọc là \"零\"; (3) \"半\" nghĩa là \"rưỡi/nửa\", thường đặt sau số nguyên.",
+      "en": "A few rules govern reading Chinese numerals: (1) use \"二\" for counting/listing, but \"两\" before a measure word or noun; (2) when a middle digit in a multi-digit number is zero, read it as \"零\"; (3) \"半\" means \"half\", usually placed after a whole number.",
+      "zh": "汉语数词读法要点：一是\"二\"用于计数，\"两\"用于量词或名词前；二是多位数中间有零时要读\"零\"；三是\"半\"表示一半，常放在整数之后。"
+    },
+    "examples": [
+      {
+        "hanzi": "两个人",
+        "pinyin": "Liǎng gè rén",
+        "translation": {"vi": "hai người", "en": "two people"}
+      },
+      {
+        "hanzi": "二百零六",
+        "pinyin": "Èr bǎi líng liù",
+        "translation": {"vi": "hai trăm lẻ sáu", "en": "two hundred and six"}
+      },
+      {
+        "hanzi": "八点半",
+        "pinyin": "Bā diǎn bàn",
+        "translation": {"vi": "tám giờ rưỡi", "en": "half past eight"}
+      }
+    ]
+  },
+  {
+    "id": "bei_liang",
+    "metadata": {
+      "id": "一08-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"杯\" (cốc, ly)",
+      "en": "Measure word \"杯\" (cup/glass)",
+      "zh": "名量词「杯」"
+    },
+    "structure": "数词 + 杯 + 名词",
+    "explanation": {
+      "vi": "\"杯\" là lượng từ dùng cho đồ uống đựng trong cốc/ly, đặt giữa số từ và danh từ theo cấu trúc \"số + 杯 + danh từ\".",
+      "en": "\"杯\" is a measure word for drinks served in a cup or glass, used between a number and a noun: \"number + 杯 + noun\".",
+      "zh": "「杯」是量词，用于以杯盛装的饮品，结构为\"数词+杯+名词\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "两杯牛奶",
+        "pinyin": "Liǎng bēi niúnǎi",
+        "translation": {"vi": "hai cốc sữa", "en": "two glasses of milk"}
+      },
+      {
+        "hanzi": "我要一杯茶。",
+        "pinyin": "Wǒ yào yī bēi chá.",
+        "translation": {"vi": "Tôi muốn một tách trà.", "en": "I'd like a cup of tea."}
+      },
+      {
+        "hanzi": "三杯咖啡",
+        "pinyin": "Sān bēi kāfēi",
+        "translation": {"vi": "ba cốc cà phê", "en": "three cups of coffee"}
+      }
+    ]
+  },
+  {
+    "id": "ben",
+    "metadata": {
+      "id": "一08-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"本\" (quyển, cuốn)",
+      "en": "Measure word \"本\" (for books, volumes)",
+      "zh": "名量词「本」"
+    },
+    "structure": "数词 + 本 + 名词",
+    "explanation": {
+      "vi": "\"本\" là lượng từ dùng cho sách, vở, tạp chí, v.v. Cấu trúc: số + 本 + danh từ.",
+      "en": "\"本\" is a measure word for books, notebooks, magazines, etc. Structure: number + 本 + noun.",
+      "zh": "「本」用于书籍、本子、杂志等，结构为\"数词+本+名词\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "三本书",
+        "pinyin": "Sān běn shū",
+        "translation": {"vi": "ba quyển sách", "en": "three books"}
+      },
+      {
+        "hanzi": "一本字典",
+        "pinyin": "Yī běn zìdiǎn",
+        "translation": {"vi": "một cuốn từ điển", "en": "a dictionary"}
+      },
+      {
+        "hanzi": "我有五本本子。",
+        "pinyin": "Wǒ yǒu wǔ běn běnzi.",
+        "translation": {"vi": "Tôi có năm quyển vở.", "en": "I have five notebooks."}
+      }
+    ]
+  },
+  {
+    "id": "ge",
+    "metadata": {
+      "id": "一08-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"个\" (cái, con, người - lượng từ phổ dụng)",
+      "en": "Measure word \"个\" (generic measure word)",
+      "zh": "名量词「个」"
+    },
+    "structure": "数词 + 个 + 名词",
+    "explanation": {
+      "vi": "\"个\" là lượng từ phổ dụng nhất, có thể dùng cho người và nhiều vật khác khi không có lượng từ chuyên dụng.",
+      "en": "\"个\" is the most common measure word, used for people and many objects when no specific measure word applies.",
+      "zh": "「个」是最常用的量词，可用于人及许多没有专用量词的事物。"
+    },
+    "examples": [
+      {
+        "hanzi": "四个学生",
+        "pinyin": "Sì gè xuésheng",
+        "translation": {"vi": "bốn học sinh", "en": "four students"}
+      },
+      {
+        "hanzi": "一个苹果",
+        "pinyin": "Yī gè píngguǒ",
+        "translation": {"vi": "một quả táo", "en": "an apple"}
+      },
+      {
+        "hanzi": "这个房子很大。",
+        "pinyin": "Zhège fángzi hěn dà.",
+        "translation": {"vi": "Căn nhà này rất rộng.", "en": "This house is very big."}
+      }
+    ]
+  },
+  {
+    "id": "jia",
+    "metadata": {
+      "id": "一08-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"家\" (nhà - cho cửa hàng, công ty, trường học)",
+      "en": "Measure word \"家\" (for shops, companies, schools)",
+      "zh": "名量词「家」"
+    },
+    "structure": "数词 + 家 + 名词",
+    "explanation": {
+      "vi": "\"家\" dùng cho các địa điểm kinh doanh hoặc tổ chức như cửa hàng, công ty, trường học, v.v.",
+      "en": "\"家\" is used for businesses or organizations such as shops, companies, schools, etc.",
+      "zh": "「家」用于商店、公司、学校等场所。"
+    },
+    "examples": [
+      {
+        "hanzi": "五家商店",
+        "pinyin": "Wǔ jiā shāngdiàn",
+        "translation": {"vi": "năm cửa hàng", "en": "five shops"}
+      },
+      {
+        "hanzi": "一家超市",
+        "pinyin": "Yī jiā chāoshì",
+        "translation": {"vi": "một siêu thị", "en": "a supermarket"}
+      },
+      {
+        "hanzi": "这有三家公司。",
+        "pinyin": "Zhè yǒu sān jiā gōngsī.",
+        "translation": {"vi": "Ở đây có ba công ty.", "en": "There are three companies here."}
+      }
+    ]
+  },
+  {
+    "id": "jian",
+    "metadata": {
+      "id": "一08-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"间\" (căn, phòng)",
+      "en": "Measure word \"间\" (for rooms)",
+      "zh": "名量词「间」"
+    },
+    "structure": "数词 + 间 + 名词",
+    "explanation": {
+      "vi": "\"间\" dùng cho các phòng, gian phòng, thường là không gian kín trong nhà.",
+      "en": "\"间\" is used for rooms, usually enclosed spaces within a building.",
+      "zh": "「间」用于房间，通常指建筑内的封闭空间。"
+    },
+    "examples": [
+      {
+        "hanzi": "六间房子",
+        "pinyin": "Liù jiān fángzi",
+        "translation": {"vi": "sáu căn nhà", "en": "six houses"}
+      },
+      {
+        "hanzi": "一间教室",
+        "pinyin": "Yī jiān jiàoshì",
+        "translation": {"vi": "một phòng học", "en": "a classroom"}
+      },
+      {
+        "hanzi": "两间卧室",
+        "pinyin": "Liǎng jiān wòshì",
+        "translation": {"vi": "hai phòng ngủ", "en": "two bedrooms"}
+      }
+    ]
+  },
+  {
+    "id": "kou",
+    "metadata": {
+      "id": "一08-06",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"口\" (người - cho thành viên gia đình)",
+      "en": "Measure word \"口\" (for family members)",
+      "zh": "名量词「口」"
+    },
+    "structure": "数词 + 口 + 人",
+    "explanation": {
+      "vi": "\"口\" dùng để đếm số người trong gia đình, thường đi với \"人\".",
+      "en": "\"口\" is used to count family members, usually with \"人\".",
+      "zh": "「口」用于计算家庭成员数量，常与「人」搭配。"
+    },
+    "examples": [
+      {
+        "hanzi": "三口人",
+        "pinyin": "Sān kǒu rén",
+        "translation": {"vi": "ba người (trong gia đình)", "en": "three people (in a family)"}
+      },
+      {
+        "hanzi": "你家有几口人？",
+        "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+        "translation": {"vi": "Gia đình bạn có mấy người?", "en": "How many people are in your family?"}
+      },
+      {
+        "hanzi": "我们家四口人。",
+        "pinyin": "Wǒmen jiā sì kǒu rén.",
+        "translation": {"vi": "Gia đình chúng tôi có bốn người.", "en": "There are four people in our family."}
+      }
+    ]
+  },
+  {
+    "id": "kuai",
+    "metadata": {
+      "id": "一08-07",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"块\" (miếng, cục; đồng tiền)",
+      "en": "Measure word \"块\" (piece, lump; yuan)",
+      "zh": "名量词「块」"
+    },
+    "structure": "数词 + 块 + 名词",
+    "explanation": {
+      "vi": "\"块\" dùng cho các vật dạng khối, miếng, hoặc dùng làm đơn vị tiền tệ (块 = đồng nhân dân tệ).",
+      "en": "\"块\" is used for lump-shaped objects or pieces, and also as a unit for money (yuan).",
+      "zh": "「块」用于块状物或片状物，也用作货币单位（元）。"
+    },
+    "examples": [
+      {
+        "hanzi": "七块面包",
+        "pinyin": "Qī kuài miànbāo",
+        "translation": {"vi": "bảy ổ bánh mì", "en": "seven loaves of bread"}
+      },
+      {
+        "hanzi": "一块钱",
+        "pinyin": "Yī kuài qián",
+        "translation": {"vi": "một đồng (tiền)", "en": "one yuan"}
+      },
+      {
+        "hanzi": "十块饼干",
+        "pinyin": "Shí kuài bǐnggān",
+        "translation": {"vi": "mười miếng bánh quy", "en": "ten pieces of cookie"}
+      }
+    ]
+  },
+  {
+    "id": "ye",
+    "metadata": {
+      "id": "一08-08",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.5", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"页\" (trang)",
+      "en": "Measure word \"页\" (page)",
+      "zh": "名量词「页」"
+    },
+    "structure": "数词 + 页 + (名词)",
+    "explanation": {
+      "vi": "\"页\" dùng để đếm số trang sách hoặc tài liệu. Thường đi với \"书\" hoặc \"纸\".",
+      "en": "\"页\" is used to count pages of a book or document. Often used with \"书\" or \"纸\".",
+      "zh": "「页」用于计量书页或纸张的数量。常与「书」、「纸」搭配。"
+    },
+    "examples": [
+      {
+        "hanzi": "一百页",
+        "pinyin": "Yībǎi yè",
+        "translation": {"vi": "một trăm trang", "en": "one hundred pages"}
+      },
+      {
+        "hanzi": "这本书有三百页。",
+        "pinyin": "Zhè běn shū yǒu sānbǎi yè.",
+        "translation": {"vi": "Quyển sách này có ba trăm trang.", "en": "This book has three hundred pages."}
+      },
+      {
+        "hanzi": "读了十页。",
+        "pinyin": "Dú le shí yè.",
+        "translation": {"vi": "Đã đọc mười trang.", "en": "Read ten pages."}
+      }
+    ]
+  },
+  {
+    "id": "feichang",
+    "metadata": {
+      "id": "一09-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"非常\" (rất, cực kỳ)",
+      "en": "Degree adverb \"非常\" (very, extremely)",
+      "zh": "程度副词「非常」"
+    },
+    "structure": "非常 + 形容词/动词",
+    "explanation": {
+      "vi": "\"非常\" biểu thị mức độ cao, tương đương \"rất\". Đứng trước tính từ hoặc động từ tình thái. Có thể dùng trong câu khẳng định và phủ định (không非常).",
+      "en": "\"非常\" indicates a high degree, meaning \"very\" or \"extremely\". It precedes adjectives or modal verbs. Can be used in affirmative and negative sentences.",
+      "zh": "「非常」表示程度很高，意为\"很、极其\"。放在形容词或情态动词前。可用于肯定句和否定句。"
+    },
+    "examples": [
+      {
+        "hanzi": "我非常喜欢这本书。",
+        "pinyin": "Wǒ fēicháng xǐhuān zhè běn shū.",
+        "translation": {"vi": "Tôi rất thích cuốn sách này.", "en": "I really like this book."}
+      },
+      {
+        "hanzi": "这个菜非常好吃。",
+        "pinyin": "Zhège cài fēicháng hǎochī.",
+        "translation": {"vi": "Món này rất ngon.", "en": "This dish is very delicious."}
+      },
+      {
+        "hanzi": "今天非常冷。",
+        "pinyin": "Jīntiān fēicháng lěng.",
+        "translation": {"vi": "Hôm nay rất lạnh.", "en": "It's very cold today."}
+      },
+      {
+        "hanzi": "他非常努力。",
+        "pinyin": "Tā fēicháng nǔlì.",
+        "translation": {"vi": "Anh ấy rất chăm chỉ.", "en": "He works very hard."}
+      }
+    ]
+  },
+  {
+    "id": "hen",
+    "metadata": {
+      "id": "一09-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"很\" (rất)",
+      "en": "Degree adverb \"很\" (very)",
+      "zh": "程度副词「很」"
+    },
+    "structure": "很 + 形容词",
+    "explanation": {
+      "vi": "\"很\" là phó từ chỉ mức độ phổ biến nhất, thường đứng trước tính từ để tạo câu miêu tả. Trong câu khẳng định, nó thường không có nghĩa mạnh như \"非常\", chỉ là đánh dấu tính từ.",
+      "en": "\"很\" is the most common degree adverb, usually placed before adjectives in descriptive sentences. In affirmative sentences, it often serves as a mild intensifier or marker.",
+      "zh": "「很」是最常用的程度副词，常放在形容词前构成描写句。在肯定句中，有时不强调程度，仅起连接作用。"
+    },
+    "examples": [
+      {
+        "hanzi": "那个本子很好看。",
+        "pinyin": "Nàge běnzi hěn hǎokàn.",
+        "translation": {"vi": "Quyển vở đó rất đẹp.", "en": "That notebook is very nice."}
+      },
+      {
+        "hanzi": "他很高。",
+        "pinyin": "Tā hěn gāo.",
+        "translation": {"vi": "Anh ấy rất cao.", "en": "He is tall."}
+      },
+      {
+        "hanzi": "这里很安静。",
+        "pinyin": "Zhèlǐ hěn ānjìng.",
+        "translation": {"vi": "Ở đây rất yên tĩnh.", "en": "It's quiet here."}
+      },
+      {
+        "hanzi": "我很忙。",
+        "pinyin": "Wǒ hěn máng.",
+        "translation": {"vi": "Tôi rất bận.", "en": "I am very busy."}
+      }
+    ]
+  },
+  {
+    "id": "tai",
+    "metadata": {
+      "id": "一09-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"太\" (quá)",
+      "en": "Degree adverb \"太\" (too, extremely)",
+      "zh": "程度副词「太」"
+    },
+    "structure": "太 + 形容词 + (了)",
+    "explanation": {
+      "vi": "\"太\" biểu thị mức độ vượt quá mong đợi, thường mang nghĩa \"quá\". Thường đi với \"了\" ở cuối câu để nhấn mạnh.",
+      "en": "\"太\" indicates an excessive degree, often meaning \"too\" or \"extremely\". It is often used with \"了\" at the end for emphasis.",
+      "zh": "「太」表示程度过高，常带有\"过分\"或\"很\"的强调意味，常与「了」连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "这里太冷了。",
+        "pinyin": "Zhèlǐ tài lěng le.",
+        "translation": {"vi": "Ở đây quá lạnh.", "en": "It's too cold here."}
+      },
+      {
+        "hanzi": "你太好了！",
+        "pinyin": "Nǐ tài hǎo le!",
+        "translation": {"vi": "Bạn thật tốt quá!", "en": "You are so kind!"}
+      },
+      {
+        "hanzi": "这个菜太辣了。",
+        "pinyin": "Zhège cài tài là le.",
+        "translation": {"vi": "Món này quá cay.", "en": "This dish is too spicy."}
+      }
+    ]
+  },
+  {
+    "id": "zhen",
+    "metadata": {
+      "id": "一09-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"真\" (thật, rất)",
+      "en": "Degree adverb \"真\" (really, truly)",
+      "zh": "程度副词「真」"
+    },
+    "structure": "真 + 形容词",
+    "explanation": {
+      "vi": "\"真\" biểu thị sự khẳng định mạnh mẽ, tương đương \"thật là\", thường dùng trong câu cảm thán.",
+      "en": "\"真\" expresses strong affirmation, meaning \"really\" or \"truly\", often used in exclamatory sentences.",
+      "zh": "「真」表示确实、的确，常用于感叹句中，强调程度高。"
+    },
+    "examples": [
+      {
+        "hanzi": "你的房间真干净！",
+        "pinyin": "Nǐ de fángjiān zhēn gānjìng!",
+        "translation": {"vi": "Phòng của bạn thật sạch sẽ!", "en": "Your room is really clean!"}
+      },
+      {
+        "hanzi": "他真帅！",
+        "pinyin": "Tā zhēn shuài!",
+        "translation": {"vi": "Anh ấy thật đẹp trai!", "en": "He is really handsome!"}
+      },
+      {
+        "hanzi": "今天真热！",
+        "pinyin": "Jīntiān zhēn rè!",
+        "translation": {"vi": "Hôm nay thật nóng!", "en": "It's really hot today!"}
+      }
+    ]
+  },
+  {
+    "id": "zui",
+    "metadata": {
+      "id": "一09-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"最\" (nhất)",
+      "en": "Degree adverb \"最\" (most, -est)",
+      "zh": "程度副词「最」"
+    },
+    "structure": "最 + 形容词",
+    "explanation": {
+      "vi": "\"最\" biểu thị mức độ cao nhất trong một nhóm, tương đương \"nhất\". Đứng trước tính từ.",
+      "en": "\"最\" indicates the highest degree within a group, meaning \"most\" or \"-est\". It precedes adjectives.",
+      "zh": "「最」表示在某个范围内程度最高，相当于\"最\"。放在形容词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "我最喜欢打球。",
+        "pinyin": "Wǒ zuì xǐhuān dǎ qiú.",
+        "translation": {"vi": "Tôi thích chơi bóng nhất.", "en": "I like playing ball the most."}
+      },
+      {
+        "hanzi": "这是最贵的。",
+        "pinyin": "Zhè shì zuì guì de.",
+        "translation": {"vi": "Đây là cái đắt nhất.", "en": "This is the most expensive one."}
+      },
+      {
+        "hanzi": "她最漂亮。",
+        "pinyin": "Tā zuì piàoliang.",
+        "translation": {"vi": "Cô ấy đẹp nhất.", "en": "She is the prettiest."}
+      }
+    ]
+  },
+  {
+    "id": "dou",
+    "metadata": {
+      "id": "一10-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "范围、协同副词"
+    },
+    "title": {
+      "vi": "Phó từ phạm vi \"都\" (đều)",
+      "en": "Scope adverb \"都\" (all, both)",
+      "zh": "范围副词「都」"
+    },
+    "structure": "都 + 动词/形容词",
+    "explanation": {
+      "vi": "\"都\" chỉ tất cả các thành phần trong một nhóm, thường đứng trước động từ hoặc tính từ. Dùng để khẳng định tính toàn thể.",
+      "en": "\"都\" indicates all members of a group, usually placed before verbs or adjectives. It affirms totality.",
+      "zh": "「都」表示所指范围内的全部，通常放在动词或形容词前，强调整体。"
+    },
+    "examples": [
+      {
+        "hanzi": "同学们都很认真。",
+        "pinyin": "Tóngxuémen dōu hěn rènzhēn.",
+        "translation": {"vi": "Các bạn học sinh đều rất chăm chỉ.", "en": "The students are all very serious."}
+      },
+      {
+        "hanzi": "我们都在学校。",
+        "pinyin": "Wǒmen dōu zài xuéxiào.",
+        "translation": {"vi": "Chúng tôi đều ở trường.", "en": "We are all at school."}
+      },
+      {
+        "hanzi": "他们都会中文。",
+        "pinyin": "Tāmen dōu huì zhōngwén.",
+        "translation": {"vi": "Họ đều biết tiếng Trung.", "en": "They all know Chinese."}
+      },
+      {
+        "hanzi": "这两本书都很好。",
+        "pinyin": "Zhè liǎng běn shū dōu hěn hǎo.",
+        "translation": {"vi": "Hai quyển sách này đều hay.", "en": "Both of these books are good."}
+      }
+    ]
+  },
+  {
+    "id": "yikuair",
+    "metadata": {
+      "id": "一10-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "范围、协同副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ cùng nhau \"一块儿\" (cùng nhau)",
+      "en": "Adverb of cooperation \"一块儿\" (together)",
+      "zh": "协同副词「一块儿」"
+    },
+    "structure": "一块儿 + 动词",
+    "explanation": {
+      "vi": "\"一块儿\" chỉ hành động cùng thực hiện với nhau, tương đương \"cùng\". Đặt trước động từ.",
+      "en": "\"一块儿\" indicates doing something together, equivalent to \"together\". Placed before a verb.",
+      "zh": "「一块儿」表示共同做某事，相当于\"一起\"。放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们常一块儿玩儿。",
+        "pinyin": "Wǒmen cháng yīkuàir wánr.",
+        "translation": {"vi": "Chúng tôi thường chơi cùng nhau.", "en": "We often play together."}
+      },
+      {
+        "hanzi": "一块儿去吃饭吧。",
+        "pinyin": "Yīkuàir qù chīfàn ba.",
+        "translation": {"vi": "Cùng đi ăn cơm đi.", "en": "Let's go eat together."}
+      },
+      {
+        "hanzi": "他们一块儿学习。",
+        "pinyin": "Tāmen yīkuàir xuéxí.",
+        "translation": {"vi": "Họ cùng học.", "en": "They study together."}
+      }
+    ]
+  },
+  {
+    "id": "yiqi",
+    "metadata": {
+      "id": "一10-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "范围、协同副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ cùng nhau \"一起\" (cùng nhau)",
+      "en": "Adverb of cooperation \"一起\" (together)",
+      "zh": "协同副词「一起」"
+    },
+    "structure": "一起 + 动词",
+    "explanation": {
+      "vi": "\"一起\" tương tự \"一块儿\", chỉ hành động chung. Đặt trước động từ.",
+      "en": "\"一起\" is similar to \"一块儿\", indicating joint action. Placed before a verb.",
+      "zh": "「一起」与「一块儿」同义，表示共同做某事，放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "明天他们一起去图书馆。",
+        "pinyin": "Míngtiān tāmen yīqǐ qù túshūguǎn.",
+        "translation": {"vi": "Ngày mai họ cùng đi thư viện.", "en": "They will go to the library together tomorrow."}
+      },
+      {
+        "hanzi": "我们一起走吧。",
+        "pinyin": "Wǒmen yīqǐ zǒu ba.",
+        "translation": {"vi": "Chúng ta cùng đi thôi.", "en": "Let's go together."}
+      },
+      {
+        "hanzi": "他们一起看电影。",
+        "pinyin": "Tāmen yīqǐ kàn diànyǐng.",
+        "translation": {"vi": "Họ cùng xem phim.", "en": "They watch movies together."}
+      }
+    ]
+  },
+  {
+    "id": "mashang",
+    "metadata": {
+      "id": "一11-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ thời gian \"马上\" (ngay lập tức)",
+      "en": "Time adverb \"马上\" (immediately, right away)",
+      "zh": "时间副词「马上」"
+    },
+    "structure": "马上 + 动词",
+    "explanation": {
+      "vi": "\"马上\" chỉ hành động xảy ra ngay tức thì, tương đương \"ngay\". Đặt trước động từ.",
+      "en": "\"马上\" indicates immediate action, meaning \"right away\". Placed before a verb.",
+      "zh": "「马上」表示动作即将或立刻发生，意为\"立刻\"。放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "医生马上来。",
+        "pinyin": "Yīshēng mǎshàng lái.",
+        "translation": {"vi": "Bác sĩ sẽ đến ngay.", "en": "The doctor is coming right away."}
+      },
+      {
+        "hanzi": "我马上到。",
+        "pinyin": "Wǒ mǎshàng dào.",
+        "translation": {"vi": "Tôi sẽ đến ngay.", "en": "I'll be there right away."}
+      },
+      {
+        "hanzi": "电影马上开始了。",
+        "pinyin": "Diànyǐng mǎshàng kāishǐ le.",
+        "translation": {"vi": "Phim sắp bắt đầu.", "en": "The movie is about to start."}
+      }
+    ]
+  },
+  {
+    "id": "xian",
+    "metadata": {
+      "id": "一11-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ thời gian \"先\" (trước tiên)",
+      "en": "Time adverb \"先\" (first, beforehand)",
+      "zh": "时间副词「先」"
+    },
+    "structure": "先 + 动词",
+    "explanation": {
+      "vi": "\"先\" biểu thị hành động xảy ra trước, dùng để chỉ thứ tự. Thường đứng trước động từ.",
+      "en": "\"先\" indicates that an action happens first, used to show sequence. Usually before a verb.",
+      "zh": "「先」表示动作在前，用于排列顺序。常放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "老师，我先说吧。",
+        "pinyin": "Lǎoshī, wǒ xiān shuō ba.",
+        "translation": {"vi": "Thưa cô, tôi nói trước nhé.", "en": "Teacher, let me speak first."}
+      },
+      {
+        "hanzi": "先吃饭，再看电视。",
+        "pinyin": "Xiān chīfàn, zài kàn diànshì.",
+        "translation": {"vi": "Ăn cơm trước, rồi xem TV.", "en": "Eat first, then watch TV."}
+      },
+      {
+        "hanzi": "我先走了。",
+        "pinyin": "Wǒ xiān zǒu le.",
+        "translation": {"vi": "Tôi đi trước đây.", "en": "I'll go first."}
+      }
+    ]
+  },
+  {
+    "id": "youshi",
+    "metadata": {
+      "id": "一11-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ thời gian \"有时\" (thỉnh thoảng)",
+      "en": "Time adverb \"有时\" (sometimes)",
+      "zh": "时间副词「有时」"
+    },
+    "structure": "有时 + 动词",
+    "explanation": {
+      "vi": "\"有时\" chỉ hành động xảy ra không thường xuyên, thỉnh thoảng. Đứng trước động từ.",
+      "en": "\"有时\" indicates occasional action, meaning \"sometimes\". Placed before a verb.",
+      "zh": "「有时」表示有时发生，指频率不高。放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他有时晚上上课。",
+        "pinyin": "Tā yǒushí wǎnshang shàngkè.",
+        "translation": {"vi": "Anh ấy thỉnh thoảng học buổi tối.", "en": "He sometimes has classes in the evening."}
+      },
+      {
+        "hanzi": "我有时去公园。",
+        "pinyin": "Wǒ yǒushí qù gōngyuán.",
+        "translation": {"vi": "Tôi thỉnh thoảng đi công viên.", "en": "I sometimes go to the park."}
+      },
+      {
+        "hanzi": "有时下雨。",
+        "pinyin": "Yǒushí xià yǔ.",
+        "translation": {"vi": "Thỉnh thoảng mưa.", "en": "Sometimes it rains."}
+      }
+    ]
+  },
+  {
+    "id": "zai_time",
+    "metadata": {
+      "id": "一11-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ thời gian \"在\" (đang - diễn tả tiếp diễn)",
+      "en": "Time adverb \"在\" (indicating progressive action)",
+      "zh": "时间副词「在」"
+    },
+    "structure": "在 + 动词",
+    "explanation": {
+      "vi": "\"在\" dùng trước động từ để diễn tả hành động đang diễn ra, tương đương \"đang\". Thường dùng với \"呢\" ở cuối câu.",
+      "en": "\"在\" is placed before a verb to indicate an ongoing action, similar to the progressive aspect. Often used with \"呢\" at the end.",
+      "zh": "「在」放在动词前表示动作正在进行，常与「呢」连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "我在看电视呢。",
+        "pinyin": "Wǒ zài kàn diànshì ne.",
+        "translation": {"vi": "Tôi đang xem TV.", "en": "I am watching TV."}
+      },
+      {
+        "hanzi": "他在打电话。",
+        "pinyin": "Tā zài dǎ diànhuà.",
+        "translation": {"vi": "Anh ấy đang gọi điện thoại.", "en": "He is on the phone."}
+      },
+      {
+        "hanzi": "他们在吃饭。",
+        "pinyin": "Tāmen zài chīfàn.",
+        "translation": {"vi": "Họ đang ăn cơm.", "en": "They are eating."}
+      }
+    ]
+  },
+  {
+    "id": "zheng",
+    "metadata": {
+      "id": "一11-05",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ thời gian \"正\" (đang, ngay lúc này)",
+      "en": "Time adverb \"正\" (just now, in progress)",
+      "zh": "时间副词「正」"
+    },
+    "structure": "正 + 动词",
+    "explanation": {
+      "vi": "\"正\" nhấn mạnh thời điểm chính xác đang diễn ra hành động, tương đương \"đang\" nhưng nhấn mạnh tính đồng thời. Thường đi với \"在\" hoặc \"呢\".",
+      "en": "\"正\" emphasizes the exact moment an action is in progress, meaning \"just now\" or \"right at that moment\". Often used with \"在\" or \"呢\".",
+      "zh": "「正」强调动作恰好在这个时刻发生，常与「在」或「呢」连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "你等一下儿，他正吃饭呢。",
+        "pinyin": "Nǐ děng yīxiàr, tā zhèng chīfàn ne.",
+        "translation": {"vi": "Bạn đợi một chút, anh ấy đang ăn cơm.", "en": "Wait a moment, he is eating."}
+      },
+      {
+        "hanzi": "他正看书呢。",
+        "pinyin": "Tā zhèng kànshū ne.",
+        "translation": {"vi": "Anh ấy đang đọc sách.", "en": "He is reading a book."}
+      },
+      {
+        "hanzi": "我正要出去。",
+        "pinyin": "Wǒ zhèng yào chūqù.",
+        "translation": {"vi": "Tôi đang định ra ngoài.", "en": "I was about to go out."}
+      }
+    ]
+  },
+  {
+    "id": "zhengzai",
+    "metadata": {
+      "id": "一11-06",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ thời gian \"正在\" (đang diễn ra)",
+      "en": "Time adverb \"正在\" (in the process of)",
+      "zh": "时间副词「正在」"
+    },
+    "structure": "正在 + 动词",
+    "explanation": {
+      "vi": "\"正在\" là sự kết hợp giữa \"正\" và \"在\", nhấn mạnh hành động đang tiến hành tại thời điểm nói. Thường dùng để chỉ tiếp diễn.",
+      "en": "\"正在\" combines \"正\" and \"在\" to emphasize an action currently in progress. Commonly used for the progressive aspect.",
+      "zh": "「正在」结合「正」和「在」，强调动作正在进行。常用作进行时态标记。"
+    },
+    "examples": [
+      {
+        "hanzi": "他们正在唱歌。",
+        "pinyin": "Tāmen zhèngzài chànggē.",
+        "translation": {"vi": "Họ đang hát.", "en": "They are singing."}
+      },
+      {
+        "hanzi": "我正在写作业。",
+        "pinyin": "Wǒ zhèngzài xiě zuòyè.",
+        "translation": {"vi": "Tôi đang làm bài tập.", "en": "I am doing homework."}
+      },
+      {
+        "hanzi": "外面正在下雨。",
+        "pinyin": "Wàimiàn zhèngzài xià yǔ.",
+        "translation": {"vi": "Bên ngoài đang mưa.", "en": "It's raining outside."}
+      }
+    ]
+  },
+  {
+    "id": "chang",
+    "metadata": {
+      "id": "一12-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "频率、重复副词"
+    },
+    "title": {
+      "vi": "Phó từ tần suất \"常\" (thường)",
+      "en": "Frequency adverb \"常\" (often)",
+      "zh": "频率副词「常」"
+    },
+    "structure": "常 + 动词",
+    "explanation": {
+      "vi": "\"常\" biểu thị tần suất cao, tương đương \"thường xuyên\". Đặt trước động từ. Có thể dùng \"常常\" để nhấn mạnh.",
+      "en": "\"常\" indicates high frequency, meaning \"often\". Placed before a verb. \"常常\" can be used for emphasis.",
+      "zh": "「常」表示频率高，意为\"经常\"。放在动词前。可用「常常」加强语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "他常去饭店吃饭。",
+        "pinyin": "Tā cháng qù fàndiàn chīfàn.",
+        "translation": {"vi": "Anh ấy thường đi nhà hàng ăn.", "en": "He often eats at restaurants."}
+      },
+      {
+        "hanzi": "我常看书。",
+        "pinyin": "Wǒ cháng kànshū.",
+        "translation": {"vi": "Tôi thường đọc sách.", "en": "I often read books."}
+      },
+      {
+        "hanzi": "她常来我家。",
+        "pinyin": "Tā cháng lái wǒ jiā.",
+        "translation": {"vi": "Cô ấy thường đến nhà tôi.", "en": "She often comes to my house."}
+      }
+    ]
+  },
+  {
+    "id": "changchang",
+    "metadata": {
+      "id": "一12-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "频率、重复副词"
+    },
+    "title": {
+      "vi": "Phó từ tần suất \"常常\" (thường xuyên)",
+      "en": "Frequency adverb \"常常\" (often)",
+      "zh": "频率副词「常常」"
+    },
+    "structure": "常常 + 动词",
+    "explanation": {
+      "vi": "\"常常\" là dạng nhấn mạnh của \"常\", chỉ hành động xảy ra thường xuyên. Đứng trước động từ.",
+      "en": "\"常常\" is an emphatic form of \"常\", indicating frequent occurrence. Placed before a verb.",
+      "zh": "「常常」是「常」的加强形式，表示经常发生。放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "她常常不吃早饭。",
+        "pinyin": "Tā chángcháng bù chī zǎofàn.",
+        "translation": {"vi": "Cô ấy thường không ăn sáng.", "en": "She often skips breakfast."}
+      },
+      {
+        "hanzi": "他常常去图书馆。",
+        "pinyin": "Tā chángcháng qù túshūguǎn.",
+        "translation": {"vi": "Anh ấy thường đến thư viện.", "en": "He often goes to the library."}
+      },
+      {
+        "hanzi": "我们常常一起吃饭。",
+        "pinyin": "Wǒmen chángcháng yīqǐ chīfàn.",
+        "translation": {"vi": "Chúng tôi thường cùng ăn cơm.", "en": "We often eat together."}
+      }
+    ]
+  },
+  {
+    "id": "zai_repeat",
+    "metadata": {
+      "id": "一12-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "频率、重复副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ lặp lại \"再\" (lại, nữa)",
+      "en": "Adverb of repetition \"再\" (again, more)",
+      "zh": "重复副词「再」"
+    },
+    "structure": "再 + 动词",
+    "explanation": {
+      "vi": "\"再\" biểu thị sự lặp lại một hành động trong tương lai hoặc thêm một lần nữa. Thường dùng trong câu tương lai hoặc mệnh lệnh.",
+      "en": "\"再\" indicates repetition of an action in the future or doing something once more. Often used in future or imperative sentences.",
+      "zh": "「再」表示动作在将来重复或再次发生，常用于将来时或祈使句。"
+    },
+    "examples": [
+      {
+        "hanzi": "今天的电影太好看了，我们明天再去看吧。",
+        "pinyin": "Jīntiān de diànyǐng tài hǎokàn le, wǒmen míngtiān zài qù kàn ba.",
+        "translation": {"vi": "Bộ phim hôm nay hay quá, ngày mai chúng ta xem lại nhé.", "en": "Today's movie is so good, let's go watch it again tomorrow."}
+      },
+      {
+        "hanzi": "再见！",
+        "pinyin": "Zàijiàn!",
+        "translation": {"vi": "Hẹn gặp lại!", "en": "Goodbye!"}
+      },
+      {
+        "hanzi": "我再吃一个。",
+        "pinyin": "Wǒ zài chī yī gè.",
+        "translation": {"vi": "Tôi ăn thêm một cái nữa.", "en": "I'll have one more."}
+      }
+    ]
+  },
+  {
+    "id": "hai",
+    "metadata": {
+      "id": "一13-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "关联副词"
+    },
+    "title": {
+      "vi": "Phó từ liên kết \"还\" (còn, vẫn)",
+      "en": "Conjunctive adverb \"还\" (still, also, yet)",
+      "zh": "关联副词「还」"
+    },
+    "structure": "还 + 动词/形容词",
+    "explanation": {
+      "vi": "\"还\" có nhiều nghĩa: (1) diễn tả hành động vẫn tiếp tục (vẫn còn); (2) thêm một đối tượng nữa (còn); (3) nhấn mạnh mức độ chưa đạt. Thường đứng trước động từ.",
+      "en": "\"还\" has multiple meanings: (1) indicating continuity (still); (2) adding another item (also, in addition); (3) emphasizing degree not yet reached. Usually before verbs.",
+      "zh": "「还」有多个义项：(1) 表示动作持续（仍然）；(2) 表示追加（还，另）；(3) 表示程度未达到。常放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他要去上海，还要去北京。",
+        "pinyin": "Tā yào qù Shànghǎi, hái yào qù Běijīng.",
+        "translation": {"vi": "Anh ấy muốn đi Thượng Hải, còn muốn đi Bắc Kinh nữa.", "en": "He wants to go to Shanghai, and also Beijing."}
+      },
+      {
+        "hanzi": "我还没吃饭。",
+        "pinyin": "Wǒ hái méi chīfàn.",
+        "translation": {"vi": "Tôi vẫn chưa ăn cơm.", "en": "I haven't eaten yet."}
+      },
+      {
+        "hanzi": "他还在睡觉。",
+        "pinyin": "Tā hái zài shuìjiào.",
+        "translation": {"vi": "Anh ấy vẫn đang ngủ.", "en": "He is still sleeping."}
+      },
+      {
+        "hanzi": "这本书还很好。",
+        "pinyin": "Zhè běn shū hái hěn hǎo.",
+        "translation": {"vi": "Quyển sách này vẫn còn tốt.", "en": "This book is still good."}
+      }
+    ]
+  },
+  {
+    "id": "ye",
+    "metadata": {
+      "id": "一13-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "关联副词"
+    },
+    "title": {
+      "vi": "Phó từ liên kết \"也\" (cũng)",
+      "en": "Conjunctive adverb \"也\" (also, too)",
+      "zh": "关联副词「也」"
+    },
+    "structure": "也 + 动词",
+    "explanation": {
+      "vi": "\"也\" biểu thị sự tương tự hoặc bổ sung, tương đương \"cũng\". Đặt trước động từ hoặc tính từ.",
+      "en": "\"也\" indicates similarity or addition, meaning \"also\" or \"too\". Placed before verbs or adjectives.",
+      "zh": "「也」表示类同或追加，意为\"也\"。放在动词或形容词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他是学生，我也是学生。",
+        "pinyin": "Tā shì xuésheng, wǒ yě shì xuésheng.",
+        "translation": {"vi": "Anh ấy là học sinh, tôi cũng là học sinh.", "en": "He is a student, I am also a student."}
+      },
+      {
+        "hanzi": "我也想去。",
+        "pinyin": "Wǒ yě xiǎng qù.",
+        "translation": {"vi": "Tôi cũng muốn đi.", "en": "I also want to go."}
+      },
+      {
+        "hanzi": "这本书也很贵。",
+        "pinyin": "Zhè běn shū yě hěn guì.",
+        "translation": {"vi": "Quyển sách này cũng đắt.", "en": "This book is also expensive."}
+      }
+    ]
+  },
+  {
+    "id": "bie",
+    "metadata": {
+      "id": "一14-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "否定副词"
+    },
+    "title": {
+      "vi": "Phó từ phủ định \"别\" (đừng)",
+      "en": "Negative adverb \"别\" (don't)",
+      "zh": "否定副词「别」"
+    },
+    "structure": "别 + 动词",
+    "explanation": {
+      "vi": "\"别\" dùng trong câu cầu khiến để phủ định, tương đương \"đừng\". Đặt trước động từ.",
+      "en": "\"别\" is used in imperative sentences to express prohibition, meaning \"don't\". Placed before a verb.",
+      "zh": "「别」用于祈使句表示禁止，意为\"不要\"。放在动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "你别进来。",
+        "pinyin": "Nǐ bié jìnlái.",
+        "translation": {"vi": "Bạn đừng vào.", "en": "Don't come in."}
+      },
+      {
+        "hanzi": "别说话！",
+        "pinyin": "Bié shuōhuà!",
+        "translation": {"vi": "Đừng nói chuyện!", "en": "Don't talk!"}
+      },
+      {
+        "hanzi": "别忘了带书。",
+        "pinyin": "Bié wàng le dài shū.",
+        "translation": {"vi": "Đừng quên mang sách.", "en": "Don't forget to bring the book."}
+      }
+    ]
+  },
+  {
+    "id": "bu",
+    "metadata": {
+      "id": "一14-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "否定副词"
+    },
+    "title": {
+      "vi": "Phó từ phủ định \"不\" (không - cho hiện tại/tương lai)",
+      "en": "Negative adverb \"不\" (not - for present/future)",
+      "zh": "否定副词「不」"
+    },
+    "structure": "不 + 动词/形容词",
+    "explanation": {
+      "vi": "\"不\" là phủ định cơ bản, dùng để phủ định hành động hoặc trạng thái ở hiện tại và tương lai. Đứng trước động từ hoặc tính từ.",
+      "en": "\"不\" is the basic negative adverb used to negate actions or states in the present and future. Placed before verbs or adjectives.",
+      "zh": "「不」是最基本的否定副词，用于否定现在或将来的动作或状态。放在动词或形容词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "今天不热。",
+        "pinyin": "Jīntiān bù rè.",
+        "translation": {"vi": "Hôm nay không nóng.", "en": "It's not hot today."}
+      },
+      {
+        "hanzi": "他不去学校。",
+        "pinyin": "Tā bù qù xuéxiào.",
+        "translation": {"vi": "Anh ấy không đi học.", "en": "He doesn't go to school."}
+      },
+      {
+        "hanzi": "我不喜欢这个。",
+        "pinyin": "Wǒ bù xǐhuān zhège.",
+        "translation": {"vi": "Tôi không thích cái này.", "en": "I don't like this."}
+      },
+      {
+        "hanzi": "这本书不贵。",
+        "pinyin": "Zhè běn shū bù guì.",
+        "translation": {"vi": "Quyển sách này không đắt.", "en": "This book is not expensive."}
+      }
+    ]
+  },
+  {
+    "id": "mei",
+    "metadata": {
+      "id": "一14-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "否定副词"
+    },
+    "title": {
+      "vi": "Phó từ phủ định \"没\" (không - cho quá khứ)",
+      "en": "Negative adverb \"没\" (not - for past/experiential)",
+      "zh": "否定副词「没」"
+    },
+    "structure": "没 + 动词",
+    "explanation": {
+      "vi": "\"没\" dùng để phủ định hành động đã xảy ra trong quá khứ hoặc sự tồn tại (không có). Thường được dùng với \"有\" để phủ định sự tồn tại.",
+      "en": "\"没\" is used to negate past actions or existence (not have). It is often used with \"有\" to negate existence.",
+      "zh": "「没」用于否定过去发生的动作或存在（没有）。常与「有」连用表示不存在。"
+    },
+    "examples": [
+      {
+        "hanzi": "他昨天没上课。",
+        "pinyin": "Tā zuótiān méi shàngkè.",
+        "translation": {"vi": "Hôm qua anh ấy không đi học.", "en": "He didn't go to class yesterday."}
+      },
+      {
+        "hanzi": "我没去公园。",
+        "pinyin": "Wǒ méi qù gōngyuán.",
+        "translation": {"vi": "Tôi không đi công viên.", "en": "I didn't go to the park."}
+      },
+      {
+        "hanzi": "他没吃饭。",
+        "pinyin": "Tā méi chīfàn.",
+        "translation": {"vi": "Anh ấy chưa ăn cơm.", "en": "He hasn't eaten."}
+      }
+    ]
+  },
+  {
+    "id": "meiyou",
+    "metadata": {
+      "id": "一14-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.6", "label": "副词"}
+      ],
+      "category": "否定副词"
+    },
+    "title": {
+      "vi": "Phó từ phủ định \"没有\" (không có, chưa)",
+      "en": "Negative adverb \"没有\" (not have, not yet)",
+      "zh": "否定副词「没有」"
+    },
+    "structure": "没有 + 名词/动词",
+    "explanation": {
+      "vi": "\"没有\" có hai nghĩa: (1) phủ định sự tồn tại (không có); (2) phủ định hành động đã xảy ra (chưa). Đứng trước danh từ hoặc động từ.",
+      "en": "\"没有\" has two meanings: (1) negation of existence (there is no); (2) negation of past action (not yet). Precedes nouns or verbs.",
+      "zh": "「没有」有两个义项：(1) 表示不存在（没有）；(2) 表示未发生（没）。放在名词或动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "我今天没有吃早饭。",
+        "pinyin": "Wǒ jīntiān méiyǒu chī zǎofàn.",
+        "translation": {"vi": "Hôm nay tôi chưa ăn sáng.", "en": "I haven't had breakfast today."}
+      },
+      {
+        "hanzi": "教室里没有学生。",
+        "pinyin": "Jiàoshì lǐ méiyǒu xuésheng.",
+        "translation": {"vi": "Trong lớp không có học sinh.", "en": "There are no students in the classroom."}
+      },
+      {
+        "hanzi": "我没有钱。",
+        "pinyin": "Wǒ méiyǒu qián.",
+        "translation": {"vi": "Tôi không có tiền.", "en": "I don't have money."}
+      }
+    ]
+  },
+  {
+    "id": "cong",
+    "metadata": {
+      "id": "一15",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.7", "label": "介词"},
+        {"code": "A.1.1.7.1", "label": "引出时间、处所"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"从\" (từ - chỉ thời gian/nơi chốn)",
+      "en": "Preposition \"从\" (from - time/place)",
+      "zh": "介词「从」"
+    },
+    "structure": "从 + 时间/处所 + 动词",
+    "explanation": {
+      "vi": "\"从\" dùng để chỉ xuất phát điểm về thời gian hoặc không gian, tương đương \"từ\". Đặt trước cụm từ chỉ thời gian hoặc địa điểm.",
+      "en": "\"从\" indicates the starting point in time or space, meaning \"from\". It is placed before time or location phrases.",
+      "zh": "「从」表示时间或空间的起点，意为\"从\"。放在时间或处所词语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们从星期一到星期五工作。",
+        "pinyin": "Wǒmen cóng xīngqīyī dào xīngqīwǔ gōngzuò.",
+        "translation": {"vi": "Chúng tôi làm việc từ thứ Hai đến thứ Sáu.", "en": "We work from Monday to Friday."}
+      },
+      {
+        "hanzi": "你从哪儿来？",
+        "pinyin": "Nǐ cóng nǎr lái?",
+        "translation": {"vi": "Bạn đến từ đâu?", "en": "Where do you come from?"}
+      },
+      {
+        "hanzi": "他从北京来。",
+        "pinyin": "Tā cóng Běijīng lái.",
+        "translation": {"vi": "Anh ấy đến từ Bắc Kinh.", "en": "He comes from Beijing."}
+      },
+      {
+        "hanzi": "我们从八点开始上课。",
+        "pinyin": "Wǒmen cóng bā diǎn kāishǐ shàngkè.",
+        "translation": {"vi": "Chúng tôi bắt đầu học từ 8 giờ.", "en": "We start class at 8 o'clock."}
+      }
+    ]
+  },
+  {
+    "id": "zai_prep",
+    "metadata": {
+      "id": "一16",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.7", "label": "介词"},
+        {"code": "A.1.1.7.1", "label": "引出时间、处所"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"在\" (tại, ở - chỉ địa điểm/thời gian)",
+      "en": "Preposition \"在\" (at, in - location/time)",
+      "zh": "介词「在」"
+    },
+    "structure": "在 + 处所/时间 + 动词",
+    "explanation": {
+      "vi": "\"在\" dùng để giới thiệu địa điểm hoặc thời gian của hành động, tương đương \"ở, tại\". Đặt trước danh từ chỉ nơi chốn hoặc thời gian.",
+      "en": "\"在\" introduces the location or time of an action, meaning \"at/in/on\". It precedes place or time nouns.",
+      "zh": "「在」用于引出动作发生的地点或时间，意为\"在\"。放在处所或时间词语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "哥哥在北京学中文。",
+        "pinyin": "Gēge zài Běijīng xué zhōngwén.",
+        "translation": {"vi": "Anh trai học tiếng Trung ở Bắc Kinh.", "en": "My elder brother studies Chinese in Beijing."}
+      },
+      {
+        "hanzi": "他在手机上看电影。",
+        "pinyin": "Tā zài shǒujī shàng kàn diànyǐng.",
+        "translation": {"vi": "Anh ấy xem phim trên điện thoại.", "en": "He watches movies on his phone."}
+      },
+      {
+        "hanzi": "我在学校吃饭。",
+        "pinyin": "Wǒ zài xuéxiào chīfàn.",
+        "translation": {"vi": "Tôi ăn cơm ở trường.", "en": "I eat at school."}
+      },
+      {
+        "hanzi": "我们早上八点开始上课。",
+        "pinyin": "Wǒmen zǎoshang bā diǎn kāishǐ shàngkè.",
+        "translation": {"vi": "Chúng tôi bắt đầu học lúc 8 giờ sáng.", "en": "We start class at 8 in the morning."}
+      }
+    ]
+  },
+  {
+    "id": "gen",
+    "metadata": {
+      "id": "一17",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.7", "label": "介词"},
+        {"code": "A.1.1.7.2", "label": "引出对象"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"跟\" (với, cùng)",
+      "en": "Preposition \"跟\" (with)",
+      "zh": "介词「跟」"
+    },
+    "structure": "跟 + 对象 + 动词",
+    "explanation": {
+      "vi": "\"跟\" dùng để chỉ đối tượng cùng thực hiện hành động, tương đương \"với, cùng\". Đặt trước danh từ chỉ người hoặc tổ chức.",
+      "en": "\"跟\" is used to indicate the partner in an action, meaning \"with\". It precedes a noun indicating a person or organization.",
+      "zh": "「跟」用于引出动作的参与对象，意为\"跟、和\"。放在表人或机构的名词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他跟老师请假了。",
+        "pinyin": "Tā gēn lǎoshī qǐngjià le.",
+        "translation": {"vi": "Anh ấy xin phép giáo viên.", "en": "He asked the teacher for leave."}
+      },
+      {
+        "hanzi": "我没和姐姐一起去中国。",
+        "pinyin": "Wǒ méi hé jiějie yīqǐ qù Zhōngguó.",
+        "translation": {"vi": "Tôi không đi Trung Quốc cùng chị gái.", "en": "I didn't go to China with my elder sister."}
+      },
+      {
+        "hanzi": "他想跟我去书店。",
+        "pinyin": "Tā xiǎng gēn wǒ qù shūdiàn.",
+        "translation": {"vi": "Anh ấy muốn đi nhà sách với tôi.", "en": "He wants to go to the bookstore with me."}
+      },
+      {
+        "hanzi": "我跟朋友一起吃饭。",
+        "pinyin": "Wǒ gēn péngyou yīqǐ chīfàn.",
+        "translation": {"vi": "Tôi cùng bạn ăn cơm.", "en": "I have dinner with friends."}
+      }
+    ]
+  },
+  {
+    "id": "bi",
+    "metadata": {
+      "id": "一18",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.7", "label": "介词"},
+        {"code": "A.1.1.7.2", "label": "引出对象"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"比\" (so với)",
+      "en": "Preposition \"比\" (compared to)",
+      "zh": "介词「比」"
+    },
+    "structure": "A + 比 + B + 形容词",
+    "explanation": {
+      "vi": "\"比\" dùng để so sánh hơn giữa hai đối tượng, cấu trúc A比B + tính từ. Phủ định dùng \"A没有B + 形容词\".",
+      "en": "\"比\" is used to make comparisons between two items, structure: A + 比 + B + adjective. Negation uses \"A没有B + adjective\".",
+      "zh": "「比」用于比较两个对象的差异，结构为\"A比B+形容词\"。否定用\"A没有B+形容词\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "哥哥比弟弟高。",
+        "pinyin": "Gēge bǐ dìdi gāo.",
+        "translation": {"vi": "Anh trai cao hơn em trai.", "en": "The elder brother is taller than the younger brother."}
+      },
+      {
+        "hanzi": "这个房间比那个房间大。",
+        "pinyin": "Zhège fángjiān bǐ nàge fángjiān dà.",
+        "translation": {"vi": "Căn phòng này lớn hơn căn phòng kia.", "en": "This room is bigger than that room."}
+      },
+      {
+        "hanzi": "我比他大两岁。",
+        "pinyin": "Wǒ bǐ tā dà liǎng suì.",
+        "translation": {"vi": "Tôi lớn hơn anh ấy hai tuổi.", "en": "I am two years older than him."}
+      },
+      {
+        "hanzi": "今天比昨天热。",
+        "pinyin": "Jīntiān bǐ zuótiān rè.",
+        "translation": {"vi": "Hôm nay nóng hơn hôm qua.", "en": "Today is hotter than yesterday."}
+      }
+    ]
+  },
+  {
+    "id": "gen_connect",
+    "metadata": {
+      "id": "一19-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.8", "label": "连词"}
+      ],
+      "category": "连接词或短语"
+    },
+    "title": {
+      "vi": "Liên từ \"跟\" (và)",
+      "en": "Conjunction \"跟\" (and)",
+      "zh": "连词「跟」"
+    },
+    "structure": "A + 跟 + B + 谓语",
+    "explanation": {
+      "vi": "\"跟\" làm liên từ nối hai danh từ hoặc đại từ, tương đương \"và\". Thường dùng để nối các thành phần cùng loại.",
+      "en": "\"跟\" as a conjunction connects two nouns or pronouns, meaning \"and\". Often used to link similar components.",
+      "zh": "「跟」作连词连接两个名词或代词，意为\"和\"。常用于连接同类成分。"
+    },
+    "examples": [
+      {
+        "hanzi": "爸爸跟妈妈都不在家。",
+        "pinyin": "Bàba gēn māma dōu bù zàijiā.",
+        "translation": {"vi": "Bố và mẹ đều không ở nhà.", "en": "Dad and mom are both not at home."}
+      },
+      {
+        "hanzi": "我跟他是好朋友。",
+        "pinyin": "Wǒ gēn tā shì hǎo péngyou.",
+        "translation": {"vi": "Tôi và anh ấy là bạn tốt.", "en": "He and I are good friends."}
+      },
+      {
+        "hanzi": "苹果跟梨都很好吃。",
+        "pinyin": "Píngguǒ gēn lí dōu hěn hǎochī.",
+        "translation": {"vi": "Táo và lê đều rất ngon.", "en": "Apples and pears are both delicious."}
+      }
+    ]
+  },
+  {
+    "id": "haishi",
+    "metadata": {
+      "id": "一19-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.8", "label": "连词"}
+      ],
+      "category": "连接词或短语"
+    },
+    "title": {
+      "vi": "Liên từ \"还是\" (hay, hoặc)",
+      "en": "Conjunction \"还是\" (or - in questions)",
+      "zh": "连词「还是」"
+    },
+    "structure": "A 还是 B？",
+    "explanation": {
+      "vi": "\"还是\" dùng trong câu hỏi lựa chọn, nối hai hay nhiều lựa chọn, tương đương \"hay\".",
+      "en": "\"还是\" is used in alternative questions, connecting two or more choices, meaning \"or\".",
+      "zh": "「还是」用于选择疑问句，连接两个或多个选项，意为\"还是\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "你喝茶还是喝水？",
+        "pinyin": "Nǐ hē chá háishì hē shuǐ?",
+        "translation": {"vi": "Bạn uống trà hay uống nước?", "en": "Do you drink tea or water?"}
+      },
+      {
+        "hanzi": "你去还是他去？",
+        "pinyin": "Nǐ qù háishì tā qù?",
+        "translation": {"vi": "Bạn đi hay anh ấy đi?", "en": "Are you going or is he going?"}
+      },
+      {
+        "hanzi": "你喜欢红色还是蓝色？",
+        "pinyin": "Nǐ xǐhuān hóngsè háishì lánsè?",
+        "translation": {"vi": "Bạn thích màu đỏ hay màu xanh?", "en": "Do you like red or blue?"}
+      }
+    ]
+  },
+  {
+    "id": "he_connect",
+    "metadata": {
+      "id": "一19-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.8", "label": "连词"}
+      ],
+      "category": "连接词或短语"
+    },
+    "title": {
+      "vi": "Liên từ \"和\" (và)",
+      "en": "Conjunction \"和\" (and)",
+      "zh": "连词「和」"
+    },
+    "structure": "A 和 B + 谓语",
+    "explanation": {
+      "vi": "\"和\" là liên từ thông dụng để nối các danh từ hoặc cụm danh từ, tương đương \"và\". Không dùng nối các mệnh đề.",
+      "en": "\"和\" is a common conjunction connecting nouns or noun phrases, meaning \"and\". It does not connect clauses.",
+      "zh": "「和」是最常用的连词，连接名词或名词性短语，意为\"和\"。不连接分句。"
+    },
+    "examples": [
+      {
+        "hanzi": "我和弟弟都学习中文。",
+        "pinyin": "Wǒ hé dìdi dōu xuéxí zhōngwén.",
+        "translation": {"vi": "Tôi và em trai đều học tiếng Trung.", "en": "My younger brother and I both study Chinese."}
+      },
+      {
+        "hanzi": "书和笔都在桌子上。",
+        "pinyin": "Shū hé bǐ dōu zài zhuōzi shàng.",
+        "translation": {"vi": "Sách và bút đều ở trên bàn.", "en": "The book and pen are both on the table."}
+      },
+      {
+        "hanzi": "我喜欢苹果和香蕉。",
+        "pinyin": "Wǒ xǐhuān píngguǒ hé xiāngjiāo.",
+        "translation": {"vi": "Tôi thích táo và chuối.", "en": "I like apples and bananas."}
+      }
+    ]
+  },
+  {
+    "id": "de_structural",
+    "metadata": {
+      "id": "一20-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "结构助词"
+    },
+    "title": {
+      "vi": "Trợ từ kết cấu \"的\" (của)",
+      "en": "Structural particle \"的\" (possessive/attributive marker)",
+      "zh": "结构助词「的」"
+    },
+    "structure": "定语 + 的 + 中心语",
+    "explanation": {
+      "vi": "\"的\" là trợ từ kết cấu, đặt giữa định ngữ và trung tâm ngữ để biểu thị quan hệ sở hữu hoặc miêu tả, tương đương \"của\".",
+      "en": "\"的\" is a structural particle placed between a modifier and the noun it modifies, marking possession or description — roughly equivalent to \"'s\"/\"of\".",
+      "zh": "「的」是结构助词，用在定语和中心语之间，表示领属或修饰关系。"
+    },
+    "examples": [
+      {
+        "hanzi": "你的衣服很好看。",
+        "pinyin": "Nǐ de yīfu hěn hǎokàn.",
+        "translation": {"vi": "Quần áo của bạn rất đẹp.", "en": "Your clothes look very nice."}
+      },
+      {
+        "hanzi": "这是他的书。",
+        "pinyin": "Zhè shì tā de shū.",
+        "translation": {"vi": "Đây là sách của anh ấy.", "en": "This is his book."}
+      },
+      {
+        "hanzi": "漂亮的女孩。",
+        "pinyin": "Piàoliang de nǚhái.",
+        "translation": {"vi": "cô gái xinh đẹp", "en": "a beautiful girl"}
+      },
+      {
+        "hanzi": "我妈妈的朋友。",
+        "pinyin": "Wǒ māma de péngyou.",
+        "translation": {"vi": "bạn của mẹ tôi", "en": "my mother's friend"}
+      }
+    ]
+  },
+  {
+    "id": "de_adverbial",
+    "metadata": {
+      "id": "一20-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "结构助词"
+    },
+    "title": {
+      "vi": "Trợ từ kết cấu \"地\" (dùng sau trạng ngữ)",
+      "en": "Structural particle \"地\" (adverbial marker)",
+      "zh": "结构助词「地」"
+    },
+    "structure": "形容词/副词 + 地 + 动词",
+    "explanation": {
+      "vi": "\"地\" là trợ từ kết cấu đặt giữa trạng ngữ và động từ, biểu thị cách thức của hành động. Thường dùng với tính từ để tạo trạng từ.",
+      "en": "\"地\" is a structural particle placed between an adverbial modifier and a verb, indicating the manner of the action. Often used with adjectives to form adverbs.",
+      "zh": "「地」是结构助词，放在状语和动词之间，表示动作的方式。常与形容词搭配构成状语。"
+    },
+    "examples": [
+      {
+        "hanzi": "他高兴地说：“我明天回家。”",
+        "pinyin": "Tā gāoxìng de shuō: “Wǒ míngtiān huí jiā.”",
+        "translation": {"vi": "Anh ấy vui vẻ nói: \"Ngày mai tôi về nhà.\"", "en": "He said happily, \"I'll go home tomorrow.\""}
+      },
+      {
+        "hanzi": "她认真地学习。",
+        "pinyin": "Tā rènzhēn de xuéxí.",
+        "translation": {"vi": "Cô ấy học tập một cách nghiêm túc.", "en": "She studies seriously."}
+      },
+      {
+        "hanzi": "我们慢慢地走。",
+        "pinyin": "Wǒmen mànmàn de zǒu.",
+        "translation": {"vi": "Chúng tôi đi chậm rãi.", "en": "We walk slowly."}
+      }
+    ]
+  },
+  {
+    "id": "le_completed",
+    "metadata": {
+      "id": "一21",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "动态助词"
+    },
+    "title": {
+      "vi": "Trợ từ động thái \"了\" (đã - chỉ hoàn thành)",
+      "en": "Aspect particle \"了\" (completion marker)",
+      "zh": "动态助词「了」"
+    },
+    "structure": "动词 + 了 + (宾语)",
+    "explanation": {
+      "vi": "\"了\" đặt sau động từ để chỉ hành động đã hoàn thành, thường dùng trong quá khứ. Phủ định dùng \"没\" + động từ (không dùng \"了\").",
+      "en": "\"了\" is placed after a verb to indicate completed action, often in the past. Negation uses \"没\" + verb (without \"了\").",
+      "zh": "「了」放在动词后表示动作完成，常用于过去时。否定用\"没\" + 动词（不加\"了\"）。"
+    },
+    "examples": [
+      {
+        "hanzi": "他买了一本书。",
+        "pinyin": "Tā mǎi le yī běn shū.",
+        "translation": {"vi": "Anh ấy đã mua một quyển sách.", "en": "He bought a book."}
+      },
+      {
+        "hanzi": "我写了两个汉字。",
+        "pinyin": "Wǒ xiě le liǎng gè hànzì.",
+        "translation": {"vi": "Tôi đã viết hai chữ Hán.", "en": "I wrote two Chinese characters."}
+      },
+      {
+        "hanzi": "他没买书。",
+        "pinyin": "Tā méi mǎi shū.",
+        "translation": {"vi": "Anh ấy không mua sách.", "en": "He didn't buy a book."}
+      },
+      {
+        "hanzi": "她没吃饭。",
+        "pinyin": "Tā méi chīfàn.",
+        "translation": {"vi": "Cô ấy chưa ăn cơm.", "en": "She hasn't eaten."}
+      }
+    ]
+  },
+  {
+    "id": "ba_qing",
+    "metadata": {
+      "id": "一22-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "语气助词"
+    },
+    "title": {
+      "vi": "Trợ từ ngữ khí \"吧\" (đi - đề nghị)",
+      "en": "Modal particle \"吧\" (suggestion)",
+      "zh": "语气助词「吧」"
+    },
+    "structure": "句子 + 吧",
+    "explanation": {
+      "vi": "\"吧\" đặt cuối câu để thể hiện đề nghị, yêu cầu nhẹ nhàng hoặc suy đoán. Trong câu mệnh lệnh, nó làm giảm tính ép buộc.",
+      "en": "\"吧\" is placed at the end of a sentence to express suggestions, mild requests, or conjecture. In imperatives, it softens the tone.",
+      "zh": "「吧」放在句末表示提议、请求或推测。在祈使句中使语气委婉。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们走吧。",
+        "pinyin": "Wǒmen zǒu ba.",
+        "translation": {"vi": "Chúng ta đi thôi.", "en": "Let's go."}
+      },
+      {
+        "hanzi": "你吃吧。",
+        "pinyin": "Nǐ chī ba.",
+        "translation": {"vi": "Bạn ăn đi.", "en": "Go ahead and eat."}
+      },
+      {
+        "hanzi": "他应该来了吧。",
+        "pinyin": "Tā yīnggāi lái le ba.",
+        "translation": {"vi": "Anh ấy chắc hẳn đã đến rồi.", "en": "He should have arrived, I think."}
+      }
+    ]
+  },
+  {
+    "id": "le_qing",
+    "metadata": {
+      "id": "一22-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "语气助词"
+    },
+    "title": {
+      "vi": "Trợ từ ngữ khí \"了\" (rồi - chỉ sự thay đổi)",
+      "en": "Modal particle \"了\" (change of state)",
+      "zh": "语气助词「了」"
+    },
+    "structure": "句子 + 了",
+    "explanation": {
+      "vi": "\"了\" đặt cuối câu để biểu thị sự thay đổi trạng thái hoặc xuất hiện tình huống mới. Thường dùng trong câu khẳng định.",
+      "en": "\"了\" at the end of a sentence indicates a change of state or the emergence of a new situation. Often used in affirmative sentences.",
+      "zh": "「了」放在句末表示状态的变化或新情况的出现。常用于肯定句。"
+    },
+    "examples": [
+      {
+        "hanzi": "我累了。",
+        "pinyin": "Wǒ lèi le.",
+        "translation": {"vi": "Tôi mệt rồi.", "en": "I am tired."}
+      },
+      {
+        "hanzi": "他来了。",
+        "pinyin": "Tā lái le.",
+        "translation": {"vi": "Anh ấy đến rồi.", "en": "He has come."}
+      },
+      {
+        "hanzi": "雨停了。",
+        "pinyin": "Yǔ tíng le.",
+        "translation": {"vi": "Trời tạnh mưa rồi.", "en": "The rain has stopped."}
+      }
+    ]
+  },
+  {
+    "id": "ma",
+    "metadata": {
+      "id": "一22-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "语气助词"
+    },
+    "title": {
+      "vi": "Trợ từ ngữ khí \"吗\" (phải không, không)",
+      "en": "Modal particle \"吗\" (question marker)",
+      "zh": "语气助词「吗」"
+    },
+    "structure": "陈述句 + 吗？",
+    "explanation": {
+      "vi": "\"吗\" là trợ từ nghi vấn đặt cuối câu để tạo câu hỏi có/không. Nó biến câu trần thuật thành câu hỏi.",
+      "en": "\"吗\" is a question particle placed at the end of a statement to form a yes/no question. It turns a declarative into a question.",
+      "zh": "「吗」是疑问语气词，放在陈述句末构成是非疑问句。"
+    },
+    "examples": [
+      {
+        "hanzi": "她是医生吗？",
+        "pinyin": "Tā shì yīshēng ma?",
+        "translation": {"vi": "Cô ấy là bác sĩ à?", "en": "Is she a doctor?"}
+      },
+      {
+        "hanzi": "你会说中文吗？",
+        "pinyin": "Nǐ huì shuō zhōngwén ma?",
+        "translation": {"vi": "Bạn có biết nói tiếng Trung không?", "en": "Can you speak Chinese?"}
+      },
+      {
+        "hanzi": "这儿可以停车吗？",
+        "pinyin": "Zhèr kěyǐ tíngchē ma?",
+        "translation": {"vi": "Có thể đỗ xe ở đây không?", "en": "Can I park here?"}
+      }
+    ]
+  },
+  {
+    "id": "ne",
+    "metadata": {
+      "id": "一22-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.1", "label": "词类"},
+        {"code": "A.1.1.9", "label": "助词"}
+      ],
+      "category": "语气助词"
+    },
+    "title": {
+      "vi": "Trợ từ ngữ khí \"呢\" (thế, còn, đang)",
+      "en": "Modal particle \"呢\" (question marker, progressive marker)",
+      "zh": "语气助词「呢」"
+    },
+    "structure": "句子 + 呢",
+    "explanation": {
+      "vi": "\"呢\" có nhiều chức năng: (1) trong câu hỏi, nhấn mạnh\"còn……?\" hoặc \"thế nào?\"; (2) trong câu trần thuật, biểu thị hành động đang diễn ra (đang).",
+      "en": "\"呢\" has multiple functions: (1) in questions, emphasizing \"and...?\" or \"how about?\"; (2) in statements, marking progressive action.",
+      "zh": "「呢」有多种用法：(1) 在疑问句中表示反问或追问；(2) 在陈述句中表示动作正在进行。"
+    },
+    "examples": [
+      {
+        "hanzi": "他是哪国人呢？",
+        "pinyin": "Tā shì nǎ guó rén ne?",
+        "translation": {"vi": "Anh ấy là người nước nào nhỉ?", "en": "Which country is he from?"}
+      },
+      {
+        "hanzi": "我在看书呢。",
+        "pinyin": "Wǒ zài kànshū ne.",
+        "translation": {"vi": "Tôi đang đọc sách.", "en": "I am reading a book."}
+      },
+      {
+        "hanzi": "他来了，你呢？",
+        "pinyin": "Tā lái le, nǐ ne?",
+        "translation": {"vi": "Anh ấy đến rồi, còn bạn?", "en": "He came, and you?"}
+      }
+    ]
+  },
+  {
+    "id": "shuliang-duanyu",
+    "metadata": {
+      "id": "一23",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.2", "label": "短语"},
+        {"code": "A.1.2.1", "label": "结构类型"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ chỉ số lượng",
+      "en": "Number-measure word phrases",
+      "zh": "数量短语"
+    },
+    "structure": "数词 + 量词 + 名词",
+    "explanation": {
+      "vi": "Cụm từ số lượng gồm một số từ và một lượng từ, thường đứng trước danh từ để định lượng. Đây là cấu trúc cơ bản để chỉ số lượng.",
+      "en": "A number-measure word phrase consists of a numeral and a measure word, usually preceding a noun to specify quantity. This is the basic structure for quantification.",
+      "zh": "数量短语由数词和量词组成，通常放在名词前表示数量。这是汉语中表示数量的基本结构。"
+    },
+    "examples": [
+      {
+        "hanzi": "一个",
+        "pinyin": "Yī gè",
+        "translation": {"vi": "một (cái)", "en": "one (generic)"}
+      },
+      {
+        "hanzi": "两杯",
+        "pinyin": "Liǎng bēi",
+        "translation": {"vi": "hai cốc", "en": "two cups"}
+      },
+      {
+        "hanzi": "三本书",
+        "pinyin": "Sān běn shū",
+        "translation": {"vi": "ba quyển sách", "en": "three books"}
+      },
+      {
+        "hanzi": "四包",
+        "pinyin": "Sì bāo",
+        "translation": {"vi": "bốn túi/gói", "en": "four packs"}
+      }
+    ]
+  },
+  {
+    "id": "zhu_yu",
+    "metadata": {
+      "id": "一24",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.3", "label": "句子成分"},
+        {"code": "A.1.3.1", "label": "主语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Chủ ngữ",
+      "en": "Subject",
+      "zh": "主语"
+    },
+    "structure": "名词/代词/名词性短语 + 谓语",
+    "explanation": {
+      "vi": "Chủ ngữ là thành phần chính của câu, thường là danh từ, đại từ hoặc cụm danh từ, chỉ người hoặc vật thực hiện hành động hoặc mang trạng thái.",
+      "en": "The subject is the main component of a sentence, usually a noun, pronoun, or noun phrase, indicating the person or thing performing the action or having the state.",
+      "zh": "主语是句子的主要成分，通常由名词、代词或名词性短语充当，指动作的执行者或状态的承受者。"
+    },
+    "examples": [
+      {
+        "hanzi": "衣服很好看。",
+        "pinyin": "Yīfu hěn hǎokàn.",
+        "translation": {"vi": "Quần áo rất đẹp.", "en": "The clothes are very nice."}
+      },
+      {
+        "hanzi": "他在看电视。",
+        "pinyin": "Tā zài kàn diànshì.",
+        "translation": {"vi": "Anh ấy đang xem TV.", "en": "He is watching TV."}
+      },
+      {
+        "hanzi": "这个房间很干净。",
+        "pinyin": "Zhège fángjiān hěn gānjìng.",
+        "translation": {"vi": "Căn phòng này rất sạch sẽ.", "en": "This room is very clean."}
+      }
+    ]
+  },
+  {
+    "id": "wei_yu",
+    "metadata": {
+      "id": "一25",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.3", "label": "句子成分"},
+        {"code": "A.1.3.2", "label": "谓语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Vị ngữ",
+      "en": "Predicate",
+      "zh": "谓语"
+    },
+    "structure": "动词/形容词 + 其他",
+    "explanation": {
+      "vi": "Vị ngữ là thành phần mô tả chủ ngữ, thường là động từ, tính từ hoặc cụm từ. Nó biểu thị hành động, trạng thái hoặc đặc tính.",
+      "en": "The predicate describes the subject, usually a verb, adjective, or phrase. It expresses action, state, or property.",
+      "zh": "谓语是说明主语的成分，通常由动词、形容词或短语充当，表示动作、状态或性质。"
+    },
+    "examples": [
+      {
+        "hanzi": "他病了。",
+        "pinyin": "Tā bìng le.",
+        "translation": {"vi": "Anh ấy bị bệnh.", "en": "He is sick."}
+      },
+      {
+        "hanzi": "我们学中文。",
+        "pinyin": "Wǒmen xué zhōngwén.",
+        "translation": {"vi": "Chúng tôi học tiếng Trung.", "en": "We study Chinese."}
+      },
+      {
+        "hanzi": "今天不冷。",
+        "pinyin": "Jīntiān bù lěng.",
+        "translation": {"vi": "Hôm nay không lạnh.", "en": "It's not cold today."}
+      },
+      {
+        "hanzi": "这个菜很好吃。",
+        "pinyin": "Zhège cài hěn hǎochī.",
+        "translation": {"vi": "Món này rất ngon.", "en": "This dish is delicious."}
+      }
+    ]
+  },
+  {
+    "id": "bin_yu",
+    "metadata": {
+      "id": "一26",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.3", "label": "句子成分"},
+        {"code": "A.1.3.3", "label": "宾语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Tân ngữ",
+      "en": "Object",
+      "zh": "宾语"
+    },
+    "structure": "主语 + 动词 + 宾语",
+    "explanation": {
+      "vi": "Tân ngữ là thành phần sau động từ, chỉ người hoặc vật chịu tác động của hành động. Thường là danh từ, đại từ hoặc cụm danh từ.",
+      "en": "The object follows the verb and indicates the person or thing affected by the action. It is usually a noun, pronoun, or noun phrase.",
+      "zh": "宾语在动词后面，表示动作的承受者，通常由名词、代词或名词性短语充当。"
+    },
+    "examples": [
+      {
+        "hanzi": "他吃面包。",
+        "pinyin": "Tā chī miànbāo.",
+        "translation": {"vi": "Anh ấy ăn bánh mì.", "en": "He eats bread."}
+      },
+      {
+        "hanzi": "妈妈来看我了。",
+        "pinyin": "Māma lái kàn wǒ le.",
+        "translation": {"vi": "Mẹ đến thăm tôi.", "en": "Mom came to see me."}
+      },
+      {
+        "hanzi": "她买了一个手机。",
+        "pinyin": "Tā mǎi le yī gè shǒujī.",
+        "translation": {"vi": "Cô ấy mua một chiếc điện thoại.", "en": "She bought a mobile phone."}
+      }
+    ]
+  },
+  {
+    "id": "ding_yu",
+    "metadata": {
+      "id": "一27",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.3", "label": "句子成分"},
+        {"code": "A.1.3.4", "label": "定语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Định ngữ",
+      "en": "Attributive (modifier)",
+      "zh": "定语"
+    },
+    "structure": "定语 + 的 + 中心语",
+    "explanation": {
+      "vi": "Định ngữ bổ nghĩa cho danh từ, thường đứng trước danh từ, có thể là danh từ, tính từ hoặc lượng từ. Thường có \"的\" để liên kết.",
+      "en": "An attributive modifies a noun, usually placed before the noun. It can be a noun, adjective, or measure word. Often connected with \"的\".",
+      "zh": "定语修饰名词，通常放在名词前，可由名词、形容词或数量短语充当，常用「的」连接。"
+    },
+    "examples": [
+      {
+        "hanzi": "他在看中文书。",
+        "pinyin": "Tā zài kàn zhōngwén shū.",
+        "translation": {"vi": "Anh ấy đang đọc sách tiếng Trung.", "en": "He is reading a Chinese book."}
+      },
+      {
+        "hanzi": "新书包很好看。",
+        "pinyin": "Xīn shūbāo hěn hǎokàn.",
+        "translation": {"vi": "Cặp sách mới rất đẹp.", "en": "The new bag is very nice."}
+      },
+      {
+        "hanzi": "我喜欢干净的房间。",
+        "pinyin": "Wǒ xǐhuān gānjìng de fángjiān.",
+        "translation": {"vi": "Tôi thích căn phòng sạch sẽ.", "en": "I like clean rooms."}
+      },
+      {
+        "hanzi": "她看了两本书。",
+        "pinyin": "Tā kàn le liǎng běn shū.",
+        "translation": {"vi": "Cô ấy đã đọc hai quyển sách.", "en": "She read two books."}
+      }
+    ]
+  },
+  {
+    "id": "zhuang_yu",
+    "metadata": {
+      "id": "一28",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.3", "label": "句子成分"},
+        {"code": "A.1.3.5", "label": "状语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Trạng ngữ",
+      "en": "Adverbial modifier",
+      "zh": "状语"
+    },
+    "structure": "状语 + 动词/形容词",
+    "explanation": {
+      "vi": "Trạng ngữ bổ nghĩa cho động từ hoặc tính từ, chỉ thời gian, địa điểm, cách thức, mức độ, v.v. Thường đứng trước thành phần chính.",
+      "en": "An adverbial modifies a verb or adjective, indicating time, place, manner, degree, etc. Usually placed before the main component.",
+      "zh": "状语修饰动词或形容词，表示时间、处所、方式、程度等，通常放在中心成分前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他不吃包子。",
+        "pinyin": "Tā bù chī bāozi.",
+        "translation": {"vi": "Anh ấy không ăn bánh bao.", "en": "He doesn't eat baozi."}
+      },
+      {
+        "hanzi": "这个房间非常干净。",
+        "pinyin": "Zhège fángjiān fēicháng gānjìng.",
+        "translation": {"vi": "Căn phòng này rất sạch sẽ.", "en": "This room is very clean."}
+      },
+      {
+        "hanzi": "你认真写！",
+        "pinyin": "Nǐ rènzhēn xiě!",
+        "translation": {"vi": "Bạn viết nghiêm túc!", "en": "Write carefully!"}
+      },
+      {
+        "hanzi": "他十点睡觉。",
+        "pinyin": "Tā shí diǎn shuìjiào.",
+        "translation": {"vi": "Anh ấy đi ngủ lúc 10 giờ.", "en": "He sleeps at 10 o'clock."}
+      },
+      {
+        "hanzi": "她在网上买了两本书。",
+        "pinyin": "Tā zài wǎngshàng mǎi le liǎng běn shū.",
+        "translation": {"vi": "Cô ấy mua hai quyển sách trên mạng.", "en": "She bought two books online."}
+      }
+    ]
+  },
+  {
+    "id": "dongci-weiyu",
+    "metadata": {
+      "id": "一29",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.1", "label": "句型"},
+        {"code": "A.1.4.1.1", "label": "单句"}
+      ],
+      "category": "主谓句1"
+    },
+    "title": {
+      "vi": "Câu vị ngữ động từ",
+      "en": "Verb-predicate sentence",
+      "zh": "动词谓语句"
+    },
+    "structure": "主语 + 动词 + (宾语)",
+    "explanation": {
+      "vi": "Câu vị ngữ động từ có chủ ngữ và vị ngữ là động từ hoặc cụm động từ, thường có tân ngữ. Đây là loại câu cơ bản nhất.",
+      "en": "A verb-predicate sentence has a subject and a predicate that is a verb or verb phrase, often with an object. This is the most basic sentence type.",
+      "zh": "动词谓语句由主语和动词谓语构成，常带宾语。这是最基本的句型。"
+    },
+    "examples": [
+      {
+        "hanzi": "我买一个面包。",
+        "pinyin": "Wǒ mǎi yī gè miànbāo.",
+        "translation": {"vi": "Tôi mua một cái bánh mì.", "en": "I buy a piece of bread."}
+      },
+      {
+        "hanzi": "他不去医院。",
+        "pinyin": "Tā bù qù yīyuàn.",
+        "translation": {"vi": "Anh ấy không đi bệnh viện.", "en": "He doesn't go to the hospital."}
+      },
+      {
+        "hanzi": "我们学习中文。",
+        "pinyin": "Wǒmen xuéxí zhōngwén.",
+        "translation": {"vi": "Chúng tôi học tiếng Trung.", "en": "We study Chinese."}
+      },
+      {
+        "hanzi": "她看了一部电影。",
+        "pinyin": "Tā kàn le yī bù diànyǐng.",
+        "translation": {"vi": "Cô ấy đã xem một bộ phim.", "en": "She watched a movie."}
+      }
+    ]
+  },
+  {
+    "id": "xingrongci-weiyu",
+    "metadata": {
+      "id": "一30",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.1", "label": "句型"},
+        {"code": "A.1.4.1.1", "label": "单句"}
+      ],
+      "category": "主谓句2"
+    },
+    "title": {
+      "vi": "Câu vị ngữ tính từ",
+      "en": "Adjective-predicate sentence",
+      "zh": "形容词谓语句"
+    },
+    "structure": "主语 + 很/非常 + 形容词",
+    "explanation": {
+      "vi": "Câu vị ngữ tính từ có vị ngữ là tính từ, thường có trạng từ mức độ như \"很\" để bổ nghĩa. Miêu tả đặc tính hoặc trạng thái.",
+      "en": "An adjective-predicate sentence has a predicate that is an adjective, often with a degree adverb like \"很\". It describes properties or states.",
+      "zh": "形容词谓语句的谓语由形容词充当，常带程度副词如「很」，描写性质或状态。"
+    },
+    "examples": [
+      {
+        "hanzi": "房间很干净。",
+        "pinyin": "Fángjiān hěn gānjìng.",
+        "translation": {"vi": "Căn phòng rất sạch sẽ.", "en": "The room is very clean."}
+      },
+      {
+        "hanzi": "这个学生最认真。",
+        "pinyin": "Zhège xuésheng zuì rènzhēn.",
+        "translation": {"vi": "Học sinh này chăm chỉ nhất.", "en": "This student is the most serious."}
+      },
+      {
+        "hanzi": "今天很热。",
+        "pinyin": "Jīntiān hěn rè.",
+        "translation": {"vi": "Hôm nay rất nóng.", "en": "It's hot today."}
+      },
+      {
+        "hanzi": "那个书包很漂亮。",
+        "pinyin": "Nàge shūbāo hěn piàoliang.",
+        "translation": {"vi": "Cái cặp sách đó rất đẹp.", "en": "That bag is very pretty."}
+      }
+    ]
+  },
+  {
+    "id": "fei-zhuyu",
+    "metadata": {
+      "id": "一31",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.1", "label": "句型"},
+        {"code": "A.1.4.1.1", "label": "单句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Câu không có chủ ngữ",
+      "en": "Non-subject sentence",
+      "zh": "非主谓句"
+    },
+    "structure": "动词/名词 + 其他",
+    "explanation": {
+      "vi": "Câu không có chủ ngữ không có chủ ngữ rõ ràng, thường chỉ sự tồn tại, sự kiện tự nhiên hoặc mệnh lệnh. Trong tiếng Trung, thường là câu mô tả thời tiết, sự kiện hoặc hô hào.",
+      "en": "A non-subject sentence has no explicit subject, often expressing existence, natural phenomena, or commands. In Chinese, these are common for weather, events, or exclamations.",
+      "zh": "非主谓句没有明确的主语，常表示存在、自然现象或命令。汉语中常见于天气、事件或感叹。"
+    },
+    "examples": [
+      {
+        "hanzi": "下雨了。",
+        "pinyin": "Xià yǔ le.",
+        "translation": {"vi": "Trời mưa rồi.", "en": "It's raining."}
+      },
+      {
+        "hanzi": "车！",
+        "pinyin": "Chē!",
+        "translation": {"vi": "Xe!", "en": "Car!"}
+      },
+      {
+        "hanzi": "别说话了。",
+        "pinyin": "Bié shuōhuà le.",
+        "translation": {"vi": "Đừng nói chuyện nữa.", "en": "Stop talking."}
+      }
+    ]
+  },
+  {
+    "id": "chenshu-ju",
+    "metadata": {
+      "id": "一32",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Câu trần thuật",
+      "en": "Declarative sentence",
+      "zh": "陈述句"
+    },
+    "structure": "主语 + 谓语",
+    "explanation": {
+      "vi": "Câu trần thuật dùng để kể lại sự việc hoặc trình bày một nhận định. Nó là loại câu cơ bản nhất, thường có dấu chấm.",
+      "en": "Declarative sentences state facts or opinions. They are the most basic sentence type, usually ending with a period.",
+      "zh": "陈述句用于叙述事实或说明看法，是最基本的句型，通常以句号结尾。"
+    },
+    "examples": [
+      {
+        "hanzi": "妈妈做晚饭。",
+        "pinyin": "Māma zuò wǎnfàn.",
+        "translation": {"vi": "Mẹ nấu bữa tối.", "en": "Mom cooks dinner."}
+      },
+      {
+        "hanzi": "我不喜欢看电视。",
+        "pinyin": "Wǒ bù xǐhuān kàn diànshì.",
+        "translation": {"vi": "Tôi không thích xem TV.", "en": "I don't like watching TV."}
+      },
+      {
+        "hanzi": "他是学生。",
+        "pinyin": "Tā shì xuésheng.",
+        "translation": {"vi": "Anh ấy là học sinh.", "en": "He is a student."}
+      }
+    ]
+  },
+  {
+    "id": "shi-fei-wen",
+    "metadata": {
+      "id": "一33-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": "疑问句"
+    },
+    "title": {
+      "vi": "Câu hỏi có/không",
+      "en": "Yes-no question",
+      "zh": "是非问句"
+    },
+    "structure": "陈述句 + 吗？",
+    "explanation": {
+      "vi": "Câu hỏi có/không được tạo bằng cách thêm trợ từ \"吗\" vào cuối câu trần thuật. Câu trả lời thường là \"是\" hoặc \"不\".",
+      "en": "A yes-no question is formed by adding the particle \"吗\" to the end of a declarative sentence. The answer is usually \"是\" or \"不\".",
+      "zh": "是非问句是在陈述句末加语气词「吗」构成，回答通常用\"是\"或\"不\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "他是老师吗？",
+        "pinyin": "Tā shì lǎoshī ma?",
+        "translation": {"vi": "Anh ấy là giáo viên à?", "en": "Is he a teacher?"}
+      },
+      {
+        "hanzi": "那儿现在热吗？",
+        "pinyin": "Nàr xiànzài rè ma?",
+        "translation": {"vi": "Ở đó bây giờ nóng không?", "en": "Is it hot there now?"}
+      },
+      {
+        "hanzi": "你会开车吗？",
+        "pinyin": "Nǐ huì kāichē ma?",
+        "translation": {"vi": "Bạn có biết lái xe không?", "en": "Can you drive?"}
+      }
+    ]
+  },
+  {
+    "id": "te-zhi-wen",
+    "metadata": {
+      "id": "一33-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": "疑问句"
+    },
+    "title": {
+      "vi": "Câu hỏi với từ nghi vấn",
+      "en": "Wh-question (with question word)",
+      "zh": "特指问句"
+    },
+    "structure": "疑问代词 + 谓语？",
+    "explanation": {
+      "vi": "Câu hỏi đặc biệt sử dụng từ để hỏi như \"什么\", \"谁\", \"哪儿\" để hỏi về thông tin cụ thể. Không dùng \"吗\".",
+      "en": "A wh-question uses question words like \"什么\", \"谁\", \"哪儿\" to ask for specific information. It does not use \"吗\".",
+      "zh": "特指问句使用疑问代词如\"什么、谁、哪儿\"来询问具体信息，不用\"吗\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "谁跟你一起去书店？",
+        "pinyin": "Shéi gēn nǐ yīqǐ qù shūdiàn?",
+        "translation": {"vi": "Ai đi nhà sách cùng bạn?", "en": "Who is going to the bookstore with you?"}
+      },
+      {
+        "hanzi": "你想买什么？",
+        "pinyin": "Nǐ xiǎng mǎi shénme?",
+        "translation": {"vi": "Bạn muốn mua gì?", "en": "What do you want to buy?"}
+      },
+      {
+        "hanzi": "你在哪儿学习？",
+        "pinyin": "Nǐ zài nǎr xuéxí?",
+        "translation": {"vi": "Bạn học ở đâu?", "en": "Where do you study?"}
+      }
+    ]
+  },
+  {
+    "id": "xuan-ze-wen",
+    "metadata": {
+      "id": "一33-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": "疑问句"
+    },
+    "title": {
+      "vi": "Câu hỏi lựa chọn",
+      "en": "Alternative question",
+      "zh": "选择问句"
+    },
+    "structure": "A 还是 B？",
+    "explanation": {
+      "vi": "Câu hỏi lựa chọn dùng liên từ \"还是\" để nối hai hoặc nhiều lựa chọn. Người hỏi muốn người nghe chọn một.",
+      "en": "An alternative question uses the conjunction \"还是\" to connect two or more options. The speaker expects the listener to choose one.",
+      "zh": "选择问句用连词「还是」连接两个或多个选项，要求对方选择其一。"
+    },
+    "examples": [
+      {
+        "hanzi": "你爸爸是老师还是医生？",
+        "pinyin": "Nǐ bàba shì lǎoshī háishì yīshēng?",
+        "translation": {"vi": "Bố bạn là giáo viên hay bác sĩ?", "en": "Is your father a teacher or a doctor?"}
+      },
+      {
+        "hanzi": "你们坐火车去还是坐飞机去？",
+        "pinyin": "Nǐmen zuò huǒchē qù háishì zuò fēijī qù?",
+        "translation": {"vi": "Các bạn đi tàu hỏa hay đi máy bay?", "en": "Are you going by train or by plane?"}
+      },
+      {
+        "hanzi": "你喜欢喝茶还是喝咖啡？",
+        "pinyin": "Nǐ xǐhuān hē chá háishì hē kāfēi?",
+        "translation": {"vi": "Bạn thích uống trà hay cà phê?", "en": "Do you like tea or coffee?"}
+      }
+    ]
+  },
+  {
+    "id": "zheng-fan-wen",
+    "metadata": {
+      "id": "一33-04",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": "疑问句"
+    },
+    "title": {
+      "vi": "Câu hỏi chính phản",
+      "en": "Affirmative-negative question",
+      "zh": "正反问句"
+    },
+    "structure": "V 不 V / V 没 V",
+    "explanation": {
+      "vi": "Câu hỏi chính phản dùng bằng cách lặp lại động từ hoặc tính từ với dạng phủ định, như \"是不是\", \"有没有\", \"好不好\". Thường không dùng \"吗\".",
+      "en": "An affirmative-negative question is formed by repeating a verb or adjective with its negative form, e.g., \"是不是\", \"有没有\", \"好不好\". Usually no \"吗\".",
+      "zh": "正反问句通过动词或形容词的肯定否定形式重叠构成，如\"是不是\"、\"有没有\"、\"好不好\"，一般不用\"吗\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "你喝不喝牛奶？",
+        "pinyin": "Nǐ hē bù hē niúnǎi?",
+        "translation": {"vi": "Bạn có uống sữa không?", "en": "Do you drink milk?"}
+      },
+      {
+        "hanzi": "你吃没吃早饭？",
+        "pinyin": "Nǐ chī méi chī zǎofàn?",
+        "translation": {"vi": "Bạn đã ăn sáng chưa?", "en": "Have you had breakfast?"}
+      },
+      {
+        "hanzi": "今天冷不冷？",
+        "pinyin": "Jīntiān lěng bù lěng?",
+        "translation": {"vi": "Hôm nay có lạnh không?", "en": "Is it cold today?"}
+      },
+      {
+        "hanzi": "这个房间干净不干净？",
+        "pinyin": "Zhège fángjiān gānjìng bù gānjìng?",
+        "translation": {"vi": "Căn phòng này có sạch không?", "en": "Is this room clean?"}
+      }
+    ]
+  },
+  {
+    "id": "qi-shi-ju",
+    "metadata": {
+      "id": "一34",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Câu mệnh lệnh",
+      "en": "Imperative sentence",
+      "zh": "祈使句"
+    },
+    "structure": "请 + 动词 / 别 + 动词",
+    "explanation": {
+      "vi": "Câu mệnh lệnh dùng để yêu cầu, đề nghị hoặc cấm đoán. Thường dùng \"请\" để làm dịu, \"别\" để cấm.",
+      "en": "An imperative sentence is used to request, suggest, or forbid. Often use \"请\" to soften, \"别\" to prohibit.",
+      "zh": "祈使句用于请求、建议或禁止，常用「请」表客气，「别」表禁止。"
+    },
+    "examples": [
+      {
+        "hanzi": "请进！",
+        "pinyin": "Qǐng jìn!",
+        "translation": {"vi": "Xin mời vào!", "en": "Please come in!"}
+      },
+      {
+        "hanzi": "别说了！",
+        "pinyin": "Bié shuō le!",
+        "translation": {"vi": "Đừng nói nữa!", "en": "Stop talking!"}
+      },
+      {
+        "hanzi": "请坐。",
+        "pinyin": "Qǐng zuò.",
+        "translation": {"vi": "Xin mời ngồi.", "en": "Please sit down."}
+      }
+    ]
+  },
+  {
+    "id": "gan-tan-ju",
+    "metadata": {
+      "id": "一35",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.2", "label": "句类"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Câu cảm thán",
+      "en": "Exclamatory sentence",
+      "zh": "感叹句"
+    },
+    "structure": "太/真 + 形容词 + 了！",
+    "explanation": {
+      "vi": "Câu cảm thán bày tỏ cảm xúc mạnh, thường dùng \"太\" hoặc \"真\" kèm tính từ và \"了\" ở cuối.",
+      "en": "An exclamatory sentence expresses strong emotion, often using \"太\" or \"真\" with an adjective and \"了\" at the end.",
+      "zh": "感叹句表达强烈感情，常用「太」或「真」加形容词，句末用「了」。"
+    },
+    "examples": [
+      {
+        "hanzi": "今天太热了！",
+        "pinyin": "Jīntiān tài rè le!",
+        "translation": {"vi": "Hôm nay nóng quá!", "en": "It's so hot today!"}
+      },
+      {
+        "hanzi": "这水果真好吃！",
+        "pinyin": "Zhè shuǐguǒ zhēn hǎochī!",
+        "translation": {"vi": "Trái cây này ngon thật!", "en": "This fruit is really delicious!"}
+      },
+      {
+        "hanzi": "她真漂亮！",
+        "pinyin": "Tā zhēn piàoliang!",
+        "translation": {"vi": "Cô ấy thật xinh đẹp!", "en": "She is really beautiful!"}
+      }
+    ]
+  },
+  {
+    "id": "shi_zi_ju_1",
+    "metadata": {
+      "id": "一36-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "是字句"
+    },
+    "title": {
+      "vi": "Câu với \"是\" - chỉ tương đương hoặc phân loại",
+      "en": "\"是\" sentence - equivalence or classification",
+      "zh": "「是」字句 - 表示等同或类属"
+    },
+    "structure": "A + 是 + B",
+    "explanation": {
+      "vi": "Dùng \"是\" để nối chủ ngữ với danh từ vị ngữ, tương đương \"là\". Phủ định thêm \"不\" trước \"是\".",
+      "en": "Use \"是\" to link a subject to a noun predicate, like \"to be\". Negate with \"不\" before \"是\".",
+      "zh": "用「是」连接主语和名词谓语，相当于英语的 to be。否定时在「是」前加「不」。"
+    },
+    "examples": [
+      {
+        "hanzi": "他是我的老师。",
+        "pinyin": "Tā shì wǒ de lǎoshī.",
+        "translation": {"vi": "Anh ấy là thầy giáo của tôi.", "en": "He is my teacher."}
+      },
+      {
+        "hanzi": "这是他的书。",
+        "pinyin": "Zhè shì tā de shū.",
+        "translation": {"vi": "Đây là quyển sách của anh ấy.", "en": "This is his book."}
+      },
+      {
+        "hanzi": "我不是学生。",
+        "pinyin": "Wǒ bù shì xuésheng.",
+        "translation": {"vi": "Tôi không phải là học sinh.", "en": "I am not a student."}
+      }
+    ]
+  },
+  {
+    "id": "shi_zi_ju_2",
+    "metadata": {
+      "id": "一36-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "是字句"
+    },
+    "title": {
+      "vi": "Câu với \"是\" - chỉ tính chất",
+      "en": "\"是\" sentence - description or characteristic",
+      "zh": "「是」字句 - 表示说明或特征"
+    },
+    "structure": "A + 是 + 形容词 + 的",
+    "explanation": {
+      "vi": "Dùng \"是……的\" để nhấn mạnh đặc điểm hoặc tính chất của chủ ngữ. Tính từ đứng giữa.",
+      "en": "Use \"是……的\" to emphasize a characteristic or property of the subject. The adjective goes in the middle.",
+      "zh": "用「是……的」强调主语的特征或性质，形容词放在中间。"
+    },
+    "examples": [
+      {
+        "hanzi": "花是白的。",
+        "pinyin": "Huā shì bái de.",
+        "translation": {"vi": "Hoa màu trắng.", "en": "The flowers are white."}
+      },
+      {
+        "hanzi": "衣服是干净的。",
+        "pinyin": "Yīfu shì gānjìng de.",
+        "translation": {"vi": "Quần áo sạch sẽ.", "en": "The clothes are clean."}
+      },
+      {
+        "hanzi": "他是高的。",
+        "pinyin": "Tā shì gāo de.",
+        "translation": {"vi": "Anh ấy cao.", "en": "He is tall."}
+      }
+    ]
+  },
+  {
+    "id": "shi_zi_ju_3",
+    "metadata": {
+      "id": "一36-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "是字句"
+    },
+    "title": {
+      "vi": "Câu với \"是\" - chỉ sự tồn tại",
+      "en": "\"是\" sentence - existence",
+      "zh": "「是」字句 - 表示存在"
+    },
+    "structure": "处所 + 是 + 名词",
+    "explanation": {
+      "vi": "Dùng \"是\" để chỉ sự tồn tại của một vật ở một nơi, thường có cấu trúc \"Địa điểm + 是 + vật\". Phủ định dùng \"不是\".",
+      "en": "Use \"是\" to indicate the existence of something in a place, often in the structure \"place + 是 + thing\". Negate with \"不是\".",
+      "zh": "用「是」表示某处存在某物，结构为\"处所 + 是 + 事物\"。否定用\"不是\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "车站东边是一个学校。",
+        "pinyin": "Chēzhàn dōngbiān shì yī gè xuéxiào.",
+        "translation": {"vi": "Phía đông bến xe là một trường học.", "en": "To the east of the station is a school."}
+      },
+      {
+        "hanzi": "教学楼西边不是图书馆。",
+        "pinyin": "Jiàoxué lóu xībiān bù shì túshūguǎn.",
+        "translation": {"vi": "Phía tây tòa giảng đường không phải là thư viện.", "en": "To the west of the teaching building is not the library."}
+      },
+      {
+        "hanzi": "桌子上面是一本书。",
+        "pinyin": "Zhuōzi shàngmiàn shì yī běn shū.",
+        "translation": {"vi": "Trên bàn là một quyển sách.", "en": "On the table is a book."}
+      }
+    ]
+  },
+  {
+    "id": "you_zi_ju_1",
+    "metadata": {
+      "id": "一37-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "有字句1"
+    },
+    "title": {
+      "vi": "Câu với \"有\" - chỉ sở hữu",
+      "en": "\"有\" sentence - possession",
+      "zh": "「有」字句 - 表示领有"
+    },
+    "structure": "主语 + 有 + 名词",
+    "explanation": {
+      "vi": "Dùng \"有\" để biểu thị sự sở hữu, chủ ngữ là người hoặc vật có. Phủ định dùng \"没有\".",
+      "en": "Use \"有\" to indicate possession; the subject is the possessor. Negate with \"没有\".",
+      "zh": "用「有」表示领有，主语为领有者。否定用「没有」。"
+    },
+    "examples": [
+      {
+        "hanzi": "我有很多书。",
+        "pinyin": "Wǒ yǒu hěnduō shū.",
+        "translation": {"vi": "Tôi có nhiều sách.", "en": "I have many books."}
+      },
+      {
+        "hanzi": "他没有哥哥。",
+        "pinyin": "Tā méiyǒu gēge.",
+        "translation": {"vi": "Anh ấy không có anh trai.", "en": "He doesn't have an elder brother."}
+      },
+      {
+        "hanzi": "一个星期有七天。",
+        "pinyin": "Yī gè xīngqī yǒu qī tiān.",
+        "translation": {"vi": "Một tuần có bảy ngày.", "en": "There are seven days in a week."}
+      }
+    ]
+  },
+  {
+    "id": "you_zi_ju_2",
+    "metadata": {
+      "id": "一37-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "有字句1"
+    },
+    "title": {
+      "vi": "Câu với \"有\" - chỉ sự tồn tại",
+      "en": "\"有\" sentence - existence",
+      "zh": "「有」字句 - 表示存在"
+    },
+    "structure": "处所 + 有 + 名词",
+    "explanation": {
+      "vi": "Dùng \"有\" để chỉ sự tồn tại của một vật ở một nơi, cấu trúc \"Địa điểm + 有 + vật\". Phủ định dùng \"没有\".",
+      "en": "Use \"有\" to indicate the existence of something in a place, structure \"place + 有 + thing\". Negate with \"没有\".",
+      "zh": "用「有」表示某处存在某物，结构为\"处所 + 有 + 事物\"。否定用「没有」。"
+    },
+    "examples": [
+      {
+        "hanzi": "房间里有两张桌子。",
+        "pinyin": "Fángjiān lǐ yǒu liǎng zhāng zhuōzi.",
+        "translation": {"vi": "Trong phòng có hai cái bàn.", "en": "There are two tables in the room."}
+      },
+      {
+        "hanzi": "房间里没有桌子。",
+        "pinyin": "Fángjiān lǐ méiyǒu zhuōzi.",
+        "translation": {"vi": "Trong phòng không có bàn.", "en": "There is no table in the room."}
+      },
+      {
+        "hanzi": "桌子上有一本书。",
+        "pinyin": "Zhuōzi shàng yǒu yī běn shū.",
+        "translation": {"vi": "Trên bàn có một quyển sách.", "en": "There is a book on the table."}
+      }
+    ]
+  },
+  {
+    "id": "bijiao_bi",
+    "metadata": {
+      "id": "一38-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "比较句1"
+    },
+    "title": {
+      "vi": "Câu so sánh với \"比\"",
+      "en": "Comparison with \"比\"",
+      "zh": "比较句 - A比B+形容词"
+    },
+    "structure": "A + 比 + B + 形容词",
+    "explanation": {
+      "vi": "Dùng \"比\" để so sánh hơn, chỉ A có tính chất hơn B. Phủ định thường dùng \"A没有B+形容词\".",
+      "en": "Use \"比\" to compare two items, indicating A is more adjective than B. Negation often uses \"A没有B+形容词\".",
+      "zh": "用「比」表示比较，A比B更……。否定常用\"A没有B+形容词\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "我朋友比我高。",
+        "pinyin": "Wǒ péngyou bǐ wǒ gāo.",
+        "translation": {"vi": "Bạn tôi cao hơn tôi.", "en": "My friend is taller than me."}
+      },
+      {
+        "hanzi": "这个手机比那个贵。",
+        "pinyin": "Zhège shǒujī bǐ nàge guì.",
+        "translation": {"vi": "Điện thoại này đắt hơn cái kia.", "en": "This phone is more expensive than that one."}
+      },
+      {
+        "hanzi": "他比我大两岁。",
+        "pinyin": "Tā bǐ wǒ dà liǎng suì.",
+        "translation": {"vi": "Anh ấy lớn hơn tôi hai tuổi.", "en": "He is two years older than me."}
+      }
+    ]
+  },
+  {
+    "id": "bijiao_meiyou",
+    "metadata": {
+      "id": "一38-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.3", "label": "特殊句型"}
+      ],
+      "category": "比较句1"
+    },
+    "title": {
+      "vi": "Câu so sánh với \"没有\" (không bằng)",
+      "en": "Comparison with \"没有\" (not as...as)",
+      "zh": "比较句 - A没有B+形容词"
+    },
+    "structure": "A + 没有 + B + 形容词",
+    "explanation": {
+      "vi": "Dùng \"没有\" để phủ định so sánh hơn, nghĩa là A không bằng B. Đây là cách phủ định của \"比\".",
+      "en": "Use \"没有\" to negate a comparison, meaning A is not as adjective as B. This is the negative counterpart of \"比\".",
+      "zh": "用「没有」表示A不如B，是「比」的否定形式。"
+    },
+    "examples": [
+      {
+        "hanzi": "昨天没有今天热。",
+        "pinyin": "Zuótiān méiyǒu jīntiān rè.",
+        "translation": {"vi": "Hôm qua không nóng bằng hôm nay.", "en": "Yesterday was not as hot as today."}
+      },
+      {
+        "hanzi": "这个书包没有那个好看。",
+        "pinyin": "Zhège shūbāo méiyǒu nàge hǎokàn.",
+        "translation": {"vi": "Cặp sách này không đẹp bằng cái kia.", "en": "This bag is not as nice as that one."}
+      },
+      {
+        "hanzi": "她没有我高。",
+        "pinyin": "Tā méiyǒu wǒ gāo.",
+        "translation": {"vi": "Cô ấy không cao bằng tôi.", "en": "She is not as tall as me."}
+      }
+    ]
+  },
+  {
+    "id": "binglie_fuju",
+    "metadata": {
+      "id": "一39-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.4", "label": "复句"}
+      ],
+      "category": "并列复句"
+    },
+    "title": {
+      "vi": "Câu ghép liên kết (không dùng từ nối)",
+      "en": "Compound sentence - coordinate (no conjunction)",
+      "zh": "并列复句 - 不用关联词语"
+    },
+    "structure": "分句1，分句2",
+    "explanation": {
+      "vi": "Câu ghép liên kết ghép các mệnh đề có quan hệ bình đẳng, thường không cần từ nối. Các mệnh đề được ngăn cách bằng dấu phẩy.",
+      "en": "Coordinate compound sentences combine clauses of equal status, often without conjunctions. Clauses are separated by commas.",
+      "zh": "并列复句由若干分句并列组成，不用关联词语，分句间用逗号隔开。"
+    },
+    "examples": [
+      {
+        "hanzi": "我喜欢看电视，弟弟喜欢打球。",
+        "pinyin": "Wǒ xǐhuān kàn diànshì, dìdi xǐhuān dǎ qiú.",
+        "translation": {"vi": "Tôi thích xem TV, em trai thích chơi bóng.", "en": "I like watching TV, my younger brother likes playing ball."}
+      },
+      {
+        "hanzi": "他有一个哥哥，没有姐姐。",
+        "pinyin": "Tā yǒu yī gè gēge, méiyǒu jiějie.",
+        "translation": {"vi": "Anh ấy có một anh trai, không có chị gái.", "en": "He has an elder brother, but no elder sister."}
+      },
+      {
+        "hanzi": "今天很冷，风很大。",
+        "pinyin": "Jīntiān hěn lěng, fēng hěn dà.",
+        "translation": {"vi": "Hôm nay rất lạnh, gió lớn.", "en": "Today is cold, and the wind is strong."}
+      }
+    ]
+  },
+  {
+    "id": "binglie_guanlian",
+    "metadata": {
+      "id": "一39-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.4", "label": "句子的类型"},
+        {"code": "A.1.4.4", "label": "复句"}
+      ],
+      "category": "用关联词语"
+    },
+    "title": {
+      "vi": "Câu ghép liên kết với \"一边……一边……\" và \"也\"",
+      "en": "Compound sentence with \"一边……一边……\" and \"也\"",
+      "zh": "并列复句 - 用关联词语"
+    },
+    "structure": "一边……一边……；也",
+    "explanation": {
+      "vi": "Các liên từ như \"一边……一边……\" diễn tả hai hành động xảy ra đồng thời. \"也\" dùng để bổ sung thông tin tương tự.",
+      "en": "Conjunctions like \"一边……一边……\" express two simultaneous actions. \"也\" is used to add similar information.",
+      "zh": "关联词语如\"一边……一边……\"表示两个动作同时进行，\"也\"表示追加类同信息。"
+    },
+    "examples": [
+      {
+        "hanzi": "他一边走路，一边唱歌。",
+        "pinyin": "Tā yībiān zǒulù, yībiān chànggē.",
+        "translation": {"vi": "Anh ấy vừa đi vừa hát.", "en": "He walks and sings at the same time."}
+      },
+      {
+        "hanzi": "哥哥一边看电视，一边吃东西。",
+        "pinyin": "Gēge yībiān kàn diànshì, yībiān chī dōngxi.",
+        "translation": {"vi": "Anh trai vừa xem TV vừa ăn.", "en": "My elder brother watches TV and eats at the same time."}
+      },
+      {
+        "hanzi": "我喜欢唱歌，弟弟也喜欢唱歌。",
+        "pinyin": "Wǒ xǐhuān chànggē, dìdi yě xǐhuān chànggē.",
+        "translation": {"vi": "Tôi thích hát, em trai cũng thích hát.", "en": "I like singing, and my younger brother also likes singing."}
+      },
+      {
+        "hanzi": "这个房间很大，也很干净。",
+        "pinyin": "Zhège fángjiān hěn dà, yě hěn gānjìng.",
+        "translation": {"vi": "Căn phòng này rất rộng, cũng rất sạch sẽ.", "en": "This room is big, and also clean."}
+      }
+    ]
+  },
+  {
+    "id": "bian-hua-tai",
+    "metadata": {
+      "id": "一40",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.5", "label": "动作的态"}
+      ],
+      "category": "变化态"
+    },
+    "title": {
+      "vi": "Thái biến đổi (dùng \"了\" cuối câu)",
+      "en": "Change-of-state aspect (using sentence-final \"了\")",
+      "zh": "变化态"
+    },
+    "structure": "动词/形容词 + 了",
+    "explanation": {
+      "vi": "Dùng \"了\" ở cuối câu để biểu thị trạng thái mới xuất hiện hoặc sự thay đổi. Thường dùng với động từ hoặc tính từ chỉ sự biến đổi.",
+      "en": "Use sentence-final \"了\" to indicate a new state or change. Often used with verbs or adjectives indicating change.",
+      "zh": "用句末\"了\"表示新情况出现或状态变化，常与表示变化的动词或形容词连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "她病了。",
+        "pinyin": "Tā bìng le.",
+        "translation": {"vi": "Cô ấy bị bệnh rồi.", "en": "She got sick."}
+      },
+      {
+        "hanzi": "雨小了。",
+        "pinyin": "Yǔ xiǎo le.",
+        "translation": {"vi": "Mưa nhỏ lại rồi.", "en": "The rain has lightened."}
+      },
+      {
+        "hanzi": "他吃早饭了。",
+        "pinyin": "Tā chī zǎofàn le.",
+        "translation": {"vi": "Anh ấy đã ăn sáng rồi.", "en": "He has had breakfast."}
+      },
+      {
+        "hanzi": "我没吃早饭。",
+        "pinyin": "Wǒ méi chī zǎofàn.",
+        "translation": {"vi": "Tôi chưa ăn sáng.", "en": "I haven't had breakfast."}
+      }
+    ]
+  },
+  {
+    "id": "wan-cheng-tai",
+    "metadata": {
+      "id": "一41",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.5", "label": "动作的态"}
+      ],
+      "category": "完成态"
+    },
+    "title": {
+      "vi": "Thái hoàn thành (dùng \"了\" sau động từ)",
+      "en": "Completed aspect (using verb-suffix \"了\")",
+      "zh": "完成态"
+    },
+    "structure": "动词 + 了 + 宾语",
+    "explanation": {
+      "vi": "Dùng \"了\" sau động từ để chỉ hành động đã hoàn thành. Phủ định dùng \"没\" trước động từ và không dùng \"了\".",
+      "en": "Use \"了\" after a verb to indicate completed action. Negate with \"没\" before the verb and omit \"了\".",
+      "zh": "用动词后的\"了\"表示动作完成。否定用\"没\"加动词，不加\"了\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "他买了两个面包。",
+        "pinyin": "Tā mǎi le liǎng gè miànbāo.",
+        "translation": {"vi": "Anh ấy đã mua hai cái bánh mì.", "en": "He bought two pieces of bread."}
+      },
+      {
+        "hanzi": "我喝了很多水。",
+        "pinyin": "Wǒ hē le hěnduō shuǐ.",
+        "translation": {"vi": "Tôi đã uống nhiều nước.", "en": "I drank a lot of water."}
+      },
+      {
+        "hanzi": "他没买面包。",
+        "pinyin": "Tā méi mǎi miànbāo.",
+        "translation": {"vi": "Anh ấy không mua bánh mì.", "en": "He didn't buy bread."}
+      }
+    ]
+  },
+  {
+    "id": "jin-xing-tai_1",
+    "metadata": {
+      "id": "一42-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.5", "label": "动作的态"}
+      ],
+      "category": "进行态"
+    },
+    "title": {
+      "vi": "Thái tiếp diễn - dùng 在/正在 + động từ",
+      "en": "Progressive aspect - using 在/正在 + verb",
+      "zh": "进行态 - 用\"在/正在\"+动词"
+    },
+    "structure": "在/正在 + 动词",
+    "explanation": {
+      "vi": "Dùng \"在\" hoặc \"正在\" trước động từ để nhấn mạnh hành động đang diễn ra tại thời điểm nói.",
+      "en": "Use \"在\" or \"正在\" before a verb to emphasize an action in progress at the moment of speaking.",
+      "zh": "用\"在\"或\"正在\"放在动词前，强调动作正在发生。"
+    },
+    "examples": [
+      {
+        "hanzi": "孩子在睡觉，你别说话。",
+        "pinyin": "Háizi zài shuìjiào, nǐ bié shuōhuà.",
+        "translation": {"vi": "Đứa trẻ đang ngủ, bạn đừng nói chuyện.", "en": "The child is sleeping, don't talk."}
+      },
+      {
+        "hanzi": "外边正在下雨。",
+        "pinyin": "Wàibiān zhèngzài xià yǔ.",
+        "translation": {"vi": "Bên ngoài đang mưa.", "en": "It's raining outside."}
+      },
+      {
+        "hanzi": "他在吃饭。",
+        "pinyin": "Tā zài chīfàn.",
+        "translation": {"vi": "Anh ấy đang ăn cơm.", "en": "He is eating."}
+      }
+    ]
+  },
+  {
+    "id": "jin-xing-tai_2",
+    "metadata": {
+      "id": "一42-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.5", "label": "动作的态"}
+      ],
+      "category": "进行态"
+    },
+    "title": {
+      "vi": "Thái tiếp diễn - dùng 在/正/正在 + 动词 + 呢",
+      "en": "Progressive aspect - using 在/正/正在 + verb + 呢",
+      "zh": "进行态 - 用\"在/正/正在\"+动词+呢"
+    },
+    "structure": "在/正/正在 + 动词 + 呢",
+    "explanation": {
+      "vi": "Thêm \"呢\" ở cuối câu để nhấn mạnh hơn hành động đang diễn ra, thường dùng trong câu trần thuật.",
+      "en": "Add \"呢\" at the end to emphasize the ongoing action, often used in declarative sentences.",
+      "zh": "句末加\"呢\"加强进行语气，常用于陈述句。"
+    },
+    "examples": [
+      {
+        "hanzi": "你等一下儿，他在打电话呢。",
+        "pinyin": "Nǐ děng yīxiàr, tā zài dǎ diànhuà ne.",
+        "translation": {"vi": "Bạn đợi một chút, anh ấy đang gọi điện thoại.", "en": "Wait a moment, he's on the phone."}
+      },
+      {
+        "hanzi": "老师进来的时候，我正听歌呢。",
+        "pinyin": "Lǎoshī jìnlái de shíhou, wǒ zhèng tīng gē ne.",
+        "translation": {"vi": "Khi giáo viên bước vào, tôi đang nghe nhạc.", "en": "When the teacher came in, I was listening to music."}
+      },
+      {
+        "hanzi": "同学们正在考试呢。",
+        "pinyin": "Tóngxuémen zhèngzài kǎoshì ne.",
+        "translation": {"vi": "Các bạn học sinh đang làm bài kiểm tra.", "en": "The students are taking an exam."}
+      }
+    ]
+  },
+  {
+    "id": "jin-xing-tai_3",
+    "metadata": {
+      "id": "一42-03",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.5", "label": "动作的态"}
+      ],
+      "category": "进行态"
+    },
+    "title": {
+      "vi": "Thái tiếp diễn - dùng 呢 cuối câu",
+      "en": "Progressive aspect - using sentence-final 呢",
+      "zh": "进行态 - 用\"呢\""
+    },
+    "structure": "主语 + 动词 + 呢",
+    "explanation": {
+      "vi": "Chỉ cần thêm \"呢\" vào cuối câu, không cần \"在/正在\", cũng biểu thị hành động đang diễn ra, thường dùng trong hội thoại.",
+      "en": "Simply adding \"呢\" at the end of a sentence, without \"在/正在\", also indicates an ongoing action, often used in conversation.",
+      "zh": "仅在句末加\"呢\"，不用\"在/正在\"，也能表示动作正在进行，常用于口语对话。"
+    },
+    "examples": [
+      {
+        "hanzi": "我没看电视，看书呢。",
+        "pinyin": "Wǒ méi kàn diànshì, kànshū ne.",
+        "translation": {"vi": "Tôi không xem TV, tôi đang đọc sách.", "en": "I'm not watching TV, I'm reading."}
+      },
+      {
+        "hanzi": "甲：你在做什么？乙：我洗衣服呢。",
+        "pinyin": "Jiǎ: Nǐ zài zuò shénme? Yǐ: Wǒ xǐ yīfu ne.",
+        "translation": {"vi": "A: Bạn đang làm gì? B: Tôi đang giặt quần áo.", "en": "A: What are you doing? B: I'm washing clothes."}
+      },
+      {
+        "hanzi": "他睡觉呢。",
+        "pinyin": "Tā shuìjiào ne.",
+        "translation": {"vi": "Anh ấy đang ngủ.", "en": "He is sleeping."}
+      }
+    ]
+  },
+  {
+    "id": "qianshu-biaofa",
+    "metadata": {
+      "id": "一43",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.6", "label": "特殊表达法"},
+        {"code": "A.1.6.1", "label": "数的表示法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cách biểu thị tiền tệ",
+      "en": "Money representation",
+      "zh": "钱数表示法"
+    },
+    "structure": "元 + 角 + 分",
+    "explanation": {
+      "vi": "Trong tiếng Trung, tiền tệ được biểu thị bằng đơn vị \"块\" (元), \"毛\" (角), \"分\" (分). Có thể bỏ qua các đơn vị nhỏ trong khẩu ngữ.",
+      "en": "In Chinese, money is expressed using units \"块\" (yuan), \"毛\" (jiao), \"分\" (fen). Smaller units can be omitted in spoken Chinese.",
+      "zh": "汉语中钱数用\"块\"（元）、\"毛\"（角）、\"分\"表示，口语中可省略小单位。"
+    },
+    "examples": [
+      {
+        "hanzi": "九块三（毛）",
+        "pinyin": "Jiǔ kuài sān (máo)",
+        "translation": {"vi": "9,3 đồng", "en": "9.3 yuan"}
+      },
+      {
+        "hanzi": "十五块六毛三分",
+        "pinyin": "Shíwǔ kuài liù máo sān fēn",
+        "translation": {"vi": "15,63 đồng", "en": "15.63 yuan"}
+      },
+      {
+        "hanzi": "二十五块零八分",
+        "pinyin": "Èrshíwǔ kuài líng bā fēn",
+        "translation": {"vi": "25,08 đồng", "en": "25.08 yuan"}
+      },
+      {
+        "hanzi": "一百五十（元）",
+        "pinyin": "Yībǎi wǔshí (yuán)",
+        "translation": {"vi": "150 đồng", "en": "150 yuan"}
+      }
+    ]
+  },
+  {
+    "id": "nian-yue-ri",
+    "metadata": {
+      "id": "一44-01",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.6", "label": "特殊表达法"},
+        {"code": "A.1.6.2", "label": "时间表示法"}
+      ],
+      "category": "时间表示法"
+    },
+    "title": {
+      "vi": "Cách biểu thị năm, tháng, ngày, thứ",
+      "en": "Year, month, day, and weekday representation",
+      "zh": "年、月、日、星期表示法"
+    },
+    "structure": "年 + 月 + 日；星期 + 数字",
+    "explanation": {
+      "vi": "Thứ tự biểu thị thời gian: năm + tháng + ngày. Thứ trong tuần dùng \"星期\" + số (từ 1 đến 6, chủ nhật là \"星期日\" hoặc \"星期天\").",
+      "en": "Time representation: year + month + day. Weekdays use \"星期\" + number (1 to 6, Sunday is \"星期日\" or \"星期天\").",
+      "zh": "时间表示法：年+月+日。星期用\"星期\"+数字（1-6），周日为\"星期日\"或\"星期天\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "2020年12月25日",
+        "pinyin": "Èr líng èr líng nián shí'èr yuè èrshíwǔ rì",
+        "translation": {"vi": "ngày 25 tháng 12 năm 2020", "en": "December 25, 2020"}
+      },
+      {
+        "hanzi": "七月十号",
+        "pinyin": "Qī yuè shí hào",
+        "translation": {"vi": "ngày 10 tháng 7", "en": "July 10th"}
+      },
+      {
+        "hanzi": "星期一",
+        "pinyin": "Xīngqīyī",
+        "translation": {"vi": "thứ Hai", "en": "Monday"}
+      },
+      {
+        "hanzi": "星期天",
+        "pinyin": "Xīngqītiān",
+        "translation": {"vi": "Chủ nhật", "en": "Sunday"}
+      }
+    ]
+  },
+  {
+    "id": "zhong-dian-biaofa",
+    "metadata": {
+      "id": "一44-02",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.6", "label": "特殊表达法"},
+        {"code": "A.1.6.2", "label": "时间表示法"}
+      ],
+      "category": "时间表示法"
+    },
+    "title": {
+      "vi": "Cách biểu thị giờ",
+      "en": "Time of day representation",
+      "zh": "钟点表示法"
+    },
+    "structure": "点 + 分； 半； 差 + 分 + 点",
+    "explanation": {
+      "vi": "Giờ được biểu thị bằng \"点\" (giờ) và \"分\" (phút). \"半\" là 30 phút. \"差\" dùng để chỉ số phút còn thiếu đến giờ tiếp theo.",
+      "en": "Time is expressed using \"点\" (o'clock) and \"分\" (minutes). \"半\" means half hour. \"差\" is used for minutes before the next hour.",
+      "zh": "时间用\"点\"和\"分\"表示，\"半\"表示半小时，\"差\"表示差几分到下一个整点。"
+    },
+    "examples": [
+      {
+        "hanzi": "两点（2:00）",
+        "pinyin": "Liǎng diǎn",
+        "translation": {"vi": "2 giờ", "en": "2 o'clock"}
+      },
+      {
+        "hanzi": "两点二十五（2:25）",
+        "pinyin": "Liǎng diǎn èrshíwǔ (fēn)",
+        "translation": {"vi": "2 giờ 25 phút", "en": "2:25"}
+      },
+      {
+        "hanzi": "三点零五（3:05）",
+        "pinyin": "Sān diǎn líng wǔ (fēn)",
+        "translation": {"vi": "3 giờ 5 phút", "en": "3:05"}
+      },
+      {
+        "hanzi": "五点半（5:30）",
+        "pinyin": "Wǔ diǎn bàn",
+        "translation": {"vi": "5 giờ rưỡi", "en": "5:30"}
+      },
+      {
+        "hanzi": "差两分八点（7:58）",
+        "pinyin": "Chà liǎng fēn bā diǎn",
+        "translation": {"vi": "8 giờ kém 2 phút", "en": "two minutes to eight"}
+      }
+    ]
+  },
+  {
+    "id": "ma-tiwen",
+    "metadata": {
+      "id": "一45",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.7", "label": "提问的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Dùng \"吗\" để hỏi",
+      "en": "Using \"吗\" to ask questions",
+      "zh": "用\"吗\"提问"
+    },
+    "structure": "陈述句 + 吗？",
+    "explanation": {
+      "vi": "Thêm \"吗\" vào cuối câu trần thuật để tạo câu hỏi có/không. Đây là cách hỏi phổ biến nhất.",
+      "en": "Add \"吗\" to the end of a declarative sentence to form a yes/no question. This is the most common way to ask questions.",
+      "zh": "在陈述句末加\"吗\"构成是非问句，是最常用的提问方式。"
+    },
+    "examples": [
+      {
+        "hanzi": "他是老师吗？",
+        "pinyin": "Tā shì lǎoshī ma?",
+        "translation": {"vi": "Anh ấy là giáo viên à?", "en": "Is he a teacher?"}
+      },
+      {
+        "hanzi": "这包子好吃吗？",
+        "pinyin": "Zhè bāozi hǎochī ma?",
+        "translation": {"vi": "Bánh bao này ngon không?", "en": "Is this baozi delicious?"}
+      },
+      {
+        "hanzi": "你明天来吗？",
+        "pinyin": "Nǐ míngtiān lái ma?",
+        "translation": {"vi": "Ngày mai bạn đến không?", "en": "Are you coming tomorrow?"}
+      }
+    ]
+  },
+  {
+    "id": "yiwen-dai-ci",
+    "metadata": {
+      "id": "一46",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.7", "label": "提问的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Dùng từ nghi vấn để hỏi",
+      "en": "Using question words to ask",
+      "zh": "用疑问代词提问"
+    },
+    "structure": "疑问代词 + 谓语？",
+    "explanation": {
+      "vi": "Sử dụng các từ để hỏi như \"多, 多少, 几, 哪, 哪儿, 哪里, 哪些, 什么, 谁, 怎么\" để hỏi về thông tin cụ thể.",
+      "en": "Use question words like \"多, 多少, 几, 哪, 哪儿, 哪里, 哪些, 什么, 谁, 怎么\" to ask for specific information.",
+      "zh": "使用疑问代词如\"多、多少、几、哪、哪儿、哪里、哪些、什么、谁、怎么\"询问具体信息。"
+    },
+    "examples": [
+      {
+        "hanzi": "你哥哥多大？",
+        "pinyin": "Nǐ gēge duō dà?",
+        "translation": {"vi": "Anh trai bạn bao nhiêu tuổi?", "en": "How old is your elder brother?"}
+      },
+      {
+        "hanzi": "车上有多少个人？",
+        "pinyin": "Chē shàng yǒu duōshao gè rén?",
+        "translation": {"vi": "Trên xe có bao nhiêu người?", "en": "How many people are on the bus?"}
+      },
+      {
+        "hanzi": "你家有几口人？",
+        "pinyin": "Nǐ jiā yǒu jǐ kǒu rén?",
+        "translation": {"vi": "Gia đình bạn có mấy người?", "en": "How many people are in your family?"}
+      },
+      {
+        "hanzi": "她是哪国人？",
+        "pinyin": "Tā shì nǎ guó rén?",
+        "translation": {"vi": "Cô ấy là người nước nào?", "en": "Which country is she from?"}
+      },
+      {
+        "hanzi": "这个字怎么读？",
+        "pinyin": "Zhège zì zěnme dú?",
+        "translation": {"vi": "Chữ này đọc thế nào?", "en": "How do you read this character?"}
+      }
+    ]
+  },
+  {
+    "id": "haishi-tiwen",
+    "metadata": {
+      "id": "一47",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.7", "label": "提问的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Dùng \"还是\" để hỏi lựa chọn",
+      "en": "Using \"还是\" to ask alternative questions",
+      "zh": "用\"还是\"提问"
+    },
+    "structure": "A 还是 B？",
+    "explanation": {
+      "vi": "Dùng \"还是\" để nối các lựa chọn trong câu hỏi, yêu cầu người trả lời chọn một.",
+      "en": "Use \"还是\" to connect choices in a question, asking the respondent to choose one.",
+      "zh": "用「还是」连接选项，构成选择疑问句。"
+    },
+    "examples": [
+      {
+        "hanzi": "她妈妈是老师还是医生？",
+        "pinyin": "Tā māma shì lǎoshī háishì yīshēng?",
+        "translation": {"vi": "Mẹ cô ấy là giáo viên hay bác sĩ?", "en": "Is her mother a teacher or a doctor?"}
+      },
+      {
+        "hanzi": "你喝水还是喝牛奶？",
+        "pinyin": "Nǐ hē shuǐ háishì hē niúnǎi?",
+        "translation": {"vi": "Bạn uống nước hay uống sữa?", "en": "Do you drink water or milk?"}
+      },
+      {
+        "hanzi": "我们坐地铁还是坐公交？",
+        "pinyin": "Wǒmen zuò dìtiě háishì zuò gōngjiāo?",
+        "translation": {"vi": "Chúng ta đi tàu điện ngầm hay đi xe buýt?", "en": "Are we taking the subway or the bus?"}
+      }
+    ]
+  },
+  {
+    "id": "zheng-fan-tiwen",
+    "metadata": {
+      "id": "一48",
+      "level": "HSK1",
+      "breadcrumb": [
+        {"code": "A.1.7", "label": "提问的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Dùng dạng chính phản để hỏi",
+      "en": "Using affirmative-negative form to ask",
+      "zh": "用正反疑问形式提问"
+    },
+    "structure": "V 不 V / V 没 V",
+    "explanation": {
+      "vi": "Lặp lại động từ hoặc tính từ với dạng phủ định để tạo câu hỏi, như \"好不好\", \"去不去\", \"有没有\".",
+      "en": "Repeat a verb or adjective with its negative form to form a question, e.g., \"好不好\", \"去不去\", \"有没有\".",
+      "zh": "将动词或形容词的正反形式重叠构成疑问，如\"好不好\"、\"去不去\"、\"有没有\"。"
+    },
+    "examples": [
+      {
+        "hanzi": "这本书贵不贵？",
+        "pinyin": "Zhè běn shū guì bù guì?",
+        "translation": {"vi": "Quyển sách này có đắt không?", "en": "Is this book expensive?"}
+      },
+      {
+        "hanzi": "电影好看不好看？",
+        "pinyin": "Diànyǐng hǎokàn bù hǎokàn?",
+        "translation": {"vi": "Bộ phim có hay không?", "en": "Is the movie good?"}
+      },
+      {
+        "hanzi": "你吃不吃包子？",
+        "pinyin": "Nǐ chī bù chī bāozi?",
+        "translation": {"vi": "Bạn có ăn bánh bao không?", "en": "Do you eat baozi?"}
+      },
+      {
+        "hanzi": "他去没去图书馆？",
+        "pinyin": "Tā qù méi qù túshūguǎn?",
+        "translation": {"vi": "Anh ấy có đến thư viện không?", "en": "Did he go to the library?"}
+      },
+      {
+        "hanzi": "他回家了没有？",
+        "pinyin": "Tā huí jiā le méiyǒu?",
+        "translation": {"vi": "Anh ấy về nhà chưa?", "en": "Has he come home?"}
       }
     ]
   }
