@@ -10,7 +10,7 @@ import { toDisplayHanzi, toDisplayPhonetic } from "../../../shared/chineseText";
 import { ActivityApi } from "../../../shared/activityApi";
 import SpeakerIcon from "../../../shared/SpeakerIcon";
 
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 15;
 const FILTERS = ["all", "unlearned", "learned"];
 
 export default function Reading() {

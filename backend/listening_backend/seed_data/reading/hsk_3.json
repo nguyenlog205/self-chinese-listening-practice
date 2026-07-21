@@ -12,5 +12,755 @@
       "vi": "Để bảo vệ môi trường, ngày càng nhiều người bắt đầu thay đổi thói quen sinh hoạt của mình. Họ quyết định dùng ít túi nhựa hơn, tham gia nhiều hoạt động bảo vệ môi trường hơn, đây cũng là một cách hay để giải quyết vấn đề.",
       "en": "To protect the environment, more and more people are starting to change their living habits. They've decided to use fewer plastic bags and take part in more environmental activities, which is also a good way to solve the problem."
     }
+  },
+  {
+    "id": "hsk3_r002",
+    "title": {
+      "vi": "Kỳ nghỉ cuối tuần",
+      "en": "Weekend holiday",
+      "zh": "周末假期"
+    },
+    "hanzi": "这个周末我和家人一起去了海边。天气很好，阳光很温暖。我们在沙滩上玩了一整天，还吃了很多海鲜。我的妹妹喜欢捡贝壳，她捡了很多漂亮的贝壳。我觉得和家人在一起的时间总是很开心。",
+    "pinyin": "Zhège zhōumò wǒ hé jiārén yìqǐ qùle hǎibiān. Tiānqì hěn hǎo, yángguāng hěn wēnnuǎn. Wǒmen zài shātān shàng wánle yì zhěngtiān, hái chīle hěnduō hǎixiān. Wǒ de mèimei xǐhuān jiǎn bèiké, tā jiǎnle hěnduō piàoliang de bèiké. Wǒ juéde hé jiārén zài yìqǐ de shíjiān zǒng shì hěn kāixīn.",
+    "translation": {
+      "vi": "Cuối tuần này tôi và gia đình đã cùng nhau đi biển. Thời tiết rất đẹp, nắng ấm. Chúng tôi chơi trên bãi cát cả ngày, còn ăn rất nhiều hải sản. Em gái tôi thích nhặt vỏ sò, em nhặt được nhiều vỏ sò đẹp. Tôi thấy thời gian bên gia đình luôn rất vui.",
+      "en": "This weekend my family and I went to the seaside. The weather was nice and the sun was warm. We played on the beach all day and ate lots of seafood. My younger sister likes collecting shells; she picked up many beautiful ones. I think time with family is always happy.",
+      "zh": "周末假期"
+    }
+  },
+  {
+    "id": "hsk3_r003",
+    "title": {
+      "vi": "Món ăn yêu thích",
+      "en": "Favorite food",
+      "zh": "最喜欢的食物"
+    },
+    "hanzi": "我最喜欢的食物是饺子。每个周末我都会自己做饺子吃。我会买一些面粉和肉，还有青菜。先把面和好，再把肉和青菜切碎，然后包饺子。煮好的饺子非常好吃。我觉得自己做的饺子比外面买的更好吃。",
+    "pinyin": "Wǒ zuì xǐhuān de shíwù shì jiǎozi. Měi ge zhōumò wǒ dōu huì zìjǐ zuò jiǎozi chī. Wǒ huì mǎi yìxiē miànfěn hé ròu, háiyǒu qīngcài. Xiān bǎ miàn huó hǎo, zài bǎ ròu hé qīngcài qiē suì, ránhòu bāo jiǎozi. Zhǔ hǎo de jiǎozi fēicháng hǎochī. Wǒ juéde zìjǐ zuò de jiǎozi bǐ wàimiàn mǎi de gèng hǎochī.",
+    "translation": {
+      "vi": "Món ăn yêu thích nhất của tôi là sủi cảo. Cuối tuần nào tôi cũng tự làm sủi cảo để ăn. Tôi mua bột mì, thịt và rau xanh. Đầu tiên nhào bột, sau đó băm nhỏ thịt và rau, rồi gói sủi cảo. Sủi cảo nấu chín rất ngon. Tôi thấy sủi cảo tự làm ngon hơn mua ngoài.",
+      "en": "My favorite food is dumplings. Every weekend I make dumplings myself. I buy some flour, meat, and vegetables. First I knead the dough, then chop the meat and vegetables, then wrap the dumplings. Cooked dumplings are very delicious. I think homemade dumplings taste better than store-bought ones.",
+      "zh": "最喜欢的食物"
+    }
+  },
+  {
+    "id": "hsk3_r004",
+    "title": {
+      "vi": "Mua sắm trực tuyến",
+      "en": "Online shopping",
+      "zh": "网上购物"
+    },
+    "hanzi": "现在很多人喜欢在网上买东西。我也经常在网上购物。因为网上的东西比商店里便宜，而且选择也很多。我昨天在网上买了一件衣服和一双鞋。今天快递就到了，速度很快。我对这次购物很满意。",
+    "pinyin": "Xiànzài hěnduō rén xǐhuān zài wǎngshàng mǎi dōngxi. Wǒ yě jīngcháng zài wǎngshàng gòuwù. Yīnwèi wǎngshàng de dōngxi bǐ shāngdiàn lǐ piányi, érqiě xuǎnzé yě hěnduō. Wǒ zuótiān zài wǎngshàng mǎile yí jiàn yīfu hé yì shuāng xié. Jīntiān kuàidì jiù dàole, sùdù hěn kuài. Wǒ duì zhè cì gòuwù hěn mǎnyì.",
+    "translation": {
+      "vi": "Hiện nay nhiều người thích mua sắm trực tuyến. Tôi cũng thường xuyên mua hàng online. Vì hàng trên mạng rẻ hơn trong cửa hàng, và lựa chọn cũng nhiều hơn. Hôm qua tôi mua một chiếc áo và một đôi giày trên mạng. Hôm nay chuyển phát nhanh đã đến, rất nhanh. Tôi hài lòng với lần mua này.",
+      "en": "Nowadays many people like to buy things online. I also often shop online. Because things online are cheaper than in stores, and there are more choices. Yesterday I bought a shirt and a pair of shoes online. The express delivery arrived today, very fast. I'm satisfied with this purchase.",
+      "zh": "网上购物"
+    }
+  },
+  {
+    "id": "hsk3_r005",
+    "title": {
+      "vi": "Thời tiết mùa đông",
+      "en": "Winter weather",
+      "zh": "冬天天气"
+    },
+    "hanzi": "冬天的天气很冷，尤其是北方。我住在北京，这里的冬天常常下雪。下雪的时候，外面的世界变得很漂亮。虽然天气很冷，但是我喜欢冬天，因为可以滑冰和堆雪人。我妈妈总是提醒我多穿衣服，不要感冒了。",
+    "pinyin": "Dōngtiān de tiānqì hěn lěng, yóuqí shì běifāng. Wǒ zhù zài Běijīng, zhèlǐ de dōngtiān chángcháng xià xuě. Xià xuě de shíhou, wàimiàn de shìjiè biàn de hěn piàoliang. Suīrán tiānqì hěn lěng, dànshì wǒ xǐhuān dōngtiān, yīnwèi kěyǐ huábīng hé duī xuěrén. Wǒ māma zǒng shì tíxǐng wǒ duō chuān yīfu, búyào gǎnmào le.",
+    "translation": {
+      "vi": "Thời tiết mùa đông rất lạnh, nhất là ở miền Bắc. Tôi sống ở Bắc Kinh, mùa đông ở đây thường có tuyết rơi. Khi tuyết rơi, thế giới bên ngoài trở nên rất đẹp. Dù thời tiết lạnh, nhưng tôi thích mùa đông vì có thể trượt băng và nặn người tuyết. Mẹ tôi luôn nhắc tôi mặc nhiều quần áo, đừng bị cảm lạnh.",
+      "en": "Winter weather is very cold, especially in the north. I live in Beijing, where it often snows in winter. When it snows, the outside world becomes very beautiful. Although the weather is cold, I like winter because I can skate and make snowmen. My mother always reminds me to wear more clothes and not catch a cold.",
+      "zh": "冬天天气"
+    }
+  },
+  {
+    "id": "hsk3_r006",
+    "title": {
+      "vi": "Học tiếng Trung",
+      "en": "Learning Chinese",
+      "zh": "学中文"
+    },
+    "hanzi": "我学习中文已经一年了。中文很难，但是很有意思。我每天都会练习听力和口语。我的中国朋友常常帮助我，让我进步很快。我觉得学中文最重要的是多说多练习。虽然有时候会犯错，但是没关系，继续努力就好。",
+    "pinyin": "Wǒ xuéxí Zhōngwén yǐjīng yì nián le. Zhōngwén hěn nán, dànshì hěn yǒuyìsi. Wǒ měitiān dōu huì liànxí tīnglì hé kǒuyǔ. Wǒ de Zhōngguó péngyou chángcháng bāngzhù wǒ, ràng wǒ jìnbù hěn kuài. Wǒ juéde xué Zhōngwén zuì zhòngyào de shì duō shuō duō liànxí. Suīrán yǒu shíhou huì fàncuò, dànshì méi guānxi, jìxù nǔlì jiù hǎo.",
+    "translation": {
+      "vi": "Tôi học tiếng Trung đã được một năm. Tiếng Trung rất khó nhưng rất thú vị. Tôi luyện nghe và nói mỗi ngày. Bạn Trung Quốc của tôi thường giúp đỡ, giúp tôi tiến bộ nhanh. Tôi thấy học tiếng Trung quan trọng nhất là nói và luyện tập nhiều. Dù đôi khi có mắc lỗi, nhưng không sao, cứ cố gắng tiếp tục.",
+      "en": "I have been learning Chinese for one year. Chinese is difficult but very interesting. I practice listening and speaking every day. My Chinese friends often help me, which helps me improve quickly. I think the most important thing in learning Chinese is to speak and practice more. Although I sometimes make mistakes, it doesn't matter, just keep trying.",
+      "zh": "学中文"
+    }
+  },
+  {
+    "id": "hsk3_r007",
+    "title": {
+      "vi": "Chuyến thăm bảo tàng",
+      "en": "Visiting a museum",
+      "zh": "参观博物馆"
+    },
+    "hanzi": "上个星期六，我和朋友们去参观了国家博物馆。博物馆里面有很多古代的东西，比如青铜器和瓷器。我们在那里看了一个关于古代中国的展览。我学到了很多历史知识。这次参观非常有意思，我下次还想再去。",
+    "pinyin": "Shàng ge xīngqīliù, wǒ hé péngyoumen qù cānguānle guójiā bówùguǎn. Bówùguǎn lǐmiàn yǒu hěnduō gǔdài de dōngxi, bǐrú qīngtóngqì hé cíqì. Wǒmen zài nàlǐ kànle yí ge guānyú gǔdài Zhōngguó de zhǎnlǎn. Wǒ xué dàole hěnduō lìshǐ zhīshi. Zhè cì cānguān fēicháng yǒuyìsi, wǒ xiàcì hái xiǎng zài qù.",
+    "translation": {
+      "vi": "Thứ bảy tuần trước, tôi và bạn bè đã tham quan Bảo tàng Quốc gia. Trong bảo tàng có nhiều đồ cổ, như đồ đồng và đồ sứ. Chúng tôi xem một triển lãm về Trung Quốc cổ đại. Tôi đã học được nhiều kiến thức lịch sử. Chuyến thăm này rất thú vị, tôi muốn đi lại lần sau.",
+      "en": "Last Saturday, my friends and I visited the National Museum. There were many ancient objects inside, like bronze wares and porcelain. We saw an exhibition about ancient China. I learned a lot of historical knowledge. This visit was very interesting; I want to go again next time.",
+      "zh": "参观博物馆"
+    }
+  },
+  {
+    "id": "hsk3_r008",
+    "title": {
+      "vi": "Tập thể dục buổi sáng",
+      "en": "Morning exercise",
+      "zh": "早晨锻炼"
+    },
+    "hanzi": "我每天早上都会去公园锻炼身体。我通常先跑步二十分钟，然后再做一些伸展运动。公园里有很多人也和我一样锻炼。我觉得早晨的空气很新鲜，锻炼后整个人都很有精神。我建议朋友们也养成早起锻炼的好习惯。",
+    "pinyin": "Wǒ měitiān zǎoshang dōu huì qù gōngyuán duànliàn shēntǐ. Wǒ tōngcháng xiān pǎobù èrshí fēnzhōng, ránhòu zài zuò yìxiē shēnzhǎn yùndòng. Gōngyuán lǐ yǒu hěnduō rén yě hé wǒ yíyàng duànliàn. Wǒ juéde zǎochen de kōngqì hěn xīnxiān, duànliàn hòu zhěng ge rén dōu hěn yǒu jīngshen. Wǒ jiànyì péngyoumen yě yǎngchéng zǎo qǐ duànliàn de hǎo xíguàn.",
+    "translation": {
+      "vi": "Mỗi sáng tôi đều ra công viên tập thể dục. Tôi thường chạy bộ 20 phút trước, sau đó thực hiện vài động tác giãn cơ. Trong công viên có nhiều người cũng tập như tôi. Tôi thấy không khí buổi sáng rất trong lành, sau khi tập cả người đều tràn đầy sức sống. Tôi khuyên bạn bè cũng nên có thói quen dậy sớm tập thể dục.",
+      "en": "Every morning I go to the park to exercise. I usually run for twenty minutes first, then do some stretching exercises. Many people in the park also exercise like me. I think the morning air is fresh, and after exercising I feel energetic. I suggest my friends also develop the good habit of getting up early to exercise.",
+      "zh": "早晨锻炼"
+    }
+  },
+  {
+    "id": "hsk3_r009",
+    "title": {
+      "vi": "Công việc tình nguyện",
+      "en": "Volunteer work",
+      "zh": "志愿者工作"
+    },
+    "hanzi": "我每个周末都去老人院做志愿者。我陪老人们聊天，帮他们打扫房间。老人们都很喜欢我，常常给我讲他们年轻时的故事。我觉得帮助别人是一件很快乐的事情。虽然做志愿者很辛苦，但是看到老人们的笑容，我觉得一切都值得。",
+    "pinyin": "Wǒ měi ge zhōumò dōu qù lǎorényuàn zuò zhìyuànzhě. Wǒ péi lǎorénmen liáotiān, bāng tāmen dǎsǎo fángjiān. Lǎorénmen dōu hěn xǐhuān wǒ, chángcháng gěi wǒ jiǎng tāmen niánqīng shí de gùshi. Wǒ juéde bāngzhù biérén shì yí jiàn hěn kuàilè de shìqing. Suīrán zuò zhìyuànzhě hěn xīnkǔ, dànshì kàn dào lǎorénmen de xiàoróng, wǒ juéde yíqiè dōu zhídé.",
+    "translation": {
+      "vi": "Mỗi cuối tuần tôi đều đến viện dưỡng lão làm tình nguyện. Tôi trò chuyện với các cụ, giúp họ dọn phòng. Các cụ rất quý tôi, thường kể cho tôi nghe chuyện thời trẻ của họ. Tôi thấy giúp đỡ người khác là một niềm vui. Dù làm tình nguyện vất vả, nhưng khi thấy nụ cười của các cụ, tôi thấy tất cả đều đáng giá.",
+      "en": "I volunteer at an elderly home every weekend. I chat with the elderly and help them clean their rooms. They like me a lot and often tell me stories from their youth. I think helping others is a happy thing. Although volunteering is hard work, seeing the smiles of the elderly makes everything worthwhile.",
+      "zh": "志愿者工作"
+    }
+  },
+  {
+    "id": "hsk3_r010",
+    "title": {
+      "vi": "Kế hoạch nghỉ hè",
+      "en": "Summer holiday plan",
+      "zh": "暑假计划"
+    },
+    "hanzi": "暑假快到了，我有很多计划。我打算先和同学们去上海旅游，然后再回老家看爷爷奶奶。我还想利用暑假学习游泳和画画。妈妈说如果我有时间，可以帮她做一些家务。这个暑假一定会过得很充实。",
+    "pinyin": "Shǔjià kuài dàole, wǒ yǒu hěnduō jìhuà. Wǒ dǎsuàn xiān hé tóngxuémen qù Shànghǎi lǚyóu, ránhòu zài huí lǎojiā kàn yéye nǎinai. Wǒ hái xiǎng lìyòng shǔjià xuéxí yóuyǒng hé huàhuà. Māma shuō rúguǒ wǒ yǒu shíjiān, kěyǐ bāng tā zuò yìxiē jiāwù. Zhège shǔjià yídìng huì guò de hěn chōngshí.",
+    "translation": {
+      "vi": "Kỳ nghỉ hè sắp đến, tôi có nhiều kế hoạch. Tôi dự định trước tiên sẽ đi du lịch Thượng Hải với các bạn cùng lớp, sau đó về quê thăm ông bà nội. Tôi cũng muốn tranh thủ hè học bơi và vẽ. Mẹ nói nếu tôi có thời gian, có thể giúp mẹ làm việc nhà. Kỳ nghỉ hè này chắc chắn sẽ rất bổ ích.",
+      "en": "Summer vacation is coming soon, and I have many plans. I plan to travel to Shanghai with my classmates first, then return to my hometown to visit my grandparents. I also want to learn swimming and painting during summer. My mom says if I have time, I can help her with some housework. This summer will definitely be very fulfilling.",
+      "zh": "暑假计划"
+    }
+  },
+  {
+    "id": "hsk3_r011",
+    "title": {
+      "vi": "Món quà sinh nhật",
+      "en": "Birthday gift",
+      "zh": "生日礼物"
+    },
+    "hanzi": "昨天是我的生日，朋友们送了我很多礼物。我最喜欢的是小丽送的一本书，书名是《小王子》。她还在书的扉页上写了一句话，祝我生日快乐。我很感动，因为这是一份很特别的礼物。我也请朋友们吃了一顿大餐，大家都很开心。",
+    "pinyin": "Zuótiān shì wǒ de shēngrì, péngyoumen sòngle wǒ hěnduō lǐwù. Wǒ zuì xǐhuān de shì Xiǎo Lì sòng de yì běn shū, shū míng shì 《Xiǎo Wángzǐ》. Tā hái zài shū de fēiyè shàng xiěle yí jù huà, zhù wǒ shēngrì kuàilè. Wǒ hěn gǎndòng, yīnwèi zhè shì yí fèn hěn tèbié de lǐwù. Wǒ yě qǐng péngyoumen chīle yí dùn dà cān, dàjiā dōu hěn kāixīn.",
+    "translation": {
+      "vi": "Hôm qua là sinh nhật của tôi, bạn bè tặng tôi nhiều món quà. Tôi thích nhất là cuốn sách mà Tiểu Lệ tặng, tên là \"Hoàng tử bé\". Cô ấy còn viết một dòng chúc mừng sinh nhật trên trang đầu. Tôi rất cảm động, vì đó là món quà đặc biệt. Tôi cũng đãi bạn bè một bữa tiệc lớn, ai cũng vui vẻ.",
+      "en": "Yesterday was my birthday, and my friends gave me many gifts. My favorite was a book given by Xiao Li, titled 'The Little Prince'. She also wrote a message wishing me a happy birthday on the title page. I was very moved because it was a special gift. I also treated my friends to a big meal, and everyone was happy.",
+      "zh": "生日礼物"
+    }
+  },
+  {
+    "id": "hsk3_r012",
+    "title": {
+      "vi": "Đi tàu hỏa",
+      "en": "Taking the train",
+      "zh": "坐火车"
+    },
+    "hanzi": "我很少坐火车，但是这次因为飞机票太贵，我们决定坐火车去旅行。火车虽然慢一些，但是沿途的风景很漂亮。我们在火车上吃了泡面和零食，还和邻座的人聊天。坐火车让我感觉很放松，下次有机会我还会选择火车。",
+    "pinyin": "Wǒ hěn shǎo zuò huǒchē, dànshì zhè cì yīnwèi fēijīpiào tài guì, wǒmen juédìng zuò huǒchē qù lǚxíng. Huǒchē suīrán màn yìxiē, dànshì yántú de fēngjǐng hěn piàoliang. Wǒmen zài huǒchē shàng chīle pàomiàn hé língshí, hái hé línzuò de rén liáotiān. Zuò huǒchē ràng wǒ gǎnjué hěn fàngsōng, xià cì yǒu jīhuì wǒ hái huì xuǎnzé huǒchē.",
+    "translation": {
+      "vi": "Tôi rất ít khi đi tàu hỏa, nhưng lần này vì vé máy bay quá đắt, chúng tôi quyết định đi tàu hỏa du lịch. Tàu hỏa tuy chậm hơn một chút, nhưng phong cảnh dọc đường rất đẹp. Chúng tôi ăn mì ăn liền và đồ ăn vặt trên tàu, còn trò chuyện với người ngồi cạnh. Đi tàu hỏa khiến tôi thấy rất thư giãn, lần sau có cơ hội tôi vẫn chọn tàu hỏa.",
+      "en": "I rarely take the train, but this time because the plane tickets were too expensive, we decided to travel by train. Although the train is slower, the scenery along the way is beautiful. We ate instant noodles and snacks on the train, and chatted with the people next to us. Taking the train makes me feel relaxed; next time I have the chance, I will choose the train again.",
+      "zh": "坐火车"
+    }
+  },
+  {
+    "id": "hsk3_r013",
+    "title": {
+      "vi": "Giúp đỡ bạn",
+      "en": "Helping a friend",
+      "zh": "帮助朋友"
+    },
+    "hanzi": "我的好朋友小刚最近遇到了困难，他的电脑坏了，但是他没有钱修。我决定借给他一些钱，让他先修电脑。我还帮他找了一份兼职工作，这样他就可以赚钱还我。朋友之间应该互相帮助，我很高兴能帮到他。",
+    "pinyin": "Wǒ de hǎo péngyou Xiǎo Gāng zuìjìn yùdàole kùnnan, tā de diànnǎo huài le, dànshì tā méiyǒu qián xiū. Wǒ juédìng jiè gěi tā yìxiē qián, ràng tā xiān xiū diànnǎo. Wǒ hái bāng tā zhǎole yí fèn jiānzhí gōngzuò, zhèyàng tā jiù kěyǐ zhuànqián hái wǒ. Péngyou zhī jiān yīnggāi hùxiāng bāngzhù, wǒ hěn gāoxìng néng bāng dào tā.",
+    "translation": {
+      "vi": "Người bạn tốt của tôi là Tiểu Cương gần đây gặp khó khăn, máy tính của cậu ấy bị hỏng nhưng không có tiền sửa. Tôi quyết định cho cậu ấy mượn một ít tiền để sửa máy tính trước. Tôi cũng giúp cậu ấy tìm một công việc bán thời gian để cậu ấy có thể kiếm tiền trả tôi. Bạn bè nên giúp đỡ lẫn nhau, tôi rất vui được giúp cậu ấy.",
+      "en": "My good friend Xiao Gang recently encountered a difficulty; his computer broke but he had no money to fix it. I decided to lend him some money so he could fix the computer first. I also helped him find a part-time job so he could earn money to pay me back. Friends should help each other, and I am glad to help him.",
+      "zh": "帮助朋友"
+    }
+  },
+  {
+    "id": "hsk3_r014",
+    "title": {
+      "vi": "Món ăn đường phố",
+      "en": "Street food",
+      "zh": "街头小吃"
+    },
+    "hanzi": "在中国，街头小吃非常受欢迎。我最喜欢吃煎饼果子和烤串。每天下班后，我都会在小摊上买一个煎饼果子当晚餐。煎饼果子很便宜，只要几块钱，而且味道很好。我觉得街头小吃是中国饮食文化的一个重要部分。",
+    "pinyin": "Zài Zhōngguó, jiētóu xiǎochī fēicháng shòu huānyíng. Wǒ zuì xǐhuān chī jiānbǐng guǒzi hé kǎochuàn. Měitiān xiàbān hòu, wǒ dōu huì zài xiǎo tān shàng mǎi yí ge jiānbǐng guǒzi dāng wǎncān. Jiānbǐng guǒzi hěn piányi, zhǐyào jǐ kuài qián, érqiě wèidào hěn hǎo. Wǒ juéde jiētóu xiǎochī shì Zhōngguó yǐnshí wénhuà de yí ge zhòngyào bùfen.",
+    "translation": {
+      "vi": "Ở Trung Quốc, đồ ăn vặt đường phố rất được ưa chuộng. Tôi thích nhất là bánh crepe chiên giòn và xiên nướng. Mỗi ngày tan làm, tôi đều mua một bánh crepe chiên giòn ở quán hàng rong để ăn tối. Bánh crepe chiên giòn rất rẻ, chỉ vài đồng, mà vị lại rất ngon. Tôi thấy đồ ăn vặt đường phố là một phần quan trọng của văn hóa ẩm thực Trung Quốc.",
+      "en": "In China, street food is very popular. I like fried crepes and kebabs the most. After work every day, I buy a fried crepe from a stall for dinner. Fried crepes are very cheap, only a few yuan, and taste very good. I think street food is an important part of Chinese food culture.",
+      "zh": "街头小吃"
+    }
+  },
+  {
+    "id": "hsk3_r015",
+    "title": {
+      "vi": "Công việc mới",
+      "en": "A new job",
+      "zh": "新工作"
+    },
+    "hanzi": "我找到了一份新的工作。这个公司在北京，离我家不太远。我的同事们都很友好，老板也很好说话。工资比以前的工作高一些，我对这份工作很满意。虽然有时候工作很忙，但我觉得这是一个很好的机会。",
+    "pinyin": "Wǒ zhǎodàole yí fèn xīn de gōngzuò. Zhège gōngsī zài Běijīng, lí wǒ jiā búhuài yuǎn. Wǒ de tóngshìmen dōu hěn yǒuhǎo, lǎobǎn yě hěn hǎo shuōhuà. Gōngzī bǐ yǐqián de gōngzuò gāo yìxiē, wǒ duì zhè fèn gōngzuò hěn mǎnyì. Suīrán yǒu shíhou gōngzuò hěn máng, dàn wǒ juéde zhè shì yí ge hěn hǎo de jīhuì.",
+    "translation": {
+      "vi": "Tôi tìm được một công việc mới. Công ty ở Bắc Kinh, không quá xa nhà tôi. Các đồng nghiệp của tôi rất thân thiện, ông chủ cũng rất dễ nói. Lương cao hơn công việc trước một chút, tôi rất hài lòng với công việc này. Dù đôi khi công việc bận rộn, nhưng tôi thấy đây là một cơ hội rất tốt.",
+      "en": "I found a new job. The company is in Beijing, not too far from my house. My coworkers are all very friendly, and the boss is easy to talk to. The salary is a bit higher than my previous job, and I'm very satisfied with it. Although work is sometimes busy, I think this is a great opportunity.",
+      "zh": "新工作"
+    }
+  },
+  {
+    "id": "hsk3_r016",
+    "title": {
+      "vi": "Mùa xuân",
+      "en": "Spring",
+      "zh": "春天"
+    },
+    "hanzi": "春天来了，天气变暖了，花儿都开了。我和朋友们一起去公园看花。公园里的樱花和桃花开得很漂亮，很多人都在拍照。春天的风很温柔，吹在脸上很舒服。我喜欢春天，因为它让一切都充满生机。",
+    "pinyin": "Chūntiān lái le, tiānqì biàn nuǎn le, huār dōu kāi le. Wǒ hé péngyoumen yìqǐ qù gōngyuán kàn huā. Gōngyuán lǐ de yīnghuā hé táohuā kāi de hěn piàoliang, hěnduō rén dōu zài pāizhào. Chūntiān de fēng hěn wēnróu, chuī zài liǎn shàng hěn shūfu. Wǒ xǐhuān chūntiān, yīnwèi tā ràng yīqiè dōu chōngmǎn shēngjī.",
+    "translation": {
+      "vi": "Mùa xuân đến rồi, thời tiết ấm lên, hoa đua nở. Tôi và bạn bè cùng nhau đến công viên ngắm hoa. Hoa anh đào và hoa đào trong công viên nở rất đẹp, nhiều người đang chụp ảnh. Gió xuân thật nhẹ nhàng, thổi trên mặt rất dễ chịu. Tôi thích mùa xuân vì nó làm cho vạn vật tràn đầy sức sống.",
+      "en": "Spring has come, the weather is getting warmer, and the flowers are blooming. My friends and I went to the park to see the flowers. The cherry blossoms and peach blossoms in the park are very beautiful, and many people are taking photos. The spring breeze is gentle and feels nice on the face. I like spring because it makes everything full of vitality.",
+      "zh": "春天"
+    }
+  },
+  {
+    "id": "hsk3_r017",
+    "title": {
+      "vi": "Học nấu ăn",
+      "en": "Learning to cook",
+      "zh": "学做饭"
+    },
+    "hanzi": "我以前不会做饭，但是最近我开始学了。我妈妈教我做西红柿炒蛋和清炒白菜。虽然一开始我做得不太好，但是经过多次练习，我现在可以做出可口的菜了。我觉得学会做饭是一项很有用的技能，以后可以照顾自己。",
+    "pinyin": "Wǒ yǐqián búhuì zuòfàn, dànshì zuìjìn wǒ kāishǐ xué le. Wǒ māma jiāo wǒ zuò xīhóngshì chǎo dàn hé qīngchǎo báicài. Suīrán yì kāishǐ wǒ zuò de bú tài hǎo, dànshì jīngguò duō cì liànxí, wǒ xiànzài kěyǐ zuò chū kěkǒu de cài le. Wǒ juéde xuéhuì zuòfàn shì yí xiàng hěn yǒuyòng de jìnéng, yǐhòu kěyǐ zhàogù zìjǐ.",
+    "translation": {
+      "vi": "Trước đây tôi không biết nấu ăn, nhưng gần đây tôi bắt đầu học. Mẹ tôi dạy tôi làm món cà chua xào trứng và cải trắng xào. Dù ban đầu tôi nấu không ngon lắm, nhưng sau nhiều lần luyện tập, giờ tôi đã có thể nấu những món ăn ngon. Tôi thấy học nấu ăn là một kỹ năng rất hữu ích, sau này có thể tự chăm sóc bản thân.",
+      "en": "I didn't know how to cook before, but recently I started learning. My mother taught me to make scrambled eggs with tomatoes and stir-fried cabbage. Although at first I didn't do well, after lots of practice, I can now make tasty dishes. I think learning to cook is a very useful skill, and I can take care of myself later.",
+      "zh": "学做饭"
+    }
+  },
+  {
+    "id": "hsk3_r018",
+    "title": {
+      "vi": "Thư viện",
+      "en": "Library",
+      "zh": "图书馆"
+    },
+    "hanzi": "我每个周末都去图书馆看书。图书馆里很安静，大家都在认真学习。我通常在二楼借一些文学小说，然后找一个靠窗的位置坐下来阅读。在图书馆看书让我觉得很放松，也能学到很多知识。",
+    "pinyin": "Wǒ měi ge zhōumò dōu qù túshūguǎn kàn shū. Túshūguǎn lǐ hěn ānjìng, dàjiā dōu zài rènzhēn xuéxí. Wǒ tōngcháng zài èr lóu jiè yìxiē wénxué xiǎoshuō, ránhòu zhǎo yí ge kào chuāng de wèizhì zuò xiàlái yuèdú. Zài túshūguǎn kàn shū ràng wǒ juéde hěn fàngsōng, yě néng xué dào hěnduō zhīshi.",
+    "translation": {
+      "vi": "Mỗi cuối tuần tôi đều đến thư viện đọc sách. Thư viện rất yên tĩnh, mọi người đều đang chăm chỉ học tập. Tôi thường mượn một số tiểu thuyết văn học ở tầng hai, sau đó tìm chỗ ngồi cạnh cửa sổ để đọc. Đọc sách trong thư viện giúp tôi thấy thư giãn, cũng có thể học được nhiều kiến thức.",
+      "en": "I go to the library every weekend to read. The library is very quiet, and everyone is studying seriously. I usually borrow some literary novels on the second floor, then find a seat by the window to read. Reading in the library makes me feel relaxed, and I can also learn a lot of knowledge.",
+      "zh": "图书馆"
+    }
+  },
+  {
+    "id": "hsk3_r019",
+    "title": {
+      "vi": "Tiết kiệm tiền",
+      "en": "Saving money",
+      "zh": "存钱"
+    },
+    "hanzi": "我最近开始存钱了，因为我想买一台新电脑。我每个月都会把工资的一部分存到银行里。为了省钱，我减少了外出吃饭的次数，也少买了一些不需要的东西。虽然存钱有点难，但是为了目标，我会坚持下去。",
+    "pinyin": "Wǒ zuìjìn kāishǐ cún qián le, yīnwèi wǒ xiǎng mǎi yì tái xīn diànnǎo. Wǒ měi ge yuè dōu huì bǎ gōngzī de yí bùfen cún dào yínháng lǐ. Wèile shěng qián, wǒ jiǎnshǎole wàichū chīfàn de cìshù, yě shǎo mǎile yìxiē bù xūyào de dōngxi. Suīrán cún qián yǒudiǎn nán, dànshì wèile mùbiāo, wǒ huì jiānchí xiàqù.",
+    "translation": {
+      "vi": "Gần đây tôi bắt đầu tiết kiệm tiền vì muốn mua một chiếc máy tính mới. Mỗi tháng tôi gửi một phần lương vào ngân hàng. Để tiết kiệm, tôi giảm số lần ăn ngoài, cũng ít mua những thứ không cần thiết. Dù tiết kiệm hơi khó, nhưng vì mục tiêu, tôi sẽ kiên trì.",
+      "en": "I've started saving money recently because I want to buy a new computer. Every month I put part of my salary into the bank. To save money, I reduced eating out and buying unnecessary things. Although saving is a bit difficult, for the goal, I will keep going.",
+      "zh": "存钱"
+    }
+  },
+  {
+    "id": "hsk3_r020",
+    "title": {
+      "vi": "Gọi món ăn Trung Quốc",
+      "en": "Ordering Chinese food",
+      "zh": "点中国菜"
+    },
+    "hanzi": "昨天我和朋友去了一家中国餐馆。菜单上有好多菜，我看得眼花缭乱。我们点了宫保鸡丁、麻婆豆腐和蛋花汤。这些菜都很好吃，特别是宫保鸡丁，辣辣的，很开胃。服务员告诉我们这些是中国非常有名的菜。",
+    "pinyin": "Zuótiān wǒ hé péngyou qùle yì jiā Zhōngguó cānguǎn. Càidān shàng yǒu hǎoduō cài, wǒ kàn de yǎnhuāliáoluàn. Wǒmen diǎnle gōngbǎo jīdīng, mápó dòufu hé dànhuā tāng. Zhèxiē cài dōu hěn hǎochī, tèbié shì gōngbǎo jīdīng, làlà de, hěn kāiwèi. Fúwùyuán gàosu wǒmen zhèxiē shì Zhōngguó fēicháng yǒumíng de cài.",
+    "translation": {
+      "vi": "Hôm qua tôi và bạn đến một nhà hàng Trung Quốc. Thực đơn có rất nhiều món, tôi hoa cả mắt. Chúng tôi gọi gà xào cay, đậu phụ Tứ Xuyên và súp trứng. Các món đều ngon, đặc biệt là gà xào cay, cay cay, kích thích vị giác. Nhân viên nói với chúng tôi đây là những món nổi tiếng của Trung Quốc.",
+      "en": "Yesterday I went to a Chinese restaurant with a friend. There were so many dishes on the menu that I was dazzled. We ordered Kung Pao chicken, Mapo tofu, and egg drop soup. All were delicious, especially the Kung Pao chicken, spicy and appetizing. The waiter told us these are very famous Chinese dishes.",
+      "zh": "点中国菜"
+    }
+  },
+  {
+    "id": "hsk3_r021",
+    "title": {
+      "vi": "Mất điện thoại",
+      "en": "Losing a phone",
+      "zh": "丢手机"
+    },
+    "hanzi": "昨天我在公共汽车上把手机丢了。我非常着急，因为手机里有很多重要的信息和照片。我马上用朋友的电话打了自己的号码，但是没有人接。我只好去警察局报案。希望有好心人能捡到并还给我。",
+    "pinyin": "Zuótiān wǒ zài gōnggòng qìchē shàng bǎ shǒujī diū le. Wǒ fēicháng zhāojí, yīnwèi shǒujī lǐ yǒu hěnduō zhòngyào de xìnxī hé zhàopiàn. Wǒ mǎshàng yòng péngyou de diànhuà dǎle zìjǐ de hàomǎ, dànshì méiyǒu rén jiē. Wǒ zhǐhǎo qù jǐngchá jú bào'àn. Xīwàng yǒu hǎoxīn rén néng jiǎn dào bìng huán gěi wǒ.",
+    "translation": {
+      "vi": "Hôm qua tôi làm mất điện thoại trên xe buýt. Tôi rất lo lắng vì trong điện thoại có nhiều thông tin quan trọng và ảnh. Tôi lập tức gọi số của mình bằng điện thoại của bạn, nhưng không có ai nghe. Tôi đành phải đến đồn công an trình báo. Hy vọng có người tốt nhặt được và trả lại cho tôi.",
+      "en": "Yesterday I lost my phone on the bus. I was very worried because there is a lot of important information and photos on it. I immediately called my number using my friend's phone, but no one answered. I had to go to the police station to report it. I hope a kind person will find it and return it to me.",
+      "zh": "丢手机"
+    }
+  },
+  {
+    "id": "hsk3_r022",
+    "title": {
+      "vi": "Tập yoga",
+      "en": "Practicing yoga",
+      "zh": "练瑜伽"
+    },
+    "hanzi": "我最近开始练习瑜伽了。瑜伽可以帮助我放松身心，提高身体的柔韧性。我每周去瑜伽馆上两次课，每次一个小时。老师很专业，会耐心地指导我们每个动作。练完后我觉得整个人都很轻松。",
+    "pinyin": "Wǒ zuìjìn kāishǐ liànxí yújiā le. Yújiā kěyǐ bāngzhù wǒ fàngsōng shēnxīn, tígāo shēntǐ de róuxìngxìng. Wǒ měi zhōu qù yújiā guǎn shàng liǎng cì kè, měi cì yí ge xiǎoshí. Lǎoshī hěn zhuānyè, huì nàixīn de zhǐdǎo wǒmen měi ge dòngzuò. Liàn wán hòu wǒ juéde zhěng ge rén dōu hěn qīngsōng.",
+    "translation": {
+      "vi": "Gần đây tôi bắt đầu tập yoga. Yoga có thể giúp tôi thư giãn tinh thần và tăng cường sự dẻo dai của cơ thể. Mỗi tuần tôi đến trung tâm yoga tập hai buổi, mỗi buổi một giờ. Giáo viên rất chuyên nghiệp, kiên nhẫn hướng dẫn từng động tác. Sau khi tập xong tôi thấy cả người thoải mái.",
+      "en": "I recently started practicing yoga. Yoga can help me relax my body and mind and improve flexibility. I go to the yoga studio twice a week for one hour each time. The teacher is professional and patiently guides us through each movement. After practice, I feel very relaxed.",
+      "zh": "练瑜伽"
+    }
+  },
+  {
+    "id": "hsk3_r023",
+    "title": {
+      "vi": "Bữa tiệc sinh nhật",
+      "en": "Birthday party",
+      "zh": "生日派对"
+    },
+    "hanzi": "上星期天我参加了朋友小华的生日派对。派对上有很多人，大家都玩得很开心。我们唱了生日歌，然后小华吹蜡烛、切蛋糕。我们还玩了一些游戏，比如猜谜和唱歌比赛。这是一个非常难忘的派对。",
+    "pinyin": "Shàng xīngqītiān wǒ cānjiāle péngyou Xiǎo Huá de shēngrì pàiduì. Pàiduì shàng yǒu hěnduō rén, dàjiā dōu wán de hěn kāixīn. Wǒmen chàngle shēngrì gē, ránhòu Xiǎo Huá chuī làzhú, qiè dàngāo. Wǒmen hái wánle yìxiē yóuxì, bǐrú cāimí hé chànggē bǐsài. Zhè shì yí ge fēicháng nánwàng de pàiduì.",
+    "translation": {
+      "vi": "Chủ nhật tuần trước tôi tham dự bữa tiệc sinh nhật của bạn Tiểu Hoa. Tiệc có rất nhiều người, ai cũng vui vẻ. Chúng tôi hát bài chúc mừng sinh nhật, sau đó Tiểu Hoa thổi nến và cắt bánh. Chúng tôi còn chơi một số trò chơi như đố vui và thi hát. Đó là một bữa tiệc rất đáng nhớ.",
+      "en": "Last Sunday I attended my friend Xiao Hua's birthday party. There were many people at the party, and everyone had a good time. We sang the birthday song, then Xiao Hua blew out the candles and cut the cake. We also played some games like riddles and singing competitions. It was a very memorable party.",
+      "zh": "生日派对"
+    }
+  },
+  {
+    "id": "hsk3_r024",
+    "title": {
+      "vi": "Thể thao mùa đông",
+      "en": "Winter sports",
+      "zh": "冬季运动"
+    },
+    "hanzi": "冬天到了，很多人喜欢去滑雪。今年我和家人一起去了滑雪场。虽然我是第一次滑雪，但是我觉得很好玩。爸爸教我一些基本动作，我慢慢地学会了。滑雪不仅能锻炼身体，还能欣赏美丽的雪景。",
+    "pinyin": "Dōngtiān dàole, hěnduō rén xǐhuān qù huáxuě. Jīnnián wǒ hé jiārén yìqǐ qùle huáxuě chǎng. Suīrán wǒ shì dì-yī cì huáxuě, dànshì wǒ juéde hěn hǎowán. Bàba jiāo wǒ yìxiē jīběn dòngzuò, wǒ màn màn de xuéhuì le. Huáxuě bùjǐn néng duànliàn shēntǐ, hái néng xīnshǎng měilì de xuějǐng.",
+    "translation": {
+      "vi": "Mùa đông đến, nhiều người thích đi trượt tuyết. Năm nay tôi cùng gia đình đến khu trượt tuyết. Dù tôi trượt tuyết lần đầu, nhưng tôi thấy rất vui. Bố dạy tôi một số động tác cơ bản, tôi dần dần đã biết trượt. Trượt tuyết không chỉ rèn luyện sức khỏe mà còn ngắm được cảnh tuyết đẹp.",
+      "en": "Winter has come, and many people like to go skiing. This year my family and I went to a ski resort. Although it was my first time skiing, I found it very fun. My dad taught me some basic moves, and I gradually learned. Skiing not only exercises the body but also lets us enjoy the beautiful snow scenery.",
+      "zh": "冬季运动"
+    }
+  },
+  {
+    "id": "hsk3_r025",
+    "title": {
+      "vi": "Điện thoại thông minh",
+      "en": "Smartphone",
+      "zh": "智能手机"
+    },
+    "hanzi": "智能手机已经成为人们生活中必不可少的工具。我每天都会用它来打电话、发微信和上网。它还可以用来拍照、听音乐和看视频。虽然手机很方便，但是我也会控制使用时间，不让自己沉迷其中。",
+    "pinyin": "Zhìnéng shǒujī yǐjīng chéngwéi rénmen shēnghuó zhōng bìbùkěshǎo de gōngjù. Wǒ měitiān dōu huì yòng tā lái dǎ diànhuà, fā Wēixìn hé shàngwǎng. Tā hái kěyǐ yòng lái pāizhào, tīng yīnyuè hé kàn shìpín. Suīrán shǒujī hěn fāngbiàn, dànshì wǒ yě huì kòngzhì shǐyòng shíjiān, bú ràng zìjǐ chénmí qízhōng.",
+    "translation": {
+      "vi": "Điện thoại thông minh đã trở thành công cụ không thể thiếu trong cuộc sống của mọi người. Tôi dùng nó hàng ngày để gọi điện, nhắn tin WeChat và lên mạng. Nó còn có thể chụp ảnh, nghe nhạc và xem video. Dù điện thoại rất tiện lợi, nhưng tôi cũng kiểm soát thời gian sử dụng để không bị nghiện.",
+      "en": "Smartphones have become an indispensable tool in people's lives. I use it every day to make calls, send WeChat messages, and go online. It can also be used to take photos, listen to music, and watch videos. Although the phone is very convenient, I also control the usage time so I don't become addicted.",
+      "zh": "智能手机"
+    }
+  },
+  {
+    "id": "hsk3_r026",
+    "title": {
+      "vi": "Mùa thu ở Bắc Kinh",
+      "en": "Autumn in Beijing",
+      "zh": "北京的秋天"
+    },
+    "hanzi": "北京的秋天非常美丽。天气凉爽，天空很蓝。树叶变成了金黄色和红色，整个城市就像一幅画。我和朋友经常去公园散步，欣赏秋天的景色。秋天还是一个丰收的季节，各种水果都成熟了。",
+    "pinyin": "Běijīng de qiūtiān fēicháng měilì. Tiānqì liángshuǎng, tiānkōng hěn lán. Shùyè biànchéngle jīnhuángsè hé hóngsè, zhěng ge chéngshì jiù xiàng yì fú huà. Wǒ hé péngyou jīngcháng qù gōngyuán sànbù, xīnshǎng qiūtiān de jǐngsè. Qiūtiān hái shì yí ge fēngshōu de jìjié, gèzhǒng shuǐguǒ dōu chéngshú le.",
+    "translation": {
+      "vi": "Mùa thu ở Bắc Kinh rất đẹp. Thời tiết mát mẻ, bầu trời xanh. Lá cây chuyển sang màu vàng và đỏ, cả thành phố như một bức tranh. Tôi và bạn bè thường đi dạo trong công viên ngắm cảnh thu. Mùa thu còn là mùa thu hoạch, nhiều loại trái cây đều đã chín.",
+      "en": "Autumn in Beijing is very beautiful. The weather is cool and the sky is blue. The leaves turn golden and red, making the whole city look like a painting. My friends and I often take walks in the park to enjoy the autumn scenery. Autumn is also a harvest season, and various fruits are ripe.",
+      "zh": "北京的秋天"
+    }
+  },
+  {
+    "id": "hsk3_r027",
+    "title": {
+      "vi": "Học trực tuyến",
+      "en": "Online learning",
+      "zh": "在线学习"
+    },
+    "hanzi": "因为疫情，我们很多课程都改成了在线学习。虽然不能去学校，但是在家里上课也很方便。我用电脑和老师、同学们视频上课。老师会把课件发给我们，我们可以在线提问。我觉得在线学习也有它的好处，比如可以节省路上的时间。",
+    "pinyin": "Yīnwèi yìqíng, wǒmen hěnduō kèchéng dōu gǎichéngle zàixiàn xuéxí. Suīrán bùnéng qù xuéxiào, dànshì zài jiālǐ shàngkè yě hěn fāngbiàn. Wǒ yòng diànnǎo hé lǎoshī, tóngxuémen shìpín shàngkè. Lǎoshī huì bǎ kèjiàn fā gěi wǒmen, wǒmen kěyǐ zàixiàn tíwèn. Wǒ juéde zàixiàn xuéxí yě yǒu tā de hǎochù, bǐrú kěyǐ jiéshěng lù shàng de shíjiān.",
+    "translation": {
+      "vi": "Vì dịch bệnh, nhiều khóa học của chúng tôi đã chuyển sang học trực tuyến. Dù không thể đến trường, nhưng học ở nhà cũng rất tiện. Tôi dùng máy tính để học qua video với thầy cô và bạn bè. Thầy cô gửi bài giảng cho chúng tôi, chúng tôi có thể đặt câu hỏi trực tuyến. Tôi thấy học trực tuyến cũng có lợi, ví dụ như tiết kiệm thời gian di chuyển.",
+      "en": "Due to the pandemic, many of our courses have been changed to online learning. Although we can't go to school, studying at home is also very convenient. I use my computer to video call teachers and classmates. Teachers send us course materials, and we can ask questions online. I think online learning also has its benefits, like saving commuting time.",
+      "zh": "在线学习"
+    }
+  },
+  {
+    "id": "hsk3_r028",
+    "title": {
+      "vi": "Nhà hàng chay",
+      "en": "Vegetarian restaurant",
+      "zh": "素菜馆"
+    },
+    "hanzi": "上周我和朋友去了一家素菜馆。那里的菜都是用蔬菜和豆腐做的，但是味道非常好。我们点了宫保素鸡丁和红烧茄子。虽然这些菜没有肉，但是吃起来很香。我觉得偶尔吃素对身体有好处，而且也很环保。",
+    "pinyin": "Shàng zhōu wǒ hé péngyou qùle yì jiā sùcài guǎn. Nàlǐ de cài dōu shì yòng shūcài hé dòufu zuò de, dànshì wèidào fēicháng hǎo. Wǒmen diǎnle gōngbǎo sù jīdīng hé hóngshāo qiézi. Suīrán zhèxiē cài méiyǒu ròu, dànshì chī qǐlái hěn xiāng. Wǒ juéde ǒu'ěr chī sù duì shēntǐ yǒu hǎochù, érqiě yě hěn huánbǎo.",
+    "translation": {
+      "vi": "Tuần trước tôi và bạn đến một nhà hàng chay. Các món ở đó đều được làm từ rau củ và đậu phụ, nhưng vị rất ngon. Chúng tôi gọi gà chay xào cay và cà tím kho tàu. Dù những món này không có thịt, nhưng ăn rất thơm. Tôi thấy thỉnh thoảng ăn chay có lợi cho sức khỏe và cũng thân thiện với môi trường.",
+      "en": "Last week I went to a vegetarian restaurant with a friend. The dishes there were all made with vegetables and tofu, but they tasted very good. We ordered vegetarian Kung Pao chicken and braised eggplant. Although these dishes have no meat, they were very fragrant. I think eating vegetarian occasionally is good for health and also eco-friendly.",
+      "zh": "素菜馆"
+    }
+  },
+  {
+    "id": "hsk3_r029",
+    "title": {
+      "vi": "Đi bộ đường dài",
+      "en": "Hiking",
+      "zh": "徒步"
+    },
+    "hanzi": "上个周末，我和朋友们去郊外徒步了。我们走了一条山路，沿途看到了很多美丽的风景，还有清澈的小溪。虽然徒步很累，但是当我们到达山顶的时候，感觉非常兴奋。我们在山顶上吃了简单的午餐，然后拍了照片留念。",
+    "pinyin": "Shàng ge zhōumò, wǒ hé péngyoumen qù jiāowài túbù le. Wǒmen zǒule yì tiáo shānlù, yántú kàndàole hěnduō měilì de fēngjǐng, háiyǒu qīngchè de xiǎoxī. Suīrán túbù hěn lèi, dànshì dāng wǒmen dàodà shāndǐng de shíhou, gǎnjué fēicháng xīngfèn. Wǒmen zài shāndǐng shàng chīle jiǎndān de wǔcān, ránhòu pāile zhàopiàn liúniàn.",
+    "translation": {
+      "vi": "Cuối tuần trước, tôi và bạn bè đã đi bộ đường dài ở ngoại ô. Chúng tôi đi theo một con đường mòn trên núi, dọc đường ngắm nhiều cảnh đẹp và suối trong. Dù đi bộ mệt, nhưng khi đến đỉnh núi, chúng tôi rất phấn khích. Chúng tôi ăn trưa đơn giản trên đỉnh và chụp ảnh kỷ niệm.",
+      "en": "Last weekend, I went hiking with my friends in the outskirts. We followed a mountain trail and saw beautiful scenery along the way, including clear streams. Although hiking was tiring, we felt very excited when we reached the summit. We had a simple lunch on top and took photos as mementos.",
+      "zh": "徒步"
+    }
+  },
+  {
+    "id": "hsk3_r030",
+    "title": {
+      "vi": "Mua sách",
+      "en": "Buying books",
+      "zh": "买书"
+    },
+    "hanzi": "我每个月初都会去书店买几本新书。我特别喜欢历史和科普类的书籍。昨天我在书店看到了《人类简史》，毫不犹豫地买了下来。这本书记录了人类发展的过程，很有意思。我觉得阅读是获取知识的最好方式。",
+    "pinyin": "Wǒ měi ge yuè chū dōu huì qù shūdiàn mǎi jǐ běn xīn shū. Wǒ tèbié xǐhuān lìshǐ hé kēpǔ lèi de shūjí. Zuótiān wǒ zài shūdiàn kàndàole 《Rénlèi Jiǎnshǐ》, háo bù yóuyù de mǎile xiàlái. Zhè běn shū jìlùle rénlèi fāzhǎn de guòchéng, hěn yǒuyìsi. Wǒ juéde yuèdú shì huòqǔ zhīshi de zuì hǎo fāngshì.",
+    "translation": {
+      "vi": "Đầu tháng nào tôi cũng ra nhà sách mua vài cuốn sách mới. Tôi đặc biệt thích sách lịch sử và khoa học phổ thông. Hôm qua tôi thấy cuốn \"Sơ lược lịch sử loài người\" ở nhà sách và mua ngay không do dự. Cuốn sách ghi lại quá trình phát triển của loài người, rất thú vị. Tôi thấy đọc sách là cách tốt nhất để tiếp thu kiến thức.",
+      "en": "At the beginning of every month, I go to the bookstore to buy some new books. I particularly like history and popular science books. Yesterday I saw 'A Brief History of Humankind' at the bookstore and bought it without hesitation. This book records the development process of humankind and is very interesting. I think reading is the best way to acquire knowledge.",
+      "zh": "买书"
+    }
+  },
+  {
+    "id": "hsk3_r031",
+    "title": {
+      "vi": "Kế hoạch tương lai",
+      "en": "Future plans",
+      "zh": "未来计划"
+    },
+    "hanzi": "我明年就要大学毕业了，我打算毕业后去上海工作。我想找一份与国际贸易相关的工作，因为我学的是这个专业。我也计划在工作的同时继续学习英语，提高自己的竞争力。虽然未来充满挑战，但我有信心面对。",
+    "pinyin": "Wǒ míngnián jiù yào dàxué bìyè le, wǒ dǎsuàn bìyè hòu qù Shànghǎi gōngzuò. Wǒ xiǎng zhǎo yí fèn yǔ guójì màoyì xiāngguān de gōngzuò, yīnwèi wǒ xué de shì zhège zhuānyè. Wǒ yě jìhuà zài gōngzuò de tóngshí jìxù xuéxí Yīngyǔ, tígāo zìjǐ de jìngzhēnglì. Suīrán wèilái chōngmǎn tiǎozhàn, dàn wǒ yǒu xìnxīn miànduì.",
+    "translation": {
+      "vi": "Năm sau tôi sẽ tốt nghiệp đại học, tôi dự định sau khi tốt nghiệp sẽ đến Thượng Hải làm việc. Tôi muốn tìm một công việc liên quan đến thương mại quốc tế vì tôi học chuyên ngành đó. Tôi cũng dự định vừa làm vừa tiếp tục học tiếng Anh để nâng cao năng lực cạnh tranh. Dù tương lai đầy thách thức, nhưng tôi tự tin đối mặt.",
+      "en": "I will graduate from university next year, and I plan to work in Shanghai after graduation. I want to find a job related to international trade because I studied that major. I also plan to continue studying English while working to improve my competitiveness. Although the future is full of challenges, I am confident to face them.",
+      "zh": "未来计划"
+    }
+  },
+  {
+    "id": "hsk3_r032",
+    "title": {
+      "vi": "Trồng cây",
+      "en": "Planting trees",
+      "zh": "种树"
+    },
+    "hanzi": "上个星期六，我和同学们去公园里种树了。我们每个人种了一棵小树苗，并且给它浇了水。老师说种树可以保护环境，让空气更清新。我觉得这是一件非常有意义的事情。我希望这些小树能够快快长大。",
+    "pinyin": "Shàng ge xīngqīliù, wǒ hé tóngxuémen qù gōngyuán lǐ zhòng shù le. Wǒmen měi ge rén zhòngle yì kē xiǎo shùmiáo, bìngqiě gěi tā jiāole shuǐ. Lǎoshī shuō zhòng shù kěyǐ bǎohù huánjìng, ràng kōngqì gèng xīnxiān. Wǒ juéde zhè shì yí jiàn fēicháng yǒu yìyì de shìqing. Wǒ xīwàng zhèxiē xiǎo shù nénggòu kuài kuài zhǎng dà.",
+    "translation": {
+      "vi": "Thứ bảy tuần trước, tôi và các bạn cùng lớp đến công viên trồng cây. Mỗi người chúng tôi trồng một cây non và tưới nước. Cô giáo nói trồng cây có thể bảo vệ môi trường, làm cho không khí trong lành hơn. Tôi thấy đây là việc rất có ý nghĩa. Tôi mong những cây non này lớn nhanh.",
+      "en": "Last Saturday, my classmates and I went to the park to plant trees. Each of us planted a sapling and watered it. The teacher said planting trees can protect the environment and make the air fresher. I think this is a very meaningful activity. I hope these saplings will grow up quickly.",
+      "zh": "种树"
+    }
+  },
+  {
+    "id": "hsk3_r033",
+    "title": {
+      "vi": "Xem phim",
+      "en": "Watching movies",
+      "zh": "看电影"
+    },
+    "hanzi": "我每个周末都喜欢看电影。有时候去电影院看，有时候在家里用电脑看。最近我看了一部科幻电影，讲述的是未来世界的故事。电影的特效非常精彩，情节也很吸引人。我觉得看电影是放松的好方式。",
+    "pinyin": "Wǒ měi ge zhōumò dōu xǐhuān kàn diànyǐng. Yǒu shíhou qù diànyǐngyuàn kàn, yǒu shíhou zài jiālǐ yòng diànnǎo kàn. Zuìjìn wǒ kànle yí bù kēhuàn diànyǐng, jiǎngshù de shì wèilái shìjiè de gùshi. Diànyǐng de tèxiào fēicháng jīngcǎi, qíngjié yě hěn xīyǐn rén. Wǒ juéde kàn diànyǐng shì fàngsōng de hǎo fāngshì.",
+    "translation": {
+      "vi": "Cuối tuần nào tôi cũng thích xem phim. Có khi ra rạp chiếu phim, có khi xem trên máy tính ở nhà. Gần đây tôi xem một bộ phim khoa học viễn tưởng kể về câu chuyện thế giới tương lai. Hiệu ứng đặc biệt rất ấn tượng, cốt truyện cũng cuốn hút. Tôi thấy xem phim là cách thư giãn tốt.",
+      "en": "I like watching movies every weekend. Sometimes I go to the cinema, sometimes I watch on my computer at home. Recently I watched a science fiction movie about a future world. The special effects were brilliant, and the plot was compelling. I think watching movies is a good way to relax.",
+      "zh": "看电影"
+    }
+  },
+  {
+    "id": "hsk3_r034",
+    "title": {
+      "vi": "Thăm bà ngoại",
+      "en": "Visiting grandma",
+      "zh": "看望外婆"
+    },
+    "hanzi": "这个周末我要去看望外婆。她已经八十岁了，身体还很健康。我每次去看她，她都会给我做好吃的菜。她还会给我讲一些她年轻时的故事。我很喜欢听她讲故事，总觉得很有趣。我会带一些水果和点心给她。",
+    "pinyin": "Zhège zhōumò wǒ yào qù kànwàng wàipó. Tā yǐjīng bāshí suì le, shēntǐ hái hěn jiànkāng. Wǒ měi cì qù kàn tā, tā dōu huì gěi wǒ zuò hǎochī de cài. Tā hái huì gěi wǒ jiǎng yìxiē tā niánqīng shí de gùshi. Wǒ hěn xǐhuān tīng tā jiǎng gùshi, zǒng juéde hěn yǒuqù. Wǒ huì dài yìxiē shuǐguǒ hé diǎnxīn gěi tā.",
+    "translation": {
+      "vi": "Cuối tuần này tôi sẽ đến thăm bà ngoại. Bà đã tám mươi tuổi nhưng vẫn khỏe mạnh. Mỗi lần tôi đến thăm, bà đều nấu những món ăn ngon cho tôi. Bà còn kể cho tôi nghe vài câu chuyện thời trẻ của bà. Tôi rất thích nghe bà kể chuyện, luôn thấy rất thú vị. Tôi sẽ mang một ít trái cây và bánh đến cho bà.",
+      "en": "This weekend I'm going to visit my grandma. She is already eighty years old and still healthy. Every time I visit, she cooks delicious dishes for me. She also tells me stories from her youth. I enjoy listening to her stories, they are always interesting. I will bring some fruit and snacks for her.",
+      "zh": "看望外婆"
+    }
+  },
+  {
+    "id": "hsk3_r035",
+    "title": {
+      "vi": "Nghe nhạc",
+      "en": "Listening to music",
+      "zh": "听音乐"
+    },
+    "hanzi": "音乐是我生活中不可缺少的一部分。我每天都会听一些音乐，尤其是在学习或者做家务的时候。我喜欢流行音乐和古典音乐，不同的音乐会给我带来不同的感受。我觉得音乐可以让人心情变好，也能帮助集中注意力。",
+    "pinyin": "Yīnyuè shì wǒ shēnghuó zhōng bùkě quēshǎo de yí bùfen. Wǒ měitiān dōu huì tīng yìxiē yīnyuè, yóuqí shì zài xuéxí huòzhě zuò jiāwù de shíhou. Wǒ xǐhuān liúxíng yīnyuè hé gǔdiǎn yīnyuè, bùtóng de yīnyuè huì gěi wǒ dàilái bùtóng de gǎnshòu. Wǒ juéde yīnyuè kěyǐ ràng rén xīnqíng biàn hǎo, yě néng bāngzhù jízhōng zhùyìlì.",
+    "translation": {
+      "vi": "Âm nhạc là một phần không thể thiếu trong cuộc sống của tôi. Mỗi ngày tôi đều nghe nhạc, nhất là khi học hoặc làm việc nhà. Tôi thích nhạc pop và nhạc cổ điển, mỗi loại nhạc mang lại cảm xúc khác nhau. Tôi thấy âm nhạc có thể làm tâm trạng tốt hơn và giúp tập trung.",
+      "en": "Music is an indispensable part of my life. I listen to music every day, especially when studying or doing housework. I like pop and classical music; different music brings me different feelings. I think music can improve mood and help with concentration.",
+      "zh": "听音乐"
+    }
+  },
+  {
+    "id": "hsk3_r036",
+    "title": {
+      "vi": "Thuê nhà",
+      "en": "Renting an apartment",
+      "zh": "租房"
+    },
+    "hanzi": "我下个月要搬到另一个城市去工作，所以需要租一套房子。我在网上看了几个房源，找到了一间靠近地铁站的公寓。虽然租金有点贵，但是环境很好，交通也方便。我已经和房东约好明天去看房。",
+    "pinyin": "Wǒ xià ge yuè yào bān dào lìng yí ge chéngshì qù gōngzuò, suǒyǐ xūyào zū yí tào fángzi. Wǒ zài wǎngshàng kànle jǐ ge fángyuán, zhǎodàole yì jiān kàojìn dìtiě zhàn de gōngyù. Suīrán zūjīn yǒudiǎn guì, dànshì huánjìng hěn hǎo, jiāotōng yě fāngbiàn. Wǒ yǐjīng hé fángdōng yuē hǎo míngtiān qù kàn fáng.",
+    "translation": {
+      "vi": "Tháng sau tôi sẽ chuyển đến thành phố khác để làm việc, nên cần thuê một căn hộ. Tôi đã xem một vài tin rao vặt trên mạng và tìm được một căn hộ gần ga tàu điện ngầm. Dù giá thuê hơi cao nhưng môi trường tốt, giao thông thuận tiện. Tôi đã hẹn với chủ nhà ngày mai đi xem nhà.",
+      "en": "I'm moving to another city for work next month, so I need to rent an apartment. I looked at several listings online and found an apartment near the subway station. Although the rent is a bit expensive, the environment is good and the transportation is convenient. I've already arranged with the landlord to see it tomorrow.",
+      "zh": "租房"
+    }
+  },
+  {
+    "id": "hsk3_r037",
+    "title": {
+      "vi": "Món quà cho mẹ",
+      "en": "A gift for mom",
+      "zh": "给妈妈的礼物"
+    },
+    "hanzi": "母亲节快到了，我想送给妈妈一份特别的礼物。我打算亲手为妈妈做一顿晚餐，再买一束花。妈妈平时工作很辛苦，我想让她在这个节日里好好休息一下。我知道妈妈喜欢吃鱼，所以我会做一道清蒸鱼。",
+    "pinyin": "Mǔqīnjié kuài dàole, wǒ xiǎng sòng gěi māma yí fèn tèbié de lǐwù. Wǒ dǎsuàn qīnshǒu wèi māma zuò yí dùn wǎncān, zài mǎi yí shù huā. Māma píngshí gōngzuò hěn xīnkǔ, wǒ xiǎng ràng tā zài zhège jiérì lǐ hǎohǎo xiūxi yíxià. Wǒ zhīdào māma xǐhuān chī yú, suǒyǐ wǒ huì zuò yí dào qīngzhēng yú.",
+    "translation": {
+      "vi": "Ngày của Mẹ sắp đến, tôi muốn tặng mẹ một món quà đặc biệt. Tôi dự định tự tay nấu một bữa tối cho mẹ và mua một bó hoa. Mẹ làm việc vất vả, tôi muốn mẹ được nghỉ ngơi trong ngày này. Tôi biết mẹ thích ăn cá, nên tôi sẽ làm món cá hấp.",
+      "en": "Mother's Day is coming, and I want to give my mom a special gift. I plan to cook dinner for her myself and buy a bouquet of flowers. Mom works hard every day, and I want her to have a good rest on this holiday. I know she likes fish, so I will make steamed fish.",
+      "zh": "给妈妈的礼物"
+    }
+  },
+  {
+    "id": "hsk3_r038",
+    "title": {
+      "vi": "Thể thao điện tử",
+      "en": "E-sports",
+      "zh": "电子竞技"
+    },
+    "hanzi": "现在电子竞技越来越流行，很多年轻人都喜欢打游戏。我的弟弟也很喜欢玩电子游戏，他经常和朋友一起组队比赛。虽然我觉得玩游戏可以放松，但是我也提醒他要控制时间，不能影响学习和健康。",
+    "pinyin": "Xiànzài diànzǐ jìngjì yuèláiyuè liúxíng, hěnduō niánqīng rén dōu xǐhuān dǎ yóuxì. Wǒ de dìdi yě hěn xǐhuān wán diànzǐ yóuxì, tā jīngcháng hé péngyou yìqǐ zǔduì bǐsài. Suīrán wǒ juéde wán yóuxì kěyǐ fàngsōng, dànshì wǒ yě tíxǐng tā yào kòngzhì shíjiān, bùnéng yǐngxiǎng xuéxí hé jiànkāng.",
+    "translation": {
+      "vi": "Thể thao điện tử ngày càng phổ biến, nhiều bạn trẻ thích chơi game. Em trai tôi cũng rất thích chơi game điện tử, nó thường cùng bạn bè lập đội thi đấu. Dù tôi thấy chơi game có thể thư giãn, nhưng tôi cũng nhắc nó phải kiểm soát thời gian, không ảnh hưởng đến học tập và sức khỏe.",
+      "en": "E-sports are becoming more and more popular now, and many young people like to play games. My younger brother also enjoys playing video games; he often teams up with friends to compete. Although I think playing games can be relaxing, I also remind him to control the time and not affect his studies and health.",
+      "zh": "电子竞技"
+    }
+  },
+  {
+    "id": "hsk3_r039",
+    "title": {
+      "vi": "Giáng sinh",
+      "en": "Christmas",
+      "zh": "圣诞节"
+    },
+    "hanzi": "圣诞节是一个非常重要的节日。虽然我不是基督教徒，但是我也喜欢过圣诞节。那天我和朋友们会一起装饰圣诞树，交换礼物，还会一起吃大餐。街上到处都挂着彩灯，充满了节日的气氛。",
+    "pinyin": "Shèngdànjié shì yí ge fēicháng zhòngyào de jiérì. Suīrán wǒ búshì Jīdūjiàotú, dànshì wǒ yě xǐhuān guò Shèngdànjié. Nà tiān wǒ hé péngyoumen huì yìqǐ zhuāngshì shèngdàn shù, jiāohuàn lǐwù, hái huì yìqǐ chī dà cān. Jiē shàng dàochù dōu guàzhe cǎidēng, chōngmǎnle jiérì de qìfēn.",
+    "translation": {
+      "vi": "Giáng sinh là một ngày lễ rất quan trọng. Dù tôi không theo đạo Thiên Chúa, nhưng tôi vẫn thích đón Giáng sinh. Ngày đó tôi và bạn bè trang trí cây thông Noel, tặng quà và ăn tiệc. Trên phố đều treo đèn màu, tràn ngập không khí lễ hội.",
+      "en": "Christmas is a very important holiday. Although I am not a Christian, I still like to celebrate Christmas. On that day, my friends and I decorate the Christmas tree, exchange gifts, and have a big meal together. The streets are full of colorful lights, filled with a festive atmosphere.",
+      "zh": "圣诞节"
+    }
+  },
+  {
+    "id": "hsk3_r040",
+    "title": {
+      "vi": "Chăm sóc thú cưng",
+      "en": "Pet care",
+      "zh": "照顾宠物"
+    },
+    "hanzi": "我家养了一只小猫，它非常可爱。我每天都会给它喂食、换水，还会陪它玩一会儿。小猫喜欢玩毛线球，每次都能玩得很开心。照顾宠物需要耐心和时间，但我觉得这让我更懂得负责任。",
+    "pinyin": "Wǒ jiā yǎngle yì zhī xiǎo māo, tā fēicháng kě'ài. Wǒ měitiān dōu huì gěi tā wèishí, huàn shuǐ, hái huì péi tā wán yíhuìr. Xiǎo māo xǐhuān wán máoxiàn qiú, měi cì dōu néng wán de hěn kāixīn. Zhàogù chǒngwù xūyào nàixīn hé shíjiān, dàn wǒ juéde zhè ràng wǒ gèng dǒngde fù zérèn.",
+    "translation": {
+      "vi": "Nhà tôi nuôi một chú mèo nhỏ, rất đáng yêu. Mỗi ngày tôi đều cho nó ăn, thay nước và chơi với nó một lúc. Mèo thích chơi với cuộn len, lần nào cũng rất vui. Chăm sóc thú cưng cần kiên nhẫn và thời gian, nhưng tôi thấy điều này giúp tôi có trách nhiệm hơn.",
+      "en": "My family has a kitten, it's very cute. Every day I feed it, change its water, and play with it for a while. The kitten likes to play with a ball of yarn and always has fun. Taking care of a pet requires patience and time, but I think it makes me more responsible.",
+      "zh": "照顾宠物"
+    }
+  },
+  {
+    "id": "hsk3_r041",
+    "title": {
+      "vi": "Tham quan bảo tàng khoa học",
+      "en": "Visiting science museum",
+      "zh": "参观科技馆"
+    },
+    "hanzi": "上周日我带着侄子去了科技馆。科技馆里有很多有趣的展览，比如机器人、宇宙探索和人体构造。侄子特别喜欢那个模拟太空舱，他在里面待了很长时间。我觉得科技馆是孩子们学习科学的好地方。",
+    "pinyin": "Shàng zhōurì wǒ dàizhe zhízi qùle kējì guǎn. Kējì guǎn lǐ yǒu hěnduō yǒuqù de zhǎnlǎn, bǐrú jīqìrén, yǔzhòu tànsuǒ hé réntǐ gòuzào. Zhízi tèbié xǐhuān nà ge mónǐ tàikōng cāng, tā zài lǐmiàn dāile hěn cháng shíjiān. Wǒ juéde kējì guǎn shì háizi men xuéxí kēxué de hǎo dìfang.",
+    "translation": {
+      "vi": "Chủ nhật tuần trước tôi dẫn cháu trai đến Bảo tàng Khoa học. Bảo tàng có nhiều triển lãm thú vị như robot, khám phá vũ trụ và cấu tạo cơ thể người. Cháu trai đặc biệt thích khoang mô phỏng không gian, nó đã ở đó rất lâu. Tôi thấy bảo tàng khoa học là nơi tốt để trẻ em học khoa học.",
+      "en": "Last Sunday I took my nephew to the science museum. There were many interesting exhibitions, like robots, space exploration, and human anatomy. My nephew especially liked the simulated space capsule; he stayed there for a long time. I think science museums are great places for children to learn science.",
+      "zh": "参观科技馆"
+    }
+  },
+  {
+    "id": "hsk3_r042",
+    "title": {
+      "vi": "Học cách nấu cơm",
+      "en": "Learning to cook rice",
+      "zh": "学煮饭"
+    },
+    "hanzi": "今天我第一次学煮饭。我按照妈妈教我的步骤，先淘米，然后加水，最后按下电饭锅的开关。大约二十分钟后，饭煮好了，我打开锅盖，一阵香味扑鼻而来。虽然饭有点软，但是我觉得很开心，因为是自己做的。",
+    "pinyin": "Jīntiān wǒ dì-yī cì xué zhǔ fàn. Wǒ ànzhào māma jiāo wǒ de bùzhòu, xiān táo mǐ, ránhòu jiā shuǐ, zuìhòu ànxià diànfànguō de kāiguān. Dàyuē èrshí fēnzhōng hòu, fàn zhǔ hǎo le, wǒ dǎkāi guō gài, yí zhèn xiāngwèi pūbí ér lái. Suīrán fàn yǒudiǎn ruǎn, dànshì wǒ juéde hěn kāixīn, yīnwèi shì zìjǐ zuò de.",
+    "translation": {
+      "vi": "Hôm nay lần đầu tiên tôi học nấu cơm. Tôi làm theo các bước mẹ dạy: vo gạo, thêm nước, sau đó bật công tắc nồi cơm điện. Khoảng hai mươi phút sau, cơm chín, tôi mở nắp, mùi thơm bốc lên. Dù cơm hơi nhão, nhưng tôi thấy rất vui vì tự mình làm được.",
+      "en": "Today I learned to cook rice for the first time. I followed the steps my mom taught me: wash the rice, add water, and press the switch on the rice cooker. About twenty minutes later, the rice was done, and when I opened the lid, a fragrant aroma came out. Although the rice was a bit soft, I felt very happy because I made it myself.",
+      "zh": "学煮饭"
+    }
+  },
+  {
+    "id": "hsk3_r043",
+    "title": {
+      "vi": "Mua bảo hiểm",
+      "en": "Buying insurance",
+      "zh": "买保险"
+    },
+    "hanzi": "我最近开始考虑买一份健康保险。因为医疗费用越来越高，保险可以帮助我应对突发的疾病。我咨询了几个保险公司的产品，比较了它们的价格和保障范围。最后我选择了一家信誉好的公司，买了一份合适的保险。",
+    "pinyin": "Wǒ zuìjìn kāishǐ kǎolǜ mǎi yí fèn jiànkāng bǎoxiǎn. Yīnwèi yīliáo fèiyòng yuèláiyuè gāo, bǎoxiǎn kěyǐ bāngzhù wǒ yìngduì tūfā de jíbìng. Wǒ zīxúnle jǐ ge bǎoxiǎn gōngsī de chǎnpǐn, bǐjiàole tāmen de jiàgé hé bǎozhàng fànwéi. Zuìhòu wǒ xuǎnzéle yì jiā xìnyù hǎo de gōngsī, mǎile yí fèn héshì de bǎoxiǎn.",
+    "translation": {
+      "vi": "Gần đây tôi bắt đầu cân nhắc mua bảo hiểm sức khỏe. Vì chi phí y tế ngày càng cao, bảo hiểm có thể giúp tôi đối phó với bệnh tật đột xuất. Tôi đã tham khảo sản phẩm của vài công ty bảo hiểm, so sánh giá cả và phạm vi bảo hiểm. Cuối cùng tôi chọn một công ty uy tín và mua một gói bảo hiểm phù hợp.",
+      "en": "I recently started considering buying health insurance. Since medical costs are rising, insurance can help me cope with sudden illnesses. I consulted products from several insurance companies, comparing their prices and coverage. Finally, I chose a reputable company and bought a suitable insurance policy.",
+      "zh": "买保险"
+    }
+  },
+  {
+    "id": "hsk3_r044",
+    "title": {
+      "vi": "Tham gia lớp học nhạc",
+      "en": "Joining music class",
+      "zh": "参加音乐班"
+    },
+    "hanzi": "我女儿对音乐很感兴趣，所以我给她报了一个钢琴班。她每周去上两次课，每次一个小时。她很认真练习，回家后还会主动弹琴。虽然学琴的过程有时候很辛苦，但是她从来没有放弃过。我为她的努力感到骄傲。",
+    "pinyin": "Wǒ nǚ'ér duì yīnyuè hěn gǎn xìngqù, suǒyǐ wǒ gěi tā bàole yí ge gāngqín bān. Tā měi zhōu qù shàng liǎng cì kè, měi cì yí ge xiǎoshí. Tā hěn rènzhēn liànxí, huí jiā hòu hái huì zhǔdòng tán qín. Suīrán xué qín de guòchéng yǒu shíhou hěn xīnkǔ, dànshì tā cónglái méiyǒu fàngqì guò. Wǒ wèi tā de nǔlì gǎndào jiāo'ào.",
+    "translation": {
+      "vi": "Con gái tôi rất hứng thú với âm nhạc, nên tôi đã đăng ký cho con một lớp piano. Bé học hai buổi mỗi tuần, mỗi buổi một giờ. Bé luyện tập rất chăm chỉ, về nhà còn tự chủ động tập đàn. Dù quá trình học đôi khi vất vả, nhưng bé chưa bao giờ bỏ cuộc. Tôi tự hào về sự nỗ lực của con.",
+      "en": "My daughter is very interested in music, so I enrolled her in a piano class. She goes twice a week for one hour each. She practices very seriously and even takes the initiative to play piano at home. Although learning the piano can sometimes be hard, she has never given up. I am proud of her efforts.",
+      "zh": "参加音乐班"
+    }
+  },
+  {
+    "id": "hsk3_r045",
+    "title": {
+      "vi": "Khách sạn",
+      "en": "Hotel",
+      "zh": "酒店"
+    },
+    "hanzi": "上周我出差去了广州，住在一家五星级酒店里。酒店的设施非常好，有游泳池和健身房。房间也很干净舒适。服务人员非常热情，让我感到很温暖。虽然出差是为了工作，但是住好的酒店也是一种享受。",
+    "pinyin": "Shàng zhōu wǒ chūchāi qùle Guǎngzhōu, zhù zài yì jiā wǔxīng jí jiǔdiàn lǐ. Jiǔdiàn de shèshī fēicháng hǎo, yǒu yóuyǒng chí hé jiànshēnfáng. Fángjiān yě hěn gānjìng shūshì. Fúwù rényuán fēicháng rèqíng, ràng wǒ gǎndào hěn wēnnuǎn. Suīrán chūchāi shì wèile gōngzuò, dànshì zhù hǎo de jiǔdiàn yě shì yì zhǒng xiǎngshòu.",
+    "translation": {
+      "vi": "Tuần trước tôi đi công tác tại Quảng Châu, ở trong một khách sạn 5 sao. Tiện nghi rất tốt, có bể bơi và phòng tập. Phòng nghỉ sạch sẽ và thoải mái. Nhân viên phục vụ nhiệt tình, khiến tôi cảm thấy ấm áp. Dù đi công tác vì việc, nhưng ở khách sạn tốt cũng là một sự tận hưởng.",
+      "en": "Last week I went on a business trip to Guangzhou and stayed at a five-star hotel. The facilities were excellent, with a swimming pool and gym. The room was clean and comfortable. The staff were very warm and made me feel welcome. Although the trip was for work, staying in a good hotel was also a pleasure.",
+      "zh": "酒店"
+    }
+  },
+  {
+    "id": "hsk3_r046",
+    "title": {
+      "vi": "Học lái xe",
+      "en": "Learning to drive",
+      "zh": "学开车"
+    },
+    "hanzi": "我最近在学开车，已经上了几次课了。我的教练很耐心，教会了我很多驾驶技巧。虽然刚开始的时候我很紧张，但是现在已经越来越熟练了。我打算下个月参加驾照考试，希望能一次通过。",
+    "pinyin": "Wǒ zuìjìn zài xué kāichē, yǐjīng shàngle jǐ cì kè le. Wǒ de jiàoliàn hěn nàixīn, jiāohuìle wǒ hěnduō jiàshǐ jìqiǎo. Suīrán gāng kāishǐ de shíhou wǒ hěn jǐnzhāng, dànshì xiànzài yǐjīng yuèláiyuè shúliàn le. Wǒ dǎsuàn xià ge yuè cānjiā jiàzhào kǎoshì, xīwàng néng yí cì tōngguò.",
+    "translation": {
+      "vi": "Gần đây tôi đang học lái xe, đã học được vài buổi. Giáo viên dạy lái của tôi rất kiên nhẫn, dạy tôi nhiều kỹ năng lái xe. Dù ban đầu tôi rất căng thẳng, nhưng bây giờ đã ngày càng thành thạo. Tôi dự định thi bằng lái vào tháng tới, hy vọng đỗ ngay lần đầu.",
+      "en": "I've been learning to drive recently and have had a few lessons. My instructor is very patient and taught me many driving skills. Although I was nervous at first, I'm getting more proficient now. I plan to take the driving test next month, hoping to pass it in one go.",
+      "zh": "学开车"
+    }
+  },
+  {
+    "id": "hsk3_r047",
+    "title": {
+      "vi": "Mua quà Tết",
+      "en": "Buying New Year gifts",
+      "zh": "买年货"
+    },
+    "hanzi": "春节快到了，我和妈妈一起去超市买年货。超市里人很多，大家都在为过年做准备。我们买了很多东西，比如糖果、坚果、春联和红包。我还买了一些新衣服，打算在除夕穿上。春节是我最喜欢的节日，因为可以和家人团聚，吃年夜饭。",
+    "pinyin": "Chūnjié kuài dàole, wǒ hé māma yìqǐ qù chāoshì mǎi niánhuò. Chāoshì lǐ rén hěnduō, dàjiā dōu zài wèi guò nián zuò zhǔnbèi. Wǒmen mǎile hěnduō dōngxi, bǐrú tángguǒ, jiānguǒ, chūnlián hé hóngbāo. Wǒ hái mǎile yìxiē xīn yīfu, dǎsuàn zài chúxī chuānshàng. Chūnjié shì wǒ zuì xǐhuān de jiérì, yīnwèi kěyǐ hé jiārén tuánjù, chī niányèfàn.",
+    "translation": {
+      "vi": "Tết Nguyên đán sắp đến, tôi và mẹ cùng nhau đi siêu thị mua đồ Tết. Siêu thị rất đông, ai cũng đang chuẩn bị đón Tết. Chúng tôi mua nhiều thứ như kẹo, hạt khô, câu đối đỏ và bao lì xì. Tôi còn mua vài bộ quần áo mới để mặc vào đêm giao thừa. Tết là ngày lễ tôi thích nhất vì được sum họp gia đình và ăn bữa cơm tất niên.",
+      "en": "Spring Festival is coming, and my mom and I went to the supermarket to buy New Year goods. The supermarket was crowded, and everyone was preparing for the holiday. We bought many things like candies, nuts, Spring Festival couplets, and red envelopes. I also bought some new clothes to wear on New Year's Eve. Spring Festival is my favorite holiday because I can reunite with family and have the New Year's Eve dinner.",
+      "zh": "买年货"
+    }
+  },
+  {
+    "id": "hsk3_r048",
+    "title": {
+      "vi": "Làm việc nhóm",
+      "en": "Teamwork",
+      "zh": "团队合作"
+    },
+    "hanzi": "在学校里，我们经常要做小组作业。上次我们小组做了一个关于环境保护的展示。每个人都负责一个部分，有的查资料，有的做幻灯片，有的负责演讲。我们合作得很好，最后得到了老师的表扬。我觉得团队合作很重要，可以学习到很多东西。",
+    "pinyin": "Zài xuéxiào lǐ, wǒmen jīngcháng yào zuò xiǎozǔ zuòyè. Shàng cì wǒmen xiǎozǔ zuòle yí ge guānyú huánjìng bǎohù de zhǎnshì. Měi ge rén dōu fùzé yí ge bùfen, yǒude chá zīliào, yǒude zuò huàndēng piàn, yǒude fùzé yǎnjiǎng. Wǒmen hézuò de hěn hǎo, zuìhòu dédàole lǎoshī de biǎoyáng. Wǒ juéde tuánduì hézuò hěn zhòngyào, kěyǐ xuéxí dào hěnduō dōngxi.",
+    "translation": {
+      "vi": "Ở trường, chúng tôi thường phải làm bài tập nhóm. Lần trước nhóm chúng tôi làm một bài thuyết trình về bảo vệ môi trường. Mỗi người phụ trách một phần, người tìm tài liệu, người làm slide, người thuyết trình. Chúng tôi hợp tác tốt và cuối cùng được cô giáo khen. Tôi thấy làm việc nhóm rất quan trọng, có thể học được nhiều điều.",
+      "en": "At school, we often have to do group assignments. Last time our group did a presentation on environmental protection. Each person was responsible for a part: some researched materials, some made slides, and some gave the presentation. We cooperated well and eventually received praise from the teacher. I think teamwork is very important and we can learn a lot from it.",
+      "zh": "团队合作"
+    }
+  },
+  {
+    "id": "hsk3_r049",
+    "title": {
+      "vi": "Đi cắm trại",
+      "en": "Camping",
+      "zh": "露营"
+    },
+    "hanzi": "上周末我和朋友们去山里露营了。我们带了帐篷、睡袋和食物。晚上我们在篝火旁唱歌、聊天，还烤了棉花糖。虽然天气有点冷，但是大家围在一起觉得很温暖。这次露营让我感受到了大自然的美好。",
+    "pinyin": "Shàng zhōumò wǒ hé péngyoumen qù shān lǐ lùyíng le. Wǒmen dàile zhàngpeng, shuìdài hé shíwù. Wǎnshang wǒmen zài gōuhuǒ páng chànggē, liáotiān, hái kǎole miánhuātáng. Suīrán tiānqì yǒudiǎn lěng, dànshì dàjiā wéi zài yìqǐ juéde hěn wēnnuǎn. Zhè cì lùyíng ràng wǒ gǎnshòu dào le dàzìrán de měihǎo.",
+    "translation": {
+      "vi": "Cuối tuần trước tôi và bạn bè đi cắm trại trong núi. Chúng tôi mang theo lều, túi ngủ và đồ ăn. Buổi tối chúng tôi hát hò, trò chuyện bên đống lửa và nướng kẹo dẻo. Dù trời hơi lạnh, nhưng mọi người quây quần bên nhau cảm thấy ấm áp. Chuyến cắm trại này giúp tôi cảm nhận được vẻ đẹp của thiên nhiên.",
+      "en": "Last weekend my friends and I went camping in the mountains. We brought tents, sleeping bags, and food. In the evening we sang songs, chatted by the campfire, and roasted marshmallows. Although the weather was a bit cold, we felt warm together. This camping trip let me appreciate the beauty of nature.",
+      "zh": "露营"
+    }
+  },
+  {
+    "id": "hsk3_r050",
+    "title": {
+      "vi": "Gọi món bằng tiếng Trung",
+      "en": "Ordering in Chinese",
+      "zh": "用中文点菜"
+    },
+    "hanzi": "我学习中文有一段时间了，昨天我第一次尝试用中文在餐厅点菜。服务员很友善，他耐心地听我说话。我点了一份炒饭和一杯柠檬水。虽然我说得不太好，但是他还是听懂了我的意思。这让我很有成就感。",
+    "pinyin": "Wǒ xuéxí Zhōngwén yǒu yí duàn shíjiān le, zuótiān wǒ dì-yī cì chángshì yòng Zhōngwén zài cāntīng diǎn cài. Fúwùyuán hěn yǒushàn, tā nàixīn de tīng wǒ shuōhuà. Wǒ diǎnle yí fèn chǎofàn hé yì bēi níngméng shuǐ. Suīrán wǒ shuō de bú tài hǎo, dànshì tā háishì tīng dǒngle wǒ de yìsi. Zhè ràng wǒ hěn yǒu chéngjiùgǎn.",
+    "translation": {
+      "vi": "Tôi học tiếng Trung đã một thời gian, hôm qua lần đầu tiên tôi thử gọi món bằng tiếng Trung tại nhà hàng. Nhân viên rất thân thiện, anh ấy kiên nhẫn lắng nghe. Tôi gọi một phần cơm rang và một cốc nước chanh. Dù tôi nói chưa tốt lắm, nhưng anh ấy vẫn hiểu ý tôi. Điều này khiến tôi rất có cảm giác thành tựu.",
+      "en": "I have been learning Chinese for a while. Yesterday I tried ordering in Chinese at a restaurant for the first time. The waiter was friendly and listened patiently. I ordered a fried rice and a glass of lemonade. Although I didn't speak very well, he still understood me. This gave me a great sense of achievement.",
+      "zh": "用中文点菜"
+    }
+  },
+  {
+    "id": "hsk3_r051",
+    "title": {
+      "vi": "Tập viết chữ Hán",
+      "en": "Practicing Chinese characters",
+      "zh": "练写汉字"
+    },
+    "hanzi": "学习中文的时候，写汉字是最大的挑战。我每天都会花一些时间练习写汉字。我会先看笔顺，然后一笔一划地写。虽然写得很慢，但是我相信多练习会越来越好。我觉得汉字很美，每个字都有自己的故事。",
+    "pinyin": "Xuéxí Zhōngwén de shíhou, xiě Hànzì shì zuì dà de tiǎozhàn. Wǒ měitiān dōu huì huā yìxiē shíjiān liànxí xiě Hànzì. Wǒ huì xiān kàn bǐshùn, ránhòu yì bǐ yí huà de xiě. Suīrán xiě de hěn màn, dànshì wǒ xiāngxìn duō liànxí huì yuèláiyuè hǎo. Wǒ juéde Hànzì hěn měi, měi ge zì dōu yǒu zìjǐ de gùshi.",
+    "translation": {
+      "vi": "Khi học tiếng Trung, viết chữ Hán là thử thách lớn nhất. Mỗi ngày tôi dành một ít thời gian luyện viết chữ Hán. Tôi xem thứ tự nét trước, sau đó viết từng nét một. Dù viết rất chậm, nhưng tôi tin rằng luyện tập nhiều sẽ ngày càng tốt hơn. Tôi thấy chữ Hán rất đẹp, mỗi chữ đều có câu chuyện riêng.",
+      "en": "When learning Chinese, writing characters is the biggest challenge. I spend some time every day practicing writing Chinese characters. I look at the stroke order first, then write stroke by stroke. Although I write slowly, I believe that with more practice I will get better. I think Chinese characters are beautiful, and each character has its own story.",
+      "zh": "练写汉字"
+    }
   }
 ]

@@ -12,5 +12,146 @@
       "vi": "Tuần trước, tôi và bạn đã đi du lịch Bắc Kinh. Chúng tôi đi máy bay tới sân bay, sau đó ở tại một khách sạn. Thời tiết Bắc Kinh rất lạnh, nhưng chúng tôi chơi rất vui.",
       "en": "Last week, my friend and I traveled to Beijing. We took a flight to the airport, then stayed at a hotel. Beijing's weather was cold, but we had a great time."
     }
+  },
+  {
+    "id": "hsk2_r002",
+    "title": {
+      "vi": "Đến thăm bạn mới",
+      "en": "Visiting a new friend",
+      "zh": "访问新朋友"
+    },
+    "hanzi": "我最近认识了一个新朋友。她叫王红，是北京人。上个星期天，我到她家去玩儿。她住在一个很漂亮的公寓里。她给我介绍了她的家人，一起吃了很好吃的饭。我觉得她是一个很好的人，希望以后能常常见面。",
+    "pinyin": "Wǒ zuìjìn rènshile yí ge xīn péngyou. Tā jiào Wáng Hóng, shì Běijīng rén. Shàng ge xīngqītiān, wǒ dào tā jiā qù wánr. Tā zhù zài yí ge hěn piàoliang de gōngyù lǐ. Tā gěi wǒ jièshàole tā de jiārén, yìqǐ chīle hěn hǎochī de fàn. Wǒ juéde tā shì yí ge hěn hǎo de rén, xīwàng yǐhòu néng chángcháng jiànmiàn.",
+    "translation": {
+      "vi": "Gần đây tôi quen một người bạn mới. Cô ấy tên là Vương Hồng, là người Bắc Kinh. Tuần trước, tôi đến nhà cô ấy chơi. Cô ấy sống trong một căn hộ rất đẹp. Cô ấy giới thiệu cho tôi gia đình mình, cùng ăn những bữa cơm rất ngon. Tôi thấy cô ấy là người rất tốt, hy vọng sau này có thể thường xuyên gặp.",
+      "en": "I recently met a new friend named Wang Hong from Beijing. Last Sunday, I visited her house. She lives in a very beautiful apartment. She introduced me to her family, and we had a delicious meal together. I think she's a very good person, and I hope we can see each other often."
+    }
+  },
+  {
+    "id": "hsk2_r003",
+    "title": {
+      "vi": "Chuyến đi công việc",
+      "en": "A business trip",
+      "zh": "出差旅行"
+    },
+    "hanzi": "我父亲最近要去上海出差。这是他今年第二次出差。他说要去三个星期，会很忙。我母亲不太高兴，因为她不想和父亲分开那么久。我建议他们可以利用周末时间在一起。父亲答应会尽快回来。",
+    "pinyin": "Wǒ fùqin zuìjìn yào qù Shànghǎi chūchāi. Zhè shì tā jīnnián dì-èr cì chūchāi. Tā shuō yào qù sān ge xīngqī, huì hěn máng. Wǒ mǔqin búhuài gāoxìng, yīnwèi tā búxiǎng hé fùqin fēnkāi nàme jiǔ. Wǒ jiànyì tāmen kěyǐ lìyòng zhōumò shíjiān zài yìqǐ. Fùqin dāyìng huì jìnkuài huílái.",
+    "translation": {
+      "vi": "Bố tôi sắp đi Thượng Hải công tác, lần thứ hai năm nay. Anh ấy sẽ đi ba tuần và sẽ rất bận. Mẹ tôi không được vui lắm vì không muốn tách rời bố quá lâu. Tôi gợi ý họ dùng thời gian cuối tuần để ở bên nhau. Bố hứa sẽ quay lại sớm nhất.",
+      "en": "My father is going to Shanghai on a business trip, his second this year. He'll be gone for three weeks and will be very busy. My mother isn't very happy because she doesn't want to be apart from him for so long. I suggested they spend weekends together. My father promised to return as soon as possible."
+    }
+  },
+  {
+    "id": "hsk2_r004",
+    "title": {
+      "vi": "Tìm kiếm nhà ở",
+      "en": "Looking for housing",
+      "zh": "寻找住房"
+    },
+    "hanzi": "我和妻子最近在找新房子。房价现在很高，找到合适的房子不容易。我们去看了很多房子，但都不太满意。有的房子位置不好，有的太贵，有的太小。我们现在还在继续找，希望能很快找到理想的房子。",
+    "pinyin": "Wǒ hé qīzi zuìjìn zài zhǎo xīn fángzi. Fángjià xiànzài hěn gāo, zhǎodào héshìde fángzi búróngyì. Wǒmen qùle hěn duō fángzi, dàn dōu búhuài mǎnyì. Yǒude fángzi wèizhì búhǎo, yǒude tài guì, yǒude tài xiǎo. Wǒmen xiànzài háishi zài jìxù zhǎo, xīwàng néng hěn kuài zhǎodào lǐxiǎng de fángzi.",
+    "translation": {
+      "vi": "Tôi và vợ đang tìm nhà mới. Giá nhà rất cao bây giờ, tìm được nhà phù hợp không dễ. Chúng tôi đã xem nhiều nhà nhưng không mấy hài lòng. Một số nhà vị trí xấu, những cái khác quá đắt hoặc quá nhỏ. Chúng tôi vẫn tiếp tục tìm, hy vọng sớm tìm được nhà lý tưởng.",
+      "en": "My wife and I are looking for a new house. House prices are very high now, and it's not easy to find a suitable one. We've viewed many houses but aren't very satisfied with any. Some have bad locations, others are too expensive or too small. We're still continuing to search and hope to find our ideal house soon."
+    }
+  },
+  {
+    "id": "hsk2_r005",
+    "title": {
+      "vi": "Học ngoại ngữ",
+      "en": "Learning foreign languages",
+      "zh": "学习外语"
+    },
+    "hanzi": "我决定学习一门新的外语。我现在会说中文和英文，但是我想再学一种语言。我考虑了很久，最后选择了日语。我觉得日语很有意思。现在我在网上找到了一个很不错的日语老师，已经开始上课了。",
+    "pinyin": "Wǒ juédìng xuéxí yì mén xīn de wàiyǔ. Wǒ xiànzài huìshuō Zhōngwén hé Yīngwén, dànshì wǒ xiǎng zài xué yì zhǒng yǔyán. Wǒ kǎolǜle hěn jiǔ, zuìhòu xuǎnzéle Rìyǔ. Wǒ juéde Rìyǔ hěn yǒuyìsi. Xiànzài wǒ zài wǎngshang zhǎodàole yí ge hěn búcuò de Rìyǔ lǎoshī, yǐjīng kāishǐ shàngkè le.",
+    "translation": {
+      "vi": "Tôi quyết định học một ngoại ngữ mới. Tôi biết tiếng Trung và tiếng Anh, nhưng muốn học thêm. Sau khi suy tính lâu, tôi chọn tiếng Nhật. Tiếng Nhật rất thú vị. Tôi tìm được trên mạng một giáo viên tiếng Nhật tốt và đã bắt đầu học.",
+      "en": "I've decided to learn a new foreign language. I can speak Chinese and English, but I want to learn another one. After thinking for a long time, I chose Japanese. I think it's very interesting. I've found a good Japanese teacher online and have already started lessons."
+    }
+  },
+  {
+    "id": "hsk2_r006",
+    "title": {
+      "vi": "Thói quen hàng ngày",
+      "en": "Daily habits",
+      "zh": "日常习惯"
+    },
+    "hanzi": "我每天都有固定的作息时间。早上七点起床，先喝一杯温水，然后做一些运动。八点吃早饭，九点开始工作。中午休息一个小时，下午继续工作。晚上六点下班，回家后先休息，然后准备晚饭。这样的生活让我感到很健康。",
+    "pinyin": "Wǒ měitiān dōu yǒu gùdìng de zuòxí shíjiān. Zǎoshang qī diǎn qǐchuáng, xiān hē yì bēi wēnhuǐ, ránhòu zuò yìxiē yùndòng. Bā diǎn chī zǎofàn, jiǔ diǎn kāishǐ gōngzuò. Zhōngwǔ xiūxi yí ge xiǎoshí, xiàwǔ jìxù gōngzuò. Wǎnshang liù diǎn xiàbān, huí jiā hòu xiān xiūxi, ránhòu zhǔnbèi wǎnfàn. Zhèyàng de shēnghuó ràng wǒ gǎndào hěn jiànkāng.",
+    "translation": {
+      "vi": "Mỗi ngày tôi có thời gian sinh hoạt cố định. Sáu giờ sáng dậy, uống nước ấm, rồi tập luyện. Tám giờ ăn sáng, chín giờ bắt đầu làm việc. Trưa nghỉ một tiếng, chiều tiếp tục. Sáu giờ tối tan làm, về nhà nghỉ rồi chuẩn bị bữa tối. Cuộc sống này giúp tôi khỏe mạnh.",
+      "en": "I have a fixed daily routine. I get up at seven, drink warm water, then exercise. Breakfast at eight, work starts at nine. Rest for an hour at noon, continue working in the afternoon. Leave work at six, rest at home, then prepare dinner. This lifestyle keeps me healthy."
+    }
+  },
+  {
+    "id": "hsk2_r007",
+    "title": {
+      "vi": "Du lịch Châu Âu",
+      "en": "European travel",
+      "zh": "欧洲旅游"
+    },
+    "hanzi": "今年暑假我和家人计划去欧洲旅游。我们打算先去法国，然后去意大利。我非常期待这次旅行。虽然飞行时间很长，但是我觉得很值得。我已经开始学一些基本的法语短语，为了能和当地人更好地交流。",
+    "pinyin": "Jīnnián shǔjià wǒ hé jiārén jìhuà qù Ōuzhōu lǚyóu. Wǒmen dǎsuàn xiān qù Fǎguó, ránhòu qù Yìdàlì. Wǒ fēicháng qīdài zhè cì lǚxíng. Suīrán fēixíng shíjiān hěn cháng, dànshì wǒ juéde hěn zhídé. Wǒ yǐjīng kāishǐ xué yìxiē jīběn de Fǎyǔ duǎnyǔ, wèile néng hé dānglì rén gèng hǎo de jiāoliú.",
+    "translation": {
+      "vi": "Hè năm nay tôi cùng gia đình du lịch Châu Âu. Định đi Pháp trước, rồi Ý. Tôi rất mong chờ. Dù bay dài nhưng rất đáng. Tôi đã bắt đầu học tiếng Pháp cơ bản để giao tiếp tốt hơn với người địa phương.",
+      "en": "This summer I'm planning a European trip with my family. We plan to go to France first, then Italy. I'm very excited about this trip. Although the flight is long, I think it's worth it. I've started learning basic French phrases to communicate better with locals."
+    }
+  },
+  {
+    "id": "hsk2_r008",
+    "title": {
+      "vi": "Sở thích cá nhân",
+      "en": "Personal hobbies",
+      "zh": "个人爱好"
+    },
+    "hanzi": "我的主要爱好就是读书。从小的时候开始，我就喜欢看各种各样的书。特别是文学作品，我觉得它们能开阔视野。现在我每个月都会买一些新书。除了读书，我还喜欢散步。散步可以让我思考问题，也能保持身体健康。",
+    "pinyin": "Wǒ de zhǔyào àihào jiùshi dúshū. Cóng xiǎo de shíhou kāishǐ, wǒ jiù xǐhuan kàn gèzhǒng gèyàng de shū. Tèbié shì wénxué zuòpǐn, wǒ juéde tāmen néng kāikuò shìyě. Xiànzài wǒ měi ge yuè dōu huì mǎi yìxiē xīn shū. Chúle dúshū, wǒ háishi xǐhuan sǎnbù. Sǎnbù kěyǐ ràng wǒ sīkǎo wèntí, yě néng bǎochí shēntǐ jiànkāng.",
+    "translation": {
+      "vi": "Sở thích chính của tôi là đọc sách. Từ nhỏ tôi thích đọc sách các loại. Đặc biệt văn học mở rộng tầm nhìn. Mỗi tháng tôi mua sách mới. Ngoài đọc, tôi thích đi dạo. Dạo giúp suy nghĩ và giữ sức khỏe.",
+      "en": "My main hobby is reading. Since childhood, I've liked reading all kinds of books. Literature especially broadens my horizons. I buy new books every month. Besides reading, I enjoy walking. Walking helps me think and stay healthy."
+    }
+  },
+  {
+    "id": "hsk2_r009",
+    "title": {
+      "vi": "Công nghệ hiện đại",
+      "en": "Modern technology",
+      "zh": "现代科技"
+    },
+    "hanzi": "现在科技发展得很快。每个人都有手机，可以随时随地和朋友交流。互联网让我们可以在家就能工作和学习。还有人工智能技术，已经开始改变我们的生活方式。虽然科技让生活更方便，但我们也要注意不要过度依赖这些技术。",
+    "pinyin": "Xiànzài kējì fāzhǎn de hěn kuài. Měi ge rén dōu yǒu shǒujī, kěyǐ suíshí suídì hé péngyou jiāoliú. Hùliánwǎng ràng wǒmen kěyǐ zài jiā jiù néng gōngzuò hé xuéxí. Háiyǒu rénggōng zhìnéng jìshù, yǐjīng kāishǐ gǎibiàn wǒmen de shēnghuó fāngshì. Suīrán kējì ràng shēnghuó gèng fāngbiàn, dàn wǒmen yě yào zhùyì búyào guòdù yīlài zhèxiē jìshù.",
+    "translation": {
+      "vi": "Công nghệ phát triển nhanh. Mỗi người có điện thoại, liên lạc bạn bè bất cứ lúc nào. Internet cho phép làm việc và học tập ở nhà. Trí tuệ nhân tạo thay đổi cách sống. Dù tiện lợi hơn, phải chú ý không phụ thuộc quá nhiều vào công nghệ.",
+      "en": "Technology develops very fast. Everyone has a phone and can communicate with friends anytime. The internet lets us work and study from home. Artificial intelligence is changing our way of life. Although technology makes life more convenient, we shouldn't become over-dependent on it."
+    }
+  },
+  {
+    "id": "hsk2_r010",
+    "title": {
+      "vi": "Thực hành thể thao",
+      "en": "Practicing sports",
+      "zh": "进行体育运动"
+    },
+    "hanzi": "健康的身体需要经常运动。我的医生建议我每周至少运动三次。我选择了游泳作为主要的运动方式，因为它对身体很有好处。每次运动大约需要一个小时。虽然有时候很累，但我坚持了下去。现在我的身体状况好多了，也感到更有精力了。",
+    "pinyin": "Jiànkāng de shēntǐ xūyào jīngcháng yùndòng. Wǒ de yīshēng jiànyì wǒ měi zhōu zhìshǎo yùndòng sān cì. Wǒ xuǎnzéle yóuyǒng zuòwéi zhǔyào de yùndòng fāngshì, yīnwèi tā duì shēntǐ hěn yǒu hǎochù. Měi cì yùndòng dàyuē xūyào yí ge xiǎoshí. Suīrán yǒu shíhou hěn lèi, dàn wǒ jiānchíle xiàqù. Xiànzài wǒ de shēntǐ zhuàngkuàng hǎo duō le, yě gǎndào gèng yǒu jīnglì le.",
+    "translation": {
+      "vi": "Cơ thể khỏe cần tập luyện thường xuyên. Bác sĩ gợi ý tập ba lần mỗi tuần. Tôi chọn bơi vì tốt cho sức khỏe. Mỗi lần mất khoảng một tiếng. Dù mệt nhưng tôi kiên trì. Sức khỏe tốt hơn, cảm thấy có năng lượng hơn.",
+      "en": "A healthy body needs regular exercise. My doctor recommended exercising at least three times a week. I chose swimming because it's very beneficial for health. Each session takes about an hour. Although I get tired, I persisted. Now my health has improved much and I feel more energetic."
+    }
+  },
+  {
+    "id": "hsk2_r011",
+    "title": {
+      "vi": "Công việc mới",
+      "en": "New job",
+      "zh": "新工作"
+    },
+    "hanzi": "这是一个关于新工作的例子。这是一个关于新工作的例子。",
+    "pinyin": "Zhè shì yí ge guānyú 新工作 de lìzi. Zhè shì yí ge guānyú 新工作 de lìzi. ",
+    "translation": {
+      "vi": "Tôi vừa tìm được một công việc mới. Công ty rất tốt, môi trường làm việc cũng rất đẹp. Đồng nghiệp của tôi rất thân thiện và giúp đỡ. Lương khá cao so với công việc cũ. Tôi rất vui vì có cơ hội mới. Tôi hy vọng có thể làm tốt trong công việc này.",
+      "en": "New job",
+      "zh": "新工作"
+    }
   }
 ]

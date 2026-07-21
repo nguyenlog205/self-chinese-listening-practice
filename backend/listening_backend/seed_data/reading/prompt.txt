@@ -1,0 +1,176 @@
+PROMPT: Sinh 50 bài đọc HSK3 và 50 bài đọc HSK4 cho ứng dụng học tiếng Trung
+
+## Mục đích
+Tạo 100 bài đọc (50 HSK3 + 50 HSK4) dùng cho app học tiếng Trung. Output là JSON với format chuẩn.
+
+## Format JSON (bắt buộc)
+Mỗi bài phải có cấu trúc sau:
+```json
+{
+  "id": "hsk3_r002",
+  "title": {
+    "vi": "Tiêu đề Việt",
+    "en": "English Title",
+    "zh": "中文标题"
+  },
+  "hanzi": "全部汉字，没有拼音。5-8句，约150-250字。",
+  "pinyin": "Pīnyīn bǎn, tóng hànzì yīyàng duō.",
+  "translation": {
+    "vi": "Dịch Việt tự nhiên, chính xác.",
+    "en": "English translation, natural and accurate.",
+    "zh": "中文标题"
+  }
+}
+```
+
+## HSK3 - 50 bài
+
+Yêu cầu:
+- ID: hsk3_r002 đến hsk3_r051 (không r001, vì đã có mẫu)
+- Từ vựng: Chủ yếu HSK1-3, OK dùng từ phổ biến ngoài danh sách nếu cần
+- Độ dài: Mỗi bài 5-8 câu, ~150-250 chữ Hán
+- Cấp độ: Câu đơn giản, cấu trúc cơ bản, từ vựng dễ hiểu
+- Ngữ pháp: "和", "但是", "因为...所以", "虽然...但是", "正在", "在...呢", "为了"
+- Chủ đề (mỗi chủ đề ~3-4 bài):
+  * Gia đình & quan hệ (hôn nhân, anh em, bố mẹ)
+  * Công việc (tìm việc, buổi hành động, đồng nghiệp)
+  * Du lịch (kế hoạch, điểm tham quan, trải nghiệm)
+  * Sở thích & thói quen (đọc sách, thể thao, kỹ năng)
+  * Học tập & phát triển
+  * Công nghệ & đời sống hiện đại
+  * Sức khỏe & thể dục
+  * Mua sắm & tiêu dùng
+  * Quan hệ xã hội & giao tiếp
+  * Thời tiết & mùa
+  * Ăn uống & nấu nướng
+  * Giải trí & sự kiện
+  * Tiền & tài chính (cơ bản)
+  * Nhà ở & thành phố
+  * Trường học & học sinh
+
+## HSK4 - 50 bài
+
+Yêu cầu:
+- ID: hsk4_r002 đến hsk4_r051 (không r001)
+- Từ vựng: Chủ yếu HSK1-4, OK dùng từ ngoài nếu phổ biến & cần thiết
+- Độ dài: Mỗi bài 6-10 câu, ~250-400 chữ Hán (dài hơn HSK3 đáng kể)
+- Cấp độ: Câu phức tạp, cấu trúc tinh vi, từ vựng đa dạng, ý tưởng sâu sắc hơn
+- Ngữ pháp nâng cao:
+  * "不仅...而且", "不但...反而", "既然...那么"
+  * "无论...都", "不管...都", "无论谁都"
+  * "只要...就", "如果...的话", "要是...就", "一旦..."
+  * "已经", "...过", "再...也...", "还...呢"
+  * "会", "要...了", "将要", "即将"
+  * "被", "让", "由...来", "...所"
+  * "越来越", "比较", "对比", "相比"
+  * "据说", "听说", "显然", "看来", "似乎"
+  * "因此", "所以", "结果", "由此", "这样"
+  * "另外", "而且", "然而", "但是", "反而", "相反"
+  * "一方面...另一方面", "一些...另一些", "有的...有的"
+- Độ tinh vi câu:
+  * Câu chứa mệnh đề phụ 2-3 tầng (nested clauses)
+  * Cấu trúc so sánh phức tạp ("比...更", "不如", "同样")
+  * Chứa yếu tố nhân quả, điều kiện, giả thiết kết hợp
+  * Diễn đạt lập trường, quan điểm, tranh luận
+  * Có chứa những từ chỉ trình độ, cấp bậc, phân loại
+- Chủ đề (mỗi chủ đề ~3-4 bài):
+  * Sự nghiệp & phát triển (cấp cao)
+  * Du lịch quốc tế & văn hóa
+  * Giáo dục & bộ não
+  * Công nghệ nâng cao & AI
+  * Bảo vệ môi trường
+  * Kinh tế & kinh doanh (cơ bản)
+  * Nghệ thuật & văn hóa
+  * Lịch sử & xã hội
+  * Tâm lý & quan hệ người
+  * Phát triển cá nhân & mục tiêu
+  * Thể thao chuyên nghiệp
+  * Ẩm thực & nền văn hóa ăn uống
+  * Bất động sản & quy hoạch thành phố
+  * Sự kiện & tin tức
+  * Sinh viên & giáo dục đại học
+
+## Yêu cầu chất lượng
+
+✓ Hànzì: Đúng tả, không ký tự lạ, từ phổ biến
+✓ Pīnyīn: Chính xác tone (ā á ǎ à, ē é ě è, ī í ǐ ì, ō ó ǒ ò, ū ú ǔ ù, ü)
+✓ Dịch: Tự nhiên, không máy móc, chính xác
+✓ Nội dung: Sinh động, thực tế, có giáo dục tính, không tiêu cực
+✓ ID: Unique toàn cục, không trùng HSK1-2
+✓ JSON: Valid, không trailing comma, escape dấu đúng
+
+## Ví dụ HSK3 (tham khảo độ khó)
+
+{
+  "id": "hsk3_r015",
+  "title": {
+    "vi": "Công việc mới",
+    "en": "A new job",
+    "zh": "新工作"
+  },
+  "hanzi": "我找到了一份新的工作。这个公司在北京，离我家不太远。我的同事们都很友好，老板也很好说话。工资比以前的工作高一些，我对这份工作很满意。虽然有时候工作很忙，但我觉得这是一个很好的机会。",
+  "pinyin": "Wǒ zhǎodàole yì fèn xīn de gōngzuò. Zhège gōngsī zài Běijīng, lí wǒ jiā búhuài yuǎn. Wǒ de tóngshìmen dōu hěn yǒuhǎo, lǎobǎn yě hěn hǎo shuōhuà. Gōngzī bǐ yǐqián de gōngzuò gāo yìxiē, wǒ duì zhè fèn gōngzuò hěn mǎnyì. Suīrán yǒu shíhou gōngzuò hěn máng, dàn wǒ juéde zhè shì yí ge hěn hǎo de jīhuì.",
+  "translation": {
+    "vi": "Tôi tìm được một công việc mới. Công ty ở Bắc Kinh, không quá xa nhà tôi. Các đồng nghiệp của tôi rất thân thiện, ông chủ cũng rất dễ nói. Lương cao hơn công việc trước một chút, tôi rất hài lòng với công việc này. Dù đôi khi công việc bận rộn, nhưng tôi thấy đây là một cơ hội rất tốt.",
+    "en": "I found a new job. The company is in Beijing, not too far from my house. My coworkers are all very friendly, and the boss is easy to talk to. The salary is a bit higher than my previous job, and I'm very satisfied with it. Although work is sometimes busy, I think this is a great opportunity.",
+    "zh": "新工作"
+  }
+}
+
+## Ví dụ HSK4 (tham khảo độ khó - câu dài, cấu trúc tinh vi)
+
+{
+  "id": "hsk4_r025",
+  "title": {
+    "vi": "Ảnh hưởng của công nghệ đến đời sống",
+    "en": "The impact of technology on daily life",
+    "zh": "科技对生活的影响"
+  },
+  "hanzi": "随着科学技术的不断发展，人工智能已经逐渐融入了我们的日常生活。不仅工作方式发生了深刻的变化，而且我们的学习、娱乐和社交方式也随之改变了。虽然这些变化带来了许多便利，但另一方面，我们也面临着新的挑战。许多人开始关注如何合理使用技术，以及如何在享受技术便利的同时，保持与家人和朋友之间的深层联系。显然，这是一个值得我们深思熟虑的问题。",
+  "pinyin": "Suízhè kēxué jìshù de búduàn fāzhǎn, rénggōng zhìnéng yǐjīng zhújiàn róngrùle wǒmen de rìcháng shēnghuó. Bújǐn gōngzuò fāngshì fāshēngle shēnkè de biànhuà, érqiě wǒmen de xuéxí, yúlè hé shèjiāo fāngshì yě suízhī gǎibiànle. Suīrán zhèxiē biànhuà dàiláile xǔduō biànlì, dàn lìngyì fāngmiàn, wǒmen yě miàniínzhe xīn de tiǎozhàn. Xǔduō rén kāishǐ guānzhù rúhé héalǐ shǐyòng jìshù, yǐjí rúhé zài xiǎngshòu jìshù biànlì de tóngshí, bǎochí yǔ jiārén hé péngyou zhījiān de shēn céng liánxì. Xiǎnrán, zhè shì yí ge zhídé wǒmen shēnsī shúlǜ de wèntí.",
+  "translation": {
+    "vi": "Cùng với sự phát triển không ngừng của khoa học công nghệ, trí tuệ nhân tạo đã dần dần hòa nhập vào đời sống hàng ngày của chúng ta. Không chỉ cách thức làm việc thay đổi sâu sắc, mà cách học tập, giải trí và giao tiếp của chúng ta cũng thay đổi theo. Mặc dù những thay đổi này mang lại nhiều tiện lợi, nhưng mặt khác, chúng ta cũng phải đối mặt với những thách thức mới. Nhiều người bắt đầu quan tâm đến cách sử dụng công nghệ một cách hợp lý, cũng như cách duy trì những mối quan hệ sâu sắc với gia đình và bạn bè trong khi tận hưởng những tiện lợi của công nghệ. Rõ ràng, đây là một vấn đề đáng để chúng ta suy ngẫm kỹ lưỡng.",
+    "en": "As science and technology continue to develop, artificial intelligence has gradually integrated into our daily lives. Not only has the way we work undergone profound changes, but our ways of learning, entertainment, and socializing have also changed accordingly. Although these changes have brought many conveniences, on the other hand, we also face new challenges. Many people are beginning to consider how to use technology rationally and how to maintain deep connections with family and friends while enjoying the benefits of technology. Obviously, this is a question worthy of our careful reflection.",
+    "zh": "科技对生活的影响"
+  }
+}
+
+## Output
+
+Output 1 file JSON chứa array của 100 objects (50 HSK3 + 50 HSK4).
+
+Format:
+[
+  { hsk3_r002 },
+  { hsk3_r003 },
+  ...
+  { hsk3_r051 },
+  { hsk4_r002 },
+  { hsk4_r003 },
+  ...
+  { hsk4_r051 }
+]
+
+HOẶC 2 file riêng: hsk3.json (50 bài) + hsk4.json (50 bài).
+
+## Lưu ý kỹ thuật
+
+- JSON phải valid (test bằng jsonlint.com nếu cần)
+- Pīnyīn dùng ký tự unicode chuẩn (ā á ǎ à, etc.)
+- Hànzì phổ biến, không chữ cổ
+- UTF-8 encoding, không UTF-8 BOM
+- Không trailing comma trong JSON
+- Tất cả field bắt buộc: id, title (vi/en/zh), hanzi, pinyin, translation (vi/en/zh)
+
+## Tham khảo
+
+- Xem file hsk_1.json & hsk_2.json để tham khảo cấu trúc & độ khó
+- HSK3 khó hơn HSK2 nhưng đơn giản hơn HSK4
+- HSK4 là cấp trung cấp nâng cao, có thể dùng câu phức tạp
+
+## Khi hoàn thành
+
+1. Gửi file JSON
+2. Chúng tôi sẽ merge vào project
+3. Test kiểm tra không có lỗi
+4. Commit & push lên GitHub
