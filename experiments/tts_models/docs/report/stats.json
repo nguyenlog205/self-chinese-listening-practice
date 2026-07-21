@@ -121,5 +121,131 @@
         "significant_bonferroni": true
       }
     ]
+  },
+  "error_breakdown": {
+    "faster-whisper-small": {
+      "hits": 3606,
+      "substitutions": 696,
+      "deletions": 301,
+      "insertions": 29,
+      "n_ref_chars": 4603,
+      "sub_rate": 0.1512,
+      "del_rate": 0.0654,
+      "ins_rate": 0.0063
+    },
+    "sensevoice-small": {
+      "hits": 4176,
+      "substitutions": 336,
+      "deletions": 91,
+      "insertions": 51,
+      "n_ref_chars": 4603,
+      "sub_rate": 0.073,
+      "del_rate": 0.0198,
+      "ins_rate": 0.0111
+    },
+    "wav2vec2-xlsr-53-chinese": {
+      "hits": 4084,
+      "substitutions": 153,
+      "deletions": 366,
+      "insertions": 91,
+      "n_ref_chars": 4603,
+      "sub_rate": 0.0332,
+      "del_rate": 0.0795,
+      "ins_rate": 0.0198
+    },
+    "wav2vec2-large-wenetspeech": {
+      "hits": 4162,
+      "substitutions": 68,
+      "deletions": 373,
+      "insertions": 3,
+      "n_ref_chars": 4603,
+      "sub_rate": 0.0148,
+      "del_rate": 0.081,
+      "ins_rate": 0.0007
+    }
+  },
+  "sample_buckets": {
+    "faster-whisper-small": {
+      "perfect": 8,
+      "near_perfect": 6,
+      "moderate": 128,
+      "bad": 58,
+      "n": 200
+    },
+    "sensevoice-small": {
+      "perfect": 29,
+      "near_perfect": 30,
+      "moderate": 130,
+      "bad": 11,
+      "n": 200
+    },
+    "wav2vec2-xlsr-53-chinese": {
+      "perfect": 15,
+      "near_perfect": 35,
+      "moderate": 138,
+      "bad": 12,
+      "n": 200
+    },
+    "wav2vec2-large-wenetspeech": {
+      "perfect": 19,
+      "near_perfect": 41,
+      "moderate": 139,
+      "bad": 1,
+      "n": 200
+    }
+  },
+  "top_confusions": {
+    "wav2vec2-large-wenetspeech": [
+      {
+        "ground_truth": "第",
+        "predicted": "蒂",
+        "count": 2
+      },
+      {
+        "ground_truth": "关",
+        "predicted": "官",
+        "count": 2
+      },
+      {
+        "ground_truth": "英",
+        "predicted": "因",
+        "count": 1
+      },
+      {
+        "ground_truth": "，",
+        "predicted": "以",
+        "count": 1
+      },
+      {
+        "ground_truth": "禹",
+        "predicted": "渔",
+        "count": 1
+      },
+      {
+        "ground_truth": "定",
+        "predicted": "进",
+        "count": 1
+      },
+      {
+        "ground_truth": "西",
+        "predicted": "息",
+        "count": 1
+      },
+      {
+        "ground_truth": "林",
+        "predicted": "磷",
+        "count": 1
+      },
+      {
+        "ground_truth": "滋",
+        "predicted": "思",
+        "count": 1
+      },
+      {
+        "ground_truth": "些",
+        "predicted": "定",
+        "count": 1
+      }
+    ]
   }
 }

@@ -3,13 +3,19 @@
 
 import itertools
 import json
+from collections import Counter
 from pathlib import Path
 
+import jiwer
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy import stats
+
+from run_benchmark import normalize_zh
+
+PRIMARY_MODEL = "wav2vec2-large-wenetspeech"
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
@@ -215,6 +221,106 @@ def plot_memory_footprint(experiments):
     plt.close(fig)
 
 
+def error_breakdown(experiments):
+    """Substitution/deletion/insertion rates per model (character-level, jiwer alignment)."""
+    out = {}
+    for m in MODEL_ORDER:
+        refs = [normalize_zh(s["ground_truth"]) for s in experiments[m]["samples"]]
+        hyps = [normalize_zh(s["prediction"]) for s in experiments[m]["samples"]]
+        result = jiwer.process_characters(refs, hyps)
+        n_ref_chars = sum(len(r) for r in refs)
+        out[m] = {
+            "hits": result.hits,
+            "substitutions": result.substitutions,
+            "deletions": result.deletions,
+            "insertions": result.insertions,
+            "n_ref_chars": n_ref_chars,
+            "sub_rate": round(result.substitutions / n_ref_chars, 4),
+            "del_rate": round(result.deletions / n_ref_chars, 4),
+            "ins_rate": round(result.insertions / n_ref_chars, 4),
+        }
+    return out
+
+
+def sample_buckets(experiments):
+    """Bucket samples by CER: perfect / near-perfect / moderate / bad."""
+    out = {}
+    for m in MODEL_ORDER:
+        cers = [s["cer"] for s in experiments[m]["samples"]]
+        n = len(cers)
+        out[m] = {
+            "perfect": sum(1 for c in cers if c == 0),
+            "near_perfect": sum(1 for c in cers if 0 < c <= 0.05),
+            "moderate": sum(1 for c in cers if 0.05 < c <= 0.3),
+            "bad": sum(1 for c in cers if c > 0.3),
+            "n": n,
+        }
+    return out
+
+
+def top_confusions(experiments, model_key, top_n=10):
+    """Most common (ground_truth_char -> predicted_char) substitution pairs."""
+    refs = [normalize_zh(s["ground_truth"]) for s in experiments[model_key]["samples"]]
+    hyps = [normalize_zh(s["prediction"]) for s in experiments[model_key]["samples"]]
+    result = jiwer.process_characters(refs, hyps)
+    counter = Counter()
+    for ref_chars, hyp_chars, alignment in zip(result.references, result.hypotheses, result.alignments):
+        for chunk in alignment:
+            if chunk.type != "substitute":
+                continue
+            ref_seg = ref_chars[chunk.ref_start_idx:chunk.ref_end_idx]
+            hyp_seg = hyp_chars[chunk.hyp_start_idx:chunk.hyp_end_idx]
+            if len(ref_seg) == len(hyp_seg):
+                for a, b in zip(ref_seg, hyp_seg):
+                    counter[(a, b)] += 1
+            else:
+                counter[("".join(ref_seg), "".join(hyp_seg))] += 1
+    return [{"ground_truth": a, "predicted": b, "count": c} for (a, b), c in counter.most_common(top_n)]
+
+
+def plot_error_breakdown(err_breakdown):
+    fig, ax = plt.subplots(figsize=(8, 4.5))
+    labels = [MODEL_LABELS[m] for m in MODEL_ORDER]
+    subs = [err_breakdown[m]["sub_rate"] for m in MODEL_ORDER]
+    dels = [err_breakdown[m]["del_rate"] for m in MODEL_ORDER]
+    inss = [err_breakdown[m]["ins_rate"] for m in MODEL_ORDER]
+    x = np.arange(len(MODEL_ORDER))
+    ax.bar(x, subs, label="Substitution", color="#C44E52")
+    ax.bar(x, dels, bottom=subs, label="Deletion", color="#DD8452")
+    bottom2 = [s + d for s, d in zip(subs, dels)]
+    ax.bar(x, inss, bottom=bottom2, label="Insertion", color="#4C72B0")
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels, fontsize=9)
+    ax.set_ylabel("Error rate (fraction of reference characters)")
+    ax.set_title("Error type breakdown per model (character-level)")
+    ax.legend(fontsize=9)
+    fig.tight_layout()
+    fig.savefig(IMAGES_DIR / "error_breakdown.png", dpi=150)
+    plt.close(fig)
+
+
+def plot_sample_buckets(buckets):
+    fig, ax = plt.subplots(figsize=(8, 4.5))
+    labels = [MODEL_LABELS[m] for m in MODEL_ORDER]
+    cats = ["perfect", "near_perfect", "moderate", "bad"]
+    cat_labels = ["Exact match\n(CER=0)", "Near-perfect\n(0<CER≤0.05)", "Moderate\n(0.05<CER≤0.3)", "Poor\n(CER>0.3)"]
+    colors = ["#55A868", "#8CBF88", "#DD8452", "#C44E52"]
+    x = np.arange(len(MODEL_ORDER))
+    bottom = np.zeros(len(MODEL_ORDER))
+    for cat, cat_label, color in zip(cats, cat_labels, colors):
+        vals = np.array([buckets[m][cat] for m in MODEL_ORDER])
+        ax.bar(x, vals, bottom=bottom, label=cat_label, color=color)
+        bottom += vals
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels, fontsize=9)
+    ax.set_ylabel("Number of samples (out of 200)")
+    ax.set_title("Sample quality buckets by CER")
+    ax.legend(fontsize=8, loc="upper center", bbox_to_anchor=(0.5, -0.15), ncol=4)
+    fig.tight_layout()
+    fig.savefig(IMAGES_DIR / "sample_buckets.png", dpi=150)
+    plt.close(fig)
+
+
 def main():
     IMAGES_DIR.mkdir(parents=True, exist_ok=True)
     experiments = load_experiments()
@@ -222,11 +328,17 @@ def main():
     cer_by_model = paired_metric(experiments, "cer")
     stat_results = run_statistical_tests(cer_by_model)
     bootstrap_summary = compute_bootstrap_summary(experiments)
+    err_breakdown = error_breakdown(experiments)
+    buckets = sample_buckets(experiments)
+    confusions = top_confusions(experiments, PRIMARY_MODEL, top_n=10)
 
     stats_out = {
         "n_samples": len(cer_by_model[MODEL_ORDER[0]]),
         "bootstrap_summary": bootstrap_summary,
         "significance_tests": stat_results,
+        "error_breakdown": err_breakdown,
+        "sample_buckets": buckets,
+        "top_confusions": {PRIMARY_MODEL: confusions},
     }
     with open(REPORT_DIR / "stats.json", "w", encoding="utf-8") as f:
         json.dump(stats_out, f, ensure_ascii=False, indent=2)
@@ -237,7 +349,13 @@ def main():
     plot_accuracy_vs_latency(experiments)
     plot_rtf(experiments)
     plot_memory_footprint(experiments)
-    print(f"Saved 5 charts to {IMAGES_DIR}")
+    plot_error_breakdown(err_breakdown)
+    plot_sample_buckets(buckets)
+    print(f"Saved 7 charts to {IMAGES_DIR}")
+
+    print("\nTop confusions for", PRIMARY_MODEL, ":")
+    for c in confusions:
+        print(f"  {c['ground_truth']} -> {c['predicted']}  (x{c['count']})")
 
     print("\nFriedman test (overall difference among 4 models on CER):")
     print(f"  chi2={stat_results['friedman']['statistic']:.4f}, p={stat_results['friedman']['p_value']:.6f}")

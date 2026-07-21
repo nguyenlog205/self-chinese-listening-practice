@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>STT Benchmark Report — common-voice-zh</title>
+<style>
+  @page { size: 1280px 720px; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body {
+    font-family: "Noto Sans", "Noto Sans SC", "Helvetica Neue", Arial, sans-serif;
+    color: #1c2530;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .slide {
+    width: 1280px;
+    height: 720px;
+    page-break-after: always;
+    position: relative;
+    padding: 56px 72px;
+    overflow: hidden;
+    background: #ffffff;
+  }
+  .slide:last-child { page-break-after: auto; }
+
+  .kicker {
+    font-size: 15px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #4C72B0;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  h1 { font-size: 40px; font-weight: 800; color: #1c2530; line-height: 1.2; }
+  h2 { font-size: 30px; font-weight: 800; color: #1c2530; margin-bottom: 22px; }
+  h3 { font-size: 19px; font-weight: 700; color: #4C72B0; margin-bottom: 8px; }
+  p { font-size: 17px; line-height: 1.55; color: #3a4453; }
+  .accent-bar { width: 56px; height: 6px; background: #4C72B0; border-radius: 3px; margin-bottom: 18px; }
+
+  .footer {
+    position: absolute; bottom: 28px; left: 72px; right: 72px;
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 12px; color: #9aa5b1; border-top: 1px solid #eef0f3; padding-top: 10px;
+  }
+  .pagenum { font-variant-numeric: tabular-nums; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 15.5px; }
+  th, td { text-align: left; padding: 10px 14px; }
+  th { background: #1c2530; color: #fff; font-weight: 700; font-size: 13.5px; text-transform: uppercase; letter-spacing: 0.5px; }
+  tr:nth-child(even) td { background: #f5f7fa; }
+  td { border-bottom: 1px solid #eef0f3; }
+  .best { color: #2e7d47; font-weight: 800; }
+  .worst { color: #b23b3b; }
+
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 36px; }
+  .grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+
+  .card {
+    background: #f5f7fa; border-radius: 14px; padding: 22px 24px; border: 1px solid #eaedf1;
+  }
+
+  img.chart { display: block; margin: 0 auto; }
+  .full-chart { width: 100%; text-align: center; }
+  .full-chart img { max-width: 92%; max-height: 460px; }
+
+  ul.bullets { list-style: none; padding: 0; }
+  ul.bullets li { font-size: 17px; line-height: 1.6; padding-left: 22px; position: relative; margin-bottom: 12px; color: #3a4453; }
+  ul.bullets li::before { content: ""; position: absolute; left: 0; top: 10px; width: 7px; height: 7px; border-radius: 50%; background: #4C72B0; }
+
+  .title-slide {
+    display: flex; flex-direction: column; justify-content: center;
+    background: linear-gradient(135deg, #1c2530 0%, #2C3E50 100%);
+    color: white; padding: 90px;
+  }
+  .title-slide .kicker { color: #8FB2E8; }
+  .title-slide h1 { color: white; font-size: 46px; max-width: 900px; }
+  .title-slide .sub { color: #B9C4D3; font-size: 19px; margin-top: 22px; max-width: 780px; line-height: 1.6; }
+  .title-slide .meta { margin-top: 56px; display: flex; gap: 40px; }
+  .title-slide .meta div { font-size: 14px; color: #8FA0B8; }
+  .title-slide .meta strong { display: block; color: white; font-size: 17px; margin-top: 4px; }
+
+  .confusion-table td.char { font-size: 22px; text-align: center; font-weight: 600; }
+  .arrow { color: #b23b3b; font-weight: 800; }
+
+  .note-box {
+    border-left: 5px solid #4C72B0; background: #f5f7fa; padding: 18px 24px; border-radius: 0 10px 10px 0;
+    font-size: 17px; color: #1c2530; margin-top: 8px;
+  }
+
+  .note-line { font-size: 15.5px; color: #6b7684; margin-top: 20px; }
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: TITLE -->
+<div class="slide title-slide">
+  <div class="kicker">STT Benchmark Report</div>
+  <h1>Comparing Four Chinese Speech-to-Text Models on common-voice-zh</h1>
+  <div class="sub">Evaluating accuracy, latency, and resource footprint for the Chinese Dictation app on EDGE devices, with statistical testing and detailed error analysis.</div>
+  <div class="meta">
+    <div>DATE<strong>2026-07-22</strong></div>
+    <div>DATASET<strong>common-voice-zh, 200 samples</strong></div>
+    <div>PROJECT<strong>chinese-dictation / experiments/tts_models</strong></div>
+  </div>
+</div>
+
+<!-- SLIDE 2: CONTEXT & GOAL -->
+<div class="slide">
+  <div class="kicker">01 &middot; Context &amp; Goal</div>
+  <h2>Why this benchmark</h2>
+  <div class="accent-bar"></div>
+  <div class="grid2">
+    <div>
+      <h3>Context</h3>
+      <p>The Chinese Dictation app needs to move beyond studio-quality audio (podcasts, slow narration) toward real-world natural speech: YouTube and bilibili videos, natural speakers, background noise. It must also run on EDGE devices, CPU-only, with no cloud dependency.</p>
+    </div>
+    <div>
+      <h3>Benchmark goals</h3>
+      <ul class="bullets">
+        <li>Identify the best STT model for accuracy (WER/CER/tone), latency (RTF), and resource use (model size, RAM)</li>
+        <li>Apply statistical testing so conclusions are not driven by random variation</li>
+        <li>Analyze errors in detail rather than relying on aggregate numbers alone</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">2</span></div>
+</div>
+
+<!-- SLIDE 3: METHODOLOGY -->
+<div class="slide">
+  <div class="kicker">02 &middot; Methodology</div>
+  <h2>Four models benchmarked on the same 200 samples</h2>
+  <div class="accent-bar"></div>
+  <table>
+    <tr><th>Model</th><th>Architecture</th><th>Checkpoint</th><th>Size</th></tr>
+    <tr><td>faster-whisper-small</td><td>Whisper (CTranslate2, int8)</td><td>Systran/faster-whisper-small</td><td>464 MB</td></tr>
+    <tr><td>SenseVoice-small</td><td>SenseVoice (FunASR)</td><td>iic/SenseVoiceSmall</td><td>896 MB</td></tr>
+    <tr><td>wav2vec2-XLSR-53</td><td>Wav2Vec2-CTC (multilingual pretrain)</td><td>jonatasgrosman/wav2vec2-large-xlsr-53-zh-cn</td><td>2434 MB</td></tr>
+    <tr><td>wav2vec2-WenetSpeech</td><td>Wav2Vec2-CTC (WenetSpeech pretrain)</td><td>wbbbbb/wav2vec2-large-chinese-zh-cn</td><td>1224 MB</td></tr>
+  </table>
+  <div style="margin-top:26px" class="grid3">
+    <div class="card"><h3>Metrics</h3><p style="font-size:15px">CER (primary), WER (jieba segmentation), tone accuracy (pypinyin), latency/RTF, model size, peak RAM</p></div>
+    <div class="card"><h3>Normalization</h3><p style="font-size:15px">Traditional-to-Simplified conversion (OpenCC) applied to every model before scoring, since Whisper outputs Traditional characters by default</p></div>
+    <div class="card"><h3>Statistical testing</h3><p style="font-size:15px">Friedman test, Wilcoxon signed-rank (Bonferroni correction), and bootstrap 95% CI on paired 200-sample data</p></div>
+  </div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">3</span></div>
+</div>
+
+<!-- SLIDE 4: RESULTS SUMMARY -->
+<div class="slide">
+  <div class="kicker">03 &middot; Results</div>
+  <h2>Summary table</h2>
+  <div class="accent-bar"></div>
+  <table>
+    <tr><th>Model</th><th>WER</th><th>CER</th><th>Tone Acc</th><th>Latency</th><th>RTF</th><th>Size</th><th>Peak RAM</th></tr>
+    <tr><td>SenseVoice-small</td><td>0.209</td><td class="best">0.113</td><td>0.985</td><td class="best">191 ms</td><td class="best">0.033</td><td>896 MB</td><td>3356 MB</td></tr>
+    <tr><td>wav2vec2-WenetSpeech</td><td class="best">0.176</td><td class="best">0.094</td><td class="best">0.996</td><td>776 ms</td><td>0.128</td><td>1224 MB</td><td>2375 MB</td></tr>
+    <tr><td>wav2vec2-XLSR-53</td><td>0.235</td><td>0.136</td><td>0.995</td><td>762 ms</td><td>0.126</td><td>2434 MB</td><td>2298 MB</td></tr>
+    <tr><td>faster-whisper-small</td><td class="worst">0.382</td><td class="worst">0.230</td><td class="worst">0.958</td><td class="worst">1096 ms</td><td>0.201</td><td class="best">464 MB</td><td>1139 MB</td></tr>
+  </table>
+  <p class="note-line">All four models process faster than real time (RTF below 1.0). Only faster-whisper meets the 500MB size target, but it also has the lowest accuracy of the four.</p>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">4</span></div>
+</div>
+
+<!-- SLIDE 5: STATISTICAL SIGNIFICANCE -->
+<div class="slide">
+  <div class="kicker">04 &middot; Statistical Testing</div>
+  <h2>Which differences are actually reliable</h2>
+  <div class="accent-bar"></div>
+  <p><b>Friedman test</b> (CER, 4 models, n=200): chi-square = 233.66, <b>p &lt; 0.000001</b>. There is a statistically significant overall difference among the models.</p>
+  <table style="margin-top:18px">
+    <tr><th>Pairwise comparison (Wilcoxon)</th><th>p-value</th><th>Conclusion (Bonferroni &alpha; &asymp; 0.0083)</th></tr>
+    <tr><td>faster-whisper vs. the other three</td><td>&lt; 0.000001</td><td class="best">Significant: faster-whisper is worse</td></tr>
+    <tr><td>wav2vec2-XLSR-53 vs. wav2vec2-WenetSpeech</td><td>&lt; 0.000001</td><td class="best">Significant: WenetSpeech is better</td></tr>
+    <tr><td>SenseVoice vs. wav2vec2-XLSR-53</td><td>0.0473</td><td>Not significant after correction</td></tr>
+    <tr><td>SenseVoice vs. wav2vec2-WenetSpeech</td><td>0.0553</td><td>Not significant after correction</td></tr>
+  </table>
+  <div class="note-box">The CER gap between SenseVoice (0.113) and wav2vec2-WenetSpeech (0.094) is not strong enough to confirm which model is better at n=200. The point estimate leans toward WenetSpeech.</div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">5</span></div>
+</div>
+
+<!-- SLIDE 6: ACCURACY VS LATENCY -->
+<div class="slide">
+  <div class="kicker">05 &middot; Results</div>
+  <h2>Accuracy vs. latency trade-off</h2>
+  <div class="accent-bar"></div>
+  <div class="full-chart"><img class="chart" src="images/accuracy_vs_latency.png"></div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">6</span></div>
+</div>
+
+<!-- SLIDE 7: ERROR ANALYSIS 1 -->
+<div class="slide">
+  <div class="kicker">06 &middot; Error Analysis</div>
+  <h2>What kind of errors occur</h2>
+  <div class="accent-bar"></div>
+  <div class="grid2">
+    <div class="full-chart"><img class="chart" src="images/error_breakdown.png" style="max-width:100%; max-height:420px;"></div>
+    <div>
+      <h3>Key findings</h3>
+      <ul class="bullets" style="font-size:15.5px">
+        <li>faster-whisper: errors are mostly substitutions (15.1%), meaning real recognition mistakes</li>
+        <li>wav2vec2-WenetSpeech: substitution rate is only 1.5%. When the model commits to a character, it is almost always correct</li>
+        <li>Both wav2vec2 models show mostly deletion errors (about 8%), largely from missing punctuation since CTC architectures have no language model to generate it, not from misreading content</li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">7</span></div>
+</div>
+
+<!-- SLIDE 8: ERROR ANALYSIS 2 -->
+<div class="slide">
+  <div class="kicker">06 &middot; Error Analysis</div>
+  <h2>Quality buckets and common confusions</h2>
+  <div class="accent-bar"></div>
+  <div class="grid2">
+    <div class="full-chart"><img class="chart" src="images/sample_buckets.png" style="max-width:100%; max-height:360px;"></div>
+    <div>
+      <h3>Top confusions (wav2vec2-WenetSpeech)</h3>
+      <table class="confusion-table" style="font-size:14px">
+        <tr><th>Ground truth</th><th></th><th>Predicted</th><th>Count</th></tr>
+        <tr><td class="char">第</td><td class="arrow">&rarr;</td><td class="char">蒂</td><td>2</td></tr>
+        <tr><td class="char">关</td><td class="arrow">&rarr;</td><td class="char">官</td><td>2</td></tr>
+        <tr><td class="char">英</td><td class="arrow">&rarr;</td><td class="char">因</td><td>1</td></tr>
+        <tr><td class="char">禹</td><td class="arrow">&rarr;</td><td class="char">渔</td><td>1</td></tr>
+        <tr><td class="char">滋</td><td class="arrow">&rarr;</td><td class="char">思</td><td>1</td></tr>
+      </table>
+      <p style="font-size:13.5px; margin-top:10px; color:#6b7684">Most confusion pairs are homophones or near-homophones (guan/guan, ying/yin). This is a typical ASR error pattern, not random noise.</p>
+    </div>
+  </div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">8</span></div>
+</div>
+
+<!-- SLIDE 9: DISCUSSION -->
+<div class="slide">
+  <div class="kicker">07 &middot; Discussion</div>
+  <h2>Interpretation and limitations</h2>
+  <div class="accent-bar"></div>
+  <div class="grid2">
+    <div>
+      <h3>No single winner</h3>
+      <p style="font-size:15.5px">SenseVoice is by far the fastest but uses the most RAM (3.3GB). wav2vec2-WenetSpeech has the best accuracy but is about 4x slower. faster-whisper is smallest but least reliable, with high variance and many outliers.</p>
+      <h3 style="margin-top:16px">Limits of common-voice-zh</h3>
+      <p style="font-size:15.5px">This is read speech recorded from Wikipedia sentences, closer to clean conditions than the spontaneous natural speech this project ultimately targets. Current CER numbers are likely a best-case lower bound.</p>
+    </div>
+    <div>
+      <h3>Is 200 samples enough</h3>
+      <p style="font-size:15.5px">For large gaps, such as faster-whisper against the rest, yes. For small gaps, such as SenseVoice against the wav2vec2 models, there is not yet enough statistical power to separate them clearly.</p>
+      <h3 style="margin-top:16px">Resource thresholds in STATEMENT.md</h3>
+      <p style="font-size:15.5px">The under-500MB target is stricter than what current high-quality checkpoints allow. Consider tiered budgets by device class, mobile vs. desktop/laptop EDGE, instead of one fixed threshold.</p>
+    </div>
+  </div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">9</span></div>
+</div>
+
+<!-- SLIDE 10: CONCLUSION -->
+<div class="slide">
+  <div class="kicker">08 &middot; Conclusion</div>
+  <h2>Recommendations</h2>
+  <div class="accent-bar"></div>
+  <div class="grid3">
+    <div class="card">
+      <h3 style="color:#b23b3b">Drop: faster-whisper-small</h3>
+      <p style="font-size:14.5px">Statistically worse on every metric than the other three models, with no advantage large enough to offset it.</p>
+    </div>
+    <div class="card" style="background:#E5F3EA; border-color:#c9e6d2">
+      <h3 style="color:#2e7d47">Accuracy priority: wav2vec2-WenetSpeech</h3>
+      <p style="font-size:14.5px">Best CER and tone accuracy, substitution rate of only 1.5%, RTF of 0.128 still comfortably real time.</p>
+    </div>
+    <div class="card">
+      <h3>Latency priority: SenseVoice-small</h3>
+      <p style="font-size:14.5px">Fastest by far (RTF 0.033), accuracy not significantly worse. Peak RAM (3.3GB) should be monitored on target hardware.</p>
+    </div>
+  </div>
+  <div style="margin-top:28px">
+    <h3>Next steps</h3>
+    <ul class="bullets">
+      <li>Re-run this pipeline on youtube-samples, which best represents real-world natural speech per the project's original goal</li>
+      <li>Run on synthetic-noisy to test robustness under background noise</li>
+      <li>Increase sample size or pool multiple datasets if a clear separation between SenseVoice and wav2vec2-WenetSpeech is needed</li>
+    </ul>
+  </div>
+  <div class="footer"><span>Chinese Dictation &middot; STT Benchmark</span><span class="pagenum">10</span></div>
+</div>
+
+</body>
+</html>
