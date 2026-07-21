@@ -35,10 +35,13 @@ class Settings(BaseSettings):
     host: str = "127.0.0.1"
     port: int = 0  # 0 = let the OS pick a free port; printed on startup
 
-    whisper_model_size: str = "base"  # tiny | base | small | medium | large-v3
+    # STT model for lesson transcription (lessons/pipeline/transcribe.py).
+    # HF checkpoint name, chosen from experiments/tts_models benchmark
+    # (best CER/tone-accuracy among tested models on Chinese speech).
+    whisper_model_size: str = "wbbbbb/wav2vec2-large-chinese-zh-cn"
     whisper_device: str = "cpu"  # cpu | cuda
-    whisper_compute_type: str = "int8"  # int8 (cpu) | float16 (cuda)
-    whisper_language: str = "zh"
+    whisper_compute_type: str = "int8"  # float16 (cuda) enables fp16; anything else stays fp32
+    whisper_language: str = "zh"  # unused (model is Mandarin-only)
 
     pinyin_style: str = "tone_marks"  # tone_marks | numeric
 

@@ -1,21 +1,26 @@
-"""The only place that imports faster_whisper. Transcribes an audio file and
-further splits each Whisper segment into sentences, redistributing timestamps
-proportionally to character count (matching the format used by the rest of
-the app)."""
+"""The only place that imports transformers/wav2vec2. Transcribes an audio
+file and groups the resulting per-character timestamps into sentences,
+cutting on speech pauses (the model does not emit punctuation, so pause
+length is the segmentation signal instead of sentence-final punctuation)."""
 
 from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Callable, Iterator
+from typing import Callable
 
-from faster_whisper import WhisperModel
-
-from .sentence_split import split_sentences
+import torch
+from transformers import Pipeline
+from transformers import pipeline as hf_pipeline
 
 ProgressCallback = Callable[[float], None]  # fraction 0..1 of audio processed
 
-_model_cache: dict[tuple[str, str, str], WhisperModel] = {}
+_CHUNK_LENGTH_SEC = 30
+_STRIDE_LENGTH_SEC = 5
+_PAUSE_THRESHOLD_SEC = 0.6  # gap between chars treated as a sentence boundary
+_SENTENCE_END_CHARS = set("。！？!?")
+
+_model_cache: dict[tuple[str, str, str], Pipeline] = {}
 
 
 @dataclass
@@ -25,27 +30,35 @@ class TranscriptSentence:
     text: str
 
 
-def _get_model(model_size: str, device: str, compute_type: str) -> WhisperModel:
-    key = (model_size, device, compute_type)
+def _get_model(model_name: str, device: str, compute_type: str) -> Pipeline:
+    key = (model_name, device, compute_type)
     if key not in _model_cache:
-        _model_cache[key] = WhisperModel(
-            model_size, device=device, compute_type=compute_type
+        dtype = torch.float16 if (device == "cuda" and compute_type == "float16") else torch.float32
+        _model_cache[key] = hf_pipeline(
+            "automatic-speech-recognition",
+            model=model_name,
+            device=0 if device == "cuda" else -1,
+            dtype=dtype,
         )
     return _model_cache[key]
 
 
-def _split_segment(start: float, end: float, text: str) -> Iterator[TranscriptSentence]:
-    sentences = split_sentences(text)
-    if not sentences:
-        return
-    total_chars = sum(len(s) for s in sentences) or 1
-    cursor = start
-    duration = end - start
-    for sentence in sentences:
-        share = len(sentence) / total_chars * duration
-        seg_end = cursor + share
-        yield TranscriptSentence(start_sec=cursor, end_sec=seg_end, text=sentence)
-        cursor = seg_end
+def _group_by_pause(chars: list[dict]) -> list[list[dict]]:
+    groups: list[list[dict]] = []
+    current: list[dict] = []
+    for i, c in enumerate(chars):
+        current.append(c)
+        is_last = i == len(chars) - 1
+        ends_sentence = c["text"] in _SENTENCE_END_CHARS
+        next_gap = 0.0
+        if not is_last:
+            next_gap = chars[i + 1]["timestamp"][0] - c["timestamp"][1]
+        if is_last or ends_sentence or next_gap >= _PAUSE_THRESHOLD_SEC:
+            groups.append(current)
+            current = []
+    if current:
+        groups.append(current)
+    return groups
 
 
 def transcribe(
@@ -53,17 +66,27 @@ def transcribe(
     model_size: str,
     device: str,
     compute_type: str,
-    language: str,
+    language: str,  # unused, model is Mandarin-only
     on_progress: ProgressCallback | None = None,
 ) -> list[TranscriptSentence]:
     model = _get_model(model_size, device, compute_type)
-    segments, info = model.transcribe(str(audio_path), language=language)
+    result = model(
+        str(audio_path),
+        chunk_length_s=_CHUNK_LENGTH_SEC,
+        stride_length_s=_STRIDE_LENGTH_SEC,
+        return_timestamps="char",
+    )
+    if on_progress:
+        on_progress(1.0)
 
-    total_duration = info.duration or 1.0
     sentences: list[TranscriptSentence] = []
-    for segment in segments:
-        sentences.extend(_split_segment(segment.start, segment.end, segment.text))
-        if on_progress:
-            on_progress(min(segment.end / total_duration, 1.0))
-
+    for group in _group_by_pause(result.get("chunks", [])):
+        text = "".join(c["text"] for c in group).strip()
+        if not text:
+            continue
+        sentences.append(TranscriptSentence(
+            start_sec=group[0]["timestamp"][0],
+            end_sec=group[-1]["timestamp"][1],
+            text=text,
+        ))
     return sentences
