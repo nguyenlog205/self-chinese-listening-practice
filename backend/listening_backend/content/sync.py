@@ -175,6 +175,13 @@ def refresh_content(conn) -> dict:
         )
         result["vocabulary"][level] = len(words)
 
+    # grammar_points.id is a global PRIMARY KEY, not scoped per level -- a
+    # level-scoped DELETE can't clean up a row left over from before an id
+    # was moved to a different level (or before a stale/incomplete local
+    # seed), so it would collide with that id's fresh INSERT under its new
+    # level. Wipe the whole table once up front instead, same as the
+    # dialogues/exercises tables below.
+    conn.execute("DELETE FROM grammar_points")
     for level in GRAMMAR_LEVELS:
         url = f"{RAW_BASE}/grammar/{_level_filename(level)}"
         points = _fetch_json(url)
@@ -184,7 +191,6 @@ def refresh_content(conn) -> dict:
             if not isinstance(p, dict) or not REQUIRED_GRAMMAR_KEYS.issubset(p):
                 raise ContentSyncError(f"Ngữ pháp thiếu trường bắt buộc ở cấp {level}: {p!r}")
 
-        conn.execute("DELETE FROM grammar_points WHERE level = ?", (level,))
         conn.executemany(
             "INSERT INTO grammar_points (id, level, data) VALUES (?, ?, ?)",
             [
@@ -206,6 +212,9 @@ def refresh_content(conn) -> dict:
         )
         result["grammar"][level] = len(points)
 
+    # Same global-PRIMARY-KEY shape as grammar_points above -- wipe once
+    # instead of per level.
+    conn.execute("DELETE FROM reading_passages")
     for level in READING_LEVELS:
         url = f"{RAW_BASE}/reading/{_level_filename(level)}"
         passages = _fetch_json(url)
@@ -215,7 +224,6 @@ def refresh_content(conn) -> dict:
             if not isinstance(p, dict) or not REQUIRED_READING_KEYS.issubset(p):
                 raise ContentSyncError(f"Bài đọc thiếu trường bắt buộc ở cấp {level}: {p!r}")
 
-        conn.execute("DELETE FROM reading_passages WHERE level = ?", (level,))
         conn.executemany(
             "INSERT INTO reading_passages (id, level, data) VALUES (?, ?, ?)",
             [
