@@ -384,6 +384,107 @@
   background: #000;
 }
 
+.listening-video-row {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.listening-video-wrap {
+  position: relative;
+  flex: 2;
+  min-width: 0;
+}
+
+.listening-video-wrap .listening-practice-video {
+  display: block;
+}
+
+.listening-caption-overlay {
+  position: absolute;
+  left: 12px;
+  right: 12px;
+  bottom: 14px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  padding: 8px 14px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.listening-transcript-panel {
+  flex: 1;
+  min-width: 220px;
+  max-width: 320px;
+  max-height: 360px;
+  overflow-y: auto;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.listening-transcript-row {
+  display: flex;
+  gap: 10px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+}
+
+.listening-transcript-row:last-child {
+  border-bottom: none;
+}
+
+.listening-transcript-row:hover {
+  background: var(--surface-soft);
+}
+
+.listening-transcript-row.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.listening-transcript-time {
+  font-size: 12px;
+  color: var(--text-muted);
+  white-space: nowrap;
+  padding-top: 2px;
+}
+
+.listening-transcript-row.active .listening-transcript-time {
+  color: var(--accent);
+}
+
+.listening-transcript-text {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.listening-transcript-pinyin {
+  display: block;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.listening-transcript-row.active .listening-transcript-pinyin {
+  color: var(--accent);
+}
+
+@media (max-width: 720px) {
+  .listening-video-row {
+    flex-direction: column;
+  }
+
+  .listening-transcript-panel {
+    max-width: none;
+    width: 100%;
+  }
+}
+
 .listening-practice-text {
   font-size: 19px;
   line-height: 1.7;
