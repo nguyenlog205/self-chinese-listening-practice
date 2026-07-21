@@ -11,6 +11,7 @@ table entirely."""
 
 from __future__ import annotations
 
+import collections
 import json
 import sqlite3
 
@@ -36,13 +37,29 @@ def test_real_seed_grammar_files_have_required_fields():
             )
 
 
+def test_real_seed_grammar_ids_are_unique_across_levels():
+    # grammar_points.id is a single global PRIMARY KEY across all hsk_*.json
+    # files, not scoped per level -- a reused id crashes content sync with
+    # UNIQUE constraint failed (see commits 4bf3821, 739d65e).
+    ids = collections.Counter()
+    locations: dict[str, list[str]] = {}
+    for path in sorted((SEED_DATA_DIR / "grammar").glob("hsk_*.json")):
+        points = json.loads(path.read_text(encoding="utf-8"))
+        for p in points:
+            ids[p["id"]] += 1
+            locations.setdefault(p["id"], []).append(path.name)
+
+    dups = {id_: files for id_, files in locations.items() if ids[id_] > 1}
+    assert not dups, f"duplicate grammar_points ids across files: {dups}"
+
+
 def test_seed_if_empty_loads_real_grammar_json(db_path):
     seed_if_empty(db_path)
 
     with sqlite3.connect(db_path) as conn:
         conn.row_factory = sqlite3.Row
         count = conn.execute("SELECT COUNT(*) c FROM grammar_points").fetchone()["c"]
-        sample = conn.execute("SELECT level, data FROM grammar_points WHERE id = 'shi'").fetchone()
+        sample = conn.execute("SELECT level, data FROM grammar_points WHERE id = 'shang'").fetchone()
 
     assert count > 0
     assert sample["level"] == "1"
@@ -57,6 +74,21 @@ def test_real_seed_reading_files_have_required_fields():
             assert {"id", "title", "hanzi", "pinyin", "translation"}.issubset(p), (
                 f"{path.name}: {p.get('id')} missing required keys"
             )
+
+
+def test_real_seed_reading_ids_are_unique_across_levels():
+    # Same global-PRIMARY-KEY shape as grammar_points -- see
+    # test_real_seed_grammar_ids_are_unique_across_levels.
+    ids = collections.Counter()
+    locations: dict[str, list[str]] = {}
+    for path in sorted((SEED_DATA_DIR / "reading").glob("hsk_*.json")):
+        passages = json.loads(path.read_text(encoding="utf-8"))
+        for p in passages:
+            ids[p["id"]] += 1
+            locations.setdefault(p["id"], []).append(path.name)
+
+    dups = {id_: files for id_, files in locations.items() if ids[id_] > 1}
+    assert not dups, f"duplicate reading_passages ids across files: {dups}"
 
 
 def test_seed_if_empty_loads_real_reading_json(db_path):
