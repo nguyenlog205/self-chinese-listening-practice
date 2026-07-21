@@ -1,0 +1,125 @@
+{
+  "n_samples": 200,
+  "bootstrap_summary": {
+    "faster-whisper-small": {
+      "cer": {
+        "mean": 0.23000700000000002,
+        "ci95_lo": 0.210606575,
+        "ci95_hi": 0.2507143875
+      },
+      "wer": {
+        "mean": 0.382156,
+        "ci95_lo": 0.35237121250000003,
+        "ci95_hi": 0.41349294999999997
+      },
+      "latency_ms": {
+        "mean": 1096.4651999999999,
+        "ci95_lo": 1080.31589625,
+        "ci95_hi": 1112.7069324999998
+      }
+    },
+    "sensevoice-small": {
+      "cer": {
+        "mean": 0.11296299999999998,
+        "ci95_lo": 0.099758475,
+        "ci95_hi": 0.12722767499999998
+      },
+      "wer": {
+        "mean": 0.20937,
+        "ci95_lo": 0.187624325,
+        "ci95_hi": 0.23259627499999996
+      },
+      "latency_ms": {
+        "mean": 191.39794999999998,
+        "ci95_lo": 183.44886125000002,
+        "ci95_hi": 199.1970225
+      }
+    },
+    "wav2vec2-xlsr-53-chinese": {
+      "cer": {
+        "mean": 0.136141,
+        "ci95_lo": 0.1166847625,
+        "ci95_hi": 0.157173925
+      },
+      "wer": {
+        "mean": 0.234968,
+        "ci95_lo": 0.206713875,
+        "ci95_hi": 0.26530115000000004
+      },
+      "latency_ms": {
+        "mean": 762.13115,
+        "ci95_lo": 729.93014,
+        "ci95_hi": 793.393685
+      }
+    },
+    "wav2vec2-large-wenetspeech": {
+      "cer": {
+        "mean": 0.09415399999999999,
+        "ci95_lo": 0.08523911249999999,
+        "ci95_hi": 0.10314918749999998
+      },
+      "wer": {
+        "mean": 0.17602299999999999,
+        "ci95_lo": 0.15911791249999999,
+        "ci95_hi": 0.1931461
+      },
+      "latency_ms": {
+        "mean": 776.4002499999999,
+        "ci95_lo": 743.4242037500001,
+        "ci95_hi": 807.5561662499999
+      }
+    }
+  },
+  "significance_tests": {
+    "friedman": {
+      "statistic": 233.66132017273307,
+      "p_value": 2.2344433291359344e-50,
+      "significant_at_0.05": true
+    },
+    "bonferroni_alpha": 0.008333333333333333,
+    "pairwise_wilcoxon": [
+      {
+        "model_a": "faster-whisper-small",
+        "model_b": "sensevoice-small",
+        "wilcoxon_stat": 1250.0,
+        "p_value": 2.8093782051942447e-22,
+        "significant_bonferroni": true
+      },
+      {
+        "model_a": "faster-whisper-small",
+        "model_b": "wav2vec2-xlsr-53-chinese",
+        "wilcoxon_stat": 1639.5,
+        "p_value": 1.4473521221898727e-17,
+        "significant_bonferroni": true
+      },
+      {
+        "model_a": "faster-whisper-small",
+        "model_b": "wav2vec2-large-wenetspeech",
+        "wilcoxon_stat": 80.5,
+        "p_value": 3.410152891134928e-28,
+        "significant_bonferroni": true
+      },
+      {
+        "model_a": "sensevoice-small",
+        "model_b": "wav2vec2-xlsr-53-chinese",
+        "wilcoxon_stat": 5345.5,
+        "p_value": 0.04733207896589378,
+        "significant_bonferroni": false
+      },
+      {
+        "model_a": "sensevoice-small",
+        "model_b": "wav2vec2-large-wenetspeech",
+        "wilcoxon_stat": 4384.5,
+        "p_value": 0.055286073968099814,
+        "significant_bonferroni": false
+      },
+      {
+        "model_a": "wav2vec2-xlsr-53-chinese",
+        "model_b": "wav2vec2-large-wenetspeech",
+        "wilcoxon_stat": 678.0,
+        "p_value": 2.819438963166857e-07,
+        "significant_bonferroni": true
+      }
+    ]
+  }
+}

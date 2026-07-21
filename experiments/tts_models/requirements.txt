@@ -1,3 +1,15 @@
 soundfile
 huggingface_hub
 requests
+torch
+torchaudio
+transformers
+faster-whisper
+funasr
+modelscope
+jiwer
+jieba
+pypinyin
+opencc-python-reimplemented
+scipy
+matplotlib

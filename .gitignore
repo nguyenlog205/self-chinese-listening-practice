@@ -13,6 +13,10 @@ backend/*.egg-info/
 backend/**/*.egg-info/
 backend/.pytest_cache/
 
+# STT benchmarking experiments
+experiments/tts_models/.venv/
+experiments/tts_models/models/
+
 # Backend runtime storage (SQLite DB + cached audio/video)
 backend/storage/
 

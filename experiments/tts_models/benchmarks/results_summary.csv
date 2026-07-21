@@ -1,0 +1,5 @@
+model,checkpoint,dataset,num_samples,wer,cer,tone_accuracy,cold_start_ms,inference_latency_ms,rtf,throughput_samples_per_sec,model_size_mb,peak_ram_mb
+faster-whisper-small,Systran/faster-whisper-small,common-voice-zh,200,0.3822,0.23,0.9579,2128.32,1096.4652,0.2006,0.912,463.69,1139.39
+sensevoice-small,iic/SenseVoiceSmall,common-voice-zh,200,0.2094,0.113,0.9846,9530.91,191.3979,0.0325,5.2247,896.47,3355.5
+wav2vec2-large-wenetspeech,wbbbbb/wav2vec2-large-chinese-zh-cn,common-voice-zh,200,0.176,0.0942,0.9961,8544.07,776.4002,0.1281,1.288,1223.65,2375.02
+wav2vec2-xlsr-53-chinese,jonatasgrosman/wav2vec2-large-xlsr-53-chinese-zh-cn,common-voice-zh,200,0.235,0.1361,0.9953,9584.55,762.1312,0.1258,1.3121,2434.27,2298.28
