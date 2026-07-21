@@ -12,5 +12,705 @@
       "vi": "Tôi tên là Martin. Đây là bố tôi, kia là mẹ tôi. Tôi yêu gia đình mình. Hôm nay thời tiết đẹp, chúng tôi cùng nhau ăn cơm.",
       "en": "My name is Martin. This is my father, that is my mother. I love my family. The weather is nice today, we're eating together."
     }
+  },
+  {
+    "id": "hsk1_r002",
+    "title": {
+      "vi": "Ngày của tôi",
+      "en": "My day",
+      "zh": "我的一天"
+    },
+    "hanzi": "我每天早上七点起床。我先吃早饭，然后去学校。我在学校学习汉语。中午我和同学一起吃午饭。下午三点我们下课。晚上我在家看电视。",
+    "pinyin": "Wǒ měitiān zǎoshang qī diǎn qǐchuáng. Wǒ xiān chī zǎofàn, ránhòu qù xuéxiào. Wǒ zài xuéxiào xuéxí Hànyǔ. Zhōngwǔ wǒ hé tóngxué yìqǐ chī wǔfàn. Xiàwǔ sān diǎn wǒmen xiàkè. Wǎnshang wǒ zài jiā kàn diànshì.",
+    "translation": {
+      "vi": "Mỗi sáng tôi dậy lúc bảy giờ. Tôi ăn sáng trước, sau đó đi học. Tôi học tiếng Hán ở trường. Buổi trưa tôi cùng bạn học ăn cơm trưa. Ba giờ chiều chúng tôi tan học. Buổi tối tôi ở nhà xem tivi.",
+      "en": "Every morning I get up at seven. I eat breakfast first, then go to school. I study Chinese at school. At noon I eat lunch with my classmates. We finish class at three in the afternoon. In the evening I watch TV at home."
+    }
+  },
+  {
+    "id": "hsk1_r003",
+    "title": {
+      "vi": "Gia đình tôi có năm người",
+      "en": "My family has five people",
+      "zh": "我家有五口人"
+    },
+    "hanzi": "我家有五口人：爸爸、妈妈、哥哥、妹妹和我。爸爸是医生，妈妈是老师。哥哥是大学生，他在北京上学。妹妹很小，她还没有上学。我们都很喜欢我们的家。",
+    "pinyin": "Wǒ jiā yǒu wǔ kǒu rén: bàba, māma, gēge, mèimei hé wǒ. Bàba shì yīshēng, māma shì lǎoshī. Gēge shì dàxuéshēng, tā zài Běijīng shàngxué. Mèimei hěn xiǎo, tā hái méiyǒu shàngxué. Wǒmen dōu hěn xǐhuan wǒmen de jiā.",
+    "translation": {
+      "vi": "Nhà tôi có năm người: bố, mẹ, anh trai, em gái và tôi. Bố là bác sĩ, mẹ là giáo viên. Anh trai là sinh viên đại học, anh ấy học ở Bắc Kinh. Em gái còn nhỏ, chưa đi học. Chúng tôi đều rất yêu ngôi nhà của mình.",
+      "en": "My family has five people: my father, mother, older brother, younger sister and me. My father is a doctor and my mother is a teacher. My older brother is a college student studying in Beijing. My younger sister is small and doesn't go to school yet. We all love our home very much."
+    }
+  },
+  {
+    "id": "hsk1_r004",
+    "title": {
+      "vi": "Hôm nay trời lạnh",
+      "en": "It's cold today",
+      "zh": "今天很冷"
+    },
+    "hanzi": "今天天气很冷，外边下雪了。我穿了很多衣服才出门。同学们都说今天太冷了。老师让我们在教室里休息，不要去外边玩。我觉得下雪的时候很漂亮，但是也很冷。",
+    "pinyin": "Jīntiān tiānqì hěn lěng, wàibiān xiàxuě le. Wǒ chuānle hěn duō yīfu cái chūmén. Tóngxuémen dōu shuō jīntiān tài lěng le. Lǎoshī ràng wǒmen zài jiàoshì lǐ xiūxi, bú yào qù wàibiān wán. Wǒ juéde xiàxuě de shíhou hěn piàoliang, dànshì yě hěn lěng.",
+    "translation": {
+      "vi": "Hôm nay trời rất lạnh, bên ngoài có tuyết rơi. Tôi mặc rất nhiều quần áo mới ra khỏi nhà. Các bạn học đều nói hôm nay lạnh quá. Cô giáo cho chúng tôi nghỉ trong lớp, không ra ngoài chơi. Tôi thấy lúc tuyết rơi rất đẹp, nhưng cũng rất lạnh.",
+      "en": "The weather is very cold today, and it's snowing outside. I put on a lot of clothes before going out. My classmates all said it was too cold today. The teacher let us rest in the classroom instead of going outside to play. I think it's beautiful when it snows, but it's also very cold."
+    }
+  },
+  {
+    "id": "hsk1_r005",
+    "title": {
+      "vi": "去商店买东西",
+      "en": "Going shopping at the store",
+      "zh": "去商店买东西"
+    },
+    "hanzi": "星期六我和妈妈一起去商店买东西。商店里的人很多。我们买了苹果、牛奶和面包。妈妈还想买一件衣服，但是她觉得太贵了。我们最后去饭店吃了晚饭才回家。",
+    "pinyin": "Xīngqīliù wǒ hé māma yìqǐ qù shāngdiàn mǎi dōngxi. Shāngdiàn lǐ de rén hěn duō. Wǒmen mǎile píngguǒ, niúnǎi hé miànbāo. Māma hái xiǎng mǎi yí jiàn yīfu, dànshì tā juéde tài guì le. Wǒmen zuìhòu qù fàndiàn chīle wǎnfàn cái huí jiā.",
+    "translation": {
+      "vi": "Thứ Bảy tôi cùng mẹ đi mua đồ ở cửa hàng. Trong cửa hàng có rất nhiều người. Chúng tôi mua táo, sữa và bánh mì. Mẹ còn muốn mua một chiếc áo, nhưng mẹ thấy quá đắt. Cuối cùng chúng tôi đi ăn tối ở nhà hàng rồi mới về nhà.",
+      "en": "On Saturday my mother and I went shopping at the store. There were many people in the store. We bought apples, milk and bread. My mother also wanted to buy some clothes, but she thought it was too expensive. In the end we went to a restaurant for dinner before going home."
+    }
+  },
+  {
+    "id": "hsk1_r006",
+    "title": {
+      "vi": "我的朋友",
+      "en": "My friend",
+      "zh": "我的朋友"
+    },
+    "hanzi": "我有一个很好的朋友，他叫小明。小明是我的同学，我们在同一个学校学习。他喜欢唱歌，也喜欢看电影。星期天我们常常一起去电影院看电影。他是一个很好的人，我很高兴认识他。",
+    "pinyin": "Wǒ yǒu yí ge hěn hǎo de péngyou, tā jiào Xiǎomíng. Xiǎomíng shì wǒ de tóngxué, wǒmen zài tóng yí ge xuéxiào xuéxí. Tā xǐhuan chànggē, yě xǐhuan kàn diànyǐng. Xīngqītiān wǒmen chángcháng yìqǐ qù diànyǐngyuàn kàn diànyǐng. Tā shì yí ge hěn hǎo de rén, wǒ hěn gāoxìng rènshi tā.",
+    "translation": {
+      "vi": "Tôi có một người bạn rất tốt, tên là Tiểu Minh. Tiểu Minh là bạn học của tôi, chúng tôi học cùng một trường. Cậu ấy thích hát, cũng thích xem phim. Chủ nhật chúng tôi thường cùng nhau đi xem phim ở rạp. Cậu ấy là người rất tốt, tôi rất vui khi quen biết cậu ấy.",
+      "en": "I have a very good friend named Xiaoming. Xiaoming is my classmate, and we study at the same school. He likes singing and also likes watching movies. On Sundays we often go to the cinema together to watch movies. He is a very good person, and I'm very happy to know him."
+    }
+  },
+  {
+    "id": "hsk1_r007",
+    "title": {
+      "vi": "生病了",
+      "en": "Getting sick",
+      "zh": "生病了"
+    },
+    "hanzi": "昨天晚上我觉得不太舒服，头很疼。今天早上我发现自己生病了。妈妈带我去医院看病。医生说我没有大问题，只要多喝水，多休息就可以了。今天我没有去上学，在家休息了一天。",
+    "pinyin": "Zuótiān wǎnshang wǒ juéde bú tài shūfu, tóu hěn téng. Jīntiān zǎoshang wǒ fāxiàn zìjǐ shēngbìng le. Māma dài wǒ qù yīyuàn kànbìng. Yīshēng shuō wǒ méiyǒu dà wèntí, zhǐyào duō hē shuǐ, duō xiūxi jiù kěyǐ le. Jīntiān wǒ méiyǒu qù shàngxué, zài jiā xiūxile yì tiān.",
+    "translation": {
+      "vi": "Tối qua tôi thấy không được khỏe lắm, đầu rất đau. Sáng nay tôi phát hiện mình bị ốm. Mẹ đưa tôi đến bệnh viện khám bệnh. Bác sĩ nói tôi không có vấn đề gì lớn, chỉ cần uống nhiều nước, nghỉ ngơi nhiều là được. Hôm nay tôi không đi học, ở nhà nghỉ cả ngày.",
+      "en": "Last night I didn't feel very well, and I had a bad headache. This morning I realized I was sick. My mother took me to the hospital to see a doctor. The doctor said I had no serious problem, and just needed to drink more water and rest more. Today I didn't go to school and rested at home all day."
+    }
+  },
+  {
+    "id": "hsk1_r008",
+    "title": {
+      "vi": "坐火车去北京",
+      "en": "Taking the train to Beijing",
+      "zh": "坐火车去北京"
+    },
+    "hanzi": "明天我要坐火车去北京看我的姐姐。她在北京工作，已经三年没有回家了。我很高兴可以见到她。火车要开五个小时。我买了一些水果和面包在路上吃。我希望这次旅行很顺利。",
+    "pinyin": "Míngtiān wǒ yào zuò huǒchē qù Běijīng kàn wǒ de jiějie. Tā zài Běijīng gōngzuò, yǐjīng sān nián méiyǒu huí jiā le. Wǒ hěn gāoxìng kěyǐ jiàndào tā. Huǒchē yào kāi wǔ ge xiǎoshí. Wǒ mǎile yìxiē shuǐguǒ hé miànbāo zài lùshang chī. Wǒ xīwàng zhè cì lǚxíng hěn shùnlì.",
+    "translation": {
+      "vi": "Ngày mai tôi sẽ đi tàu hỏa đến Bắc Kinh thăm chị gái. Chị ấy làm việc ở Bắc Kinh, đã ba năm chưa về nhà. Tôi rất vui vì được gặp chị ấy. Tàu chạy mất năm tiếng. Tôi đã mua ít trái cây và bánh mì để ăn trên đường. Tôi hy vọng chuyến đi này thuận lợi.",
+      "en": "Tomorrow I'm taking the train to Beijing to see my older sister. She works in Beijing and hasn't been home in three years. I'm very happy to be able to see her. The train ride takes five hours. I bought some fruit and bread to eat on the way. I hope this trip goes smoothly."
+    }
+  },
+  {
+    "id": "hsk1_r009",
+    "title": {
+      "vi": "在饭店吃饭",
+      "en": "Eating at a restaurant",
+      "zh": "在饭店吃饭"
+    },
+    "hanzi": "今天是妈妈的生日，我们一家人去饭店吃饭。饭店里的菜很好吃，也很漂亮。爸爸点了很多菜，还买了一个蛋糕。妹妹很高兴，一直在唱歌。这是一个非常快乐的晚上。",
+    "pinyin": "Jīntiān shì māma de shēngrì, wǒmen yì jiā rén qù fàndiàn chīfàn. Fàndiàn lǐ de cài hěn hǎochī, yě hěn piàoliang. Bàba diǎnle hěn duō cài, hái mǎile yí ge dàngāo. Mèimei hěn gāoxìng, yìzhí zài chànggē. Zhè shì yí ge fēicháng kuàilè de wǎnshang.",
+    "translation": {
+      "vi": "Hôm nay là sinh nhật mẹ, cả nhà chúng tôi đi ăn ở nhà hàng. Món ăn trong nhà hàng rất ngon, cũng rất đẹp mắt. Bố gọi rất nhiều món, còn mua một chiếc bánh kem. Em gái rất vui, cứ hát mãi. Đây là một buổi tối rất vui vẻ.",
+      "en": "Today is my mother's birthday, so our whole family went to a restaurant. The food at the restaurant was delicious and looked beautiful too. My father ordered a lot of dishes and also bought a cake. My little sister was very happy and kept singing. It was a very joyful evening."
+    }
+  },
+  {
+    "id": "hsk1_r010",
+    "title": {
+      "vi": "我的学校",
+      "en": "My school",
+      "zh": "我的学校"
+    },
+    "hanzi": "我的学校不大，但是很漂亮。学校里有很多学生和老师。我们每天早上八点上课，下午四点下课。我最喜欢的课是汉语课，因为老师教得很好。放学以后，我常常和同学们一起玩儿。",
+    "pinyin": "Wǒ de xuéxiào bú dà, dànshì hěn piàoliang. Xuéxiào lǐ yǒu hěn duō xuésheng hé lǎoshī. Wǒmen měitiān zǎoshang bā diǎn shàngkè, xiàwǔ sì diǎn xiàkè. Wǒ zuì xǐhuan de kè shì Hànyǔ kè, yīnwèi lǎoshī jiāo de hěn hǎo. Fàngxué yǐhòu, wǒ chángcháng hé tóngxuémen yìqǐ wánr.",
+    "translation": {
+      "vi": "Trường của tôi không lớn, nhưng rất đẹp. Trong trường có rất nhiều học sinh và giáo viên. Mỗi sáng chúng tôi vào học lúc tám giờ, chiều tan học lúc bốn giờ. Môn tôi thích nhất là môn tiếng Hán, vì cô giáo dạy rất hay. Sau khi tan học, tôi thường chơi cùng các bạn.",
+      "en": "My school isn't big, but it's very pretty. There are many students and teachers at school. We start class at eight every morning and finish at four in the afternoon. My favorite class is Chinese, because the teacher teaches very well. After school, I often play with my classmates."
+    }
+  },
+  {
+    "id": "hsk1_r011",
+    "title": {
+      "vi": "买手机",
+      "en": "Buying a phone",
+      "zh": "买手机"
+    },
+    "hanzi": "我的手机用了三年，已经很旧了。今天我和爸爸一起去商店买新的手机。商店里的手机很多，价钱也不一样。我们看了很久，最后买了一个不太贵的手机。我很高兴有了新手机。",
+    "pinyin": "Wǒ de shǒujī yòngle sān nián, yǐjīng hěn jiù le. Jīntiān wǒ hé bàba yìqǐ qù shāngdiàn mǎi xīn de shǒujī. Shāngdiàn lǐ de shǒujī hěn duō, jiàqián yě bù yíyàng. Wǒmen kànle hěn jiǔ, zuìhòu mǎile yí ge bú tài guì de shǒujī. Wǒ hěn gāoxìng yǒule xīn shǒujī.",
+    "translation": {
+      "vi": "Điện thoại của tôi đã dùng ba năm, rất cũ rồi. Hôm nay tôi cùng bố đi cửa hàng mua điện thoại mới. Trong cửa hàng có rất nhiều điện thoại, giá cũng khác nhau. Chúng tôi xem rất lâu, cuối cùng mua một chiếc điện thoại không quá đắt. Tôi rất vui vì có điện thoại mới.",
+      "en": "My phone is three years old and already quite worn out. Today my father and I went to the store to buy a new phone. There were many phones in the store, and the prices were all different. We looked for a long time and finally bought a phone that wasn't too expensive. I'm very happy to have a new phone."
+    }
+  },
+  {
+    "id": "hsk1_r012",
+    "title": {
+      "vi": "周末的计划",
+      "en": "Weekend plans",
+      "zh": "周末的计划"
+    },
+    "hanzi": "这个星期六和星期天我没有课，可以好好休息。星期六早上我想睡懒觉，然后和朋友一起去看电影。星期天我要在家写作业，还要帮妈妈做饭。晚上我们一家人会一起看电视。",
+    "pinyin": "Zhège xīngqīliù hé xīngqītiān wǒ méiyǒu kè, kěyǐ hǎohǎo xiūxi. Xīngqīliù zǎoshang wǒ xiǎng shuì lǎnjiào, ránhòu hé péngyou yìqǐ qù kàn diànyǐng. Xīngqītiān wǒ yào zài jiā xiě zuòyè, hái yào bāng māma zuòfàn. Wǎnshang wǒmen yì jiā rén huì yìqǐ kàn diànshì.",
+    "translation": {
+      "vi": "Thứ Bảy và Chủ nhật tuần này tôi không có lớp học, có thể nghỉ ngơi thoải mái. Sáng thứ Bảy tôi muốn ngủ nướng, sau đó cùng bạn đi xem phim. Chủ nhật tôi phải ở nhà làm bài tập, còn phải giúp mẹ nấu cơm. Buổi tối cả nhà chúng tôi sẽ cùng xem tivi.",
+      "en": "I don't have class this Saturday or Sunday, so I can rest well. On Saturday morning I want to sleep in, then go watch a movie with a friend. On Sunday I need to do homework at home and also help my mom cook. In the evening our whole family will watch TV together."
+    }
+  },
+  {
+    "id": "hsk1_r013",
+    "title": {
+      "vi": "我家的狗和猫",
+      "en": "My dog and cat",
+      "zh": "我家的狗和猫"
+    },
+    "hanzi": "我家有一只狗和一只猫。狗很大，猫很小。它们都很可爱，我非常喜欢它们。每天早上我都给它们吃东西。晚上它们喜欢在我的房间里睡觉。妹妹也很喜欢和它们一起玩儿。",
+    "pinyin": "Wǒ jiā yǒu yì zhī gǒu hé yì zhī māo. Gǒu hěn dà, māo hěn xiǎo. Tāmen dōu hěn kě'ài, wǒ fēicháng xǐhuan tāmen. Měitiān zǎoshang wǒ dōu gěi tāmen chī dōngxi. Wǎnshang tāmen xǐhuan zài wǒ de fángjiān lǐ shuìjiào. Mèimei yě hěn xǐhuan hé tāmen yìqǐ wánr.",
+    "translation": {
+      "vi": "Nhà tôi có một con chó và một con mèo. Chó thì to, mèo thì nhỏ. Chúng đều rất dễ thương, tôi rất thích chúng. Mỗi sáng tôi đều cho chúng ăn. Buổi tối chúng thích ngủ trong phòng tôi. Em gái cũng rất thích chơi cùng chúng.",
+      "en": "My family has a dog and a cat. The dog is big and the cat is small. They're both very cute, and I love them very much. Every morning I feed them. At night they like to sleep in my room. My little sister also likes to play with them."
+    }
+  },
+  {
+    "id": "hsk1_r014",
+    "title": {
+      "vi": "在电话里说话",
+      "en": "Talking on the phone",
+      "zh": "在电话里说话"
+    },
+    "hanzi": "晚上八点，我的手机响了，是我妈妈打来的。她问我今天在学校怎么样，吃饭了没有。我说今天很好，我和同学一起学习，也一起吃了晚饭。妈妈听了很高兴，让我早点儿睡觉。",
+    "pinyin": "Wǎnshang bā diǎn, wǒ de shǒujī xiǎng le, shì wǒ māma dǎ lái de. Tā wèn wǒ jīntiān zài xuéxiào zěnmeyàng, chīfàn le méiyǒu. Wǒ shuō jīntiān hěn hǎo, wǒ hé tóngxué yìqǐ xuéxí, yě yìqǐ chīle wǎnfàn. Māma tīngle hěn gāoxìng, ràng wǒ zǎodiǎnr shuìjiào.",
+    "translation": {
+      "vi": "Tám giờ tối, điện thoại của tôi reo, là mẹ tôi gọi đến. Mẹ hỏi hôm nay tôi ở trường thế nào, đã ăn cơm chưa. Tôi nói hôm nay rất tốt, tôi học cùng bạn học, cũng đã ăn tối cùng nhau. Mẹ nghe xong rất vui, bảo tôi đi ngủ sớm.",
+      "en": "At eight in the evening, my phone rang; it was my mother calling. She asked me how school was today and whether I had eaten. I said today was good, that I studied with my classmates and also had dinner together. My mother was happy to hear that and told me to go to sleep early."
+    }
+  },
+  {
+    "id": "hsk1_r015",
+    "title": {
+      "vi": "夏天很热",
+      "en": "Summer is hot",
+      "zh": "夏天很热"
+    },
+    "hanzi": "现在是夏天，天气非常热。我每天都想喝水，也喜欢吃水果。学校里的同学们都穿得很少。晚上天气凉快一点儿，我喜欢和朋友们在外边玩儿。我不太喜欢热天，但是夏天可以吃很多好吃的水果。",
+    "pinyin": "Xiànzài shì xiàtiān, tiānqì fēicháng rè. Wǒ měitiān dōu xiǎng hē shuǐ, yě xǐhuan chī shuǐguǒ. Xuéxiào lǐ de tóngxuémen dōu chuān de hěn shǎo. Wǎnshang tiānqì liángkuai yìdiǎnr, wǒ xǐhuan hé péngyoumen zài wàibiān wánr. Wǒ bú tài xǐhuan rètiān, dànshì xiàtiān kěyǐ chī hěn duō hǎochī de shuǐguǒ.",
+    "translation": {
+      "vi": "Bây giờ là mùa hè, thời tiết rất nóng. Mỗi ngày tôi đều muốn uống nước, cũng thích ăn hoa quả. Các bạn học ở trường đều mặc rất ít. Buổi tối trời mát hơn một chút, tôi thích chơi ngoài trời cùng bạn bè. Tôi không thích trời nóng lắm, nhưng mùa hè có thể ăn rất nhiều hoa quả ngon.",
+      "en": "It's summer now, and the weather is very hot. Every day I want to drink water, and I also like eating fruit. The classmates at school all wear very light clothes. In the evening the weather is a bit cooler, and I like playing outside with friends. I don't like hot weather much, but in summer I can eat a lot of delicious fruit."
+    }
+  },
+  {
+    "id": "hsk1_r016",
+    "title": {
+      "vi": "去医院看病",
+      "en": "Going to the hospital",
+      "zh": "去医院看病"
+    },
+    "hanzi": "我爷爷最近身体不太好，今天我和爸爸带他去医院看病。医院里的人很多，我们等了一个小时才见到医生。医生给爷爷检查以后说没有大问题，让他多休息，少工作。我们都希望爷爷早点儿好起来。",
+    "pinyin": "Wǒ yéye zuìjìn shēntǐ bú tài hǎo, jīntiān wǒ hé bàba dài tā qù yīyuàn kànbìng. Yīyuàn lǐ de rén hěn duō, wǒmen děngle yí ge xiǎoshí cái jiàndào yīshēng. Yīshēng gěi yéye jiǎnchá yǐhòu shuō méiyǒu dà wèntí, ràng tā duō xiūxi, shǎo gōngzuò. Wǒmen dōu xīwàng yéye zǎodiǎnr hǎo qǐlái.",
+    "translation": {
+      "vi": "Ông tôi gần đây sức khỏe không tốt lắm, hôm nay tôi và bố đưa ông đi bệnh viện khám. Trong bệnh viện có rất nhiều người, chúng tôi chờ một tiếng mới gặp được bác sĩ. Bác sĩ khám cho ông xong nói không có vấn đề gì lớn, bảo ông nghỉ ngơi nhiều, làm việc ít lại. Chúng tôi đều mong ông sớm khỏe lại.",
+      "en": "My grandfather hasn't been feeling well lately, so today my father and I took him to the hospital. There were many people at the hospital, and we waited an hour before seeing a doctor. After examining my grandfather, the doctor said there was no serious problem and told him to rest more and work less. We all hope grandfather gets better soon."
+    }
+  },
+  {
+    "id": "hsk1_r017",
+    "title": {
+      "vi": "学习汉字",
+      "en": "Learning Chinese characters",
+      "zh": "学习汉字"
+    },
+    "hanzi": "我觉得汉字很有意思，但是也很难写。老师每天教我们写新的汉字，我们要练习很多次才能记住。我喜欢在本子上一个一个地写。妈妈说我写的汉字越来越漂亮了，我听了很高兴。",
+    "pinyin": "Wǒ juéde Hànzì hěn yǒuyìsi, dànshì yě hěn nán xiě. Lǎoshī měitiān jiāo wǒmen xiě xīn de Hànzì, wǒmen yào liànxí hěn duō cì cái néng jìzhù. Wǒ xǐhuan zài běnzi shàng yí ge yí ge de xiě. Māma shuō wǒ xiě de Hànzì yuè lái yuè piàoliang le, wǒ tīngle hěn gāoxìng.",
+    "translation": {
+      "vi": "Tôi thấy chữ Hán rất thú vị, nhưng cũng rất khó viết. Mỗi ngày cô giáo dạy chúng tôi viết chữ Hán mới, chúng tôi phải luyện tập nhiều lần mới nhớ được. Tôi thích viết từng chữ một trong vở. Mẹ nói chữ Hán tôi viết ngày càng đẹp, tôi nghe vậy rất vui.",
+      "en": "I think Chinese characters are very interesting, but also hard to write. Every day the teacher teaches us new characters, and we have to practice many times to remember them. I like writing them one by one in my notebook. My mother says the characters I write are getting prettier, and I was very happy to hear that."
+    }
+  },
+  {
+    "id": "hsk1_r018",
+    "title": {
+      "vi": "早上起床",
+      "en": "Getting up in the morning",
+      "zh": "早上起床"
+    },
+    "hanzi": "每天早上六点半，我的手机会响。我起床以后先喝一杯水，然后去洗手间。七点我吃早饭，早饭是牛奶和面包。吃完早饭，我七点半出门去学校。我不喜欢早起，但是习惯了就没有问题。",
+    "pinyin": "Měitiān zǎoshang liù diǎn bàn, wǒ de shǒujī huì xiǎng. Wǒ qǐchuáng yǐhòu xiān hē yì bēi shuǐ, ránhòu qù xǐshǒujiān. Qī diǎn wǒ chī zǎofàn, zǎofàn shì niúnǎi hé miànbāo. Chīwán zǎofàn, wǒ qī diǎn bàn chūmén qù xuéxiào. Wǒ bù xǐhuan zǎoqǐ, dànshì xíguànle jiù méiyǒu wèntí.",
+    "translation": {
+      "vi": "Mỗi sáng sáu giờ rưỡi, điện thoại tôi sẽ reo. Sau khi dậy tôi uống một cốc nước trước, rồi đi rửa mặt. Bảy giờ tôi ăn sáng, bữa sáng là sữa và bánh mì. Ăn sáng xong, bảy giờ rưỡi tôi ra khỏi nhà đi học. Tôi không thích dậy sớm, nhưng quen rồi thì không vấn đề gì.",
+      "en": "Every morning at six thirty, my phone rings. After I get up, I first drink a glass of water, then go wash up. At seven I eat breakfast, which is milk and bread. After breakfast, I leave for school at seven thirty. I don't like getting up early, but once I got used to it, it was no problem."
+    }
+  },
+  {
+    "id": "hsk1_r019",
+    "title": {
+      "vi": "苹果和水果",
+      "en": "Apples and fruit",
+      "zh": "苹果和水果"
+    },
+    "hanzi": "我很喜欢吃水果，特别是苹果。每天我都会吃一个苹果。妈妈说苹果对身体很好。星期天我和妈妈去商店买了很多水果，有苹果、香蕉，还有别的水果。我们买的水果不便宜，但是很好吃。",
+    "pinyin": "Wǒ hěn xǐhuan chī shuǐguǒ, tèbié shì píngguǒ. Měitiān wǒ dōu huì chī yí ge píngguǒ. Māma shuō píngguǒ duì shēntǐ hěn hǎo. Xīngqītiān wǒ hé māma qù shāngdiàn mǎile hěn duō shuǐguǒ, yǒu píngguǒ, xiāngjiāo, hái yǒu bié de shuǐguǒ. Wǒmen mǎi de shuǐguǒ bù piányi, dànshì hěn hǎochī.",
+    "translation": {
+      "vi": "Tôi rất thích ăn hoa quả, đặc biệt là táo. Mỗi ngày tôi đều ăn một quả táo. Mẹ nói táo rất tốt cho sức khỏe. Chủ nhật tôi cùng mẹ đi cửa hàng mua rất nhiều hoa quả, có táo, chuối, và cả các loại quả khác. Hoa quả chúng tôi mua không rẻ, nhưng rất ngon.",
+      "en": "I really like eating fruit, especially apples. I eat an apple every day. My mother says apples are very good for health. On Sunday my mother and I went to the store and bought a lot of fruit, including apples, bananas, and other fruits. The fruit we bought wasn't cheap, but it was delicious."
+    }
+  },
+  {
+    "id": "hsk1_r020",
+    "title": {
+      "vi": "学开车",
+      "en": "Learning to drive",
+      "zh": "学开车"
+    },
+    "hanzi": "我今年二十三岁，最近开始学开车。开车不容易，我常常觉得很紧张。老师说我学得不错，只要多练习就可以了。爸爸也常常带我出去练习开车。我希望明年可以自己开车去上班。",
+    "pinyin": "Wǒ jīnnián èrshísān suì, zuìjìn kāishǐ xué kāichē. Kāichē bù róngyì, wǒ chángcháng juéde hěn jǐnzhāng. Lǎoshī shuō wǒ xué de búcuò, zhǐyào duō liànxí jiù kěyǐ le. Bàba yě chángcháng dài wǒ chūqù liànxí kāichē. Wǒ xīwàng míngnián kěyǐ zìjǐ kāichē qù shàngbān.",
+    "translation": {
+      "vi": "Năm nay tôi hai mươi ba tuổi, gần đây bắt đầu học lái xe. Lái xe không dễ, tôi thường cảm thấy rất căng thẳng. Thầy giáo nói tôi học khá tốt, chỉ cần luyện tập nhiều là được. Bố cũng thường đưa tôi ra ngoài luyện lái xe. Tôi hy vọng sang năm có thể tự lái xe đi làm.",
+      "en": "I'm twenty-three this year and recently started learning to drive. Driving isn't easy, and I often feel nervous. The instructor says I'm doing well, and I just need to practice more. My father also often takes me out to practice driving. I hope next year I can drive myself to work."
+    }
+  },
+  {
+    "id": "hsk1_r021",
+    "title": {
+      "vi": "写作业",
+      "en": "Doing homework",
+      "zh": "写作业"
+    },
+    "hanzi": "今天老师给我们很多作业，我下午回家就开始写。汉语作业不太难，但是要写很多字。我写了两个小时才写完。晚饭以后我又看了一会儿书。妈妈说我今天学习很认真，我听了很高兴。",
+    "pinyin": "Jīntiān lǎoshī gěi wǒmen hěn duō zuòyè, wǒ xiàwǔ huí jiā jiù kāishǐ xiě. Hànyǔ zuòyè bú tài nán, dànshì yào xiě hěn duō zì. Wǒ xiěle liǎng ge xiǎoshí cái xiěwán. Wǎnfàn yǐhòu wǒ yòu kànle yíhuìr shū. Māma shuō wǒ jīntiān xuéxí hěn rènzhēn, wǒ tīngle hěn gāoxìng.",
+    "translation": {
+      "vi": "Hôm nay cô giáo cho chúng tôi rất nhiều bài tập, chiều tôi về nhà là bắt đầu làm. Bài tập tiếng Hán không khó lắm, nhưng phải viết nhiều chữ. Tôi viết mất hai tiếng mới xong. Sau bữa tối tôi lại đọc sách một lúc. Mẹ nói hôm nay tôi học rất chăm chỉ, tôi nghe vậy rất vui.",
+      "en": "Today the teacher gave us a lot of homework, and I started working on it as soon as I got home in the afternoon. The Chinese homework wasn't too hard, but I had to write a lot of characters. It took me two hours to finish. After dinner I read a book for a while. My mother said I studied very hard today, and I was happy to hear that."
+    }
+  },
+  {
+    "id": "hsk1_r022",
+    "title": {
+      "vi": "新同学",
+      "en": "A new classmate",
+      "zh": "新同学"
+    },
+    "hanzi": "我们班今天来了一个新同学，她叫小红。小红是从别的学校来的，她说话很好听。下课以后，我和她一起吃午饭，我们聊了很多。她告诉我她喜欢看书，也喜欢唱歌。我觉得她是一个很好的朋友。",
+    "pinyin": "Wǒmen bān jīntiān láile yí ge xīn tóngxué, tā jiào Xiǎohóng. Xiǎohóng shì cóng bié de xuéxiào lái de, tā shuōhuà hěn hǎotīng. Xiàkè yǐhòu, wǒ hé tā yìqǐ chī wǔfàn, wǒmen liáole hěn duō. Tā gàosu wǒ tā xǐhuan kànshū, yě xǐhuan chànggē. Wǒ juéde tā shì yí ge hěn hǎo de péngyou.",
+    "translation": {
+      "vi": "Hôm nay lớp chúng tôi có một bạn học mới, tên là Tiểu Hồng. Tiểu Hồng chuyển đến từ trường khác, bạn ấy nói chuyện rất hay. Sau khi tan học, tôi cùng bạn ấy ăn trưa, chúng tôi nói chuyện rất nhiều. Bạn ấy kể với tôi rằng bạn ấy thích đọc sách, cũng thích hát. Tôi thấy bạn ấy là một người bạn rất tốt.",
+      "en": "A new classmate joined our class today; her name is Xiaohong. Xiaohong came from another school, and she speaks very nicely. After class, I had lunch with her, and we talked a lot. She told me she likes reading books and also likes singing. I think she's a very good friend."
+    }
+  },
+  {
+    "id": "hsk1_r023",
+    "title": {
+      "vi": "坐飞机去旅游",
+      "en": "Flying to travel",
+      "zh": "坐飞机去旅游"
+    },
+    "hanzi": "下个月我们全家要坐飞机去旅游。这是妹妹第一次坐飞机，她非常高兴，也有一点儿紧张。爸爸已经买好了机票，妈妈在准备行李。我最想去的地方是海边，因为我喜欢游泳和吃好吃的东西。",
+    "pinyin": "Xià ge yuè wǒmen quán jiā yào zuò fēijī qù lǚyóu. Zhè shì mèimei dì-yī cì zuò fēijī, tā fēicháng gāoxìng, yě yǒu yìdiǎnr jǐnzhāng. Bàba yǐjīng mǎihǎole jīpiào, māma zài zhǔnbèi xíngli. Wǒ zuì xiǎng qù de dìfang shì hǎibiān, yīnwèi wǒ xǐhuan yóuyǒng hé chī hǎochī de dōngxi.",
+    "translation": {
+      "vi": "Tháng sau cả nhà chúng tôi sẽ đi máy bay du lịch. Đây là lần đầu tiên em gái đi máy bay, em rất vui, cũng có chút hồi hộp. Bố đã mua vé máy bay xong, mẹ đang chuẩn bị hành lý. Nơi tôi muốn đến nhất là bờ biển, vì tôi thích bơi và ăn đồ ăn ngon.",
+      "en": "Next month our whole family is flying somewhere for a trip. This is my little sister's first time on a plane, and she's very excited but also a bit nervous. My father has already bought the plane tickets, and my mother is packing the luggage. The place I want to go most is the seaside, because I like swimming and eating delicious food."
+    }
+  },
+  {
+    "id": "hsk1_r024",
+    "title": {
+      "vi": "做饭",
+      "en": "Cooking",
+      "zh": "做饭"
+    },
+    "hanzi": "妈妈工作很忙，所以我常常帮她做饭。我会做米饭，也会做几个简单的菜。今天晚上我做了鸡蛋和青菜，妹妹说很好吃。虽然我做的菜没有妈妈做得好，但是家人都说他们很高兴我能帮忙。",
+    "pinyin": "Māma gōngzuò hěn máng, suǒyǐ wǒ chángcháng bāng tā zuòfàn. Wǒ huì zuò mǐfàn, yě huì zuò jǐ ge jiǎndān de cài. Jīntiān wǎnshang wǒ zuòle jīdàn hé qīngcài, mèimei shuō hěn hǎochī. Suīrán wǒ zuò de cài méiyǒu māma zuò de hǎo, dànshì jiārén dōu shuō tāmen hěn gāoxìng wǒ néng bāngmáng.",
+    "translation": {
+      "vi": "Mẹ làm việc rất bận, nên tôi thường giúp mẹ nấu cơm. Tôi biết nấu cơm, cũng biết làm vài món đơn giản. Tối nay tôi làm trứng và rau xanh, em gái nói rất ngon. Tuy món tôi làm không ngon bằng mẹ làm, nhưng cả nhà đều nói họ rất vui vì tôi có thể giúp đỡ.",
+      "en": "My mother is very busy with work, so I often help her cook. I can cook rice and also make a few simple dishes. Tonight I made eggs and vegetables, and my little sister said it was delicious. Although my cooking isn't as good as my mother's, my family says they're happy that I can help."
+    }
+  },
+  {
+    "id": "hsk1_r025",
+    "title": {
+      "vi": "在书店买书",
+      "en": "Buying books at the bookstore",
+      "zh": "在书店买书"
+    },
+    "hanzi": "星期天下午我去书店买书。书店里的书很多，我看了很长时间才找到我想要的书。这本书是关于中国的，我很想学习更多关于中国的东西。我还给妹妹买了一本有很多图片的书，她一定会喜欢的。",
+    "pinyin": "Xīngqītiān xiàwǔ wǒ qù shūdiàn mǎi shū. Shūdiàn lǐ de shū hěn duō, wǒ kànle hěn cháng shíjiān cái zhǎodào wǒ xiǎngyào de shū. Zhè běn shū shì guānyú Zhōngguó de, wǒ hěn xiǎng xuéxí gèng duō guānyú Zhōngguó de dōngxi. Wǒ hái gěi mèimei mǎile yì běn yǒu hěn duō túpiàn de shū, tā yídìng huì xǐhuan de.",
+    "translation": {
+      "vi": "Chiều Chủ nhật tôi đi mua sách ở hiệu sách. Trong hiệu sách có rất nhiều sách, tôi xem rất lâu mới tìm được cuốn mình muốn. Cuốn sách này viết về Trung Quốc, tôi rất muốn học thêm về Trung Quốc. Tôi còn mua cho em gái một cuốn sách có nhiều hình ảnh, chắc chắn em ấy sẽ thích.",
+      "en": "On Sunday afternoon I went to the bookstore to buy books. There were so many books that I looked for a long time before finding the one I wanted. This book is about China, and I really want to learn more about it. I also bought my little sister a book with lots of pictures, which she'll surely like."
+    }
+  },
+  {
+    "id": "hsk1_r026",
+    "title": {
+      "vi": "我不喜欢下雨天",
+      "en": "I don't like rainy days",
+      "zh": "我不喜欢下雨天"
+    },
+    "hanzi": "今天下午下雨了，我没有带伞，只能在学校等雨停。同学们都在教室里说话、看书。等了一个小时，雨还没有停，我只好打电话给妈妈，让她来接我。我不太喜欢下雨天，因为出门很不方便。",
+    "pinyin": "Jīntiān xiàwǔ xiàyǔ le, wǒ méiyǒu dài sǎn, zhǐ néng zài xuéxiào děng yǔ tíng. Tóngxuémen dōu zài jiàoshì lǐ shuōhuà, kànshū. Děngle yí ge xiǎoshí, yǔ hái méiyǒu tíng, wǒ zhǐhǎo dǎ diànhuà gěi māma, ràng tā lái jiē wǒ. Wǒ bú tài xǐhuan xiàyǔtiān, yīnwèi chūmén hěn bù fāngbiàn.",
+    "translation": {
+      "vi": "Chiều nay trời mưa, tôi không mang ô, chỉ có thể ở trường chờ mưa tạnh. Các bạn học đều ở trong lớp nói chuyện, đọc sách. Chờ một tiếng, mưa vẫn chưa tạnh, tôi đành gọi điện cho mẹ, nhờ mẹ đến đón. Tôi không thích ngày mưa lắm, vì ra ngoài rất bất tiện.",
+      "en": "It rained this afternoon, and I hadn't brought an umbrella, so I could only wait at school for the rain to stop. My classmates were all talking and reading in the classroom. After waiting an hour, the rain still hadn't stopped, so I had to call my mother and ask her to pick me up. I don't like rainy days much, because it's very inconvenient to go out."
+    }
+  },
+  {
+    "id": "hsk1_r027",
+    "title": {
+      "vi": "过生日",
+      "en": "Having a birthday",
+      "zh": "过生日"
+    },
+    "hanzi": "明天是我的生日，我今年二十岁了。妈妈说要给我做一个蛋糕，爸爸说要带我去饭店吃饭。我的朋友们也说要来我家玩儿。我很高兴，也很期待明天。这是我今年最快乐的一天。",
+    "pinyin": "Míngtiān shì wǒ de shēngrì, wǒ jīnnián èrshí suì le. Māma shuō yào gěi wǒ zuò yí ge dàngāo, bàba shuō yào dài wǒ qù fàndiàn chīfàn. Wǒ de péngyoumen yě shuō yào lái wǒ jiā wánr. Wǒ hěn gāoxìng, yě hěn qīdài míngtiān. Zhè shì wǒ jīnnián zuì kuàilè de yì tiān.",
+    "translation": {
+      "vi": "Ngày mai là sinh nhật của tôi, năm nay tôi hai mươi tuổi. Mẹ nói sẽ làm cho tôi một chiếc bánh kem, bố nói sẽ đưa tôi đi ăn ở nhà hàng. Bạn bè của tôi cũng nói sẽ đến nhà tôi chơi. Tôi rất vui, cũng rất mong chờ ngày mai. Đây là ngày vui nhất trong năm nay của tôi.",
+      "en": "Tomorrow is my birthday; I'll be turning twenty this year. My mother said she'll make me a cake, and my father said he'll take me to a restaurant. My friends also said they'll come play at my house. I'm very happy and looking forward to tomorrow. It will be the happiest day of my year."
+    }
+  },
+  {
+    "id": "hsk1_r028",
+    "title": {
+      "vi": "认识新朋友",
+      "en": "Meeting a new friend",
+      "zh": "认识新朋友"
+    },
+    "hanzi": "上个星期我在学校认识了一个新朋友，他叫大卫，是从别的国家来的。大卫的汉语说得不太好，但是他很努力学习。我常常帮他练习说汉语，他也教我一些外语。我们成了很好的朋友。",
+    "pinyin": "Shàng ge xīngqī wǒ zài xuéxiào rènshile yí ge xīn péngyou, tā jiào Dàwèi, shì cóng bié de guójiā lái de. Dàwèi de Hànyǔ shuō de bú tài hǎo, dànshì tā hěn nǔlì xuéxí. Wǒ chángcháng bāng tā liànxí shuō Hànyǔ, tā yě jiāo wǒ yìxiē wàiyǔ. Wǒmen chéngle hěn hǎo de péngyou.",
+    "translation": {
+      "vi": "Tuần trước tôi quen một người bạn mới ở trường, tên là David, đến từ một nước khác. David nói tiếng Hán chưa tốt lắm, nhưng cậu ấy học rất chăm chỉ. Tôi thường giúp cậu ấy luyện nói tiếng Hán, cậu ấy cũng dạy tôi một ít ngoại ngữ. Chúng tôi đã trở thành bạn tốt của nhau.",
+      "en": "Last week I met a new friend at school named David, who came from another country. David's Chinese isn't very good yet, but he studies very hard. I often help him practice speaking Chinese, and he also teaches me some foreign language. We've become very good friends."
+    }
+  },
+  {
+    "id": "hsk1_r029",
+    "title": {
+      "vi": "喜欢听音乐",
+      "en": "Liking to listen to music",
+      "zh": "喜欢听音乐"
+    },
+    "hanzi": "我很喜欢听音乐，特别是中文歌。学习汉语的时候，我常常一边听歌一边学习新的词语。我觉得这样学习很有意思，也很容易记住。晚上做完作业以后，我喜欢听一会儿音乐再睡觉。",
+    "pinyin": "Wǒ hěn xǐhuan tīng yīnyuè, tèbié shì Zhōngwén gē. Xuéxí Hànyǔ de shíhou, wǒ chángcháng yìbiān tīng gē yìbiān xuéxí xīn de cíyǔ. Wǒ juéde zhèyàng xuéxí hěn yǒuyìsi, yě hěn róngyì jìzhù. Wǎnshang zuòwán zuòyè yǐhòu, wǒ xǐhuan tīng yíhuìr yīnyuè zài shuìjiào.",
+    "translation": {
+      "vi": "Tôi rất thích nghe nhạc, đặc biệt là các bài hát tiếng Trung. Khi học tiếng Hán, tôi thường vừa nghe nhạc vừa học từ mới. Tôi thấy học kiểu này rất thú vị, cũng dễ nhớ. Buổi tối làm xong bài tập, tôi thích nghe nhạc một lúc rồi mới đi ngủ.",
+      "en": "I really like listening to music, especially Chinese songs. When studying Chinese, I often listen to songs while learning new words. I think learning this way is fun and also easy to remember. In the evening after finishing my homework, I like to listen to music for a while before going to sleep."
+    }
+  },
+  {
+    "id": "hsk1_r030",
+    "title": {
+      "vi": "今天很忙",
+      "en": "A busy day today",
+      "zh": "今天很忙"
+    },
+    "hanzi": "今天我特别忙，早上要上课，中午要写作业，下午还要去商店买东西。晚上朋友请我去他家吃饭，我很高兴，但是也有一点儿累。虽然今天很忙，但是我觉得很开心，因为做了很多有意思的事情。",
+    "pinyin": "Jīntiān wǒ tèbié máng, zǎoshang yào shàngkè, zhōngwǔ yào xiě zuòyè, xiàwǔ hái yào qù shāngdiàn mǎi dōngxi. Wǎnshang péngyou qǐng wǒ qù tā jiā chīfàn, wǒ hěn gāoxìng, dànshì yě yǒu yìdiǎnr lèi. Suīrán jīntiān hěn máng, dànshì wǒ juéde hěn kāixīn, yīnwèi zuòle hěn duō yǒuyìsi de shìqing.",
+    "translation": {
+      "vi": "Hôm nay tôi rất bận, sáng phải học, trưa phải làm bài tập, chiều còn phải đi cửa hàng mua đồ. Buổi tối bạn mời tôi đến nhà bạn ăn cơm, tôi rất vui, nhưng cũng hơi mệt. Tuy hôm nay rất bận, nhưng tôi thấy rất vui, vì đã làm được nhiều việc thú vị.",
+      "en": "Today I'm especially busy: I have class in the morning, homework at noon, and I still need to go shopping in the afternoon. In the evening a friend invited me to their house for dinner; I'm happy but also a bit tired. Although today was busy, I feel happy because I did many interesting things."
+    }
+  },
+  {
+    "id": "hsk1_r031",
+    "title": {
+      "vi": "我的房间",
+      "en": "My room",
+      "zh": "我的房间"
+    },
+    "hanzi": "我的房间不大，里边有一张床、一个桌子和一把椅子。桌子上有我的书和电脑。我喜欢在自己的房间里学习和休息。妈妈常常说我的房间太乱了，让我多打扫。我觉得我的房间虽然小，但是很舒服。",
+    "pinyin": "Wǒ de fángjiān bú dà, lǐbiān yǒu yì zhāng chuáng, yí ge zhuōzi hé yì bǎ yǐzi. Zhuōzi shàng yǒu wǒ de shū hé diànnǎo. Wǒ xǐhuan zài zìjǐ de fángjiān lǐ xuéxí hé xiūxi. Māma chángcháng shuō wǒ de fángjiān tài luàn le, ràng wǒ duō dǎsǎo. Wǒ juéde wǒ de fángjiān suīrán xiǎo, dànshì hěn shūfu.",
+    "translation": {
+      "vi": "Phòng tôi không lớn, bên trong có một cái giường, một cái bàn và một cái ghế. Trên bàn có sách và máy tính của tôi. Tôi thích học và nghỉ ngơi trong phòng của mình. Mẹ thường nói phòng tôi quá bừa bộn, bảo tôi dọn dẹp nhiều hơn. Tôi thấy phòng mình tuy nhỏ nhưng rất thoải mái.",
+      "en": "My room isn't big; inside there's a bed, a desk and a chair. On the desk are my books and computer. I like studying and resting in my own room. My mother often says my room is too messy and tells me to clean it more. I think my room, though small, is very comfortable."
+    }
+  },
+  {
+    "id": "hsk1_r032",
+    "title": {
+      "vi": "买衣服",
+      "en": "Buying clothes",
+      "zh": "买衣服"
+    },
+    "hanzi": "天气越来越冷了，我需要买一些新衣服。星期六我和姐姐一起去商店。商店里的衣服很多，颜色也很好看。姐姐帮我选了一件蓝色的衣服，我很喜欢。我们花了不少钱，但是买到了喜欢的东西，很开心。",
+    "pinyin": "Tiānqì yuè lái yuè lěng le, wǒ xūyào mǎi yìxiē xīn yīfu. Xīngqīliù wǒ hé jiějie yìqǐ qù shāngdiàn. Shāngdiàn lǐ de yīfu hěn duō, yánsè yě hěn hǎokàn. Jiějie bāng wǒ xuǎnle yí jiàn lánsè de yīfu, wǒ hěn xǐhuan. Wǒmen huāle bù shǎo qián, dànshì mǎidào le xǐhuan de dōngxi, hěn kāixīn.",
+    "translation": {
+      "vi": "Trời ngày càng lạnh, tôi cần mua thêm ít quần áo mới. Thứ Bảy tôi cùng chị gái đi cửa hàng. Trong cửa hàng có rất nhiều quần áo, màu sắc cũng rất đẹp. Chị gái giúp tôi chọn một chiếc áo màu xanh, tôi rất thích. Chúng tôi tiêu không ít tiền, nhưng mua được món mình thích, rất vui.",
+      "en": "The weather is getting colder, and I need to buy some new clothes. On Saturday my older sister and I went to the store. There were many clothes in the store, and the colors were very nice. My sister helped me pick out a blue piece of clothing, which I really liked. We spent quite a bit of money, but we were happy to get things we liked."
+    }
+  },
+  {
+    "id": "hsk1_r033",
+    "title": {
+      "vi": "去朋友家玩儿",
+      "en": "Visiting a friend's house",
+      "zh": "去朋友家玩儿"
+    },
+    "hanzi": "星期六下午，我去朋友家玩儿。他家离我家不远，我走路就可以到。我们在他家看电影，还一起吃了他妈妈做的饭，非常好吃。晚上七点，我才回家。这一天玩儿得很开心。",
+    "pinyin": "Xīngqīliù xiàwǔ, wǒ qù péngyou jiā wánr. Tā jiā lí wǒ jiā bù yuǎn, wǒ zǒulù jiù kěyǐ dào. Wǒmen zài tā jiā kàn diànyǐng, hái yìqǐ chīle tā māma zuò de fàn, fēicháng hǎochī. Wǎnshang qī diǎn, wǒ cái huí jiā. Zhè yì tiān wánr de hěn kāixīn.",
+    "translation": {
+      "vi": "Chiều thứ Bảy, tôi đến nhà bạn chơi. Nhà bạn ấy không xa nhà tôi, tôi đi bộ là đến được. Chúng tôi xem phim ở nhà bạn ấy, còn cùng ăn cơm mẹ bạn ấy nấu, rất ngon. Bảy giờ tối tôi mới về nhà. Hôm đó chơi rất vui.",
+      "en": "On Saturday afternoon, I went to play at my friend's house. His house isn't far from mine; I can walk there. We watched a movie at his place and also ate the food his mother made, which was delicious. I didn't go home until seven in the evening. It was a very fun day."
+    }
+  },
+  {
+    "id": "hsk1_r034",
+    "title": {
+      "vi": "找工作",
+      "en": "Looking for a job",
+      "zh": "找工作"
+    },
+    "hanzi": "大学毕业以后，我一直在找工作。这不是一件容易的事情，我去了很多公司面试。上个星期，一个公司告诉我，他们想请我去工作。我非常高兴，也很感谢父母这些年对我的帮助。",
+    "pinyin": "Dàxué bìyè yǐhòu, wǒ yìzhí zài zhǎo gōngzuò. Zhè bú shì yí jiàn róngyì de shìqing, wǒ qùle hěn duō gōngsī miànshì. Shàng ge xīngqī, yí ge gōngsī gàosu wǒ, tāmen xiǎng qǐng wǒ qù gōngzuò. Wǒ fēicháng gāoxìng, yě hěn gǎnxiè fùmǔ zhèxiē nián duì wǒ de bāngzhù.",
+    "translation": {
+      "vi": "Sau khi tốt nghiệp đại học, tôi luôn tìm việc làm. Đây không phải việc dễ dàng, tôi đã đi phỏng vấn ở rất nhiều công ty. Tuần trước, một công ty báo với tôi rằng họ muốn mời tôi đến làm việc. Tôi rất vui, cũng rất biết ơn bố mẹ đã giúp đỡ tôi những năm qua.",
+      "en": "After graduating from university, I've been looking for a job. It hasn't been easy, and I went to interviews at many companies. Last week, a company told me they wanted to hire me. I'm very happy, and also grateful to my parents for their help over the years."
+    }
+  },
+  {
+    "id": "hsk1_r035",
+    "title": {
+      "vi": "在公司上班",
+      "en": "Working at the company",
+      "zh": "在公司上班"
+    },
+    "hanzi": "我每天早上九点到公司上班，下午六点下班。我的工作不太难，但是有时候很忙。中午我常常和同事一起吃午饭，我们聊工作，也聊别的事情。虽然工作很忙，但是我喜欢我的同事，也喜欢这份工作。",
+    "pinyin": "Wǒ měitiān zǎoshang jiǔ diǎn dào gōngsī shàngbān, xiàwǔ liù diǎn xiàbān. Wǒ de gōngzuò bú tài nán, dànshì yǒu shíhou hěn máng. Zhōngwǔ wǒ chángcháng hé tóngshì yìqǐ chī wǔfàn, wǒmen liáo gōngzuò, yě liáo bié de shìqing. Suīrán gōngzuò hěn máng, dànshì wǒ xǐhuan wǒ de tóngshì, yě xǐhuan zhè fèn gōngzuò.",
+    "translation": {
+      "vi": "Mỗi sáng chín giờ tôi đến công ty làm việc, chiều sáu giờ tan làm. Công việc của tôi không quá khó, nhưng đôi khi rất bận. Buổi trưa tôi thường ăn cơm cùng đồng nghiệp, chúng tôi nói chuyện công việc, cũng nói chuyện khác. Tuy công việc bận rộn, nhưng tôi thích đồng nghiệp của mình, cũng thích công việc này.",
+      "en": "I arrive at the company at nine every morning and finish work at six in the evening. My job isn't too hard, but sometimes it's very busy. At noon I often have lunch with coworkers; we chat about work and other things too. Although the job is busy, I like my coworkers and I like this job."
+    }
+  },
+  {
+    "id": "hsk1_r036",
+    "title": {
+      "vi": "学校的图书馆",
+      "en": "The school library",
+      "zh": "学校的图书馆"
+    },
+    "hanzi": "我们学校有一个很大的图书馆，里边有很多书。我常常下课以后去图书馆看书或者写作业。图书馆很安静，我可以认真学习。有时候同学们也在那里一起讨论问题。我很喜欢我们学校的图书馆。",
+    "pinyin": "Wǒmen xuéxiào yǒu yí ge hěn dà de túshūguǎn, lǐbiān yǒu hěn duō shū. Wǒ chángcháng xiàkè yǐhòu qù túshūguǎn kànshū huòzhě xiě zuòyè. Túshūguǎn hěn ānjìng, wǒ kěyǐ rènzhēn xuéxí. Yǒu shíhou tóngxuémen yě zài nàlǐ yìqǐ tǎolùn wèntí. Wǒ hěn xǐhuan wǒmen xuéxiào de túshūguǎn.",
+    "translation": {
+      "vi": "Trường chúng tôi có một thư viện rất lớn, bên trong có rất nhiều sách. Tôi thường sau khi tan học đến thư viện đọc sách hoặc làm bài tập. Thư viện rất yên tĩnh, tôi có thể học tập nghiêm túc. Đôi khi các bạn học cũng thảo luận bài cùng nhau ở đó. Tôi rất thích thư viện của trường mình.",
+      "en": "Our school has a very big library with many books. I often go to the library after class to read or do homework. The library is very quiet, so I can study seriously. Sometimes classmates also discuss questions together there. I really like our school's library."
+    }
+  },
+  {
+    "id": "hsk1_r037",
+    "title": {
+      "vi": "看电影",
+      "en": "Watching a movie",
+      "zh": "看电影"
+    },
+    "hanzi": "星期五晚上，我和男朋友一起去电影院看电影。这个电影非常好看，我们都很喜欢。看完电影，我们去饭店吃了一点儿东西，聊了很多话。这是一个很开心的周末夜晚。",
+    "pinyin": "Xīngqīwǔ wǎnshang, wǒ hé nánpéngyou yìqǐ qù diànyǐngyuàn kàn diànyǐng. Zhège diànyǐng fēicháng hǎokàn, wǒmen dōu hěn xǐhuan. Kànwán diànyǐng, wǒmen qù fàndiàn chīle yìdiǎnr dōngxi, liáole hěn duō huà. Zhè shì yí ge hěn kāixīn de zhōumò yèwǎn.",
+    "translation": {
+      "vi": "Tối thứ Sáu, tôi cùng bạn trai đi rạp xem phim. Bộ phim này rất hay, cả hai chúng tôi đều rất thích. Xem phim xong, chúng tôi đi ăn chút gì đó ở nhà hàng, nói chuyện rất nhiều. Đây là một buổi tối cuối tuần rất vui.",
+      "en": "On Friday evening, my boyfriend and I went to the cinema to watch a movie. The movie was really good, and we both liked it a lot. After the movie, we went to a restaurant to eat something and talked a lot. It was a very happy weekend evening."
+    }
+  },
+  {
+    "id": "hsk1_r038",
+    "title": {
+      "vi": "下班回家",
+      "en": "Coming home from work",
+      "zh": "下班回家"
+    },
+    "hanzi": "下午六点，我下班了。天气很好，我决定走路回家，不坐车。路上我看见很多人在商店买东西。到家以后，我先喝了一杯水，然后开始做晚饭。今天的晚饭是米饭和鸡蛋，简单但是好吃。",
+    "pinyin": "Xiàwǔ liù diǎn, wǒ xiàbān le. Tiānqì hěn hǎo, wǒ juédìng zǒulù huí jiā, bú zuò chē. Lùshang wǒ kànjiàn hěn duō rén zài shāngdiàn mǎi dōngxi. Dào jiā yǐhòu, wǒ xiān hēle yì bēi shuǐ, ránhòu kāishǐ zuò wǎnfàn. Jīntiān de wǎnfàn shì mǐfàn hé jīdàn, jiǎndān dànshì hǎochī.",
+    "translation": {
+      "vi": "Sáu giờ chiều tôi tan làm. Thời tiết đẹp, tôi quyết định đi bộ về nhà, không đi xe. Trên đường tôi thấy rất nhiều người đang mua đồ ở cửa hàng. Về đến nhà, tôi uống một cốc nước trước, rồi bắt đầu nấu bữa tối. Bữa tối hôm nay là cơm và trứng, đơn giản nhưng ngon.",
+      "en": "I got off work at six in the afternoon. The weather was nice, so I decided to walk home instead of taking transportation. On the way I saw many people shopping in stores. After getting home, I drank a glass of water first, then started making dinner. Tonight's dinner was rice and eggs, simple but delicious."
+    }
+  },
+  {
+    "id": "hsk1_r039",
+    "title": {
+      "vi": "第一次坐出租车",
+      "en": "My first taxi ride",
+      "zh": "第一次坐出租车"
+    },
+    "hanzi": "今天是我第一次自己坐出租车。我要去一个不认识路的地方，所以叫了一辆出租车。司机很友好，问我去哪儿，我告诉他以后，他很快就带我到了。这次坐出租车很顺利，我一点儿也不紧张了。",
+    "pinyin": "Jīntiān shì wǒ dì-yī cì zìjǐ zuò chūzūchē. Wǒ yào qù yí ge bú rènshi lù de dìfang, suǒyǐ jiàole yí liàng chūzūchē. Sījī hěn yǒuhǎo, wèn wǒ qù nǎr, wǒ gàosu tā yǐhòu, tā hěn kuài jiù dài wǒ dàole. Zhè cì zuò chūzūchē hěn shùnlì, wǒ yìdiǎnr yě bù jǐnzhāng le.",
+    "translation": {
+      "vi": "Hôm nay là lần đầu tiên tôi tự đi taxi. Tôi phải đến một nơi mình không biết đường, nên đã gọi một chiếc taxi. Tài xế rất thân thiện, hỏi tôi đi đâu, sau khi tôi nói xong, anh ấy nhanh chóng đưa tôi đến nơi. Lần đi taxi này rất thuận lợi, tôi không hề căng thẳng chút nào.",
+      "en": "Today was my first time taking a taxi by myself. I needed to go somewhere I didn't know the way to, so I called a taxi. The driver was very friendly and asked where I was going; after I told him, he quickly got me there. This taxi ride went smoothly, and I wasn't nervous at all."
+    }
+  },
+  {
+    "id": "hsk1_r040",
+    "title": {
+      "vi": "妹妹上小学了",
+      "en": "My little sister started elementary school",
+      "zh": "妹妹上小学了"
+    },
+    "hanzi": "今年九月，我的妹妹开始上小学了。她今年七岁，非常高兴能去学校学习。第一天上学，妈妈送她到学校门口。妹妹说学校里有很多小朋友，老师也很好。晚上她告诉我们今天学习了新的汉字。",
+    "pinyin": "Jīnnián jiǔyuè, wǒ de mèimei kāishǐ shàng xiǎoxué le. Tā jīnnián qī suì, fēicháng gāoxìng néng qù xuéxiào xuéxí. Dì-yī tiān shàngxué, māma sòng tā dào xuéxiào ménkǒu. Mèimei shuō xuéxiào lǐ yǒu hěn duō xiǎopéngyou, lǎoshī yě hěn hǎo. Wǎnshang tā gàosu wǒmen jīntiān xuéxíle xīn de Hànzì.",
+    "translation": {
+      "vi": "Tháng chín năm nay, em gái tôi bắt đầu học tiểu học. Năm nay em bảy tuổi, rất vui vì được đến trường học. Ngày đầu đi học, mẹ đưa em đến cổng trường. Em gái nói trong trường có rất nhiều bạn nhỏ, cô giáo cũng rất tốt. Tối đó em kể với chúng tôi hôm nay đã học chữ Hán mới.",
+      "en": "This September, my little sister started elementary school. She's seven years old this year and very happy to be able to go to school and learn. On the first day, our mother walked her to the school gate. My sister said there are many kids at school and the teacher is very nice. That evening she told us she learned new Chinese characters today."
+    }
+  },
+  {
+    "id": "hsk1_r041",
+    "title": {
+      "vi": "去公司面试",
+      "en": "Going to a job interview",
+      "zh": "去公司面试"
+    },
+    "hanzi": "明天我要去一个公司面试，这是我很想要的工作。今天晚上我准备了很多问题的答案，也想好了要穿什么衣服。虽然有一点儿紧张，但是我觉得自己准备得不错。我希望明天可以顺利，找到这份工作。",
+    "pinyin": "Míngtiān wǒ yào qù yí ge gōngsī miànshì, zhè shì wǒ hěn xiǎngyào de gōngzuò. Jīntiān wǎnshang wǒ zhǔnbèile hěn duō wèntí de dá'àn, yě xiǎnghǎole yào chuān shénme yīfu. Suīrán yǒu yìdiǎnr jǐnzhāng, dànshì wǒ juéde zìjǐ zhǔnbèi de búcuò. Wǒ xīwàng míngtiān kěyǐ shùnlì, zhǎodào zhè fèn gōngzuò.",
+    "translation": {
+      "vi": "Ngày mai tôi phải đến phỏng vấn ở một công ty, đây là công việc tôi rất muốn có. Tối nay tôi đã chuẩn bị câu trả lời cho nhiều câu hỏi, cũng đã nghĩ xong sẽ mặc gì. Tuy có hơi căng thẳng, nhưng tôi thấy mình chuẩn bị khá tốt. Tôi hy vọng ngày mai sẽ thuận lợi, tìm được công việc này.",
+      "en": "Tomorrow I have a job interview at a company, and it's a job I really want. Tonight I prepared answers to many questions and also decided what clothes to wear. Although I'm a bit nervous, I think I've prepared well. I hope tomorrow goes smoothly and I get this job."
+    }
+  },
+  {
+    "id": "hsk1_r042",
+    "title": {
+      "vi": "打扫房间",
+      "en": "Cleaning the room",
+      "zh": "打扫房间"
+    },
+    "hanzi": "星期天早上，我决定打扫我的房间。桌子上有很多书和东西，我先把它们放好。然后我打扫了地板，还擦了窗户。打扫完以后，房间看起来非常干净。妈妈看到了，说我做得很好。",
+    "pinyin": "Xīngqītiān zǎoshang, wǒ juédìng dǎsǎo wǒ de fángjiān. Zhuōzi shàng yǒu hěn duō shū hé dōngxi, wǒ xiān bǎ tāmen fànghǎo. Ránhòu wǒ dǎsǎole dìbǎn, hái cāle chuānghu. Dǎsǎowán yǐhòu, fángjiān kànqǐlái fēicháng gānjìng. Māma kàndào le, shuō wǒ zuò de hěn hǎo.",
+    "translation": {
+      "vi": "Sáng Chủ nhật, tôi quyết định dọn phòng của mình. Trên bàn có rất nhiều sách và đồ đạc, tôi sắp xếp chúng gọn gàng trước. Sau đó tôi lau sàn nhà, còn lau cả cửa sổ. Dọn xong, căn phòng trông rất sạch sẽ. Mẹ nhìn thấy, nói tôi làm rất tốt.",
+      "en": "On Sunday morning, I decided to clean my room. There were a lot of books and things on the desk, so I put them away first. Then I swept the floor and also wiped the windows. After cleaning, the room looked very tidy. My mother saw it and said I did a great job."
+    }
+  },
+  {
+    "id": "hsk1_r043",
+    "title": {
+      "vi": "喝茶还是喝咖啡",
+      "en": "Tea or coffee",
+      "zh": "喝茶还是喝咖啡"
+    },
+    "hanzi": "早上我常常问自己：喝茶还是喝咖啡？我比较喜欢喝茶，因为茶让我觉得很舒服。但是工作很忙的时候，我会喝咖啡，因为咖啡可以让我不那么想睡觉。今天早上我喝了一杯茶，觉得很好。",
+    "pinyin": "Zǎoshang wǒ chángcháng wèn zìjǐ: hē chá háishi hē kāfēi? Wǒ bǐjiào xǐhuan hē chá, yīnwèi chá ràng wǒ juéde hěn shūfu. Dànshì gōngzuò hěn máng de shíhou, wǒ huì hē kāfēi, yīnwèi kāfēi kěyǐ ràng wǒ bú nàme xiǎng shuìjiào. Jīntiān zǎoshang wǒ hēle yì bēi chá, juéde hěn hǎo.",
+    "translation": {
+      "vi": "Buổi sáng tôi thường tự hỏi: uống trà hay uống cà phê? Tôi thích uống trà hơn, vì trà làm tôi thấy thoải mái. Nhưng khi công việc bận rộn, tôi sẽ uống cà phê, vì cà phê giúp tôi bớt buồn ngủ hơn. Sáng nay tôi uống một cốc trà, cảm thấy rất tốt.",
+      "en": "In the morning I often ask myself: tea or coffee? I prefer tea because it makes me feel comfortable. But when work is busy, I drink coffee, because coffee helps me feel less sleepy. This morning I drank a cup of tea and felt great."
+    }
+  },
+  {
+    "id": "hsk1_r044",
+    "title": {
+      "vi": "问路",
+      "en": "Asking for directions",
+      "zh": "问路"
+    },
+    "hanzi": "我今天要去一个新的地方，但是不知道怎么走。我在路上问了一个人：\"请问，去火车站怎么走？\"那个人非常友好，告诉了我怎么走。我谢谢他以后，很快就找到了火车站。",
+    "pinyin": "Wǒ jīntiān yào qù yí ge xīn de dìfang, dànshì bù zhīdào zěnme zǒu. Wǒ zài lùshang wènle yí ge rén: \"Qǐngwèn, qù huǒchēzhàn zěnme zǒu?\" Nàge rén fēicháng yǒuhǎo, gàosule wǒ zěnme zǒu. Wǒ xièxie tā yǐhòu, hěn kuài jiù zhǎodàole huǒchēzhàn.",
+    "translation": {
+      "vi": "Hôm nay tôi phải đến một nơi mới, nhưng không biết đi đường nào. Tôi hỏi một người trên đường: \"Xin hỏi, đi ga tàu hỏa thì đi thế nào?\" Người đó rất thân thiện, đã chỉ đường cho tôi. Sau khi tôi cảm ơn, rất nhanh tôi đã tìm được ga tàu hỏa.",
+      "en": "Today I needed to go somewhere new, but I didn't know the way. I asked someone on the street: \"Excuse me, how do I get to the train station?\" That person was very friendly and told me the way. After I thanked them, I quickly found the train station."
+    }
+  },
+  {
+    "id": "hsk1_r045",
+    "title": {
+      "vi": "喝牛奶长身体",
+      "en": "Drinking milk to grow strong",
+      "zh": "喝牛奶长身体"
+    },
+    "hanzi": "妈妈每天早上都给我一杯牛奶，她说喝牛奶对身体好。开始我不太喜欢牛奶的味道，但是现在我已经习惯了。我的哥哥也每天喝牛奶，他说这样可以长得更高。我们家每天都要买新鲜的牛奶。",
+    "pinyin": "Māma měitiān zǎoshang dōu gěi wǒ yì bēi niúnǎi, tā shuō hē niúnǎi duì shēntǐ hǎo. Kāishǐ wǒ bú tài xǐhuan niúnǎi de wèidao, dànshì xiànzài wǒ yǐjīng xíguàn le. Wǒ de gēge yě měitiān hē niúnǎi, tā shuō zhèyàng kěyǐ zhǎng de gèng gāo. Wǒmen jiā měitiān dōu yào mǎi xīnxiān de niúnǎi.",
+    "translation": {
+      "vi": "Mỗi sáng mẹ đều cho tôi một cốc sữa, mẹ nói uống sữa tốt cho cơ thể. Ban đầu tôi không thích lắm mùi vị của sữa, nhưng bây giờ tôi đã quen rồi. Anh trai tôi cũng uống sữa mỗi ngày, anh nói như vậy có thể cao hơn. Nhà tôi mỗi ngày đều phải mua sữa tươi.",
+      "en": "Every morning my mother gives me a glass of milk, saying that drinking milk is good for the body. At first I didn't like the taste of milk much, but now I've gotten used to it. My older brother also drinks milk every day, saying it helps him grow taller. Our family buys fresh milk every day."
+    }
+  },
+  {
+    "id": "hsk1_r046",
+    "title": {
+      "vi": "周末去公园",
+      "en": "Going to the park on weekends",
+      "zh": "周末去公园"
+    },
+    "hanzi": "星期天天气很好，我和家人一起去公园。公园里有很多人，有的在跑步，有的在唱歌，还有小孩子在玩儿。我们在公园里走了很长时间，也吃了一点儿东西。这是一个很开心的下午。",
+    "pinyin": "Xīngqītiān tiānqì hěn hǎo, wǒ hé jiārén yìqǐ qù gōngyuán. Gōngyuán lǐ yǒu hěn duō rén, yǒude zài pǎobù, yǒude zài chànggē, hái yǒu xiǎoháizi zài wánr. Wǒmen zài gōngyuán lǐ zǒule hěn cháng shíjiān, yě chīle yìdiǎnr dōngxi. Zhè shì yí ge hěn kāixīn de xiàwǔ.",
+    "translation": {
+      "vi": "Chủ nhật thời tiết đẹp, tôi cùng gia đình đi công viên. Trong công viên có rất nhiều người, có người đang chạy bộ, có người đang hát, còn có trẻ nhỏ đang chơi. Chúng tôi đi dạo trong công viên rất lâu, cũng ăn một chút gì đó. Đây là một buổi chiều rất vui.",
+      "en": "The weather was nice on Sunday, so my family and I went to the park. There were many people in the park — some jogging, some singing, and some children playing. We walked around the park for a long time and also ate a little something. It was a very happy afternoon."
+    }
+  },
+  {
+    "id": "hsk1_r047",
+    "title": {
+      "vi": "学校的运动会",
+      "en": "The school sports meet",
+      "zh": "学校的运动会"
+    },
+    "hanzi": "上个星期，我们学校开了运动会。很多同学参加了跑步比赛，我也参加了。虽然我跑得不是最快的，但是我很努力，也很开心。老师和同学们都为我们加油。这是我上学以来最有意思的一天。",
+    "pinyin": "Shàng ge xīngqī, wǒmen xuéxiào kāile yùndònghuì. Hěn duō tóngxué cānjiāle pǎobù bǐsài, wǒ yě cānjiā le. Suīrán wǒ pǎo de bú shì zuì kuài de, dànshì wǒ hěn nǔlì, yě hěn kāixīn. Lǎoshī hé tóngxuémen dōu wèi wǒmen jiāyóu. Zhè shì wǒ shàngxué yǐlái zuì yǒuyìsi de yì tiān.",
+    "translation": {
+      "vi": "Tuần trước, trường chúng tôi tổ chức hội thao. Rất nhiều bạn học tham gia thi chạy, tôi cũng tham gia. Tuy tôi chạy không nhanh nhất, nhưng tôi rất cố gắng, cũng rất vui. Thầy cô và các bạn đều cổ vũ cho chúng tôi. Đây là ngày thú vị nhất từ khi tôi đi học đến giờ.",
+      "en": "Last week, our school held a sports meet. Many classmates took part in the running race, and so did I. Although I wasn't the fastest, I tried hard and had a great time. The teachers and classmates all cheered for us. It was the most fun day since I started school."
+    }
+  },
+  {
+    "id": "hsk1_r048",
+    "title": {
+      "vi": "晚上睡不着",
+      "en": "Can't sleep at night",
+      "zh": "晚上睡不着"
+    },
+    "hanzi": "昨天晚上我一直睡不着，可能是因为白天喝了太多咖啡。我在床上想了很多事情，也看了一会儿手机。这样对身体不好，我知道。今天晚上我决定早点儿睡觉，不再喝咖啡，希望可以睡得好一点儿。",
+    "pinyin": "Zuótiān wǎnshang wǒ yìzhí shuì bù zháo, kěnéng shì yīnwèi báitiān hēle tài duō kāfēi. Wǒ zài chuáng shàng xiǎngle hěn duō shìqing, yě kànle yíhuìr shǒujī. Zhèyàng duì shēntǐ bù hǎo, wǒ zhīdào. Jīntiān wǎnshang wǒ juédìng zǎodiǎnr shuìjiào, bú zài hē kāfēi, xīwàng kěyǐ shuì de hǎo yìdiǎnr.",
+    "translation": {
+      "vi": "Tối qua tôi cứ trằn trọc không ngủ được, có lẽ vì ban ngày uống quá nhiều cà phê. Tôi nằm trên giường nghĩ rất nhiều chuyện, cũng xem điện thoại một lúc. Tôi biết như vậy không tốt cho sức khỏe. Tối nay tôi quyết định đi ngủ sớm hơn, không uống cà phê nữa, hy vọng có thể ngủ ngon hơn một chút.",
+      "en": "Last night I couldn't fall asleep, probably because I drank too much coffee during the day. I lay in bed thinking about many things and also looked at my phone for a while. I know that's not good for my health. Tonight I've decided to sleep earlier and not drink coffee, hoping to sleep better."
+    }
+  },
+  {
+    "id": "hsk1_r049",
+    "title": {
+      "vi": "买鸡蛋和面条儿",
+      "en": "Buying eggs and noodles",
+      "zh": "买鸡蛋和面条儿"
+    },
+    "hanzi": "晚饭我想做鸡蛋面条儿，但是家里没有鸡蛋了。我去附近的商店买了一些鸡蛋和面条儿。商店的人很少，我很快就买好了。回家以后，我做了一碗好吃的面条儿，全家人都说很好吃。",
+    "pinyin": "Wǎnfàn wǒ xiǎng zuò jīdàn miàntiáor, dànshì jiā lǐ méiyǒu jīdàn le. Wǒ qù fùjìn de shāngdiàn mǎile yìxiē jīdàn hé miàntiáor. Shāngdiàn de rén hěn shǎo, wǒ hěn kuài jiù mǎihǎo le. Huí jiā yǐhòu, wǒ zuòle yì wǎn hǎochī de miàntiáor, quán jiā rén dōu shuō hěn hǎochī.",
+    "translation": {
+      "vi": "Bữa tối tôi muốn làm mì trứng, nhưng nhà hết trứng rồi. Tôi đi cửa hàng gần nhà mua ít trứng và mì. Cửa hàng ít người, tôi mua xong rất nhanh. Về nhà, tôi làm một bát mì ngon, cả nhà đều khen ngon.",
+      "en": "For dinner I wanted to make egg noodles, but we were out of eggs at home. I went to a nearby store to buy some eggs and noodles. There weren't many people at the store, so I finished shopping quickly. After coming home, I made a delicious bowl of noodles, and the whole family said it was tasty."
+    }
+  },
+  {
+    "id": "hsk1_r050",
+    "title": {
+      "vi": "开始学英语",
+      "en": "Starting to learn English",
+      "zh": "开始学英语"
+    },
+    "hanzi": "我从今年开始学习英语。英语和汉语很不一样，开始学的时候我觉得很难。但是我每天都练习，现在已经可以说一些简单的话了。老师说只要多听多说，英语一定会越来越好。",
+    "pinyin": "Wǒ cóng jīnnián kāishǐ xuéxí Yīngyǔ. Yīngyǔ hé Hànyǔ hěn bù yíyàng, kāishǐ xué de shíhou wǒ juéde hěn nán. Dànshì wǒ měitiān dōu liànxí, xiànzài yǐjīng kěyǐ shuō yìxiē jiǎndān de huà le. Lǎoshī shuō zhǐyào duō tīng duō shuō, Yīngyǔ yídìng huì yuè lái yuè hǎo.",
+    "translation": {
+      "vi": "Từ năm nay tôi bắt đầu học tiếng Anh. Tiếng Anh và tiếng Hán rất khác nhau, lúc mới học tôi thấy rất khó. Nhưng tôi luyện tập mỗi ngày, bây giờ đã có thể nói vài câu đơn giản. Cô giáo nói chỉ cần nghe nhiều nói nhiều, tiếng Anh chắc chắn sẽ ngày càng tốt hơn.",
+      "en": "I started learning English this year. English is very different from Chinese, and it felt very hard when I first started. But I practice every day, and now I can already say some simple sentences. The teacher says as long as I listen and speak a lot, my English will surely keep improving."
+    }
+  },
+  {
+    "id": "hsk1_r051",
+    "title": {
+      "vi": "在家等雨停",
+      "en": "Waiting at home for the rain to stop",
+      "zh": "在家等雨停"
+    },
+    "hanzi": "今天本来想和朋友出去玩儿，但是外边一直下雨。我们只好在家等雨停。我看了一会儿书，又和妹妹一起看电视。到了下午四点，雨终于停了，天气也变得好一点儿了。我们高兴地出门去玩儿了。",
+    "pinyin": "Jīntiān běnlái xiǎng hé péngyou chūqù wánr, dànshì wàibiān yìzhí xiàyǔ. Wǒmen zhǐhǎo zài jiā děng yǔ tíng. Wǒ kànle yíhuìr shū, yòu hé mèimei yìqǐ kàn diànshì. Dàole xiàwǔ sì diǎn, yǔ zhōngyú tíng le, tiānqì yě biàn de hǎo yìdiǎnr le. Wǒmen gāoxìng de chūmén qù wánr le.",
+    "translation": {
+      "vi": "Hôm nay vốn định đi chơi cùng bạn, nhưng bên ngoài mưa mãi không ngớt. Chúng tôi đành ở nhà chờ mưa tạnh. Tôi đọc sách một lúc, rồi lại cùng em gái xem tivi. Đến bốn giờ chiều, mưa cuối cùng đã tạnh, thời tiết cũng đẹp hơn một chút. Chúng tôi vui vẻ ra ngoài đi chơi.",
+      "en": "Today I originally wanted to go out with a friend, but it kept raining outside. We had no choice but to wait at home for the rain to stop. I read a book for a while, then watched TV with my little sister. By four in the afternoon, the rain finally stopped and the weather improved a bit. We happily went out to play."
+    }
   }
 ]
