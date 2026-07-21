@@ -1,0 +1,14 @@
+{
+  "dataset_name": "CommonVoice Chinese",
+  "version": "17.0",
+  "source": "https://huggingface.co/datasets/fsicoli/common_voice_17_0 (mirror of mozilla-foundation/common_voice_17_0)",
+  "license": "CC0",
+  "language": "Mandarin Chinese (zh-CN)",
+  "total_samples": 200,
+  "audio_format": "WAV",
+  "sample_rate": 16000,
+  "bit_depth": 16,
+  "channels": 1,
+  "description": "Crowd-sourced Mandarin Chinese speech corpus from Mozilla CommonVoice.",
+  "notes": "Subset of 200 samples streamed from train tar shard 0 for benchmarking."
+}

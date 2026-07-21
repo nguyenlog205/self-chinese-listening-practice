@@ -25,3 +25,5 @@ Thumbs.db
 .idea/
 
 __pycache__/
+
+audio/

@@ -4,6 +4,7 @@ set -e
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$(dirname "$SCRIPT_DIR")")"
+DATA_DIR="$PROJECT_ROOT/data"
 
 echo "Starting dataset downloads for benchmarking..."
 echo "Project root: $PROJECT_ROOT"
@@ -26,10 +27,9 @@ echo ""
 
 # CommonVoice
 echo "=========================================="
-echo "Downloading CommonVoice Chinese (50 samples)..."
+echo "Downloading CommonVoice Chinese (100 samples)..."
 echo "=========================================="
-# python3 "$SCRIPT_DIR/download_commonvoice.py"  # TODO: Implement
-echo "[TODO] CommonVoice download script"
+python3 "$DATA_DIR/common-voice-zh/download.py"
 echo ""
 
 # YouTube samples
