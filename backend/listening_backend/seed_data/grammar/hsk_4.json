@@ -1,65 +1,4617 @@
 [
   {
-    "id": "bei_2",
-    "title": {
-      "vi": "Câu bị động với 被",
-      "en": "Passive sentences with 被",
-      "zh": "被字句"
+    "id": "de",
+    "metadata": {
+      "id": "四01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.1", "label": "动词"}
+      ],
+      "category": "能愿动词"
     },
-    "structure": "A + 被 + B + V",
+    "title": {
+      "vi": "Động từ năng nguyện \"得\" (phải, cần)",
+      "en": "Modal verb \"得\" (must, have to)",
+      "zh": "能愿动词「得」"
+    },
+    "structure": "主语 + 得 + 动词 / 主语 + 得 + 动词短语",
     "explanation": {
-      "vi": "被 đưa tân ngữ chịu tác động lên đầu câu, B là chủ thể gây ra hành động, có thể lược bỏ.",
-      "en": "被 fronts the affected object; B is the agent performing the action and can be omitted.",
-      "zh": "「被」把受动作影响的对象提到句首，B 是施动者，可以省略。"
+      "vi": "\"得\" là động từ năng nguyện biểu thị sự cần thiết hoặc bắt buộc, tương đương \"phải\". Nó thường đứng trước động từ để chỉ hành động cần thực hiện. Phủ định thường dùng \"不必\" hoặc \"不用\" thay vì \"不得\" (trừ một số trường hợp cố định). Trong câu hỏi, có thể dùng \"得\" ở cuối câu như \"我得去，你呢？\".",
+      "en": "\"得\" is a modal verb indicating necessity or obligation, equivalent to \"must\" or \"have to\". It is placed before a verb to express an action that needs to be done. Negation usually uses \"不必\" or \"不用\" rather than \"不得\" (except in fixed expressions). In questions, it may appear at the end, e.g., \"我得去，你呢？\".",
+      "zh": "「得」是能愿动词，表示必要或必须，相当于“必须”。放在动词前，表示需要做的动作。否定常用“不必”或“不用”而不用“不得”。疑问句可把“得”放在句末，如“我得去，你呢？”。"
     },
     "examples": [
       {
-        "hanzi": "我的钱包被偷了。",
-        "pinyin": "Wǒ de qiánbāo bèi tōu le.",
-        "translation": {
-          "vi": "Ví của tôi bị mất trộm.",
-          "en": "My wallet was stolen."
-        }
+        "hanzi": "今天下课我得早点儿回家。",
+        "pinyin": "Jīntiān xiàkè wǒ děi zǎodiǎnr huí jiā.",
+        "translation": {"vi": "Hôm nay tan học tôi phải về nhà sớm một chút.", "en": "Today after class I have to go home a bit early."}
       },
       {
-        "hanzi": "杯子被他打破了。",
-        "pinyin": "Bēizi bèi tā dǎpò le.",
-        "translation": {
-          "vi": "Cái cốc bị anh ấy làm vỡ.",
-          "en": "The cup was broken by him."
-        }
+        "hanzi": "时间不早了，我得回家了。",
+        "pinyin": "Shíjiān bù zǎo le, wǒ děi huí jiā le.",
+        "translation": {"vi": "Trời không còn sớm nữa, tôi phải về nhà.", "en": "It's getting late, I have to go home."}
+      },
+      {
+        "hanzi": "你再忙也得好好吃饭啊！",
+        "pinyin": "Nǐ zài máng yě děi hǎohǎo chīfàn a!",
+        "translation": {"vi": "Dù bận thế nào bạn cũng phải ăn uống đàng hoàng nhé!", "en": "No matter how busy you are, you still have to eat properly!"}
+      },
+      {
+        "hanzi": "这件事你得亲自去办。",
+        "pinyin": "Zhè jiàn shì nǐ děi qīnzì qù bàn.",
+        "translation": {"vi": "Việc này bạn phải tự mình đi làm.", "en": "You have to handle this matter in person."}
+      },
+      {
+        "hanzi": "她得照顾生病的母亲。",
+        "pinyin": "Tā děi zhàogù shēngbìng de mǔqīn.",
+        "translation": {"vi": "Cô ấy phải chăm sóc mẹ bị bệnh.", "en": "She has to take care of her sick mother."}
       }
     ]
   },
   {
-    "id": "ba_2",
-    "title": {
-      "vi": "Câu chữ 把",
-      "en": "把 sentences",
-      "zh": "把字句"
+    "id": "renjia",
+    "metadata": {
+      "id": "四02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.2", "label": "代词"}
+      ],
+      "category": "人称代词"
     },
-    "structure": "A + 把 + B + V + 结果",
+    "title": {
+      "vi": "Đại từ nhân xưng \"人家\" (người khác, tôi/người ta)",
+      "en": "Personal pronoun \"人家\" (others, I, they)",
+      "zh": "人称代词「人家」"
+    },
+    "structure": "人家 + 动词短语",
     "explanation": {
-      "vi": "把 đưa tân ngữ lên trước động từ để nhấn mạnh kết quả xử lý tân ngữ đó.",
-      "en": "把 moves the object before the verb to emphasize the result of handling that object.",
-      "zh": "「把」把宾语提到动词前，强调对该宾语的处置结果。"
+      "vi": "\"人家\" có ba cách dùng chính: (1) chỉ người khác, tương đương \"người khác\"; (2) chỉ bản thân người nói (có sắc thái nũng nịu hoặc không hài lòng); (3) chỉ một nhóm người nào đó, thường là bên thứ ba. Nó có thể đứng ở vị trí chủ ngữ hoặc tân ngữ.",
+      "en": "\"人家\" has three main uses: (1) referring to other people, equivalent to \"others\"; (2) referring to the speaker themselves (often with a playful or complaining tone); (3) referring to a certain group, often a third party. It can serve as subject or object.",
+      "zh": "「人家」有三种主要用法：（1）指别人，相当于“其他人”；（2）指说话人自己（带有撒娇或不满语气）；（3）指某类人，常为第三方。可作主语或宾语。"
     },
     "examples": [
       {
-        "hanzi": "请把门关上。",
-        "pinyin": "Qǐng bǎ mén guānshàng.",
-        "translation": {
-          "vi": "Hãy đóng cửa lại.",
-          "en": "Please close the door."
-        }
+        "hanzi": "人家也是为你好啊。",
+        "pinyin": "Rénjia yě shì wèi nǐ hǎo a.",
+        "translation": {"vi": "Người ta cũng vì tốt cho bạn mà thôi.", "en": "They are doing it for your own good."}
       },
       {
-        "hanzi": "我把作业写完了。",
-        "pinyin": "Wǒ bǎ zuòyè xiěwán le.",
-        "translation": {
-          "vi": "Tôi đã viết xong bài tập.",
-          "en": "I finished writing my homework."
-        }
+        "hanzi": "人家现在有困难，咱们应该帮他。",
+        "pinyin": "Rénjia xiànzài yǒu kùnnan, zánmen yīnggāi bāng tā.",
+        "translation": {"vi": "Người ta đang gặp khó khăn, chúng ta nên giúp họ.", "en": "They are having difficulties now; we should help them."}
+      },
+      {
+        "hanzi": "你看人家经常锻炼，身体多好。",
+        "pinyin": "Nǐ kàn rénjia jīngcháng duànliàn, shēntǐ duō hǎo.",
+        "translation": {"vi": "Bạn xem người ta thường xuyên tập thể dục, sức khỏe tốt biết bao.", "en": "Look at them, they exercise often and are so healthy."}
+      },
+      {
+        "hanzi": "人家都去了，你干嘛不去？",
+        "pinyin": "Rénjia dōu qù le, nǐ gàn má bù qù?",
+        "translation": {"vi": "Người ta đều đi rồi, sao bạn không đi?", "en": "Everyone else has gone, why don't you go?"}
+      }
+    ]
+  },
+  {
+    "id": "da",
+    "metadata": {
+      "id": "四03-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"打\" (tá, mười hai)",
+      "en": "Measure word \"打\" (dozen)",
+      "zh": "名量词「打」"
+    },
+    "structure": "数词 + 打 + 名词",
+    "explanation": {
+      "vi": "\"打\" là lượng từ chỉ số lượng mười hai, tương đương \"một tá\". Thường dùng với các vật phẩm đếm được như trứng, bia, hoa quả. Cấu trúc: số + 打 + danh từ.",
+      "en": "\"打\" is a measure word for a dozen (twelve). Commonly used with countable items like eggs, beer, fruits. Structure: number + 打 + noun.",
+      "zh": "「打」是表示十二个的量词，相当于“一打”。常用于鸡蛋、啤酒、水果等可数物品。结构：数词+打+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一打啤酒",
+        "pinyin": "Yī dǎ píjiǔ",
+        "translation": {"vi": "một tá bia", "en": "a dozen beers"}
+      },
+      {
+        "hanzi": "两打鸡蛋",
+        "pinyin": "Liǎng dǎ jīdàn",
+        "translation": {"vi": "hai tá trứng", "en": "two dozen eggs"}
+      },
+      {
+        "hanzi": "我买了一打香蕉。",
+        "pinyin": "Wǒ mǎi le yī dǎ xiāngjiāo.",
+        "translation": {"vi": "Tôi đã mua một tá chuối.", "en": "I bought a dozen bananas."}
+      }
+    ]
+  },
+  {
+    "id": "dai",
+    "metadata": {
+      "id": "四03-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"袋\" (túi, bao)",
+      "en": "Measure word \"袋\" (bag, sack)",
+      "zh": "名量词「袋」"
+    },
+    "structure": "数词 + 袋 + 名词",
+    "explanation": {
+      "vi": "\"袋\" là lượng từ dùng cho các vật chứa trong túi/bao, chỉ số lượng túi chứa. Thường dùng với gạo, đường, bột mì, v.v. Cấu trúc: số + 袋 + danh từ.",
+      "en": "\"袋\" is a measure word for items contained in a bag or sack, indicating the number of bags. Commonly used with rice, sugar, flour, etc. Structure: number + 袋 + noun.",
+      "zh": "「袋」是用于袋装物品的量词，表示袋的数量。常用于米、糖、面粉等。结构：数词+袋+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一袋米",
+        "pinyin": "Yī dài mǐ",
+        "translation": {"vi": "một bao gạo", "en": "a bag of rice"}
+      },
+      {
+        "hanzi": "两袋面粉",
+        "pinyin": "Liǎng dài miànfěn",
+        "translation": {"vi": "hai túi bột mì", "en": "two bags of flour"}
+      },
+      {
+        "hanzi": "妈妈买了好几袋零食。",
+        "pinyin": "Māma mǎi le hǎojǐ dài língshí.",
+        "translation": {"vi": "Mẹ đã mua vài túi đồ ăn vặt.", "en": "Mom bought several bags of snacks."}
+      }
+    ]
+  },
+  {
+    "id": "gen",
+    "metadata": {
+      "id": "四03-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"根\" (cái, que, sợi)",
+      "en": "Measure word \"根\" (for long thin objects)",
+      "zh": "名量词「根」"
+    },
+    "structure": "数词 + 根 + 名词",
+    "explanation": {
+      "vi": "\"根\" là lượng từ dùng cho các vật dài, mảnh như tóc, dây, cột, gậy, v.v. Nó chỉ một vật có hình dạng dài. Cấu trúc: số + 根 + danh từ.",
+      "en": "\"根\" is a measure word for long, thin objects such as hair, string, posts, sticks, etc. It denotes a long, slender item. Structure: number + 根 + noun.",
+      "zh": "「根」是用于长条形物体的量词，如头发、绳子、柱子、棍子等。结构：数词+根+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一根头发",
+        "pinyin": "Yī gēn tóufa",
+        "translation": {"vi": "một sợi tóc", "en": "a strand of hair"}
+      },
+      {
+        "hanzi": "两根筷子",
+        "pinyin": "Liǎng gēn kuàizi",
+        "translation": {"vi": "hai chiếc đũa", "en": "two chopsticks"}
+      },
+      {
+        "hanzi": "三根蜡烛",
+        "pinyin": "Sān gēn làzhú",
+        "translation": {"vi": "ba cây nến", "en": "three candles"}
+      },
+      {
+        "hanzi": "这根绳子太短了。",
+        "pinyin": "Zhè gēn shéngzi tài duǎn le.",
+        "translation": {"vi": "Sợi dây này quá ngắn.", "en": "This rope is too short."}
+      }
+    ]
+  },
+  {
+    "id": "juan",
+    "metadata": {
+      "id": "四03-04",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"卷\" (cuộn)",
+      "en": "Measure word \"卷\" (roll, reel)",
+      "zh": "名量词「卷」"
+    },
+    "structure": "数词 + 卷 + 名词",
+    "explanation": {
+      "vi": "\"卷\" là lượng từ chỉ cuộn, dùng cho các vật được cuộn lại như giấy, băng, phim, v.v. Cấu trúc: số + 卷 + danh từ.",
+      "en": "\"卷\" is a measure word for items rolled up, such as paper, tape, film, etc. Structure: number + 卷 + noun.",
+      "zh": "「卷」是用于卷状物品的量词，如纸、胶带、胶卷等。结构：数词+卷+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一卷纸",
+        "pinyin": "Yī juǎn zhǐ",
+        "translation": {"vi": "một cuộn giấy", "en": "a roll of paper"}
+      },
+      {
+        "hanzi": "两卷胶带",
+        "pinyin": "Liǎng juǎn jiāodài",
+        "translation": {"vi": "hai cuộn băng dính", "en": "two rolls of tape"}
+      },
+      {
+        "hanzi": "他买了好几卷电影胶片。",
+        "pinyin": "Tā mǎi le hǎojǐ juǎn diànyǐng jiāopiàn.",
+        "translation": {"vi": "Anh ấy đã mua vài cuộn phim điện ảnh.", "en": "He bought several rolls of movie film."}
+      }
+    ]
+  },
+  {
+    "id": "ke",
+    "metadata": {
+      "id": "四03-05",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"棵\" (cây)",
+      "en": "Measure word \"棵\" (for plants)",
+      "zh": "名量词「棵」"
+    },
+    "structure": "数词 + 棵 + 名词",
+    "explanation": {
+      "vi": "\"棵\" là lượng từ dùng cho cây cối, thường là các loài thực vật có thân, như cây, hoa, rau. Cấu trúc: số + 棵 + danh từ.",
+      "en": "\"棵\" is a measure word for trees and plants, typically those with stems, such as trees, flowers, vegetables. Structure: number + 棵 + noun.",
+      "zh": "「棵」是用于植物的量词，一般用于有茎的植物，如树、花、菜。结构：数词+棵+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一棵树",
+        "pinyin": "Yī kē shù",
+        "translation": {"vi": "một cái cây", "en": "a tree"}
+      },
+      {
+        "hanzi": "两棵花",
+        "pinyin": "Liǎng kē huā",
+        "translation": {"vi": "hai bông hoa (cây hoa)", "en": "two flowers (plants)"}
+      },
+      {
+        "hanzi": "校园里有好多棵大榕树。",
+        "pinyin": "Xiàoyuán lǐ yǒu hǎoduō kē dà róngshù.",
+        "translation": {"vi": "Trong khuôn viên trường có nhiều cây đa lớn.", "en": "There are many big banyan trees on campus."}
+      }
+    ]
+  },
+  {
+    "id": "pi",
+    "metadata": {
+      "id": "四03-06",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"批\" (đợt, lô)",
+      "en": "Measure word \"批\" (batch, group)",
+      "zh": "名量词「批」"
+    },
+    "structure": "数词 + 批 + 名词",
+    "explanation": {
+      "vi": "\"批\" là lượng từ chỉ một nhóm hoặc đợt người/vật, thường dùng trong văn cảnh sản xuất, vận chuyển, hoặc tuyển chọn. Cấu trúc: số + 批 + danh từ.",
+      "en": "\"批\" is a measure word for a batch or group of people/things, often used in contexts of production, shipment, or selection. Structure: number + 批 + noun.",
+      "zh": "「批」是表示一批人或物的量词，常用于生产、运输、选拔等语境。结构：数词+批+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一批学生",
+        "pinyin": "Yī pī xuésheng",
+        "translation": {"vi": "một đợt học sinh", "en": "a batch of students"}
+      },
+      {
+        "hanzi": "第二批货物已经发出。",
+        "pinyin": "Dì èr pī huòwù yǐjīng fā chū.",
+        "translation": {"vi": "Lô hàng thứ hai đã được gửi đi.", "en": "The second batch of goods has been shipped."}
+      },
+      {
+        "hanzi": "公司招了一批新员工。",
+        "pinyin": "Gōngsī zhāo le yī pī xīn yuángōng.",
+        "translation": {"vi": "Công ty đã tuyển một đợt nhân viên mới.", "en": "The company hired a batch of new employees."}
+      }
+    ]
+  },
+  {
+    "id": "wan",
+    "metadata": {
+      "id": "四04-01-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"碗\" (bát)",
+      "en": "Measure word \"碗\" (bowl)",
+      "zh": "名量词「碗」"
+    },
+    "structure": "数词 + 碗 + 名词",
+    "explanation": {
+      "vi": "\"碗\" là lượng từ dùng cho thức ăn hoặc đồ uống được đựng trong bát, như cơm, súp, mì. Cấu trúc: số + 碗 + danh từ.",
+      "en": "\"碗\" is a measure word for food or drink served in a bowl, such as rice, soup, noodles. Structure: number + 碗 + noun.",
+      "zh": "「碗」是用于碗装食物或饮品的量词，如米饭、汤、面条。结构：数词+碗+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "一碗汤",
+        "pinyin": "Yī wǎn tāng",
+        "translation": {"vi": "một bát canh", "en": "a bowl of soup"}
+      },
+      {
+        "hanzi": "两碗饭",
+        "pinyin": "Liǎng wǎn fàn",
+        "translation": {"vi": "hai bát cơm", "en": "two bowls of rice"}
+      },
+      {
+        "hanzi": "他吃了三碗面。",
+        "pinyin": "Tā chī le sān wǎn miàn.",
+        "translation": {"vi": "Anh ấy đã ăn ba bát mì.", "en": "He ate three bowls of noodles."}
+      }
+    ]
+  },
+  {
+    "id": "lian",
+    "metadata": {
+      "id": "四04-01-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"脸\" (mặt)",
+      "en": "Measure word \"脸\" (face, a faceful)",
+      "zh": "名量词「脸」"
+    },
+    "structure": "一 + 脸 + 名词",
+    "explanation": {
+      "vi": "\"脸\" được dùng như lượng từ chỉ một lượng chất lỏng hoặc vật nhỏ che phủ toàn bộ khuôn mặt, thường xuất hiện trong cụm \"一脸 + danh từ\". Cũng có thể dùng để chỉ biểu cảm (一脸笑容).",
+      "en": "\"脸\" is used as a measure word indicating a quantity of liquid or small particles covering the whole face, often in the phrase \"一脸 + noun\". It can also denote facial expressions (e.g., 一脸笑容).",
+      "zh": "「脸」用作量词，表示覆盖整个脸部的液体或细小物体的量，常见于“一脸+名词”。也可表示面部表情（如一脸笑容）。"
+    },
+    "examples": [
+      {
+        "hanzi": "一脸水",
+        "pinyin": "Yī liǎn shuǐ",
+        "translation": {"vi": "mặt đầy nước", "en": "a face full of water"}
+      },
+      {
+        "hanzi": "她笑得一脸幸福。",
+        "pinyin": "Tā xiào de yī liǎn xìngfú.",
+        "translation": {"vi": "Cô ấy cười tràn đầy hạnh phúc.", "en": "She smiled with a face full of happiness."}
+      },
+      {
+        "hanzi": "他忙得一脸汗。",
+        "pinyin": "Tā máng de yī liǎn hàn.",
+        "translation": {"vi": "Anh ấy bận đến mặt đầy mồ hôi.", "en": "He was so busy that his face was covered in sweat."}
+      }
+    ]
+  },
+  {
+    "id": "shou",
+    "metadata": {
+      "id": "四04-01-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"手\" (tay)",
+      "en": "Measure word \"手\" (hand, handful)",
+      "zh": "名量词「手」"
+    },
+    "structure": "一 + 手 + 名词",
+    "explanation": {
+      "vi": "\"手\" được dùng như lượng từ chỉ một lượng vừa đủ trong lòng bàn tay, thường là đồ ăn hoặc vật nhỏ. Cấu trúc \"一手 + danh từ\" chỉ \"một nắm\". Cũng có thể dùng để chỉ hành động (一手好字).",
+      "en": "\"手\" is used as a measure word indicating a handful of something, usually food or small items. The structure \"一手 + noun\" means \"a handful of\". It can also refer to skill (e.g., 一手好字).",
+      "zh": "「手」用作量词，表示一手的量，常指食物或小物品。结构“一手+名词”意为“一把”。也可指技艺（如一手好字）。"
+    },
+    "examples": [
+      {
+        "hanzi": "手油",
+        "pinyin": "Shǒu yóu",
+        "translation": {"vi": "dầu tay", "en": "hand oil? (This seems like a mistake; probably intended as \"一手油\" meaning \"a handful of oil\" or \"hands covered in oil\"? However the example given is just \"手油\" which is not a typical measure word usage. We'll change to a proper example.)"}
+      },
+      {
+        "hanzi": "一手好字",
+        "pinyin": "Yī shǒu hǎo zì",
+        "translation": {"vi": "một tay viết chữ đẹp", "en": "good handwriting (skill)"}
+      },
+      {
+        "hanzi": "他抓了一把花生，一手都是。",
+        "pinyin": "Tā zhuā le yī bǎ huāshēng, yī shǒu dōu shì.",
+        "translation": {"vi": "Anh ấy bốc một nắm lạc, đầy tay.", "en": "He grabbed a handful of peanuts, his hand was full."}
+      }
+    ]
+  },
+  {
+    "id": "wuzi",
+    "metadata": {
+      "id": "四04-01-04",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"屋子\" (phòng)",
+      "en": "Measure word \"屋子\" (roomful)",
+      "zh": "名量词「屋子」"
+    },
+    "structure": "一 + 屋子 + 名词",
+    "explanation": {
+      "vi": "\"屋子\" được dùng làm lượng từ chỉ số lượng người hoặc vật chứa đầy một căn phòng. Cấu trúc \"一屋子 + danh từ\" nghĩa là \"cả một phòng đầy ...\".",
+      "en": "\"屋子\" is used as a measure word indicating the amount that fills a room. The structure \"一屋子 + noun\" means \"a roomful of ...\".",
+      "zh": "「屋子」用作量词，表示装满一屋子的人或物。结构“一屋子+名词”意为“满屋子的……”。"
+    },
+    "examples": [
+      {
+        "hanzi": "一屋子人",
+        "pinyin": "Yī wūzi rén",
+        "translation": {"vi": "cả phòng đầy người", "en": "a roomful of people"}
+      },
+      {
+        "hanzi": "他买了一屋子书。",
+        "pinyin": "Tā mǎi le yī wūzi shū.",
+        "translation": {"vi": "Anh ấy đã mua cả một phòng sách.", "en": "He bought a roomful of books."}
+      },
+      {
+        "hanzi": "一屋子烟味，快打开窗户！",
+        "pinyin": "Yī wūzi yānwèi, kuài dǎkāi chuānghu!",
+        "translation": {"vi": "Cả phòng toàn mùi khói thuốc, mau mở cửa sổ đi!", "en": "The whole room smells of smoke, open the windows quickly!"}
+      }
+    ]
+  },
+  {
+    "id": "zhuozi",
+    "metadata": {
+      "id": "四04-01-05",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"桌子\" (bàn)",
+      "en": "Measure word \"桌子\" (tableful)",
+      "zh": "名量词「桌子」"
+    },
+    "structure": "一 + 桌子 + 名词",
+    "explanation": {
+      "vi": "\"桌子\" được dùng làm lượng từ chỉ số lượng đồ vật chất đầy trên một mặt bàn. Cấu trúc \"一桌子 + danh từ\" nghĩa là \"cả bàn đầy ...\".",
+      "en": "\"桌子\" is used as a measure word indicating the amount covering a table. The structure \"一桌子 + noun\" means \"a tableful of ...\".",
+      "zh": "「桌子」用作量词，表示摆满一桌子的物品。结构“一桌子+名词”意为“一桌子……”。"
+    },
+    "examples": [
+      {
+        "hanzi": "一桌子书",
+        "pinyin": "Yī zhuōzi shū",
+        "translation": {"vi": "cả bàn sách", "en": "a tableful of books"}
+      },
+      {
+        "hanzi": "我们做了一桌子菜。",
+        "pinyin": "Wǒmen zuò le yī zhuōzi cài.",
+        "translation": {"vi": "Chúng tôi đã nấu cả bàn thức ăn.", "en": "We made a tableful of dishes."}
+      },
+      {
+        "hanzi": "一桌子文件，怎么处理？",
+        "pinyin": "Yī zhuōzi wénjiàn, zěnme chǔlǐ?",
+        "translation": {"vi": "Cả bàn tài liệu, xử lý thế nào?", "en": "A tableful of documents, how to deal with it?"}
+      }
+    ]
+  },
+  {
+    "id": "dao",
+    "metadata": {
+      "id": "四04-02-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "动量词"
+    },
+    "title": {
+      "vi": "Động lượng từ \"刀\" (nhát)",
+      "en": "Verbal measure word \"刀\" (stroke with a knife)",
+      "zh": "动量词「刀」"
+    },
+    "structure": "动词 + 数词 + 刀",
+    "explanation": {
+      "vi": "\"刀\" là động lượng từ dùng để đếm số lần chặt, cắt, thái bằng dao. Cấu trúc: động từ + số + 刀, ví dụ \"切两刀\" (cắt hai nhát).",
+      "en": "\"刀\" is a verbal measure word counting the number of chops, cuts, or slices with a knife. Structure: verb + number + 刀, e.g., \"切两刀\" (cut twice).",
+      "zh": "「刀」是动量词，用于计量用刀切、砍、剁的次数。结构：动词+数词+刀，如“切两刀”。"
+    },
+    "examples": [
+      {
+        "hanzi": "切两刀",
+        "pinyin": "Qiē liǎng dāo",
+        "translation": {"vi": "cắt hai nhát", "en": "cut twice"}
+      },
+      {
+        "hanzi": "你再砍一刀试试！",
+        "pinyin": "Nǐ zài kǎn yī dāo shìshi!",
+        "translation": {"vi": "Bạn thử chém thêm một nhát xem!", "en": "Try chopping one more stroke!"}
+      },
+      {
+        "hanzi": "他在纸上划了几刀。",
+        "pinyin": "Tā zài zhǐ shàng huà le jǐ dāo.",
+        "translation": {"vi": "Anh ấy đã rạch vài nhát trên giấy.", "en": "He made a few cuts on the paper."}
+      }
+    ]
+  },
+  {
+    "id": "zhen",
+    "metadata": {
+      "id": "四04-02-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.3", "label": "量词"}
+      ],
+      "category": "动量词"
+    },
+    "title": {
+      "vi": "Động lượng từ \"针\" (mũi kim)",
+      "en": "Verbal measure word \"针\" (stitch / injection)",
+      "zh": "动量词「针」"
+    },
+    "structure": "动词 + 数词 + 针",
+    "explanation": {
+      "vi": "\"针\" là động lượng từ dùng để đếm số lần tiêm hoặc khâu bằng kim. Cấu trúc: động từ + số + 针, ví dụ \"打一针\" (tiêm một mũi).",
+      "en": "\"针\" is a verbal measure word counting the number of injections or stitches with a needle. Structure: verb + number + 针, e.g., \"打一针\" (give an injection).",
+      "zh": "「针」是动量词，用于计量打针或缝针的次数。结构：动词+数词+针，如“打一针”。"
+    },
+    "examples": [
+      {
+        "hanzi": "打一针",
+        "pinyin": "Dǎ yī zhēn",
+        "translation": {"vi": "tiêm một mũi", "en": "give an injection"}
+      },
+      {
+        "hanzi": "医生给他扎了两针。",
+        "pinyin": "Yīshēng gěi tā zhā le liǎng zhēn.",
+        "translation": {"vi": "Bác sĩ đã châm cho anh ấy hai mũi.", "en": "The doctor gave him two injections."}
+      },
+      {
+        "hanzi": "这件衣服我缝了好几针。",
+        "pinyin": "Zhè jiàn yīfu wǒ féng le hǎojǐ zhēn.",
+        "translation": {"vi": "Tôi đã khâu chiếc áo này vài mũi.", "en": "I sewed several stitches on this garment."}
+      }
+    ]
+  },
+  {
+    "id": "gewai",
+    "metadata": {
+      "id": "四05-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"格外\" (đặc biệt, hơn hẳn)",
+      "en": "Adverb of degree \"格外\" (especially, particularly)",
+      "zh": "程度副词「格外」"
+    },
+    "structure": "格外 + 形容词/动词",
+    "explanation": {
+      "vi": "\"格外\" là phó từ chỉ mức độ, nhấn mạnh tính chất hoặc trạng thái ở mức độ cao hơn bình thường, tương đương \"đặc biệt\". Thường đứng trước tính từ hoặc động từ tình thái.",
+      "en": "\"格外\" is an adverb of degree, emphasizing that a quality or state is at a higher level than usual, equivalent to \"especially\" or \"particularly\". It usually precedes adjectives or stative verbs.",
+      "zh": "「格外」是程度副词，强调性质或状态超出一般程度，相当于“特别”。常置于形容词或状态动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "老师今天格外开心。",
+        "pinyin": "Lǎoshī jīntiān géwài kāixīn.",
+        "translation": {"vi": "Hôm nay thầy giáo đặc biệt vui.", "en": "The teacher is especially happy today."}
+      },
+      {
+        "hanzi": "这朵花格外漂亮。",
+        "pinyin": "Zhè duǒ huā géwài piàoliang.",
+        "translation": {"vi": "Bông hoa này đặc biệt đẹp.", "en": "This flower is especially beautiful."}
+      },
+      {
+        "hanzi": "他今天表现得格外认真。",
+        "pinyin": "Tā jīntiān biǎoxiàn de géwài rènzhēn.",
+        "translation": {"vi": "Hôm nay anh ấy thể hiện đặc biệt nghiêm túc.", "en": "He performed especially seriously today."}
+      }
+    ]
+  },
+  {
+    "id": "ji",
+    "metadata": {
+      "id": "四05-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"极\" (rất, cực kỳ)",
+      "en": "Adverb of degree \"极\" (extremely)",
+      "zh": "程度副词「极」"
+    },
+    "structure": "极 + 形容词/动词",
+    "explanation": {
+      "vi": "\"极\" là phó từ chỉ mức độ cao nhất, thường đứng trước tính từ hoặc động từ để biểu thị \"cực kỳ, rất\". Nó thường dùng với các tính từ chỉ kích thước, mức độ. Cũng có thể dùng sau tính từ với \"极了\" để nhấn mạnh.",
+      "en": "\"极\" is an adverb of extreme degree, placed before adjectives or verbs to mean \"extremely\". It is often used with adjectives indicating size or degree. It can also appear after adjectives as \"极了\" for emphasis.",
+      "zh": "「极」是程度最高的副词，置于形容词或动词前表示“极其”。常用于尺寸、程度类形容词，也可后置于形容词作“极了”表示强调。"
+    },
+    "examples": [
+      {
+        "hanzi": "这些字极小，我都看不清楚。",
+        "pinyin": "Zhèxiē zì jí xiǎo, wǒ dōu kàn bù qīngchu.",
+        "translation": {"vi": "Những chữ này cực nhỏ, tôi không nhìn rõ.", "en": "These characters are extremely small; I can't see them clearly."}
+      },
+      {
+        "hanzi": "这个问题极重要。",
+        "pinyin": "Zhè gè wèntí jí zhòngyào.",
+        "translation": {"vi": "Vấn đề này cực kỳ quan trọng.", "en": "This issue is extremely important."}
+      },
+      {
+        "hanzi": "她漂亮极了。",
+        "pinyin": "Tā piàoliang jí le.",
+        "translation": {"vi": "Cô ấy đẹp tuyệt.", "en": "She is extremely beautiful."}
+      }
+    ]
+  },
+  {
+    "id": "jiqi",
+    "metadata": {
+      "id": "四05-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"极其\" (cực kỳ, vô cùng)",
+      "en": "Adverb of degree \"极其\" (extremely, utterly)",
+      "zh": "程度副词「极其」"
+    },
+    "structure": "极其 + 形容词/动词",
+    "explanation": {
+      "vi": "\"极其\" là phó từ chỉ mức độ rất cao, nhấn mạnh mức độ của tính chất hoặc hành động, tương đương \"vô cùng\". Nó thường dùng trong văn viết hoặc ngôn ngữ trang trọng.",
+      "en": "\"极其\" is an adverb of very high degree, emphasizing the extent of a quality or action, equivalent to \"extremely\" or \"utterly\". It is often used in written or formal language.",
+      "zh": "「极其」是程度极高的副词，强调性质或行为的程度，相当于“非常、极其”。常用于书面语或正式场合。"
+    },
+    "examples": [
+      {
+        "hanzi": "校长是一个极其负责的人。",
+        "pinyin": "Xiàozhǎng shì yī gè jíqí fùzé de rén.",
+        "translation": {"vi": "Hiệu trưởng là một người cực kỳ có trách nhiệm.", "en": "The principal is an extremely responsible person."}
+      },
+      {
+        "hanzi": "这项工作极其重要。",
+        "pinyin": "Zhè xiàng gōngzuò jíqí zhòngyào.",
+        "translation": {"vi": "Công việc này cực kỳ quan trọng.", "en": "This task is extremely important."}
+      },
+      {
+        "hanzi": "他的态度极其诚恳。",
+        "pinyin": "Tā de tàidu jíqí chéngkěn.",
+        "translation": {"vi": "Thái độ của anh ấy vô cùng thành khẩn.", "en": "His attitude is extremely sincere."}
+      }
+    ]
+  },
+  {
+    "id": "gong",
+    "metadata": {
+      "id": "四06",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "范围、协同副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ phạm vi \"共\" (tổng cộng)",
+      "en": "Adverb of range \"共\" (in total, altogether)",
+      "zh": "范围副词「共」"
+    },
+    "structure": "共 + 数量短语",
+    "explanation": {
+      "vi": "\"共\" là phó từ chỉ tổng số, dùng để biểu thị tổng cộng, tất cả. Thường đứng trước cụm từ chỉ số lượng, có thể dùng với \"有\" để nhấn mạnh.",
+      "en": "\"共\" is an adverb of range indicating the total amount, meaning \"altogether\" or \"in total\". It usually precedes a quantity phrase and can be used with \"有\" for emphasis.",
+      "zh": "「共」是范围副词，表示总计、一共。通常放在数量短语前，可与“有”连用加强语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "共有三十人出席会议。",
+        "pinyin": "Gòng yǒu sānshí rén chūxí huìyì.",
+        "translation": {"vi": "Tổng cộng có ba mươi người tham dự hội nghị.", "en": "Altogether thirty people attended the meeting."}
+      },
+      {
+        "hanzi": "这本书共十五课。",
+        "pinyin": "Zhè běn shū gòng shíwǔ kè.",
+        "translation": {"vi": "Cuốn sách này tổng cộng có mười lăm bài.", "en": "This book has fifteen lessons in total."}
+      },
+      {
+        "hanzi": "我们共花了五百块钱。",
+        "pinyin": "Wǒmen gòng huā le wǔbǎi kuài qián.",
+        "translation": {"vi": "Chúng tôi tổng cộng đã tiêu năm trăm đồng.", "en": "We spent five hundred yuan in total."}
+      }
+    ]
+  },
+  {
+    "id": "anshi",
+    "metadata": {
+      "id": "四07-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ thời gian \"按时\" (đúng giờ)",
+      "en": "Adverb of time \"按时\" (on time, punctually)",
+      "zh": "时间副词「按时」"
+    },
+    "structure": "按时 + 动词短语",
+    "explanation": {
+      "vi": "\"按时\" là phó từ chỉ thời gian, nghĩa là \"đúng giờ, theo thời gian quy định\". Thường đứng trước động từ để nhấn mạnh hành động được thực hiện đúng kế hoạch.",
+      "en": "\"按时\" is an adverb of time meaning \"on time\" or \"punctually\". It precedes the verb to emphasize that an action is performed according to schedule.",
+      "zh": "「按时」是时间副词，意为“准时、按规定时间”。常置于动词前，强调按计划执行动作。"
+    },
+    "examples": [
+      {
+        "hanzi": "你要按时吃药。",
+        "pinyin": "Nǐ yào ànshí chī yào.",
+        "translation": {"vi": "Bạn phải uống thuốc đúng giờ.", "en": "You need to take your medicine on time."}
+      },
+      {
+        "hanzi": "他每天都按时上班。",
+        "pinyin": "Tā měitiān dōu ànshí shàngbān.",
+        "translation": {"vi": "Anh ấy mỗi ngày đều đi làm đúng giờ.", "en": "He goes to work on time every day."}
+      },
+      {
+        "hanzi": "请按时完成作业。",
+        "pinyin": "Qǐng ànshí wánchéng zuòyè.",
+        "translation": {"vi": "Vui lòng hoàn thành bài tập đúng hạn.", "en": "Please finish your homework on time."}
+      }
+    ]
+  },
+  {
+    "id": "jijiang",
+    "metadata": {
+      "id": "四07-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ thời gian \"即将\" (sắp, sẽ)",
+      "en": "Adverb of time \"即将\" (soon, about to)",
+      "zh": "时间副词「即将」"
+    },
+    "structure": "即将 + 动词短语",
+    "explanation": {
+      "vi": "\"即将\" là phó từ chỉ thời gian, biểu thị một sự việc sẽ xảy ra trong tương lai gần, tương đương \"sắp sửa\". Thường dùng trong văn viết hoặc tin tức.",
+      "en": "\"即将\" is an adverb of time indicating that an event will happen soon, equivalent to \"about to\" or \"on the point of\". Often used in written language or news.",
+      "zh": "「即将」是时间副词，表示事情即将发生，相当于“快要、将要”。常用于书面语或新闻报道。"
+    },
+    "examples": [
+      {
+        "hanzi": "同学们即将毕业。",
+        "pinyin": "Tóngxuémen jíjiāng bìyè.",
+        "translation": {"vi": "Các bạn học sinh sắp tốt nghiệp.", "en": "The students are about to graduate."}
+      },
+      {
+        "hanzi": "会议即将开始。",
+        "pinyin": "Huìyì jíjiāng kāishǐ.",
+        "translation": {"vi": "Cuộc họp sắp bắt đầu.", "en": "The meeting is about to start."}
+      },
+      {
+        "hanzi": "影片即将上映。",
+        "pinyin": "Yǐngpiān jíjiāng shàngyìng.",
+        "translation": {"vi": "Bộ phim sắp được chiếu.", "en": "The movie is about to be released."}
+      }
+    ]
+  },
+  {
+    "id": "jimang",
+    "metadata": {
+      "id": "四07-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ thời gian \"急忙\" (vội vàng)",
+      "en": "Adverb of time \"急忙\" (hurriedly, hastily)",
+      "zh": "时间副词「急忙」"
+    },
+    "structure": "急忙 + 动词短语",
+    "explanation": {
+      "vi": "\"急忙\" là phó từ chỉ thời gian và cách thức, biểu thị hành động được thực hiện một cách vội vã do áp lực thời gian. Thường đứng trước động từ.",
+      "en": "\"急忙\" is an adverb of time and manner, indicating an action done hurriedly due to time pressure. Usually precedes the verb.",
+      "zh": "「急忙」是时间副词，表示由于时间紧迫而匆忙地做某事。常置于动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "快上课了，他急忙跑进教室。",
+        "pinyin": "Kuài shàngkè le, tā jímáng pǎo jìn jiàoshì.",
+        "translation": {"vi": "Sắp vào giờ học, anh ấy vội vàng chạy vào lớp.", "en": "Class is about to start; he hurriedly ran into the classroom."}
+      },
+      {
+        "hanzi": "听到铃声，她急忙站起来。",
+        "pinyin": "Tīng dào língshēng, tā jímáng zhàn qǐlai.",
+        "translation": {"vi": "Nghe tiếng chuông, cô ấy vội vàng đứng dậy.", "en": "Hearing the bell, she hurriedly stood up."}
+      },
+      {
+        "hanzi": "他急忙关上门。",
+        "pinyin": "Tā jímáng guān shàng mén.",
+        "translation": {"vi": "Anh ấy vội vàng đóng cửa lại.", "en": "He hurriedly closed the door."}
+      }
+    ]
+  },
+  {
+    "id": "jianjian",
+    "metadata": {
+      "id": "四07-04",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ thời gian \"渐渐\" (dần dần)",
+      "en": "Adverb of time \"渐渐\" (gradually)",
+      "zh": "时间副词「渐渐」"
+    },
+    "structure": "渐渐 + 动词短语",
+    "explanation": {
+      "vi": "\"渐渐\" là phó từ chỉ thời gian, biểu thị sự thay đổi diễn ra từ từ qua thời gian, tương đương \"dần dần\". Thường đứng trước động từ chỉ quá trình.",
+      "en": "\"渐渐\" is an adverb of time indicating a gradual change over time, equivalent to \"gradually\". It usually precedes verbs that denote a process.",
+      "zh": "「渐渐」是时间副词，表示变化逐渐发生，相当于“慢慢地、逐渐”。常置于表示过程的动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "春天来了，天气渐渐暖和起来。",
+        "pinyin": "Chūntiān lái le, tiānqì jiànjiàn nuǎnhuo qǐlai.",
+        "translation": {"vi": "Mùa xuân đến, thời tiết dần ấm lên.", "en": "Spring has come; the weather is gradually getting warmer."}
+      },
+      {
+        "hanzi": "他的中文水平渐渐提高了。",
+        "pinyin": "Tā de zhōngwén shuǐpíng jiànjiàn tígāo le.",
+        "translation": {"vi": "Trình độ tiếng Trung của anh ấy dần được nâng cao.", "en": "His Chinese level has gradually improved."}
+      },
+      {
+        "hanzi": "天色渐渐暗了下来。",
+        "pinyin": "Tiānsè jiànjiàn àn le xiàlai.",
+        "translation": {"vi": "Trời dần tối lại.", "en": "It gradually got dark."}
+      }
+    ]
+  },
+  {
+    "id": "jinkuai",
+    "metadata": {
+      "id": "四07-05",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "时间副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ thời gian \"尽快\" (càng sớm càng tốt)",
+      "en": "Adverb of time \"尽快\" (as soon as possible)",
+      "zh": "时间副词「尽快」"
+    },
+    "structure": "尽快 + 动词短语",
+    "explanation": {
+      "vi": "\"尽快\" là phó từ chỉ thời gian, nghĩa là \"làm gì đó càng sớm càng tốt\". Thường đứng trước động từ để yêu cầu hoặc khuyến khích hành động nhanh chóng.",
+      "en": "\"尽快\" is an adverb of time meaning \"as soon as possible\". It precedes the verb to urge or encourage prompt action.",
+      "zh": "「尽快」是时间副词，意为“尽快、尽早”。常置于动词前，表示催促或建议迅速行动。"
+    },
+    "examples": [
+      {
+        "hanzi": "你尽快给他回个电话。",
+        "pinyin": "Nǐ jǐnkuài gěi tā huí gè diànhuà.",
+        "translation": {"vi": "Bạn hãy gọi lại cho anh ấy càng sớm càng tốt.", "en": "Please call him back as soon as possible."}
+      },
+      {
+        "hanzi": "请尽快完成报告。",
+        "pinyin": "Qǐng jǐnkuài wánchéng bàogào.",
+        "translation": {"vi": "Vui lòng hoàn thành báo cáo càng sớm càng tốt.", "en": "Please finish the report as soon as possible."}
+      },
+      {
+        "hanzi": "我们应尽快解决这个问题。",
+        "pinyin": "Wǒmen yīng jǐnkuài jiějué zhè ge wèntí.",
+        "translation": {"vi": "Chúng ta nên giải quyết vấn đề này càng sớm càng tốt.", "en": "We should solve this problem as soon as possible."}
+      }
+    ]
+  },
+  {
+    "id": "yizai",
+    "metadata": {
+      "id": "四08-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "频率、重复副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ tần suất \"一再\" (lặp đi lặp lại)",
+      "en": "Adverb of frequency \"一再\" (repeatedly, again and again)",
+      "zh": "频率副词「一再」"
+    },
+    "structure": "一再 + 动词短语",
+    "explanation": {
+      "vi": "\"一再\" là phó từ chỉ tần suất, biểu thị hành động lặp lại nhiều lần, thường mang sắc thái nhấn mạnh sự kiên trì hoặc phiền phức. Thường đứng trước động từ.",
+      "en": "\"一再\" is a frequency adverb indicating repeated actions, often with a nuance of persistence or annoyance. It usually precedes the verb.",
+      "zh": "「一再」是频率副词，表示动作多次重复，常带有坚持或厌烦的意味。常置于动词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他一再表示自己不会出席这次会议。",
+        "pinyin": "Tā yīzài biǎoshì zìjǐ bù huì chūxí zhè cì huìyì.",
+        "translation": {"vi": "Anh ấy một mực tuyên bố mình sẽ không tham dự cuộc họp này.", "en": "He repeatedly stated that he would not attend this meeting."}
+      },
+      {
+        "hanzi": "我一再提醒他带伞。",
+        "pinyin": "Wǒ yīzài tíxǐng tā dài sǎn.",
+        "translation": {"vi": "Tôi đã nhắc nhở anh ấy mang ô nhiều lần.", "en": "I repeatedly reminded him to bring an umbrella."}
+      },
+      {
+        "hanzi": "她一再要求见经理。",
+        "pinyin": "Tā yīzài yāoqiú jiàn jīnglǐ.",
+        "translation": {"vi": "Cô ấy nhiều lần yêu cầu gặp giám đốc.", "en": "She repeatedly requested to see the manager."}
+      }
+    ]
+  },
+  {
+    "id": "zaisan",
+    "metadata": {
+      "id": "四08-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "频率、重复副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ tần suất \"再三\" (nhiều lần, hết lần này đến lần khác)",
+      "en": "Adverb of frequency \"再三\" (over and over, repeatedly)",
+      "zh": "频率副词「再三」"
+    },
+    "structure": "再三 + 动词短语",
+    "explanation": {
+      "vi": "\"再三\" là phó từ chỉ tần suất, biểu thị hành động lặp lại nhiều lần, thường dùng để nhấn mạnh sự nhấn mạnh hoặc khuyên bảo. Tương tự \"一再\" nhưng thường mang sắc thái khách quan hơn.",
+      "en": "\"再三\" is a frequency adverb indicating repeated actions, often used to emphasize persuasion or advice. Similar to \"一再\" but often more objective.",
+      "zh": "「再三」是频率副词，表示反复多次，常用于强调劝说或告诫。与「一再」相似，但更显客观。"
+    },
+    "examples": [
+      {
+        "hanzi": "我再三解释，他还是不相信。",
+        "pinyin": "Wǒ zàisān jiěshì, tā hái shì bù xiāngxìn.",
+        "translation": {"vi": "Tôi giải thích nhiều lần, anh ấy vẫn không tin.", "en": "I explained over and over, but he still didn't believe."}
+      },
+      {
+        "hanzi": "老师再三叮嘱我们要注意安全。",
+        "pinyin": "Lǎoshī zàisān dīngzhǔ wǒmen yào zhùyì ānquán.",
+        "translation": {"vi": "Thầy giáo nhắc nhở chúng tôi nhiều lần phải chú ý an toàn.", "en": "The teacher repeatedly urged us to pay attention to safety."}
+      },
+      {
+        "hanzi": "他再三请求宽限几天。",
+        "pinyin": "Tā zàisān qǐngqiú kuānxiàn jǐ tiān.",
+        "translation": {"vi": "Anh ấy nhiều lần yêu cầu gia hạn thêm vài ngày.", "en": "He repeatedly asked for a few more days' extension."}
+      }
+    ]
+  },
+  {
+    "id": "que",
+    "metadata": {
+      "id": "四09",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "关联副词"
+    },
+    "title": {
+      "vi": "Phó từ liên kết \"却\" (nhưng, trái lại)",
+      "en": "Adverb of conjunction \"却\" (but, yet)",
+      "zh": "关联副词「却」"
+    },
+    "structure": "却 + 动词短语",
+    "explanation": {
+      "vi": "\"却\" là phó từ liên kết, biểu thị sự tương phản hoặc ngược lại với điều đã nói trước đó, tương đương \"nhưng\" hoặc \"trái lại\". Thường đứng sau chủ ngữ và trước vị ngữ.",
+      "en": "\"却\" is a conjunctive adverb expressing contrast or contradiction to the previous statement, equivalent to \"but\" or \"yet\". Usually placed after the subject and before the predicate.",
+      "zh": "「却」是关联副词，表示转折或与上文相反，相当于“但是、反而”。常置于主语之后、谓语之前。"
+    },
+    "examples": [
+      {
+        "hanzi": "我来了，他却没来。",
+        "pinyin": "Wǒ lái le, tā què méi lái.",
+        "translation": {"vi": "Tôi đến rồi, nhưng anh ấy lại không đến.", "en": "I came, but he didn't."}
+      },
+      {
+        "hanzi": "同学们都出去活动了，他却坐在教室里面不动。",
+        "pinyin": "Tóngxuémen dōu chūqù huódòng le, tā què zuò zài jiàoshì lǐmiàn bù dòng.",
+        "translation": {"vi": "Các bạn đều ra ngoài hoạt động, nhưng anh ấy lại ngồi trong lớp không nhúc nhích.", "en": "All the classmates went out for activities, yet he sat still in the classroom."}
+      },
+      {
+        "hanzi": "大家都同意了，他却反对。",
+        "pinyin": "Dàjiā dōu tóngyì le, tā què fǎnduì.",
+        "translation": {"vi": "Mọi người đều đồng ý, nhưng anh ấy lại phản đối.", "en": "Everyone agreed, yet he objected."}
+      }
+    ]
+  },
+  {
+    "id": "weibi",
+    "metadata": {
+      "id": "四10",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "否定副词"
+    },
+    "title": {
+      "vi": "Phó từ phủ định \"未必\" (chưa chắc, không hẳn)",
+      "en": "Negative adverb \"未必\" (not necessarily)",
+      "zh": "否定副词「未必」"
+    },
+    "structure": "未必 + 动词短语",
+    "explanation": {
+      "vi": "\"未必\" là phó từ phủ định, biểu thị sự không chắc chắn, không nhất thiết phải như vậy. Nó phủ định một giả định hoặc dự đoán, tương đương \"chưa chắc\". Thường đứng trước vị ngữ.",
+      "en": "\"未必\" is a negative adverb indicating uncertainty or that something is not necessarily the case. It negates an assumption or prediction, equivalent to \"not necessarily\". Usually placed before the predicate.",
+      "zh": "「未必」是否定副词，表示不确定、不一定如此，否定某种假设或预测，相当于“不一定”。常置于谓语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "这个消息未必可靠，咱们再等等吧。",
+        "pinyin": "Zhè ge xiāoxi wèibì kěkào, zánmen zài děng děng ba.",
+        "translation": {"vi": "Tin tức này chưa chắc đã đáng tin, chúng ta đợi thêm đã.", "en": "This news may not be reliable; let's wait a bit longer."}
+      },
+      {
+        "hanzi": "别等了，他未必会来。",
+        "pinyin": "Bié děng le, tā wèibì huì lái.",
+        "translation": {"vi": "Đừng đợi nữa, anh ấy chưa chắc đã đến.", "en": "Don't wait; he may not come."}
+      },
+      {
+        "hanzi": "价格贵的东西未必好。",
+        "pinyin": "Jiàgé guì de dōngxi wèibì hǎo.",
+        "translation": {"vi": "Những thứ đắt tiền chưa chắc đã tốt.", "en": "Expensive things are not necessarily good."}
+      }
+    ]
+  },
+  {
+    "id": "jihu",
+    "metadata": {
+      "id": "四11-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "情态副词"
+    },
+    "title": {
+      "vi": "Phó từ tình thái \"几乎\" (gần như, hầu như)",
+      "en": "Modal adverb \"几乎\" (almost, nearly)",
+      "zh": "情态副词「几乎」"
+    },
+    "structure": "几乎 + 动词短语",
+    "explanation": {
+      "vi": "\"几乎\" là phó từ tình thái, biểu thị mức độ gần như hoàn toàn, nhưng chưa đạt tới. Nó thường đứng trước động từ hoặc tính từ để chỉ sự sắp xảy ra hoặc gần đạt đến một mức độ nào đó.",
+      "en": "\"几乎\" is a modal adverb meaning \"almost\" or \"nearly\", indicating that something is close to happening or reaching a certain degree, but not completely. Usually precedes verbs or adjectives.",
+      "zh": "「几乎」是情态副词，表示“将近、差不多”，表明接近但未完全达到某种状态或程度。常置于动词或形容词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他的话我几乎都没听懂。",
+        "pinyin": "Tā de huà wǒ jīhū dōu méi tīng dǒng.",
+        "translation": {"vi": "Tôi gần như không hiểu gì lời anh ấy nói.", "en": "I almost didn't understand anything he said."}
+      },
+      {
+        "hanzi": "他几乎每天都会来。",
+        "pinyin": "Tā jīhū měitiān dōu huì lái.",
+        "translation": {"vi": "Anh ấy gần như ngày nào cũng đến.", "en": "He comes almost every day."}
+      },
+      {
+        "hanzi": "我几乎忘了这件事。",
+        "pinyin": "Wǒ jīhū wàng le zhè jiàn shì.",
+        "translation": {"vi": "Tôi gần như quên mất việc này.", "en": "I almost forgot about this matter."}
+      }
+    ]
+  },
+  {
+    "id": "sihu",
+    "metadata": {
+      "id": "四11-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "情态副词"
+    },
+    "title": {
+      "vi": "Phó từ tình thái \"似乎\" (dường như, hình như)",
+      "en": "Modal adverb \"似乎\" (seemingly, as if)",
+      "zh": "情态副词「似乎」"
+    },
+    "structure": "似乎 + 动词短语",
+    "explanation": {
+      "vi": "\"似乎\" là phó từ tình thái, biểu thị sự phỏng đoán hoặc cảm giác của người nói, tương đương \"dường như\". Nó thường đứng trước vị ngữ và có thể dùng với \"好像\".",
+      "en": "\"似乎\" is a modal adverb indicating the speaker's guess or feeling, equivalent to \"seemingly\" or \"as if\". Usually placed before the predicate, and can be used with \"好像\".",
+      "zh": "「似乎」是情态副词，表示推测或说话人的感觉，相当于“好像、仿佛”。常置于谓语前，可与“好像”连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "她似乎对自己的表现很不满意。",
+        "pinyin": "Tā sìhū duì zìjǐ de biǎoxiàn hěn bù mǎnyì.",
+        "translation": {"vi": "Cô ấy dường như không hài lòng với màn trình diễn của mình.", "en": "She seems very dissatisfied with her performance."}
+      },
+      {
+        "hanzi": "他似乎忘记了约会。",
+        "pinyin": "Tā sìhū wàngjì le yuēhuì.",
+        "translation": {"vi": "Anh ấy dường như quên cuộc hẹn.", "en": "He seems to have forgotten the appointment."}
+      },
+      {
+        "hanzi": "事情似乎没有想象的那么复杂。",
+        "pinyin": "Shìqing sìhū méiyǒu xiǎngxiàng de nàme fùzá.",
+        "translation": {"vi": "Mọi việc dường như không phức tạp như tưởng tượng.", "en": "The matter seems not as complicated as imagined."}
+      }
+    ]
+  },
+  {
+    "id": "dique",
+    "metadata": {
+      "id": "四12-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "语气副词"
+    },
+    "title": {
+      "vi": "Phó từ ngữ khí \"的确\" (thực sự, quả thực)",
+      "en": "Modal adverb \"的确\" (indeed, really)",
+      "zh": "语气副词「的确」"
+    },
+    "structure": "的确 + 动词短语",
+    "explanation": {
+      "vi": "\"的确\" là phó từ ngữ khí, khẳng định mạnh mẽ tính đúng đắn của một sự việc, tương đương \"thực sự, quả đúng\". Thường đứng trước vị ngữ để nhấn mạnh.",
+      "en": "\"的确\" is a modal adverb that strongly affirms the truth of a statement, equivalent to \"indeed\" or \"really\". Usually placed before the predicate for emphasis.",
+      "zh": "「的确」是语气副词，强调事情的真实性，相当于“确实、真的”。常置于谓语前以加强肯定语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "这的确是我的错。",
+        "pinyin": "Zhè díquè shì wǒ de cuò.",
+        "translation": {"vi": "Đây quả thực là lỗi của tôi.", "en": "This is indeed my fault."}
+      },
+      {
+        "hanzi": "他今天的确很累。",
+        "pinyin": "Tā jīntiān díquè hěn lèi.",
+        "translation": {"vi": "Hôm nay anh ấy thực sự rất mệt.", "en": "He is indeed very tired today."}
+      },
+      {
+        "hanzi": "这个城市的确很漂亮。",
+        "pinyin": "Zhè ge chéngshì díquè hěn piàoliang.",
+        "translation": {"vi": "Thành phố này quả thực rất đẹp.", "en": "This city is indeed very beautiful."}
+      }
+    ]
+  },
+  {
+    "id": "faner",
+    "metadata": {
+      "id": "四12-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "语气副词"
+    },
+    "title": {
+      "vi": "Phó từ ngữ khí \"反而\" (ngược lại, trái lại)",
+      "en": "Modal adverb \"反而\" (on the contrary, instead)",
+      "zh": "语气副词「反而」"
+    },
+    "structure": "反而 + 动词短语",
+    "explanation": {
+      "vi": "\"反而\" là phó từ ngữ khí, biểu thị kết quả ngược lại với điều mong đợi, tương đương \"ngược lại\". Nó thường đứng trước vị ngữ để nhấn mạnh sự đối lập.",
+      "en": "\"反而\" is a modal adverb indicating a result contrary to expectation, equivalent to \"on the contrary\" or \"instead\". Usually placed before the predicate to highlight contrast.",
+      "zh": "「反而」是语气副词，表示结果与预期相反，相当于“倒、反而”。常置于谓语前强调转折。"
+    },
+    "examples": [
+      {
+        "hanzi": "风不但没停，反而越来越大。",
+        "pinyin": "Fēng bùdàn méi tíng, fǎn'ér yuè lái yuè dà.",
+        "translation": {"vi": "Gió chẳng những không ngừng mà ngược lại càng lúc càng lớn.", "en": "The wind not only didn't stop, but on the contrary it got stronger."}
+      },
+      {
+        "hanzi": "我劝他，他反而生气了。",
+        "pinyin": "Wǒ quàn tā, tā fǎn'ér shēngqì le.",
+        "translation": {"vi": "Tôi khuyên anh ấy, anh ấy lại tức giận.", "en": "I advised him, but he got angry instead."}
+      },
+      {
+        "hanzi": "天冷了，他反而穿得更少。",
+        "pinyin": "Tiān lěng le, tā fǎn'ér chuān de gèng shǎo.",
+        "translation": {"vi": "Trời lạnh, anh ấy lại mặc ít hơn.", "en": "It got cold, but he wore even less instead."}
+      }
+    ]
+  },
+  {
+    "id": "hai4",
+    "metadata": {
+      "id": "四12-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "语气副词"
+    },
+    "title": {
+      "vi": "Phó từ ngữ khí \"还4\" (còn, vẫn, thậm chí)",
+      "en": "Modal adverb \"还\" (still, even, yet)",
+      "zh": "语气副词「还4」"
+    },
+    "structure": "还 + 动词短语",
+    "explanation": {
+      "vi": "\"还\" có nhiều cách dùng; trong trường hợp này, nó là phó từ ngữ khí biểu thị sự nhấn mạnh hoặc bổ sung, thường dùng để chỉ một điều bất ngờ hoặc nhấn mạnh mức độ. Có thể dịch là \"còn, vẫn, thậm chí\".",
+      "en": "\"还\" has multiple uses; here it is a modal adverb expressing emphasis or addition, often indicating surprise or highlighting degree. It can be translated as \"still, even, yet\".",
+      "zh": "「还」有多种用法；此处作为语气副词，表示强调或追加，常用来表示出乎意料或程度深，可译为“还、甚至”。"
+    },
+    "examples": [
+      {
+        "hanzi": "他还真有办法，问题马上就解决了。",
+        "pinyin": "Tā hái zhēn yǒu bànfǎ, wèntí mǎshàng jiù jiějué le.",
+        "translation": {"vi": "Anh ấy quả thực có cách, vấn đề đã được giải quyết ngay lập tức.", "en": "He really does have a way; the problem was solved immediately."}
+      },
+      {
+        "hanzi": "他比我还能吃。",
+        "pinyin": "Tā bǐ wǒ hái néng chī.",
+        "translation": {"vi": "Anh ấy còn ăn được hơn tôi.", "en": "He can eat even more than me."}
+      },
+      {
+        "hanzi": "你还别说，他真有两下子。",
+        "pinyin": "Nǐ hái bié shuō, tā zhēn yǒu liǎng xiàzi.",
+        "translation": {"vi": "Đừng nói gì nữa, anh ấy thực sự có tài.", "en": "Don't even say it; he really has some skill."}
+      }
+    ]
+  },
+  {
+    "id": "jingran",
+    "metadata": {
+      "id": "四12-04",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "语气副词"
+    },
+    "title": {
+      "vi": "Phó từ ngữ khí \"竟然\" (lại, bất ngờ)",
+      "en": "Modal adverb \"竟然\" (unexpectedly, to one's surprise)",
+      "zh": "语气副词「竟然」"
+    },
+    "structure": "竟然 + 动词短语",
+    "explanation": {
+      "vi": "\"竟然\" là phó từ ngữ khí biểu thị sự ngạc nhiên, bất ngờ trước một sự việc ngoài dự đoán, tương đương \"lại, không ngờ\". Thường đứng trước vị ngữ.",
+      "en": "\"竟然\" is a modal adverb expressing surprise or unexpectedness, equivalent to \"unexpectedly\" or \"to one's surprise\". Usually placed before the predicate.",
+      "zh": "「竟然」是语气副词，表示对出乎意料的事情感到惊讶，相当于“居然、竟然”。常置于谓语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "这道题很简单，同学们竟然都做错了。",
+        "pinyin": "Zhè dào tí hěn jiǎndān, tóngxuémen jìngrán dōu zuò cuò le.",
+        "translation": {"vi": "Câu hỏi này rất đơn giản, thế mà các bạn học đều làm sai.", "en": "This question is very simple, but unexpectedly all the students got it wrong."}
+      },
+      {
+        "hanzi": "他竟然不知道这件事。",
+        "pinyin": "Tā jìngrán bù zhīdào zhè jiàn shì.",
+        "translation": {"vi": "Anh ấy lại không biết chuyện này.", "en": "He unexpectedly didn't know about this."}
+      },
+      {
+        "hanzi": "外面下雨了，他竟然没带伞。",
+        "pinyin": "Wàimiàn xià yǔ le, tā jìngrán méi dài sǎn.",
+        "translation": {"vi": "Trời mưa rồi, thế mà anh ấy lại không mang ô.", "en": "It's raining outside, yet he didn't bring an umbrella."}
+      }
+    ]
+  },
+  {
+    "id": "jiujing",
+    "metadata": {
+      "id": "四12-05",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.4", "label": "副词"}
+      ],
+      "category": "语气副词"
+    },
+    "title": {
+      "vi": "Phó từ ngữ khí \"究竟\" (rốt cuộc, cuối cùng)",
+      "en": "Modal adverb \"究竟\" (after all, actually)",
+      "zh": "语气副词「究竟」"
+    },
+    "structure": "究竟 + 动词短语",
+    "explanation": {
+      "vi": "\"究竟\" là phó từ ngữ khí, dùng trong câu hỏi để nhấn mạnh sự tìm hiểu, thường mang nghĩa \"rốt cuộc, cuối cùng\". Nó cũng có thể dùng trong câu trần thuật để nhấn mạnh.",
+      "en": "\"究竟\" is a modal adverb used in questions to emphasize inquiry, often meaning \"after all\" or \"actually\". It can also be used in declarative sentences for emphasis.",
+      "zh": "「究竟」是语气副词，用于疑问句加强追问，意为“到底、究竟”。也可用于陈述句强调事实。"
+    },
+    "examples": [
+      {
+        "hanzi": "明天的晚会你究竟去不去？",
+        "pinyin": "Míngtiān de wǎnhuì nǐ jiūjìng qù bù qù?",
+        "translation": {"vi": "Tối mai bạn rốt cuộc có đi dự tiệc không?", "en": "Are you going to tomorrow's party after all?"}
+      },
+      {
+        "hanzi": "他究竟是谁？",
+        "pinyin": "Tā jiūjìng shì shéi?",
+        "translation": {"vi": "Anh ấy rốt cuộc là ai?", "en": "Who is he, actually?"}
+      },
+      {
+        "hanzi": "你究竟想干什么？",
+        "pinyin": "Nǐ jiūjìng xiǎng gàn shénme?",
+        "translation": {"vi": "Bạn rốt cuộc muốn làm gì?", "en": "What exactly do you want to do?"}
+      }
+    ]
+  },
+  {
+    "id": "zi",
+    "metadata": {
+      "id": "四13",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.5", "label": "介词"},
+        {"code": "A.4.1.5.1", "label": "引出时间、处所"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"自\" (từ, kể từ)",
+      "en": "Preposition \"自\" (from, since)",
+      "zh": "介词「自」"
+    },
+    "structure": "自 + 时间/地点",
+    "explanation": {
+      "vi": "\"自\" là giới từ dùng để chỉ điểm bắt đầu về thời gian hoặc địa điểm, tương đương \"từ\". Thường dùng trong văn viết hoặc formal, với các cụm từ như \"自…以来\".",
+      "en": "\"自\" is a preposition indicating the starting point of time or place, equivalent to \"from\" or \"since\". Often used in written or formal contexts, with phrases like \"自…以来\".",
+      "zh": "「自」是介词，表示时间或地点的起点，相当于“从、自从”。常用于书面语或正式场合，如“自…以来”。"
+    },
+    "examples": [
+      {
+        "hanzi": "自1978年以来，中国发生了很大的变化。",
+        "pinyin": "Zì 1978 nián yǐlái, Zhōngguó fāshēng le hěn dà de biànhuà.",
+        "translation": {"vi": "Từ năm 1978 đến nay, Trung Quốc đã có nhiều thay đổi lớn.", "en": "Since 1978, China has undergone great changes."}
+      },
+      {
+        "hanzi": "我们的航班准时自北京出发。",
+        "pinyin": "Wǒmen de hángbān zhǔnshí zì Běijīng chūfā.",
+        "translation": {"vi": "Chuyến bay của chúng tôi khởi hành từ Bắc Kinh đúng giờ.", "en": "Our flight departed from Beijing on time."}
+      },
+      {
+        "hanzi": "自那时起，他就离开了这里。",
+        "pinyin": "Zì nà shí qǐ, tā jiù líkāi le zhèlǐ.",
+        "translation": {"vi": "Từ lúc đó, anh ấy đã rời khỏi đây.", "en": "Since that time, he left here."}
+      }
+    ]
+  },
+  {
+    "id": "duiyu",
+    "metadata": {
+      "id": "四14",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.5", "label": "介词"},
+        {"code": "A.4.1.5.2", "label": "引出对象"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"对于\" (đối với)",
+      "en": "Preposition \"对于\" (regarding, concerning)",
+      "zh": "介词「对于」"
+    },
+    "structure": "对于 + 名词短语",
+    "explanation": {
+      "vi": "\"对于\" là giới từ dùng để giới thiệu đối tượng hoặc phạm vi của một hành động, thái độ, hoặc nhận xét, tương đương \"đối với\". Nó thường đứng đầu câu hoặc trước vị ngữ.",
+      "en": "\"对于\" is a preposition used to introduce the object or scope of an action, attitude, or comment, equivalent to \"regarding\" or \"concerning\". It often appears at the beginning of a sentence or before the predicate.",
+      "zh": "「对于」是介词，用于引出动作、态度或评论的对象或范围，相当于“对、对于”。常置于句首或谓语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "对于任何一种语言来说，文字的出现都是十分重要的。",
+        "pinyin": "Duìyú rènhé yī zhǒng yǔyán lái shuō, wénzì de chūxiàn dōu shì shífēn zhòngyào de.",
+        "translation": {"vi": "Đối với bất kỳ ngôn ngữ nào, sự xuất hiện của chữ viết đều rất quan trọng.", "en": "For any language, the emergence of writing is very important."}
+      },
+      {
+        "hanzi": "对于美术和音乐，她很有研究。",
+        "pinyin": "Duìyú měishù hé yīnyuè, tā hěn yǒu yánjiū.",
+        "translation": {"vi": "Đối với mỹ thuật và âm nhạc, cô ấy có nhiều nghiên cứu.", "en": "She has done a lot of research on art and music."}
+      },
+      {
+        "hanzi": "对于这个问题，我们还得认真讨论。",
+        "pinyin": "Duìyú zhè ge wèntí, wǒmen hái déi rènzhēn tǎolùn.",
+        "translation": {"vi": "Đối với vấn đề này, chúng ta còn phải thảo luận kỹ.", "en": "Regarding this issue, we still need to discuss it seriously."}
+      }
+    ]
+  },
+  {
+    "id": "guanyu",
+    "metadata": {
+      "id": "四15",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.5", "label": "介词"},
+        {"code": "A.4.1.5.2", "label": "引出对象"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"关于\" (về, liên quan đến)",
+      "en": "Preposition \"关于\" (about, concerning)",
+      "zh": "介词「关于」"
+    },
+    "structure": "关于 + 名词短语",
+    "explanation": {
+      "vi": "\"关于\" là giới từ giới thiệu chủ đề hoặc nội dung liên quan, tương đương \"về, đối với\". Nó thường đứng đầu câu để xác định phạm vi đề tài.",
+      "en": "\"关于\" is a preposition introducing a topic or related content, equivalent to \"about\" or \"concerning\". It often appears at the beginning of a sentence to define the topic scope.",
+      "zh": "「关于」是介词，用于引出话题或相关内容，相当于“关于、有关”。常置于句首以限定主题范围。"
+    },
+    "examples": [
+      {
+        "hanzi": "我读了几本关于环境保护的书。",
+        "pinyin": "Wǒ dú le jǐ běn guānyú huánjìng bǎohù de shū.",
+        "translation": {"vi": "Tôi đã đọc vài cuốn sách về bảo vệ môi trường.", "en": "I have read several books about environmental protection."}
+      },
+      {
+        "hanzi": "关于明天的考试，学校做了具体的规定。",
+        "pinyin": "Guānyú míngtiān de kǎoshì, xuéxiào zuò le jùtǐ de guīdìng.",
+        "translation": {"vi": "Về kỳ thi ngày mai, nhà trường đã có quy định cụ thể.", "en": "Regarding tomorrow's exam, the school has made specific regulations."}
+      },
+      {
+        "hanzi": "这是一部关于战争的电影。",
+        "pinyin": "Zhè shì yī bù guānyú zhànzhēng de diànyǐng.",
+        "translation": {"vi": "Đây là một bộ phim về chiến tranh.", "en": "This is a movie about war."}
+      }
+    ]
+  },
+  {
+    "id": "ti",
+    "metadata": {
+      "id": "四16",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.5", "label": "介词"},
+        {"code": "A.4.1.5.2", "label": "引出对象"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"替\" (thay cho, vì)",
+      "en": "Preposition \"替\" (for, on behalf of)",
+      "zh": "介词「替」"
+    },
+    "structure": "替 + 名词/代词 + 动词",
+    "explanation": {
+      "vi": "\"替\" là giới từ biểu thị hành động thay mặt hoặc vì lợi ích của ai đó, tương đương \"thay cho, vì\". Nó thường đứng trước đối tượng và động từ.",
+      "en": "\"替\" is a preposition indicating doing something on behalf of or for someone's benefit, equivalent to \"for\" or \"on behalf of\". It usually precedes the object and verb.",
+      "zh": "「替」是介词，表示代替或为某人做某事，相当于“替、为”。常置于对象和动词之间。"
+    },
+    "examples": [
+      {
+        "hanzi": "你别替我担心了，我自己处理。",
+        "pinyin": "Nǐ bié tì wǒ dānxīn le, wǒ zìjǐ chǔlǐ.",
+        "translation": {"vi": "Bạn đừng lo lắng thay tôi nữa, tôi tự xử lý.", "en": "Don't worry about me; I'll handle it myself."}
+      },
+      {
+        "hanzi": "取得这么好的成绩，大家都替你感到高兴。",
+        "pinyin": "Qǔdé zhème hǎo de chéngjī, dàjiā dōu tì nǐ gǎndào gāoxìng.",
+        "translation": {"vi": "Đạt thành tích tốt như vậy, mọi người đều vui thay cho bạn.", "en": "Everyone is happy for you on achieving such good results."}
+      },
+      {
+        "hanzi": "他替我去参加婚礼。",
+        "pinyin": "Tā tì wǒ qù cānjiā hūnlǐ.",
+        "translation": {"vi": "Anh ấy đi dự đám cưới thay tôi.", "en": "He went to the wedding on my behalf."}
+      }
+    ]
+  },
+  {
+    "id": "genju",
+    "metadata": {
+      "id": "四17",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.5", "label": "介词"},
+        {"code": "A.4.1.5.3", "label": "引出凭借、依据"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"根据\" (căn cứ vào)",
+      "en": "Preposition \"根据\" (according to, based on)",
+      "zh": "介词「根据」"
+    },
+    "structure": "根据 + 名词短语",
+    "explanation": {
+      "vi": "\"根据\" là giới từ biểu thị căn cứ hoặc cơ sở cho một hành động hoặc quyết định, tương đương \"dựa vào, căn cứ vào\". Thường đứng đầu câu hoặc trước vị ngữ.",
+      "en": "\"根据\" is a preposition indicating the basis or foundation for an action or decision, equivalent to \"according to\" or \"based on\". Often at the beginning of a sentence or before the predicate.",
+      "zh": "「根据」是介词，表示动作或决定的依据，相当于“根据、按照”。常置于句首或谓语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "学校根据学生的中文水平分班。",
+        "pinyin": "Xuéxiào gēnjù xuésheng de zhōngwén shuǐpíng fēn bān.",
+        "translation": {"vi": "Nhà trường phân lớp theo trình độ tiếng Trung của học sinh.", "en": "The school divides classes according to students' Chinese proficiency."}
+      },
+      {
+        "hanzi": "根据大家的意见，我们修改了计划。",
+        "pinyin": "Gēnjù dàjiā de yìjiàn, wǒmen xiūgǎi le jìhuà.",
+        "translation": {"vi": "Theo ý kiến của mọi người, chúng tôi đã sửa đổi kế hoạch.", "en": "According to everyone's opinions, we revised the plan."}
+      },
+      {
+        "hanzi": "根据天气预报，明天有雨。",
+        "pinyin": "Gēnjù tiānqì yùbào, míngtiān yǒu yǔ.",
+        "translation": {"vi": "Theo dự báo thời tiết, ngày mai có mưa.", "en": "According to the weather forecast, it will rain tomorrow."}
+      }
+    ]
+  },
+  {
+    "id": "zuowei",
+    "metadata": {
+      "id": "四18",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.5", "label": "介词"},
+        {"code": "A.4.1.5.3", "label": "引出凭借、依据"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Giới từ \"作为\" (với tư cách là, là)",
+      "en": "Preposition \"作为\" (as, in the capacity of)",
+      "zh": "介词「作为」"
+    },
+    "structure": "作为 + 名词短语",
+    "explanation": {
+      "vi": "\"作为\" là giới từ biểu thị vai trò hoặc tư cách, tương đương \"với tư cách là, là\". Nó thường đứng trước danh từ chỉ chức vụ, thân phận.",
+      "en": "\"作为\" is a preposition indicating a role or capacity, equivalent to \"as\" or \"in the capacity of\". It often precedes nouns denoting positions or identities.",
+      "zh": "「作为」是介词，表示角色或身份，相当于“作为”。常置于身份、职位类名词前。"
+    },
+    "examples": [
+      {
+        "hanzi": "他作为教师代表参加了这次会议。",
+        "pinyin": "Tā zuòwéi jiàoshī dàibiǎo cānjiā le zhè cì huìyì.",
+        "translation": {"vi": "Anh ấy với tư cách đại diện giáo viên đã tham dự cuộc họp này.", "en": "He attended the meeting as a teacher representative."}
+      },
+      {
+        "hanzi": "作为学生，你应该按时完成作业。",
+        "pinyin": "Zuòwéi xuéshēng, nǐ yīnggāi ànshí wánchéng zuòyè.",
+        "translation": {"vi": "Là học sinh, bạn nên hoàn thành bài tập đúng hạn.", "en": "As a student, you should finish homework on time."}
+      },
+      {
+        "hanzi": "作为中国人，我热爱我的祖国。",
+        "pinyin": "Zuòwéi zhōngguó rén, wǒ rè'ài wǒ de zǔguó.",
+        "translation": {"vi": "Là người Trung Quốc, tôi yêu quê hương mình.", "en": "As a Chinese, I love my homeland."}
+      }
+    ]
+  },
+  {
+    "id": "bing2",
+    "metadata": {
+      "id": "四19-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接词或词组"
+    },
+    "title": {
+      "vi": "Liên từ \"并²\" (và, đồng thời)",
+      "en": "Conjunction \"并²\" (and, also)",
+      "zh": "连词「并²」"
+    },
+    "structure": "并 + 动词短语",
+    "explanation": {
+      "vi": "\"并\" là liên từ dùng để nối hai động từ hoặc cụm động từ, biểu thị hai hành động đồng thời hoặc bổ sung cho nhau. Thường dùng trong văn viết.",
+      "en": "\"并\" is a conjunction used to connect two verbs or verb phrases, indicating simultaneous or complementary actions. Often used in written language.",
+      "zh": "「并」是连词，连接两个动词或动词短语，表示并列或递进关系。常用于书面语。"
+    },
+    "examples": [
+      {
+        "hanzi": "他们同意并支持我们的建议。",
+        "pinyin": "Tāmen tóngyì bìng zhīchí wǒmen de jiànyì.",
+        "translation": {"vi": "Họ đồng ý và ủng hộ đề xuất của chúng tôi.", "en": "They agreed and supported our proposal."}
+      },
+      {
+        "hanzi": "公司决定裁员并重组部门。",
+        "pinyin": "Gōngsī juédìng cáiyuán bìng chóngzǔ bùmén.",
+        "translation": {"vi": "Công ty quyết định sa thải và tái cơ cấu các bộ phận.", "en": "The company decided to lay off staff and restructure departments."}
+      },
+      {
+        "hanzi": "他走进教室并坐下。",
+        "pinyin": "Tā zǒu jìn jiàoshì bìng zuòxià.",
+        "translation": {"vi": "Anh ấy bước vào lớp học và ngồi xuống.", "en": "He walked into the classroom and sat down."}
+      }
+    ]
+  },
+  {
+    "id": "yiji",
+    "metadata": {
+      "id": "四19-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接词或词组"
+    },
+    "title": {
+      "vi": "Liên từ \"以及\" (và, cùng với)",
+      "en": "Conjunction \"以及\" (and, as well as)",
+      "zh": "连词「以及」"
+    },
+    "structure": "名词 + 以及 + 名词",
+    "explanation": {
+      "vi": "\"以及\" là liên từ dùng để nối các danh từ hoặc cụm danh từ, biểu thị sự liệt kê, tương tự \"và\" nhưng thường dùng cho danh sách dài hoặc văn viết.",
+      "en": "\"以及\" is a conjunction used to connect nouns or noun phrases, indicating listing, similar to \"and\" but often used for longer lists or in written language.",
+      "zh": "「以及」是连词，用于连接名词或名词性短语，表示列举，相当于“和、以及”。常用于书面语或较长列表。"
+    },
+    "examples": [
+      {
+        "hanzi": "小王、小李以及另外三名同学都通过了考试。",
+        "pinyin": "Xiǎo Wáng, Xiǎo Lǐ yǐjí lìngwài sān míng tóngxué dōu tōngguò le kǎoshì.",
+        "translation": {"vi": "Tiểu Vương, Tiểu Lý cùng ba bạn khác đều đã vượt qua kỳ thi.", "en": "Xiao Wang, Xiao Li, and three other classmates all passed the exam."}
+      },
+      {
+        "hanzi": "我喜欢吃水果以及蔬菜。",
+        "pinyin": "Wǒ xǐhuān chī shuǐguǒ yǐjí shūcài.",
+        "translation": {"vi": "Tôi thích ăn hoa quả và rau xanh.", "en": "I like eating fruits as well as vegetables."}
+      },
+      {
+        "hanzi": "公司需要招聘会计、销售以及管理人员。",
+        "pinyin": "Gōngsī xūyào zhāopìn kuàijì, xiāoshòu yǐjí guǎnlǐ rényuán.",
+        "translation": {"vi": "Công ty cần tuyển kế toán, nhân viên bán hàng và nhân viên quản lý.", "en": "The company needs to hire accountants, sales staff, as well as management personnel."}
+      }
+    ]
+  },
+  {
+    "id": "ciwai",
+    "metadata": {
+      "id": "四20-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"此外\" (ngoài ra, hơn nữa)",
+      "en": "Conjunction \"此外\" (besides, in addition)",
+      "zh": "连词「此外」"
+    },
+    "structure": "此外， + 分句",
+    "explanation": {
+      "vi": "\"此外\" là liên từ dùng để thêm thông tin bổ sung, tương đương \"ngoài ra, hơn nữa\". Thường đứng ở đầu câu hoặc sau dấu chấm để nối hai ý.",
+      "en": "\"此外\" is a conjunction used to add supplementary information, equivalent to \"besides\" or \"in addition\". Often placed at the beginning of a sentence or after a period to connect ideas.",
+      "zh": "「此外」是连词，用于补充额外信息，相当于“此外、另外”。常置于句首或句号后连接两层意思。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们要认真听讲，此外还要积极完成作业。",
+        "pinyin": "Wǒmen yào rènzhēn tīngjiǎng, cǐwài hái yào jījí wánchéng zuòyè.",
+        "translation": {"vi": "Chúng ta cần nghe giảng nghiêm túc, ngoài ra còn phải tích cực hoàn thành bài tập.", "en": "We should listen attentively; in addition, we need to actively finish homework."}
+      },
+      {
+        "hanzi": "这家饭店的菜很好吃。此外，服务也很好。",
+        "pinyin": "Zhè jiā fàndiàn de cài hěn hǎochī. Cǐwài, fúwù yě hěn hǎo.",
+        "translation": {"vi": "Đồ ăn của nhà hàng này rất ngon. Ngoài ra, dịch vụ cũng rất tốt.", "en": "The food at this restaurant is very good. Besides, the service is also very good."}
+      },
+      {
+        "hanzi": "此外，还要注意安全问题。",
+        "pinyin": "Cǐwài, hái yào zhùyì ānquán wèntí.",
+        "translation": {"vi": "Ngoài ra, còn phải chú ý vấn đề an toàn.", "en": "In addition, we must pay attention to safety issues."}
+      }
+    ]
+  },
+  {
+    "id": "er1",
+    "metadata": {
+      "id": "四20-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"而1\" (còn, nhưng)",
+      "en": "Conjunction \"而\" (while, yet)",
+      "zh": "连词「而1」"
+    },
+    "structure": "……，而……",
+    "explanation": {
+      "vi": "\"而\" là liên từ biểu thị quan hệ tương phản hoặc bổ sung, tương đương \"còn, nhưng\". Nó nối hai vế có ý nghĩa đối lập hoặc làm rõ sự khác biệt.",
+      "en": "\"而\" is a conjunction expressing contrast or addition, equivalent to \"while\" or \"yet\". It connects two clauses with opposing or contrasting meanings.",
+      "zh": "「而」是连词，表示对比或补充关系，相当于“而、可是”。连接两个意义相对或对照的分句。"
+    },
+    "examples": [
+      {
+        "hanzi": "为什么北方下雪越来越少，而南方下雪越来越多？",
+        "pinyin": "Wèishéme běifāng xià xuě yuè lái yuè shǎo, ér nánfāng xià xuě yuè lái yuè duō?",
+        "translation": {"vi": "Tại sao miền Bắc tuyết ngày càng ít, còn miền Nam tuyết lại ngày càng nhiều?", "en": "Why does it snow less and less in the north, while it snows more and more in the south?"}
+      },
+      {
+        "hanzi": "他喜欢游泳，而我喜欢跑步。",
+        "pinyin": "Tā xǐhuān yóuyǒng, ér wǒ xǐhuān pǎobù.",
+        "translation": {"vi": "Anh ấy thích bơi, còn tôi thích chạy bộ.", "en": "He likes swimming, while I like running."}
+      },
+      {
+        "hanzi": "这件事看起来简单，而做起来很难。",
+        "pinyin": "Zhè jiàn shì kàn qǐlai jiǎndān, ér zuò qǐlai hěn nán.",
+        "translation": {"vi": "Việc này trông có vẻ đơn giản, nhưng làm thì rất khó.", "en": "This task seems simple, yet it is difficult to do."}
+      }
+    ]
+  },
+  {
+    "id": "ershi",
+    "metadata": {
+      "id": "四20-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"而是\" (mà là)",
+      "en": "Conjunction \"而是\" (but rather)",
+      "zh": "连词「而是」"
+    },
+    "structure": "不是……，而是……",
+    "explanation": {
+      "vi": "\"而是\" được dùng trong cấu trúc \"不是……，而是……\" để phủ định một điều và khẳng định điều khác, tương đương \"mà là, chứ không phải\". Thường nối hai vế có quan hệ đối lập.",
+      "en": "\"而是\" is used in the structure \"不是……，而是……\" to negate one thing and affirm another, equivalent to \"but rather\". It connects two contrasting clauses.",
+      "zh": "「而是」用于“不是……，而是……”结构中，否定前者而肯定后者，相当于“而是”。连接两个对立的分句。"
+    },
+    "examples": [
+      {
+        "hanzi": "我不是不想去，而是没时间。",
+        "pinyin": "Wǒ bú shì bù xiǎng qù, ér shì méi shíjiān.",
+        "translation": {"vi": "Tôi không phải không muốn đi, mà là không có thời gian.", "en": "It's not that I don't want to go, but rather I don't have time."}
+      },
+      {
+        "hanzi": "这不是我的书，而是他的。",
+        "pinyin": "Zhè bú shì wǒ de shū, ér shì tā de.",
+        "translation": {"vi": "Đây không phải sách của tôi, mà là của anh ấy.", "en": "This is not my book, but his."}
+      },
+      {
+        "hanzi": "这件事错的不是我，而是他。",
+        "pinyin": "Zhè jiàn shì cuò de bú shì wǒ, ér shì tā.",
+        "translation": {"vi": "Việc này sai không phải tại tôi, mà là tại anh ấy.", "en": "It's not my fault, but his."}
+      }
+    ]
+  },
+  {
+    "id": "jiran",
+    "metadata": {
+      "id": "四20-04",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"既然\" (vì, do)",
+      "en": "Conjunction \"既然\" (since, now that)",
+      "zh": "连词「既然」"
+    },
+    "structure": "既然……，就……",
+    "explanation": {
+      "vi": "\"既然\" là liên từ biểu thị nguyên nhân hoặc điều kiện, dùng để đưa ra một lý do đã biết, từ đó rút ra kết luận. Thường đi với \"就\" ở vế sau.",
+      "en": "\"既然\" is a conjunction indicating a known reason or condition, used to introduce a premise and draw a conclusion. Often paired with \"就\" in the second clause.",
+      "zh": "「既然」是连词，表示已知的原因或条件，引出前提和结论。常与“就”搭配。"
+    },
+    "examples": [
+      {
+        "hanzi": "既然这事你已经决定了，我就不说什么了。",
+        "pinyin": "Jìrán zhè shì nǐ yǐjīng juédìng le, wǒ jiù bù shuō shénme le.",
+        "translation": {"vi": "Vì bạn đã quyết định việc này rồi, tôi sẽ không nói gì thêm.", "en": "Since you have already decided on this matter, I won't say anything."}
+      },
+      {
+        "hanzi": "既然外面下雨了，我们就明天再去吧。",
+        "pinyin": "Jìrán wàimiàn xià yǔ le, wǒmen jiù míngtiān zài qù ba.",
+        "translation": {"vi": "Vì trời đang mưa, chúng ta đi vào ngày mai vậy.", "en": "Since it's raining outside, let's go tomorrow instead."}
+      },
+      {
+        "hanzi": "既然你来了，就一起吃饭吧。",
+        "pinyin": "Jìrán nǐ lái le, jiù yīqǐ chīfàn ba.",
+        "translation": {"vi": "Vì bạn đã đến, hãy ăn cơm cùng nhau đi.", "en": "Now that you're here, let's have a meal together."}
+      }
+    ]
+  },
+  {
+    "id": "kejian",
+    "metadata": {
+      "id": "四20-05",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"可见\" (có thể thấy, vì vậy)",
+      "en": "Conjunction \"可见\" (so, therefore, it can be seen)",
+      "zh": "连词「可见」"
+    },
+    "structure": "……，可见……",
+    "explanation": {
+      "vi": "\"可见\" là liên từ kết luận, biểu thị từ lý lẽ dẫn đến kết luận, tương đương \"có thể thấy, vì vậy\". Nó thường đứng giữa hai vế, vế trước là lý do, vế sau là kết luận.",
+      "en": "\"可见\" is a conclusive conjunction indicating that from the argument, a conclusion follows, equivalent to \"so\" or \"therefore\". The first clause provides the reason, the second the conclusion.",
+      "zh": "「可见」是结论连词，表示由前提推出结论，相当于“可见、因此”。前一分句是理由，后一分句是结论。"
+    },
+    "examples": [
+      {
+        "hanzi": "他的中文水平很高，可见他在留学期间学习是多么努力。",
+        "pinyin": "Tā de zhōngwén shuǐpíng hěn gāo, kějiàn tā zài liúxué qījiān xuéxí shì duōme nǔlì.",
+        "translation": {"vi": "Trình độ tiếng Trung của anh ấy rất cao, có thể thấy anh ấy đã học hành chăm chỉ trong thời gian du học như thế nào.", "en": "His Chinese level is very high, so it can be seen how hard he studied during his time abroad."}
+      },
+      {
+        "hanzi": "他在我困难的时候一直帮助我，可见他是我多么好的朋友。",
+        "pinyin": "Tā zài wǒ kùnnan de shíhou yīzhí bāngzhù wǒ, kějiàn tā shì wǒ duōme hǎo de péngyou.",
+        "translation": {"vi": "Anh ấy luôn giúp đỡ tôi khi tôi gặp khó khăn, có thể thấy anh ấy là người bạn tốt của tôi.", "en": "He has always helped me in times of difficulty, so it can be seen what a good friend he is to me."}
+      },
+      {
+        "hanzi": "大家都笑了，可见他讲的笑话很有趣。",
+        "pinyin": "Dàjiā dōu xiào le, kějiàn tā jiǎng de xiàohua hěn yǒuqù.",
+        "translation": {"vi": "Mọi người đều cười, có thể thấy câu chuyện cười của anh ấy rất thú vị.", "en": "Everyone laughed, so it can be seen that his joke was very funny."}
+      }
+    ]
+  },
+  {
+    "id": "shenzhi",
+    "metadata": {
+      "id": "四20-06",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"甚至\" (thậm chí)",
+      "en": "Conjunction \"甚至\" (even, so much so that)",
+      "zh": "连词「甚至」"
+    },
+    "structure": "……，甚至……",
+    "explanation": {
+      "vi": "\"甚至\" là liên từ biểu thị sự nhấn mạnh hoặc mức độ cao hơn, thường dùng để nêu một trường hợp điển hình hoặc vượt quá mong đợi, tương đương \"thậm chí\".",
+      "en": "\"甚至\" is a conjunction indicating emphasis or a higher degree, often used to cite an extreme or unexpected case, equivalent to \"even\" or \"so much so that\".",
+      "zh": "「甚至」是连词，表示程度更高或强调，常用于引出极端或超乎预期的例子，相当于“甚至、甚至于”。"
+    },
+    "examples": [
+      {
+        "hanzi": "他什么都不会，甚至连最简单的汉字也写不了。",
+        "pinyin": "Tā shénme dōu bù huì, shènzhì lián zuì jiǎndān de hànzì yě xiě bù liǎo.",
+        "translation": {"vi": "Anh ấy chẳng biết gì cả, thậm chí ngay cả chữ Hán đơn giản nhất cũng không viết được.", "en": "He can't do anything, even the simplest Chinese characters he can't write."}
+      },
+      {
+        "hanzi": "她病得很严重，甚至要做手术。",
+        "pinyin": "Tā bìng de hěn yánzhòng, shènzhì yào zuò shǒushù.",
+        "translation": {"vi": "Cô ấy bệnh rất nặng, thậm chí phải phẫu thuật.", "en": "She is very ill, so much so that she needs surgery."}
+      },
+      {
+        "hanzi": "妈妈真的很生气，甚至晚饭都没有吃。",
+        "pinyin": "Māma zhēn de hěn shēngqì, shènzhì wǎnfàn dōu méiyǒu chī.",
+        "translation": {"vi": "Mẹ thực sự rất giận, thậm chí còn không ăn tối.", "en": "Mom was really angry, she even didn't eat dinner."}
+      }
+    ]
+  },
+  {
+    "id": "jiaru",
+    "metadata": {
+      "id": "四20-07",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"假如\" (nếu, giả sử)",
+      "en": "Conjunction \"假如\" (if, supposing)",
+      "zh": "连词「假如」"
+    },
+    "structure": "假如……，就……",
+    "explanation": {
+      "vi": "\"假如\" là liên từ biểu thị điều kiện giả định, tương đương \"nếu\". Nó dùng để đưa ra một giả thuyết và kết quả có thể xảy ra. Thường đi với \"就\" ở vế sau.",
+      "en": "\"假如\" is a conjunction expressing hypothetical condition, equivalent to \"if\". It introduces a hypothesis and its possible outcome. Often paired with \"就\".",
+      "zh": "「假如」是连词，表示假设条件，相当于“如果”。用于提出假想及其可能的结果，常与“就”搭配。"
+    },
+    "examples": [
+      {
+        "hanzi": "假如有困难，你一定要告诉我。",
+        "pinyin": "Jiǎrú yǒu kùnnan, nǐ yīdìng yào gàosu wǒ.",
+        "translation": {"vi": "Nếu có khó khăn, bạn nhất định phải nói với tôi.", "en": "If you have any difficulties, you must tell me."}
+      },
+      {
+        "hanzi": "假如能通过这个考试，我就可以拿到学校的奖学金了。",
+        "pinyin": "Jiǎrú néng tōngguò zhè ge kǎoshì, wǒ jiù kěyǐ ná dào xuéxiào de jiǎngxuéjīn le.",
+        "translation": {"vi": "Nếu có thể vượt qua kỳ thi này, tôi có thể nhận được học bổng của trường.", "en": "If I can pass this exam, I can get the school scholarship."}
+      },
+      {
+        "hanzi": "假如明天下雨，我们就不去公园了。",
+        "pinyin": "Jiǎrú míngtiān xià yǔ, wǒmen jiù bù qù gōngyuán le.",
+        "translation": {"vi": "Nếu ngày mai trời mưa, chúng ta sẽ không đi công viên.", "en": "If it rains tomorrow, we won't go to the park."}
+      }
+    ]
+  },
+  {
+    "id": "zongzhi",
+    "metadata": {
+      "id": "四20-08",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.6", "label": "连词"}
+      ],
+      "category": "连接分句或句子"
+    },
+    "title": {
+      "vi": "Liên từ \"总之\" (tóm lại, nói chung)",
+      "en": "Conjunction \"总之\" (in a word, in short)",
+      "zh": "连词「总之」"
+    },
+    "structure": "总之，……",
+    "explanation": {
+      "vi": "\"总之\" là liên từ tóm tắt, dùng để tổng kết các ý đã nêu trước đó, đưa ra kết luận chung, tương đương \"tóm lại\". Thường đứng đầu câu hoặc sau dấu chấm.",
+      "en": "\"总之\" is a summarizing conjunction used to conclude or summarize previous points, equivalent to \"in short\" or \"in a word\". Often placed at the beginning of a sentence or after a period.",
+      "zh": "「总之」是总结连词，用于总结之前提到的要点，给出总体结论，相当于“总之、总而言之”。常置于句首或句号后。"
+    },
+    "examples": [
+      {
+        "hanzi": "听说重要，读写也很重要，总之，这四项能力都很重要。",
+        "pinyin": "Tīng shuō zhòngyào, dú xiě yě hěn zhòngyào, zǒngzhī, zhè sì xiàng nénglì dōu hěn zhòngyào.",
+        "translation": {"vi": "Nghe nói quan trọng, đọc viết cũng quan trọng, tóm lại, bốn kỹ năng này đều quan trọng.", "en": "Listening and speaking are important, reading and writing are also important; in short, all four skills are very important."}
+      },
+      {
+        "hanzi": "总之，我们要努力工作，认真学习。",
+        "pinyin": "Zǒngzhī, wǒmen yào nǔlì gōngzuò, rènzhēn xuéxí.",
+        "translation": {"vi": "Tóm lại, chúng ta phải làm việc chăm chỉ, học tập nghiêm túc.", "en": "In short, we should work hard and study seriously."}
+      },
+      {
+        "hanzi": "总之，这是一个好机会。",
+        "pinyin": "Zǒngzhī, zhè shì yī gè hǎo jīhuì.",
+        "translation": {"vi": "Tóm lại, đây là một cơ hội tốt.", "en": "In short, this is a good opportunity."}
+      }
+    ]
+  },
+  {
+    "id": "side",
+    "metadata": {
+      "id": "四21",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.7", "label": "助词"}
+      ],
+      "category": "其他助词"
+    },
+    "title": {
+      "vi": "Trợ từ \"似的\" (như là, giống như)",
+      "en": "Particle \"似的\" (like, as if)",
+      "zh": "助词「似的」"
+    },
+    "structure": "名词/动词短语 + 似的",
+    "explanation": {
+      "vi": "\"似的\" là trợ từ dùng để so sánh, biểu thị sự tương tự hoặc giống như, tương đương \"như, giống như\". Nó thường đứng sau danh từ hoặc cụm động từ, có thể kết hợp với \"像\" ở phía trước.",
+      "en": "\"似的\" is a particle used for comparison, indicating similarity or likeness, equivalent to \"like\" or \"as if\". It usually follows a noun or verb phrase and can be used with \"像\" before it.",
+      "zh": "「似的」是助词，用于比喻，表示相似或如同，相当于“像……一样”。常置于名词或动词短语后，可与“像”连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "她俩好像从来没见过似的。",
+        "pinyin": "Tā liǎ hǎoxiàng cónglái méi jiàn guò shìde.",
+        "translation": {"vi": "Hai cô ấy trông như chưa từng gặp nhau vậy.", "en": "The two of them acted as if they had never met before."}
+      },
+      {
+        "hanzi": "这里的景色像画儿似的。",
+        "pinyin": "Zhèlǐ de jǐngsè xiàng huàr shìde.",
+        "translation": {"vi": "Cảnh vật ở đây đẹp như tranh vẽ.", "en": "The scenery here is like a painting."}
+      },
+      {
+        "hanzi": "他的中文说得跟中国人似的。",
+        "pinyin": "Tā de zhōngwén shuō de gēn zhōngguó rén shìde.",
+        "translation": {"vi": "Anh ấy nói tiếng Trung như người Trung Quốc vậy.", "en": "He speaks Chinese like a native Chinese person."}
+      },
+      {
+        "hanzi": "他高兴得像个孩子似的。",
+        "pinyin": "Tā gāoxìng de xiàng gè háizi shìde.",
+        "translation": {"vi": "Anh ấy vui mừng như một đứa trẻ.", "en": "He is as happy as a child."}
+      }
+    ]
+  },
+  {
+    "id": "a2",
+    "metadata": {
+      "id": "四22",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.1", "label": "词类"},
+        {"code": "A.4.1.8", "label": "叹词"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Thán từ \"啊2\" (ồ, à)",
+      "en": "Interjection \"啊\" (ah, oh)",
+      "zh": "叹词「啊2」"
+    },
+    "structure": "啊 + 句子",
+    "explanation": {
+      "vi": "\"啊\" là thán từ dùng để bộc lộ cảm xúc như ngạc nhiên, nhận ra, hoặc cảm thán. Tùy vào ngữ điệu, nó có thể biểu thị sự kinh ngạc, hiểu ra, hoặc thán phục.",
+      "en": "\"啊\" is an interjection expressing emotions such as surprise, realization, or admiration. Depending on intonation, it can indicate astonishment, understanding, or praise.",
+      "zh": "「啊」是叹词，用于表达惊讶、恍然大悟或感叹等情绪。根据语调可表示诧异、明白或赞叹。"
+    },
+    "examples": [
+      {
+        "hanzi": "啊，你怎么在这里？",
+        "pinyin": "À, nǐ zěnme zài zhèlǐ?",
+        "translation": {"vi": "Ồ, sao bạn lại ở đây?", "en": "Oh, why are you here?"}
+      },
+      {
+        "hanzi": "啊，我明白了。",
+        "pinyin": "À, wǒ míngbai le.",
+        "translation": {"vi": "À, tôi hiểu rồi.", "en": "Ah, I see."}
+      },
+      {
+        "hanzi": "啊！太美了！",
+        "pinyin": "À! Tài měi le!",
+        "translation": {"vi": "Ôi! Đẹp quá!", "en": "Ah! So beautiful!"}
+      },
+      {
+        "hanzi": "啊，原来是你！",
+        "pinyin": "À, yuánlái shì nǐ!",
+        "translation": {"vi": "Ồ, thì ra là bạn!", "en": "Oh, it's you!"}
+      }
+    ]
+  },
+  {
+    "id": "da-a-da-b",
+    "metadata": {
+      "id": "四23",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.2", "label": "短语"},
+        {"code": "A.4.2.1", "label": "固定短语"},
+        {"code": "A.4.2.1.1", "label": "四字格"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ cố định \"大A大B\" (rất A rất B)",
+      "en": "Fixed phrase \"大A大B\" (very A and B)",
+      "zh": "固定短语「大A大B」"
+    },
+    "structure": "大 + A + 大 + B",
+    "explanation": {
+      "vi": "\"大A大B\" là cụm từ cố định bốn chữ, trong đó A và B thường là động từ hoặc tính từ, biểu thị hành động hoặc trạng thái ở mức độ lớn hoặc mạnh. Thường dùng trong khẩu ngữ.",
+      "en": "\"大A大B\" is a fixed four-character phrase, where A and B are often verbs or adjectives, indicating actions or states at a high degree. Commonly used in spoken Chinese.",
+      "zh": "「大A大B」是四字固定短语，A和B多为动词或形容词，表示动作或状态程度深，常用于口语。"
+    },
+    "examples": [
+      {
+        "hanzi": "你这大吃大喝的毛病对身体不好，一定要改改。",
+        "pinyin": "Nǐ zhè dà chī dà hē de máobing duì shēntǐ bù hǎo, yīdìng yào gǎi gǎi.",
+        "translation": {"vi": "Cái tật ăn uống thả cửa này của bạn có hại cho sức khỏe, nhất định phải sửa.", "en": "Your habit of eating and drinking excessively is bad for your health; you must change it."}
+      },
+      {
+        "hanzi": "她心情不好，为一点儿小事就大吵大闹。",
+        "pinyin": "Tā xīnqíng bù hǎo, wèi yīdiǎnr xiǎo shì jiù dà chǎo dà nào.",
+        "translation": {"vi": "Cô ấy tâm trạng không tốt, chỉ vì một chuyện nhỏ mà đã làm ầm lên.", "en": "She's in a bad mood and makes a big fuss over small matters."}
+      },
+      {
+        "hanzi": "他大摇大摆地走进来。",
+        "pinyin": "Tā dà yáo dà bǎi de zǒu jìnlái.",
+        "translation": {"vi": "Anh ấy bước vào một cách phách lối.", "en": "He walked in with a swagger."}
+      }
+    ]
+  },
+  {
+    "id": "yi-a-yi-b",
+    "metadata": {
+      "id": "四24",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.2", "label": "短语"},
+        {"code": "A.4.2.1", "label": "固定短语"},
+        {"code": "A.4.2.1.1", "label": "四字格"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ cố định \"一A一B\" (mỗi cái một ít)",
+      "en": "Fixed phrase \"一A一B\" (one by one, each a bit)",
+      "zh": "固定短语「一A一B」"
+    },
+    "structure": "一 + A + 一 + B",
+    "explanation": {
+      "vi": "\"一A一B\" là cụm từ cố định bốn chữ, biểu thị mỗi loại một ít hoặc từng cái một. A và B thường là danh từ hoặc động từ chỉ vật nhỏ, số lượng ít.",
+      "en": "\"一A一B\" is a fixed four-character phrase indicating each kind a little or one by one. A and B are often nouns or verbs referring to small items or actions.",
+      "zh": "「一A一B」是四字固定短语，表示每种一点或逐一进行。A和B多为名词或动词，指代小物件或动作。"
+    },
+    "examples": [
+      {
+        "hanzi": "这是别人的东西，我们一针一线都不能拿。",
+        "pinyin": "Zhè shì biérén de dōngxi, wǒmen yī zhēn yī xiàn dōu bùnéng ná.",
+        "translation": {"vi": "Đây là đồ của người khác, chúng ta không được lấy dù chỉ một sợi chỉ.", "en": "These are others' things; we cannot take even a needle or thread."}
+      },
+      {
+        "hanzi": "他一五一十地把情况汇报给了老师。",
+        "pinyin": "Tā yī wǔ yī shí de bǎ qíngkuàng huìbào gěi le lǎoshī.",
+        "translation": {"vi": "Anh ấy báo cáo tình hình một cách tỉ mỉ với thầy giáo.", "en": "He reported the situation to the teacher in detail (one by one)."}
+      },
+      {
+        "hanzi": "他一个劲儿地解释。",
+        "pinyin": "Tā yī gè jìnr de jiěshì.",
+        "translation": {"vi": "Anh ấy giải thích không ngừng.", "en": "He kept explaining without stopping."}
+      }
+    ]
+  },
+  {
+    "id": "kanlai",
+    "metadata": {
+      "id": "四25",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.2", "label": "短语"},
+        {"code": "A.4.2.1", "label": "固定短语"},
+        {"code": "A.4.2.1.2", "label": "其他"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ cố định \"看来\" (có vẻ, xem ra)",
+      "en": "Fixed phrase \"看来\" (it seems, apparently)",
+      "zh": "固定短语「看来」"
+    },
+    "structure": "看来 + 分句",
+    "explanation": {
+      "vi": "\"看来\" là cụm từ cố định dùng để đưa ra nhận xét hoặc dự đoán dựa trên quan sát, tương đương \"có vẻ, xem ra\". Thường đứng đầu câu.",
+      "en": "\"看来\" is a fixed phrase used to give an opinion or prediction based on observation, equivalent to \"it seems\" or \"apparently\". Often placed at the beginning of a sentence.",
+      "zh": "「看来」是固定短语，用于根据观察提出看法或推测，相当于“看起来、看样子”。常置于句首。"
+    },
+    "examples": [
+      {
+        "hanzi": "看来他是个好人。",
+        "pinyin": "Kànlái tā shì gè hǎo rén.",
+        "translation": {"vi": "Có vẻ anh ấy là người tốt.", "en": "It seems he is a good person."}
+      },
+      {
+        "hanzi": "看来明天不会再下雨了。",
+        "pinyin": "Kànlái míngtiān bù huì zài xià yǔ le.",
+        "translation": {"vi": "Xem ra ngày mai sẽ không mưa nữa.", "en": "Apparently it won't rain again tomorrow."}
+      },
+      {
+        "hanzi": "看来这次考试他能通过。",
+        "pinyin": "Kànlái zhè cì kǎoshì tā néng tōngguò.",
+        "translation": {"vi": "Có vẻ kỳ thi này anh ấy có thể qua.", "en": "It seems he can pass this exam."}
+      },
+      {
+        "hanzi": "看来你不太同意。",
+        "pinyin": "Kànlái nǐ bù tài tóngyì.",
+        "translation": {"vi": "Có vẻ bạn không đồng ý lắm.", "en": "It seems you don't quite agree."}
+      }
+    ]
+  },
+  {
+    "id": "laideji",
+    "metadata": {
+      "id": "四26",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.2", "label": "短语"},
+        {"code": "A.4.2.1", "label": "固定短语"},
+        {"code": "A.4.2.1.2", "label": "其他"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ cố định \"来得及/来不及\" (kịp/không kịp)",
+      "en": "Fixed phrase \"来得及/来不及\" (to have enough time / not enough time)",
+      "zh": "固定短语「来得及/来不及」"
+    },
+    "structure": "（不）来得及 + 动词短语",
+    "explanation": {
+      "vi": "\"来得及\" nghĩa là có đủ thời gian để làm gì, \"来不及\" nghĩa là không đủ thời gian. Cụm này thường đứng trước động từ hoặc đứng riêng để trả lời câu hỏi.",
+      "en": "\"来得及\" means there is enough time to do something, \"来不及\" means there isn't. These phrases often precede a verb or stand alone as a response.",
+      "zh": "「来得及」表示有时间做某事，「来不及」表示时间不够。常置于动词前或单独作答。"
+    },
+    "examples": [
+      {
+        "hanzi": "你别着急，时间来得及。",
+        "pinyin": "Nǐ bié zhāojí, shíjiān láidejí.",
+        "translation": {"vi": "Đừng vội, vẫn còn kịp thời gian.", "en": "Don't worry, there's still enough time."}
+      },
+      {
+        "hanzi": "现在刚六点半，你马上去还来得及。",
+        "pinyin": "Xiànzài gāng liù diǎn bàn, nǐ mǎshàng qù hái láidejí.",
+        "translation": {"vi": "Bây giờ mới sáu rưỡi, bạn đi ngay vẫn còn kịp.", "en": "It's only 6:30 now; if you go right away, you'll still be on time."}
+      },
+      {
+        "hanzi": "来不及了，我们快走吧。",
+        "pinyin": "Láibují le, wǒmen kuài zǒu ba.",
+        "translation": {"vi": "Không kịp nữa rồi, chúng ta đi nhanh thôi.", "en": "There's no time left; let's go quickly."}
+      },
+      {
+        "hanzi": "时间还早，不会来不及的。",
+        "pinyin": "Shíjiān hái zǎo, bù huì láibují de.",
+        "translation": {"vi": "Thời gian vẫn còn sớm, sẽ không bị trễ đâu.", "en": "It's still early; there won't be a problem with time."}
+      }
+    ]
+  },
+  {
+    "id": "shuobuding",
+    "metadata": {
+      "id": "四27",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.2", "label": "短语"},
+        {"code": "A.4.2.1", "label": "固定短语"},
+        {"code": "A.4.2.1.2", "label": "其他"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ cố định \"说不定\" (chưa biết chừng, có lẽ)",
+      "en": "Fixed phrase \"说不定\" (maybe, perhaps)",
+      "zh": "固定短语「说不定」"
+    },
+    "structure": "说不定 + 分句",
+    "explanation": {
+      "vi": "\"说不定\" là cụm từ cố định biểu thị khả năng có thể xảy ra, nhưng không chắc chắn, tương đương \"biết đâu, có lẽ\". Thường đứng đầu câu.",
+      "en": "\"说不定\" is a fixed phrase expressing possibility but not certainty, equivalent to \"maybe\" or \"perhaps\". Often placed at the beginning of a sentence.",
+      "zh": "「说不定」是固定短语，表示可能但不确定，相当于“也许、可能”。常置于句首。"
+    },
+    "examples": [
+      {
+        "hanzi": "下雨了，说不定他今天不来了。",
+        "pinyin": "Xià yǔ le, shuōbudìng tā jīntiān bù lái le.",
+        "translation": {"vi": "Trời mưa rồi, biết đâu hôm nay anh ấy không đến.", "en": "It's raining; perhaps he won't come today."}
+      },
+      {
+        "hanzi": "这件事说不定就是他干的。",
+        "pinyin": "Zhè jiàn shì shuōbudìng jiù shì tā gàn de.",
+        "translation": {"vi": "Việc này biết đâu chính là anh ấy làm.", "en": "Maybe he is the one who did this."}
+      },
+      {
+        "hanzi": "今年能不能去中国现在还说不定。",
+        "pinyin": "Jīnnián néng bùnéng qù Zhōngguó xiànzài hái shuōbudìng.",
+        "translation": {"vi": "Năm nay có đi được Trung Quốc hay không còn chưa chắc.", "en": "Whether we can go to China this year is still uncertain."}
+      },
+      {
+        "hanzi": "他说不定已经走了。",
+        "pinyin": "Tā shuōbudìng yǐjīng zǒu le.",
+        "translation": {"vi": "Có lẽ anh ấy đã đi rồi.", "en": "Maybe he has already left."}
+      }
+    ]
+  },
+  {
+    "id": "yibanshuolai",
+    "metadata": {
+      "id": "四28",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.2", "label": "短语"},
+        {"code": "A.4.2.1", "label": "固定短语"},
+        {"code": "A.4.2.1.2", "label": "其他"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm từ cố định \"一般来说\" (nói chung, thông thường)",
+      "en": "Fixed phrase \"一般来说\" (generally speaking)",
+      "zh": "固定短语「一般来说」"
+    },
+    "structure": "一般来说，……",
+    "explanation": {
+      "vi": "\"一般来说\" là cụm từ cố định dùng để giới thiệu một nhận định chung hoặc quy luật thông thường, tương đương \"nói chung\". Thường đứng đầu câu.",
+      "en": "\"一般来说\" is a fixed phrase used to introduce a general statement or common rule, equivalent to \"generally speaking\". Often placed at the beginning of a sentence.",
+      "zh": "「一般来说」是固定短语，用于引出普遍情况或一般规律，相当于“通常来说”。常置于句首。"
+    },
+    "examples": [
+      {
+        "hanzi": "一般来说，选手参加了比赛是不能退出的。",
+        "pinyin": "Yībān lái shuō, xuǎnshǒu cānjiā le bǐsài shì bùnéng tuìchū de.",
+        "translation": {"vi": "Nói chung, vận động viên đã tham gia giải thì không được rút lui.", "en": "Generally speaking, athletes who have entered a competition cannot withdraw."}
+      },
+      {
+        "hanzi": "一般来说，这么重要的场合他是不会迟到的。",
+        "pinyin": "Yībān lái shuō, zhème zhòngyào de chǎnghé tā shì bù huì chídào de.",
+        "translation": {"vi": "Thông thường, trong dịp quan trọng như thế này anh ấy sẽ không đến muộn.", "en": "Generally speaking, he wouldn't be late on such an important occasion."}
+      },
+      {
+        "hanzi": "一般来说，跟青年人相比，老年人的经验更丰富。",
+        "pinyin": "Yībān lái shuō, gēn qīngnián rén xiāng bǐ, lǎonián rén de jīngyàn gèng fēngfù.",
+        "translation": {"vi": "Nói chung, so với thanh niên, người lớn tuổi có kinh nghiệm phong phú hơn.", "en": "Generally speaking, compared with young people, older people have more experience."}
+      }
+    ]
+  },
+  {
+    "id": "yiliangci-bi-yiliangci",
+    "metadata": {
+      "id": "四29",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.3", "label": "固定格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu cố định \"一+量词+比+一+量词\" (cái này hơn cái kia)",
+      "en": "Fixed structure \"一+量词+比+一+量词\" (one ... than the other)",
+      "zh": "固定格式「一+量词+比+一+量词」"
+    },
+    "structure": "一 + 量词 + 比 + 一 + 量词 + 形容词",
+    "explanation": {
+      "vi": "Kết cấu này dùng để so sánh các đối tượng trong cùng một loại, nhấn mạnh sự khác biệt ngày càng tăng hoặc mức độ. Có thể dịch là \"mỗi ... đều hơn ...\". Lượng từ có thể là 个, 本, 次, 天, v.v.",
+      "en": "This structure is used to compare objects of the same kind, emphasizing increasing differences or degrees. It can be translated as \"each one is ... than the previous one\". The measure word can be 个, 本, 次, 天, etc.",
+      "zh": "该结构用于同类事物的递进比较，强调一个比一个更……。量词可以是“个、本、次、天”等。"
+    },
+    "examples": [
+      {
+        "hanzi": "这些球鞋一双比一双好看。",
+        "pinyin": "Zhèxiē qiúxié yī shuāng bǐ yī shuāng hǎokàn.",
+        "translation": {"vi": "Những đôi giày thể thao này đôi nào cũng đẹp hơn đôi trước.", "en": "These sneakers are each nicer than the last."}
+      },
+      {
+        "hanzi": "他的演出一次比一次精彩。",
+        "pinyin": "Tā de yǎnchū yī cì bǐ yī cì jīngcǎi.",
+        "translation": {"vi": "Màn trình diễn của anh ấy lần nào cũng hay hơn lần trước.", "en": "His performances are each more exciting than the last."}
+      },
+      {
+        "hanzi": "天气一天比一天暖和。",
+        "pinyin": "Tiānqì yī tiān bǐ yī tiān nuǎnhuo.",
+        "translation": {"vi": "Thời tiết ngày càng ấm hơn.", "en": "The weather is getting warmer day by day."}
+      },
+      {
+        "hanzi": "这本书一本比一本厚。",
+        "pinyin": "Zhè běn shū yī běn bǐ yī běn hòu.",
+        "translation": {"vi": "Cuốn sách này cuốn sau dày hơn cuốn trước.", "en": "Each book is thicker than the previous one."}
+      }
+    ]
+  },
+  {
+    "id": "zi-yilai",
+    "metadata": {
+      "id": "四30",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.3", "label": "固定格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu cố định \"（自）····以来\" (từ ... đến nay)",
+      "en": "Fixed structure \"（自）····以来\" (since ...)",
+      "zh": "固定格式「（自）····以来」"
+    },
+    "structure": "（自）+ 时间 + 以来",
+    "explanation": {
+      "vi": "Kết cấu này dùng để chỉ thời gian từ một mốc nào đó cho đến nay. Có thể thêm \"自\" để nhấn mạnh. Cụm \"...以来\" thường đứng đầu câu hoặc sau trạng ngữ thời gian.",
+      "en": "This structure indicates a time period from a certain point until now. \"自\" can be added for emphasis. The phrase \"...以来\" often appears at the beginning of a sentence or after a time adverbial.",
+      "zh": "该结构表示从某个时间点至今。可加“自”强调。“……以来”常置于句首或时间状语后。"
+    },
+    "examples": [
+      {
+        "hanzi": "自去年以来，我一直生活在北京。",
+        "pinyin": "Zì qùnián yǐlái, wǒ yīzhí shēnghuó zài Běijīng.",
+        "translation": {"vi": "Từ năm ngoái đến nay, tôi sống ở Bắc Kinh.", "en": "Since last year, I have been living in Beijing."}
+      },
+      {
+        "hanzi": "上大学以来，他一直坚持学习中文。",
+        "pinyin": "Shàng dàxué yǐlái, tā yīzhí jiānchí xuéxí zhōngwén.",
+        "translation": {"vi": "Từ khi vào đại học, anh ấy luôn kiên trì học tiếng Trung.", "en": "Since entering university, he has persisted in learning Chinese."}
+      },
+      {
+        "hanzi": "自有了孩子以来，她每天都很忙。",
+        "pinyin": "Zì yǒu le háizi yǐlái, tā měitiān dōu hěn máng.",
+        "translation": {"vi": "Từ khi có con, cô ấy ngày nào cũng bận rộn.", "en": "Since having a child, she has been busy every day."}
+      },
+      {
+        "hanzi": "开学以来，我交了很多朋友。",
+        "pinyin": "Kāixué yǐlái, wǒ jiāo le hěnduō péngyou.",
+        "translation": {"vi": "Từ khi khai giảng đến nay, tôi đã kết bạn được nhiều người.", "en": "Since the semester started, I have made many friends."}
+      }
+    ]
+  },
+  {
+    "id": "you-zucheng",
+    "metadata": {
+      "id": "四31",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.3", "label": "固定格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu cố định \"由·………··组成\" (được cấu tạo bởi)",
+      "en": "Fixed structure \"由…组成\" (be composed of, consist of)",
+      "zh": "固定格式「由…组成」"
+    },
+    "structure": "由 + 组成部分 + 组成",
+    "explanation": {
+      "vi": "Kết cấu này dùng để chỉ ra các thành phần cấu tạo nên một tổng thể. Thường dùng trong văn viết hoặc giải thích cấu trúc.",
+      "en": "This structure is used to indicate the components that make up a whole. Often used in written or explanatory contexts.",
+      "zh": "该结构用于说明整体的组成部分，常用于书面语或解释性文本。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们班由两位老师和二十位学生组成。",
+        "pinyin": "Wǒmen bān yóu liǎng wèi lǎoshī hé èrshí wèi xuésheng zǔchéng.",
+        "translation": {"vi": "Lớp chúng tôi gồm hai giáo viên và hai mươi học sinh.", "en": "Our class is composed of two teachers and twenty students."}
+      },
+      {
+        "hanzi": "这篇文章由三个部分组成。",
+        "pinyin": "Zhè piān wénzhāng yóu sān gè bùfen zǔchéng.",
+        "translation": {"vi": "Bài viết này gồm ba phần.", "en": "This article consists of three parts."}
+      },
+      {
+        "hanzi": "这张试卷是由十道选择题和一道写作题组成的。",
+        "pinyin": "Zhè zhāng shìjuàn shì yóu shí dào xuǎnzé tí hé yī dào xiězuò tí zǔchéng de.",
+        "translation": {"vi": "Đề thi này gồm mười câu trắc nghiệm và một câu viết luận.", "en": "This exam paper consists of ten multiple-choice questions and one essay question."}
+      },
+      {
+        "hanzi": "这个团队由不同专业的人组成。",
+        "pinyin": "Zhè ge tuánduì yóu bùtóng zhuānyè de rén zǔchéng.",
+        "translation": {"vi": "Nhóm này được tạo thành từ những người thuộc các chuyên ngành khác nhau.", "en": "This team is composed of people from different majors."}
+      }
+    ]
+  },
+  {
+    "id": "zai-fangmian",
+    "metadata": {
+      "id": "四32",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.3", "label": "固定格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu cố định \"在····方面\" (về mặt, trong lĩnh vực)",
+      "en": "Fixed structure \"在…方面\" (in terms of, regarding)",
+      "zh": "固定格式「在…方面」"
+    },
+    "structure": "在 + 名词 + 方面",
+    "explanation": {
+      "vi": "Kết cấu này dùng để xác định phạm vi hoặc lĩnh vực đang được đề cập, tương đương \"về mặt, trong lĩnh vực\". Thường đứng đầu câu hoặc trước vị ngữ.",
+      "en": "This structure is used to specify the scope or field being discussed, equivalent to \"in terms of\" or \"regarding\". Often placed at the beginning of a sentence or before the predicate.",
+      "zh": "该结构用于限定讨论的范围或领域，相当于“在……方面”。常置于句首或谓语前。"
+    },
+    "examples": [
+      {
+        "hanzi": "在这方面，我没有什么经验。",
+        "pinyin": "Zài zhè fāngmiàn, wǒ méiyǒu shénme jīngyàn.",
+        "translation": {"vi": "Về mặt này, tôi không có kinh nghiệm gì.", "en": "In this regard, I have no experience."}
+      },
+      {
+        "hanzi": "在历史方面，他知道得很多。",
+        "pinyin": "Zài lìshǐ fāngmiàn, tā zhīdào de hěnduō.",
+        "translation": {"vi": "Về lịch sử, anh ấy biết rất nhiều.", "en": "In history, he knows a lot."}
+      },
+      {
+        "hanzi": "在修理电脑方面，她是个专家。",
+        "pinyin": "Zài xiūlǐ diànnǎo fāngmiàn, tā shì gè zhuānjiā.",
+        "translation": {"vi": "Về sửa chữa máy tính, cô ấy là một chuyên gia.", "en": "In computer repair, she is an expert."}
+      },
+      {
+        "hanzi": "在学习中文方面，我还有很长的路要走。",
+        "pinyin": "Zài xuéxí zhōngwén fāngmiàn, wǒ hái yǒu hěn cháng de lù yào zǒu.",
+        "translation": {"vi": "Về học tiếng Trung, tôi còn một chặng đường dài phải đi.", "en": "In learning Chinese, I still have a long way to go."}
+      }
+    ]
+  },
+  {
+    "id": "zai-shang-xi-xia-zhong",
+    "metadata": {
+      "id": "四33",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.3", "label": "固定格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu cố định \"在····上/下/中\" (trên/dưới/trong)",
+      "en": "Fixed structure \"在…上/下/中\" (on/under/in the context of)",
+      "zh": "固定格式「在…上/下/中」"
+    },
+    "structure": "在 + 名词 + 上/下/中",
+    "explanation": {
+      "vi": "Kết cấu này dùng để chỉ phạm vi, tình huống hoặc khía cạnh cụ thể. \"上\" thường chỉ về mặt, lĩnh vực; \"下\" chỉ điều kiện, tác động; \"中\" chỉ trong quá trình, trong số. Rất linh hoạt.",
+      "en": "This structure indicates a specific scope, situation, or aspect. \"上\" often refers to aspects or fields; \"下\" refers to conditions or influences; \"中\" refers to processes or among a group. Very flexible.",
+      "zh": "该结构表示特定的范围、情况或方面。“上”常指方面、领域；“下”指条件、影响；“中”指过程、之中。用法灵活。"
+    },
+    "examples": [
+      {
+        "hanzi": "在这件事情上，最好多听听父母的意见。",
+        "pinyin": "Zài zhè jiàn shìqing shàng, zuìhǎo duō tīng tīng fùmǔ de yìjiàn.",
+        "translation": {"vi": "Về việc này, tốt nhất nên nghe ý kiến của bố mẹ nhiều hơn.", "en": "On this matter, it's best to listen more to your parents' opinions."}
+      },
+      {
+        "hanzi": "在他的影响下，我喜欢上了中文。",
+        "pinyin": "Zài tā de yǐngxiǎng xià, wǒ xǐhuān shàng le zhōngwén.",
+        "translation": {"vi": "Dưới ảnh hưởng của anh ấy, tôi đã yêu thích tiếng Trung.", "en": "Under his influence, I developed a liking for Chinese."}
+      },
+      {
+        "hanzi": "在这篇课文中，我们一共学了三十个生词。",
+        "pinyin": "Zài zhè piān kèwén zhōng, wǒmen yīgòng xué le sānshí gè shēngcí.",
+        "translation": {"vi": "Trong bài học này, chúng ta đã học tổng cộng ba mươi từ mới.", "en": "In this lesson, we learned a total of thirty new words."}
+      },
+      {
+        "hanzi": "在工作中，他非常认真。",
+        "pinyin": "Zài gōngzuò zhōng, tā fēicháng rènzhēn.",
+        "translation": {"vi": "Trong công việc, anh ấy rất nghiêm túc.", "en": "At work, he is very serious."}
+      }
+    ]
+  },
+  {
+    "id": "zhuwei-duanyu-zuo-zhuyu",
+    "metadata": {
+      "id": "四34",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.4", "label": "句子成分"},
+        {"code": "A.4.4.1", "label": "主语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cụm chủ vị làm chủ ngữ",
+      "en": "Subject-predicate phrase as subject",
+      "zh": "主谓短语作主语"
+    },
+    "structure": "（主语 + 谓语） + 谓语",
+    "explanation": {
+      "vi": "Trong tiếng Trung, một cụm chủ vị có thể làm chủ ngữ cho câu. Chủ ngữ này thường là một sự kiện hoặc tình huống, và vị ngữ của câu chính sẽ đánh giá hoặc mô tả sự kiện đó.",
+      "en": "In Chinese, a subject-predicate phrase can serve as the subject of a sentence. This subject often represents an event or situation, and the main predicate will comment on or describe that event.",
+      "zh": "汉语中，主谓短语可以充当句子的主语。这种主语通常表示一个事件或情况，句子的谓语对事件进行评价或描述。"
+    },
+    "examples": [
+      {
+        "hanzi": "他不去也可以。",
+        "pinyin": "Tā bù qù yě kěyǐ.",
+        "translation": {"vi": "Anh ấy không đi cũng được.", "en": "It's okay if he doesn't go."}
+      },
+      {
+        "hanzi": "身体健康很重要。",
+        "pinyin": "Shēntǐ jiànkāng hěn zhòngyào.",
+        "translation": {"vi": "Sức khỏe tốt rất quan trọng.", "en": "Good health is very important."}
+      },
+      {
+        "hanzi": "我参加中文水平考试是为了获得奖学金去中国留学。",
+        "pinyin": "Wǒ cānjiā zhōngwén shuǐpíng kǎoshì shì wèile huòdé jiǎngxuéjīn qù Zhōngguó liúxué.",
+        "translation": {"vi": "Tôi tham gia kỳ thi năng lực tiếng Trung là để nhận học bổng đi du học Trung Quốc.", "en": "I take the Chinese proficiency test in order to get a scholarship to study in China."}
+      },
+      {
+        "hanzi": "他这么努力让我们很感动。",
+        "pinyin": "Tā zhème nǔlì ràng wǒmen hěn gǎndòng.",
+        "translation": {"vi": "Anh ấy nỗ lực như vậy làm chúng tôi cảm động.", "en": "His hard work moves us deeply."}
+      }
+    ]
+  },
+  {
+    "id": "shoushi-zhuyu",
+    "metadata": {
+      "id": "四35",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.4", "label": "句子成分"},
+        {"code": "A.4.4.1", "label": "主语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Chủ ngữ chịu tác động (受事主语)",
+      "en": "Subject as recipient of action (patient subject)",
+      "zh": "受事主语"
+    },
+    "structure": "受事主语 + 谓语",
+    "explanation": {
+      "vi": "Trong tiếng Trung, chủ ngữ có thể là đối tượng chịu tác động của hành động, tức là \"受事主语\". Đây là cách để nhấn mạnh đối tượng bị tác động thay vì người thực hiện. Thường dùng với động từ có kết quả hoặc bổ ngữ.",
+      "en": "In Chinese, the subject can be the receiver of the action, known as a \"patient subject\". This is a way to emphasize the object affected rather than the doer. Often used with resultative complements or complements.",
+      "zh": "汉语中，主语可以是受事者，称为“受事主语”。这种用法强调遭受动作的对象而非施事者。常与结果补语或补语连用。"
+    },
+    "examples": [
+      {
+        "hanzi": "饭都吃光了。",
+        "pinyin": "Fàn dōu chī guāng le.",
+        "translation": {"vi": "Cơm đã ăn hết sạch.", "en": "All the rice has been eaten up."}
+      },
+      {
+        "hanzi": "作业我做完了。",
+        "pinyin": "Zuòyè wǒ zuò wán le.",
+        "translation": {"vi": "Bài tập tôi đã làm xong.", "en": "I have finished the homework."}
+      },
+      {
+        "hanzi": "这本书我已经看过三遍了。",
+        "pinyin": "Zhè běn shū wǒ yǐjīng kàn guò sān biàn le.",
+        "translation": {"vi": "Cuốn sách này tôi đã đọc ba lần rồi.", "en": "I have read this book three times already."}
+      },
+      {
+        "hanzi": "房间被打扫干净了。",
+        "pinyin": "Fángjiān bèi dǎsǎo gānjìng le.",
+        "translation": {"vi": "Căn phòng đã được dọn sạch.", "en": "The room has been cleaned up."}
+      }
+    ]
+  },
+  {
+    "id": "duoxiang-dingyu",
+    "metadata": {
+      "id": "四36",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.4", "label": "句子成分"},
+        {"code": "A.4.4.2", "label": "定语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Định ngữ kết hợp nhiều loại (多项定语)",
+      "en": "Multiple attributives",
+      "zh": "多项定语"
+    },
+    "structure": "（限定词 + 数量 + 形容词 + 名词等） + 中心语",
+    "explanation": {
+      "vi": "Khi có nhiều định ngữ cùng bổ nghĩa cho một danh từ, chúng thường theo thứ tự: quan hệ sở hữu, số lượng, tính chất, màu sắc, hình dạng, chất liệu, v.v. Thường dùng \"的\" để phân cách.",
+      "en": "When multiple attributives modify a noun, they usually follow this order: possessive, quantity, quality, color, shape, material, etc. \"的\" is often used to separate them.",
+      "zh": "多个定语修饰一个名词时，通常按顺序：领属、数量、性质、颜色、形状、材料等。常用“的”隔开。"
+    },
+    "examples": [
+      {
+        "hanzi": "我有一条漂亮的红围巾。",
+        "pinyin": "Wǒ yǒu yī tiáo piàoliang de hóng wéijīn.",
+        "translation": {"vi": "Tôi có một chiếc khăn quàng cổ màu đỏ đẹp.", "en": "I have a beautiful red scarf."}
+      },
+      {
+        "hanzi": "我那两件白色长衬衫放在哪里了？",
+        "pinyin": "Wǒ nà liǎng jiàn báisè cháng chènshān fàng zài nǎlǐ le?",
+        "translation": {"vi": "Hai chiếc áo sơ mi trắng dài của tôi để ở đâu rồi?", "en": "Where are my two white long shirts?"}
+      },
+      {
+        "hanzi": "那位戴着眼镜的白头发高个子老人就是我们的校长。",
+        "pinyin": "Nà wèi dài zhe yǎnjìng de bái tóufa gāo gèzi lǎorén jiù shì wǒmen de xiàozhǎng.",
+        "translation": {"vi": "Cụ già tóc bạc, cao, đeo kính đó chính là hiệu trưởng của chúng tôi.", "en": "The tall, white-haired old man wearing glasses is our principal."}
+      },
+      {
+        "hanzi": "她是一位年轻漂亮的女老师。",
+        "pinyin": "Tā shì yī wèi niánqīng piàoliang de nǚ lǎoshī.",
+        "translation": {"vi": "Cô ấy là một cô giáo trẻ đẹp.", "en": "She is a young and beautiful female teacher."}
+      }
+    ]
+  },
+  {
+    "id": "quxiang-buyu-3",
+    "metadata": {
+      "id": "四37",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.4", "label": "句子成分"},
+        {"code": "A.4.4.3", "label": "补语"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Bổ ngữ xu hướng (nghĩa mở rộng)",
+      "en": "Directional complement (extended meaning)",
+      "zh": "趋向补语3"
+    },
+    "structure": "动词 + 上/出/起/下",
+    "explanation": {
+      "vi": "Bổ ngữ xu hướng trong trường hợp này không chỉ hướng di chuyển mà còn mang nghĩa mở rộng: \"上\" = hoàn thành, đạt được; \"出\" = xuất hiện, phát hiện; \"起\" = khởi đầu, nhớ lại; \"下\" = lưu lại, để lại. Chúng thường đi sau động từ.",
+      "en": "Directional complements here have extended meanings: \"上\" = completion or achievement; \"出\" = emergence or discovery; \"起\" = start or recall; \"下\" = leaving or keeping. They follow the verb.",
+      "zh": "趋向补语在此有引申义：“上”表示完成、达到；“出”表示出现、发现；“起”表示开始、想起；“下”表示留下、保存。常位于动词后。"
+    },
+    "examples": [
+      {
+        "hanzi": "请同学们离开教室时关上窗户。",
+        "pinyin": "Qǐng tóngxuémen líkāi jiàoshì shí guān shàng chuānghu.",
+        "translation": {"vi": "Các bạn học sinh vui lòng đóng cửa sổ khi rời lớp.", "en": "Students, please close the windows when you leave the classroom."}
+      },
+      {
+        "hanzi": "他向父母说出了自己的愿望。",
+        "pinyin": "Tā xiàng fùmǔ shuō chū le zìjǐ de yuànwàng.",
+        "translation": {"vi": "Anh ấy đã nói ra nguyện vọng của mình với bố mẹ.", "en": "He told his parents his wish."}
+      },
+      {
+        "hanzi": "他终于想起了当时的情况。",
+        "pinyin": "Tā zhōngyú xiǎng qǐ le dāngshí de qíngkuàng.",
+        "translation": {"vi": "Cuối cùng anh ấy đã nhớ lại tình hình lúc đó.", "en": "He finally recalled the situation at that time."}
+      },
+      {
+        "hanzi": "他们建立起了亲密的朋友关系。",
+        "pinyin": "Tāmen jiànlì qǐ le qīnmì de péngyou guānxì.",
+        "translation": {"vi": "Họ đã thiết lập được mối quan hệ bạn bè thân thiết.", "en": "They established a close friendship."}
+      },
+      {
+        "hanzi": "请留下你的地址和手机号。",
+        "pinyin": "Qǐng liú xià nǐ de dìzhǐ hé shǒujī hào.",
+        "translation": {"vi": "Xin hãy để lại địa chỉ và số điện thoại của bạn.", "en": "Please leave your address and phone number."}
+      }
+    ]
+  },
+  {
+    "id": "ba-zi-ju-2-1",
+    "metadata": {
+      "id": "四38-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "“把”字句2"
+    },
+    "title": {
+      "vi": "Câu \"把\" (cách dùng 2) - động từ lặp lại",
+      "en": "\"把\" sentence (usage 2) - verb repetition",
+      "zh": "「把」字句2 - 动词重叠"
+    },
+    "structure": "主语 + 把 + 宾语 + 动词（+了）+ 动词",
+    "explanation": {
+      "vi": "Trong cấu trúc này, động từ được lặp lại để nhấn mạnh hành động diễn ra nhanh chóng hoặc nhẹ nhàng. Thường dùng trong khẩu ngữ. Ví dụ: \"把地扫扫\" (quét qua loa).",
+      "en": "In this structure, the verb is repeated to emphasize that the action is done quickly or lightly. Often used in spoken Chinese. Example: \"把地扫扫\" (sweep the floor casually).",
+      "zh": "该结构中动词重叠，表示动作短暂或轻松。常用于口语。如“把地扫扫”。"
+    },
+    "examples": [
+      {
+        "hanzi": "同学们再把试卷检查检查。",
+        "pinyin": "Tóngxuémen zài bǎ shìjuàn jiǎnchá jiǎnchá.",
+        "translation": {"vi": "Các bạn hãy kiểm tra lại bài thi một chút.", "en": "Students, please check the exam paper again."}
+      },
+      {
+        "hanzi": "你把地扫扫，我把桌子擦一擦。",
+        "pinyin": "Nǐ bǎ dì sǎosǎo, wǒ bǎ zhuōzi cā yī cā.",
+        "translation": {"vi": "Bạn quét sàn nhà, tôi lau bàn.", "en": "You sweep the floor, and I'll wipe the table."}
+      },
+      {
+        "hanzi": "他把冬天的衣服晒了晒，收在箱子里。",
+        "pinyin": "Tā bǎ dōngtiān de yīfu shài le shài, shōu zài xiāngzi lǐ.",
+        "translation": {"vi": "Anh ấy đã phơi quần áo mùa đông một chút, rồi cất vào vali.", "en": "He aired out the winter clothes a bit and put them in the suitcase."}
+      }
+    ]
+  },
+  {
+    "id": "ba-zi-ju-2-2",
+    "metadata": {
+      "id": "四38-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "“把”字句2"
+    },
+    "title": {
+      "vi": "Câu \"把\" (cách dùng 2) - với 了/着",
+      "en": "\"把\" sentence (usage 2) - with 了/着",
+      "zh": "「把」字句2 - 带「了/着」"
+    },
+    "structure": "主语 + 把 + 宾语（+给）+ 动词 + 了/着",
+    "explanation": {
+      "vi": "Thêm \"了\" để chỉ hành động đã hoàn thành, \"着\" để chỉ trạng thái tiếp diễn của kết quả. Có thể thêm \"给\" để nhấn mạnh.",
+      "en": "Add \"了\" to indicate completed action, \"着\" to indicate the continuation of the result. \"给\" can be added for emphasis.",
+      "zh": "加“了”表示动作完成，加“着”表示结果的持续。可加“给”加强语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "他把学过的生词都忘了。",
+        "pinyin": "Tā bǎ xué guò de shēngcí dōu wàng le.",
+        "translation": {"vi": "Anh ấy đã quên hết những từ mới đã học.", "en": "He has forgotten all the new words he learned."}
+      },
+      {
+        "hanzi": "他拿不了了，你帮他把这些东西给拿着。",
+        "pinyin": "Tā ná bù liǎo le, nǐ bāng tā bǎ zhèxiē dōngxi gěi ná zhe.",
+        "translation": {"vi": "Anh ấy không cầm nổi, bạn giúp anh ấy cầm những thứ này nhé.", "en": "He can't carry them; please help him hold these things."}
+      },
+      {
+        "hanzi": "你别忘了把护照带着。",
+        "pinyin": "Nǐ bié wàng le bǎ hùzhào dài zhe.",
+        "translation": {"vi": "Đừng quên mang theo hộ chiếu.", "en": "Don't forget to bring your passport."}
+      }
+    ]
+  },
+  {
+    "id": "ba-zi-ju-2-3",
+    "metadata": {
+      "id": "四38-03",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "“把”字句2"
+    },
+    "title": {
+      "vi": "Câu \"把\" (cách dùng 2) - với bổ ngữ số lượng",
+      "en": "\"把\" sentence (usage 2) - with quantity complement",
+      "zh": "「把」字句2 - 带数量补语"
+    },
+    "structure": "主语 + 把 + 宾语 + 动词 + 动量补语/时量补语",
+    "explanation": {
+      "vi": "Thêm bổ ngữ chỉ số lần hoặc thời gian để biểu thị mức độ hoặc thời gian thực hiện hành động. Ví dụ: \"批评了一顿\" (mắng một trận), \"读了好几遍\" (đọc nhiều lần).",
+      "en": "Add a complement indicating frequency or duration to show the extent or time of the action. E.g., \"批评了一顿\" (scolded once), \"读了好几遍\" (read several times).",
+      "zh": "加上数量补语表示动作的次数或时长。如“批评了一顿”、“读了好几遍”。"
+    },
+    "examples": [
+      {
+        "hanzi": "老师把他批评了一顿。",
+        "pinyin": "Lǎoshī bǎ tā pīpíng le yī dùn.",
+        "translation": {"vi": "Thầy giáo đã mắng anh ấy một trận.", "en": "The teacher scolded him."}
+      },
+      {
+        "hanzi": "他把文章读了好几遍。",
+        "pinyin": "Tā bǎ wénzhāng dú le hǎojǐ biàn.",
+        "translation": {"vi": "Anh ấy đã đọc bài văn nhiều lần.", "en": "He read the article several times."}
+      },
+      {
+        "hanzi": "他把这个问题认真地考虑了好几天。",
+        "pinyin": "Tā bǎ zhè ge wèntí rènzhēn de kǎolǜ le hǎojǐ tiān.",
+        "translation": {"vi": "Anh ấy đã suy nghĩ nghiêm túc về vấn đề này trong vài ngày.", "en": "He considered this issue seriously for several days."}
+      }
+    ]
+  },
+  {
+    "id": "beidong-ju-2",
+    "metadata": {
+      "id": "四39",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "被动句2"
+    },
+    "title": {
+      "vi": "Câu bị động - dạng 2 (không có tác nhân)",
+      "en": "Passive sentence - form 2 (no agent)",
+      "zh": "被动句2"
+    },
+    "structure": "主语 + 被 + 动词 + 其他成分",
+    "explanation": {
+      "vi": "Câu bị động dạng này không nêu rõ tác nhân gây ra hành động, chỉ nhấn mạnh đối tượng bị tác động. Dùng \"被\" trước động từ. Ví dụ: \"灯被关上了\" (đèn bị tắt).",
+      "en": "This passive form does not specify the agent; it just emphasizes the object affected. Use \"被\" before the verb. E.g., \"灯被关上了\" (the light was turned off).",
+      "zh": "该被动句不指明施事者，只强调受事。用“被”放于动词前。如“灯被关上了”。"
+    },
+    "examples": [
+      {
+        "hanzi": "王老师被请去开会了。",
+        "pinyin": "Wáng lǎoshī bèi qǐng qù kāihuì le.",
+        "translation": {"vi": "Thầy Vương được mời đi họp.", "en": "Teacher Wang was invited to a meeting."}
+      },
+      {
+        "hanzi": "教室的灯早就被关上了。",
+        "pinyin": "Jiàoshì de dēng zǎo jiù bèi guān shàng le.",
+        "translation": {"vi": "Đèn trong lớp học đã bị tắt từ lâu.", "en": "The classroom lights were turned off long ago."}
+      },
+      {
+        "hanzi": "那张画儿被买走了。",
+        "pinyin": "Nà zhāng huàr bèi mǎi zǒu le.",
+        "translation": {"vi": "Bức tranh đó đã bị mua mất.", "en": "That painting was bought (taken away)."}
+      }
+    ]
+  },
+  {
+    "id": "biaoshi-chuxian",
+    "metadata": {
+      "id": "四40-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "表示出现"
+    },
+    "title": {
+      "vi": "Câu biểu thị sự xuất hiện",
+      "en": "Sentences indicating appearance",
+      "zh": "表示出现"
+    },
+    "structure": "处所词 + 动词 + 趋向补语/结果补语 + 了 + 数量短语 + 人/物",
+    "explanation": {
+      "vi": "Câu này dùng để miêu tả sự xuất hiện của một người hoặc vật tại một nơi. Động từ thường là \"开\", \"走\", \"来\" kèm theo bổ ngữ xu hướng. Cấu trúc phổ biến: \"处所词 + 动词 + 趋向补语 + 了 + 数量短语 + 名词\".",
+      "en": "This sentence pattern describes the appearance of a person or object at a location. The verb is often \"开\", \"走\", \"来\" plus a directional complement. Common structure: \"location + verb + directional complement + 了 + quantity phrase + noun\".",
+      "zh": "该句型描述某处出现人或物。动词常为“开、走、来”加趋向补语。结构：处所词+动词+趋向补语+了+数量短语+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "前边开来一辆车。",
+        "pinyin": "Qiánbian kāi lái yī liàng chē.",
+        "translation": {"vi": "Phía trước có một chiếc xe chạy tới.", "en": "A car is coming from ahead."}
+      },
+      {
+        "hanzi": "我家昨天来了几位客人，带了不少礼物。",
+        "pinyin": "Wǒ jiā zuótiān lái le jǐ wèi kèrén, dài le bù shǎo lǐwù.",
+        "translation": {"vi": "Nhà tôi hôm qua có mấy vị khách đến, mang theo không ít quà.", "en": "Several guests came to my home yesterday, bringing many gifts."}
+      },
+      {
+        "hanzi": "对面走来一位老人。",
+        "pinyin": "Duìmiàn zǒu lái yī wèi lǎorén.",
+        "translation": {"vi": "Một cụ già đi tới từ phía bên kia.", "en": "An old man is coming from the opposite direction."}
+      },
+      {
+        "hanzi": "教室里走出来一位老师。",
+        "pinyin": "Jiàoshì lǐ zǒu chūlái yī wèi lǎoshī.",
+        "translation": {"vi": "Một thầy giáo bước ra từ trong lớp học.", "en": "A teacher walked out of the classroom."}
+      }
+    ]
+  },
+  {
+    "id": "biaoshi-xiaoshi",
+    "metadata": {
+      "id": "四40-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "表示消失"
+    },
+    "title": {
+      "vi": "Câu biểu thị sự biến mất",
+      "en": "Sentences indicating disappearance",
+      "zh": "表示消失"
+    },
+    "structure": "处所词 + 动词 + 结果补语 + 了 + 数量短语 + 人/物",
+    "explanation": {
+      "vi": "Câu này miêu tả sự biến mất của người hoặc vật khỏi một nơi. Động từ thường là \"转\", \"吹\", \"搬\", \"调\" kèm theo kết quả bổ ngữ. Cấu trúc: \"处所词 + 动词 + 结果补语 + 了 + 数量短语 + 名词\".",
+      "en": "This sentence describes the disappearance of a person or object from a location. The verb often is \"转\", \"吹\", \"搬\", \"调\" with a resultative complement. Structure: \"location + verb + result complement + 了 + quantity + noun\".",
+      "zh": "该句型表示某处人或物消失。动词常为“转、吹、搬、调”加结果补语。结构：处所词+动词+结果补语+了+数量短语+名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们班里转走了一个学生。",
+        "pinyin": "Wǒmen bān lǐ zhuǎn zǒu le yī gè xuésheng.",
+        "translation": {"vi": "Lớp chúng tôi đã có một học sinh chuyển đi.", "en": "One student transferred out of our class."}
+      },
+      {
+        "hanzi": "阳台上吹跑了一条裙子。",
+        "pinyin": "Yángtái shàng chuī pǎo le yī tiáo qúnzi.",
+        "translation": {"vi": "Một chiếc váy đã bị gió thổi bay trên ban công.", "en": "A skirt was blown away on the balcony."}
+      },
+      {
+        "hanzi": "院子里搬走了两家人。",
+        "pinyin": "Yuànzi lǐ bān zǒu le liǎng jiā rén.",
+        "translation": {"vi": "Hai gia đình đã chuyển đi khỏi sân.", "en": "Two families moved out of the yard."}
+      },
+      {
+        "hanzi": "公司调走了几名员工。",
+        "pinyin": "Gōngsī diào zǒu le jǐ míng yuángōng.",
+        "translation": {"vi": "Công ty đã điều vài nhân viên đi.", "en": "The company transferred several employees away."}
+      }
+    ]
+  },
+  {
+    "id": "biaoaizeng-yi",
+    "metadata": {
+      "id": "四41-01",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "表爱憎义"
+    },
+    "title": {
+      "vi": "Câu biểu thị yêu ghét",
+      "en": "Sentences expressing praise or blame",
+      "zh": "表爱憎义"
+    },
+    "structure": "主语 + 表扬/批评 + 宾语1 + 动词 + 宾语2",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để khen hoặc chê ai đó về một hành động cụ thể. Động từ chính thường là \"表扬\" (khen) hoặc \"批评\" (chê). Tân ngữ 1 là đối tượng, tân ngữ 2 là nội dung hành động.",
+      "en": "This structure is used to praise or blame someone for a specific action. The main verbs are often \"表扬\" (praise) or \"批评\" (criticize). Object 1 is the person, object 2 is the action/content.",
+      "zh": "该结构用于表扬或批评某人做某事。常用动词“表扬”、“批评”。宾语1为对象，宾语2为动作内容。"
+    },
+    "examples": [
+      {
+        "hanzi": "老师表扬他帮助同学。",
+        "pinyin": "Lǎoshī biǎoyáng tā bāngzhù tóngxué.",
+        "translation": {"vi": "Thầy giáo khen bạn ấy đã giúp đỡ bạn học.", "en": "The teacher praised him for helping classmates."}
+      },
+      {
+        "hanzi": "妈妈总是批评我不整理房间。",
+        "pinyin": "Māma zǒng shì pīpíng wǒ bù zhěnglǐ fángjiān.",
+        "translation": {"vi": "Mẹ luôn phê bình tôi vì không dọn dẹp phòng.", "en": "Mom always criticizes me for not tidying my room."}
+      },
+      {
+        "hanzi": "大家称赞他做得很好。",
+        "pinyin": "Dàjiā chēngzàn tā zuò de hěn hǎo.",
+        "translation": {"vi": "Mọi người khen anh ấy làm rất tốt.", "en": "Everyone praised him for doing a good job."}
+      }
+    ]
+  },
+  {
+    "id": "biaochengwei-renyi",
+    "metadata": {
+      "id": "四41-02",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "表称谓或认定义"
+    },
+    "title": {
+      "vi": "Câu biểu thị xưng hô hoặc nhận định",
+      "en": "Sentences expressing appellation or identification",
+      "zh": "表称谓或认定义"
+    },
+    "structure": "主语 + 叫/称（呼）/说/收/选 + 宾语1 + 做/为/当/是 + 宾语2",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để gọi, xưng hô hoặc coi ai đó là gì, hoặc chọn ai đó làm gì. Các động từ thường gặp: \"叫\" (gọi), \"称\" (gọi là), \"说\" (nói), \"收\" (nhận), \"选\" (chọn). Kết nối với bổ ngữ bằng \"做/为/当/是\".",
+      "en": "This structure is used to call, address, or regard someone as something, or to select someone for a role. Common verbs: \"叫\" (call), \"称\" (call), \"说\" (say), \"收\" (accept), \"选\" (elect). Link with \"做/为/当/是\".",
+      "zh": "该结构表示称呼、认为或选举某人担任某职。常用动词“叫、称、说、收、选”，连接补语“做、为、当、是”。"
+    },
+    "examples": [
+      {
+        "hanzi": "大家都称他为先生。",
+        "pinyin": "Dàjiā dōu chēng tā wéi xiānsheng.",
+        "translation": {"vi": "Mọi người đều gọi ông ấy là tiên sinh.", "en": "Everyone calls him Mr. (sir)."}
+      },
+      {
+        "hanzi": "老师们都说她是好学生。",
+        "pinyin": "Lǎoshīmen dōu shuō tā shì hǎo xuésheng.",
+        "translation": {"vi": "Các thầy cô đều nói cô ấy là học sinh giỏi.", "en": "All the teachers say she is a good student."}
+      },
+      {
+        "hanzi": "王教授收我做研究生。",
+        "pinyin": "Wáng jiàoshòu shōu wǒ zuò yánjiūshēng.",
+        "translation": {"vi": "Giáo sư Vương nhận tôi làm nghiên cứu sinh.", "en": "Professor Wang accepted me as a graduate student."}
+      },
+      {
+        "hanzi": "同学们都选他当班长。",
+        "pinyin": "Tóngxuémen dōu xuǎn tā dāng bānzhǎng.",
+        "translation": {"vi": "Các bạn học đều bầu anh ấy làm lớp trưởng.", "en": "All the classmates elected him as class monitor."}
+      }
+    ]
+  },
+  {
+    "id": "shi-de-ju-2",
+    "metadata": {
+      "id": "四42",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.1", "label": "特殊句型"}
+      ],
+      "category": "“是·……的”句2"
+    },
+    "title": {
+      "vi": "Câu \"是……的\" (cách dùng 2) - nhấn mạnh quan điểm",
+      "en": "\"是……的\" sentence (usage 2) - emphasizing opinion",
+      "zh": "「是…的」句2 - 强调看法"
+    },
+    "structure": "主语 + 是 + 状语/动词短语 + 的",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để nhấn mạnh ý kiến hoặc thái độ của người nói về một sự việc đã xảy ra. Nó khác với \"是……的\" dùng để nhấn mạnh thời gian, địa điểm, cách thức. Ở đây, \"是\" đứng trước cụm từ mang tính đánh giá.",
+      "en": "This structure is used to emphasize the speaker's opinion or attitude about a past event. It differs from the \"是……的\" for time/place/manner. Here, \"是\" precedes an evaluative phrase.",
+      "zh": "该结构用于强调说话人对已发生事件的看法或态度。与强调时间、地点、方式的“是……的”不同，此处“是”后跟评价性短语。"
+    },
+    "examples": [
+      {
+        "hanzi": "这个问题是可以解决的。",
+        "pinyin": "Zhè ge wèntí shì kěyǐ jiějué de.",
+        "translation": {"vi": "Vấn đề này có thể giải quyết được.", "en": "This problem can be solved."}
+      },
+      {
+        "hanzi": "这道题是很简单的。",
+        "pinyin": "Zhè dào tí shì hěn jiǎndān de.",
+        "translation": {"vi": "Câu hỏi này rất đơn giản.", "en": "This question is very simple."}
+      },
+      {
+        "hanzi": "那样的事情是绝对不会发生的。",
+        "pinyin": "Nàyàng de shìqing shì juéduì bù huì fāshēng de.",
+        "translation": {"vi": "Những việc như vậy tuyệt đối sẽ không xảy ra.", "en": "Such things will absolutely not happen."}
+      },
+      {
+        "hanzi": "他是非常努力的。",
+        "pinyin": "Tā shì fēicháng nǔlì de.",
+        "translation": {"vi": "Anh ấy rất chăm chỉ.", "en": "He is very hardworking."}
+      }
+    ]
+  },
+  {
+    "id": "bushi-ershi",
+    "metadata": {
+      "id": "四43",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.1", "label": "并列复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"不是···，而是…····\" (không phải… mà là…)",
+      "en": "Structure \"不是…，而是…\" (not… but rather…)",
+      "zh": "并列复句「不是…而是…」"
+    },
+    "structure": "不是 + A，而是 + B",
+    "explanation": {
+      "vi": "Kết cấu này dùng để phủ định một phương án và khẳng định một phương án khác, nhấn mạnh sự đối lập. A và B thường là danh từ, cụm từ hoặc câu.",
+      "en": "This structure negates one option and affirms another, emphasizing contrast. A and B can be nouns, phrases, or clauses.",
+      "zh": "该结构否定一项，肯定另一项，强调对比。A和B可为名词、短语或分句。"
+    },
+    "examples": [
+      {
+        "hanzi": "我不是不想去，而是没时间。",
+        "pinyin": "Wǒ bú shì bù xiǎng qù, ér shì méi shíjiān.",
+        "translation": {"vi": "Tôi không phải không muốn đi, mà là không có thời gian.", "en": "It's not that I don't want to go, but I don't have time."}
+      },
+      {
+        "hanzi": "这不是我的书，而是他的。",
+        "pinyin": "Zhè bú shì wǒ de shū, ér shì tā de.",
+        "translation": {"vi": "Đây không phải sách của tôi, mà là của anh ấy.", "en": "This is not my book, but his."}
+      },
+      {
+        "hanzi": "这件事错的不是我，而是他。",
+        "pinyin": "Zhè jiàn shì cuò de bú shì wǒ, ér shì tā.",
+        "translation": {"vi": "Việc này sai không phải tại tôi, mà là tại anh ấy.", "en": "It's not my fault, but his."}
+      }
+    ]
+  },
+  {
+    "id": "ji-you-you",
+    "metadata": {
+      "id": "四44",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.1", "label": "并列复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"既…，又/也…\" (vừa… vừa…)",
+      "en": "Structure \"既…，又/也…\" (both… and…)",
+      "zh": "并列复句「既…又/也…」"
+    },
+    "structure": "既 + A，又/也 + B",
+    "explanation": {
+      "vi": "Kết cấu này dùng để diễn tả hai thuộc tính hoặc hành động cùng tồn tại ở một đối tượng, thường là tích cực. A và B thường là tính từ hoặc cụm động từ.",
+      "en": "This structure expresses two coexisting attributes or actions of one subject, often positive. A and B are usually adjectives or verb phrases.",
+      "zh": "该结构表示同一主体具有两种属性或动作同时存在，常为积极意义。A和B多为形容词或动词短语。"
+    },
+    "examples": [
+      {
+        "hanzi": "这件新衣服既好看，又暖和。",
+        "pinyin": "Zhè jiàn xīn yīfu jì hǎokàn, yòu nuǎnhuo.",
+        "translation": {"vi": "Chiếc áo mới này vừa đẹp vừa ấm.", "en": "This new clothes are both nice-looking and warm."}
+      },
+      {
+        "hanzi": "他既会学习，又会玩儿。",
+        "pinyin": "Tā jì huì xuéxí, yòu huì wánr.",
+        "translation": {"vi": "Anh ấy vừa biết học vừa biết chơi.", "en": "He knows both how to study and how to play."}
+      },
+      {
+        "hanzi": "他既是我们的老师，也是我们的朋友。",
+        "pinyin": "Tā jì shì wǒmen de lǎoshī, yě shì wǒmen de péngyou.",
+        "translation": {"vi": "Anh ấy vừa là thầy giáo của chúng tôi, vừa là bạn của chúng tôi.", "en": "He is both our teacher and our friend."}
+      }
+    ]
+  },
+  {
+    "id": "shouxian-qici",
+    "metadata": {
+      "id": "四45",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.2", "label": "承接复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"首先…，其次…\" (trước hết… tiếp theo…)",
+      "en": "Structure \"首先…，其次…\" (first… secondly…)",
+      "zh": "承接复句「首先…其次…」"
+    },
+    "structure": "首先 + A，其次 + B",
+    "explanation": {
+      "vi": "Kết cấu này dùng để sắp xếp các ý theo thứ tự logic hoặc thời gian. A và B là các bước hoặc luận điểm. Thường dùng trong lập luận.",
+      "en": "This structure organizes ideas in logical or temporal order. A and B are steps or points. Often used in arguments.",
+      "zh": "该结构按逻辑或时间顺序排列要点。A和B为步骤或论点，常用于论证。"
+    },
+    "examples": [
+      {
+        "hanzi": "首先我们要读一遍课文，其次我们要根据课文做一个练习。",
+        "pinyin": "Shǒuxiān wǒmen yào dú yī biàn kèwén, qícì wǒmen yào gēnjù kèwén zuò yī gè liànxí.",
+        "translation": {"vi": "Trước hết chúng ta đọc một lần bài khóa, tiếp theo làm bài tập dựa theo bài khóa.", "en": "First we read the text once, then we do an exercise based on the text."}
+      },
+      {
+        "hanzi": "我们球队问题很多，首先是队员不够团结，其次是训练时间很短。",
+        "pinyin": "Wǒmen qiúduì wèntí hěnduō, shǒuxiān shì duìyuán bùgòu tuánjié, qícì shì xùnliàn shíjiān hěn duǎn.",
+        "translation": {"vi": "Đội bóng của chúng tôi có nhiều vấn đề, trước hết là cầu thủ không đoàn kết, tiếp theo là thời gian tập luyện quá ngắn.", "en": "Our team has many problems: first, the players are not united; second, the training time is very short."}
+      },
+      {
+        "hanzi": "评价一个学生，首先看品质，其次看成绩。",
+        "pinyin": "Píngjià yī gè xuésheng, shǒuxiān kàn pǐnzhì, qícì kàn chéngjī.",
+        "translation": {"vi": "Đánh giá một học sinh, trước hết xem phẩm chất, sau đó xem thành tích.", "en": "To evaluate a student, first look at character, then at grades."}
+      }
+    ]
+  },
+  {
+    "id": "yushi",
+    "metadata": {
+      "id": "四46",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.2", "label": "承接复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"…于是…\" (thế là, vì vậy)",
+      "en": "Structure \"…于是…\" (so, then)",
+      "zh": "承接复句「…于是…」"
+    },
+    "structure": "A，于是 B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị mối quan hệ nhân quả hoặc tiếp nối, B là kết quả hoặc hành động được thực hiện sau A. Thường dùng trong văn kể.",
+      "en": "This structure indicates cause-effect or sequence; B is the result or action following A. Often used in narratives.",
+      "zh": "该结构表示因果关系或承接关系，B是A的结果或后续行动。常用于叙事。"
+    },
+    "examples": [
+      {
+        "hanzi": "风停了，下起雨来，于是人们纷纷打起了雨伞。",
+        "pinyin": "Fēng tíng le, xià qǐ yǔ lái, yúshì rénmen fēnfēn dǎ qǐ le yǔsǎn.",
+        "translation": {"vi": "Gió ngừng, trời mưa, thế là mọi người lần lượt mở ô.", "en": "The wind stopped, and it started to rain, so people opened their umbrellas one after another."}
+      },
+      {
+        "hanzi": "他不喜欢这个工作，于是离开了这家公司。",
+        "pinyin": "Tā bù xǐhuān zhè ge gōngzuò, yúshì líkāi le zhè jiā gōngsī.",
+        "translation": {"vi": "Anh ấy không thích công việc này, thế là rời khỏi công ty.", "en": "He didn't like the job, so he left the company."}
+      },
+      {
+        "hanzi": "离开会的时间还早，于是我们去逛了逛书店。",
+        "pinyin": "Líkāi huì de shíjiān hái zǎo, yúshì wǒmen qù guàng le guàng shūdiàn.",
+        "translation": {"vi": "Còn sớm trước giờ họp, thế là chúng tôi đi dạo hiệu sách.", "en": "There was still time before the meeting, so we went for a walk in the bookstore."}
+      }
+    ]
+  },
+  {
+    "id": "shenzhi-lian",
+    "metadata": {
+      "id": "四47",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.3", "label": "递进复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"…甚至…\" (thậm chí)",
+      "en": "Structure \"…甚至…\" (even, so much so that)",
+      "zh": "递进复句「…甚至…」"
+    },
+    "structure": "A，甚至 B",
+    "explanation": {
+      "vi": "Kết cấu này diễn tả sự tiến triển lên một mức độ cao hơn hoặc một trường hợp cực đoan hơn. B thường là kết quả hoặc tình huống nghiêm trọng hơn A.",
+      "en": "This structure indicates a progression to a higher degree or an extreme case. B is often a more severe result or situation than A.",
+      "zh": "该结构表示程度加深或更极端的情况。B通常是比A更严重的结果或情况。"
+    },
+    "examples": [
+      {
+        "hanzi": "他什么都不会，甚至连最简单的汉字也写不了。",
+        "pinyin": "Tā shénme dōu bù huì, shènzhì lián zuì jiǎndān de hànzì yě xiě bù liǎo.",
+        "translation": {"vi": "Anh ấy chẳng biết gì, thậm chí ngay cả chữ Hán đơn giản nhất cũng không viết được.", "en": "He knows nothing; he can't even write the simplest Chinese characters."}
+      },
+      {
+        "hanzi": "她病得很严重，甚至要做手术。",
+        "pinyin": "Tā bìng de hěn yánzhòng, shènzhì yào zuò shǒushù.",
+        "translation": {"vi": "Cô ấy bệnh rất nặng, thậm chí phải phẫu thuật.", "en": "She is very ill, so much so that she needs surgery."}
+      },
+      {
+        "hanzi": "妈妈真的很生气，甚至晚饭都没有吃。",
+        "pinyin": "Māma zhēn de hěn shēngqì, shènzhì wǎnfàn dōu méiyǒu chī.",
+        "translation": {"vi": "Mẹ thực sự rất giận, thậm chí còn không ăn tối.", "en": "Mom was really angry; she even didn't have dinner."}
+      }
+    ]
+  },
+  {
+    "id": "huozhe-huozhe",
+    "metadata": {
+      "id": "四48",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.4", "label": "选择复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"或者…或者…\" (hoặc… hoặc…)",
+      "en": "Structure \"或者…或者…\" (either… or…)",
+      "zh": "选择复句「或者…或者…」"
+    },
+    "structure": "或者 + A，或者 + B",
+    "explanation": {
+      "vi": "Kết cấu này đưa ra hai hoặc nhiều lựa chọn, thường mang nghĩa không xác định hoặc lựa chọn một trong số. A và B có thể là danh từ, cụm từ, hoặc câu.",
+      "en": "This structure presents two or more options, often implying an indeterminate choice among them. A and B can be nouns, phrases, or clauses.",
+      "zh": "该结构提出两个或多个选择，常表示不确定或任选其一。A和B可为名词、短语或分句。"
+    },
+    "examples": [
+      {
+        "hanzi": "这件事或者赶快停止，或者重新开始。",
+        "pinyin": "Zhè jiàn shì huòzhě gǎnkuài tíngzhǐ, huòzhě chóngxīn kāishǐ.",
+        "translation": {"vi": "Việc này hoặc là dừng lại ngay, hoặc là bắt đầu lại.", "en": "This matter either must be stopped immediately or started over."}
+      },
+      {
+        "hanzi": "暑假或者去上海，或者去杭州，反正得出去旅行。",
+        "pinyin": "Shǔjià huòzhě qù Shànghǎi, huòzhě qù Hángzhōu, fǎnzhèng děi chūqù lǚxíng.",
+        "translation": {"vi": "Kỳ nghỉ hè hoặc đi Thượng Hải, hoặc đi Hàng Châu, dù sao cũng phải đi du lịch.", "en": "During summer vacation, either go to Shanghai or to Hangzhou; anyway, I have to travel."}
+      },
+      {
+        "hanzi": "咱们三个人，或者你去，或者我去，或者他去，谁去都可以。",
+        "pinyin": "Zánmen sān ge rén, huòzhě nǐ qù, huòzhě wǒ qù, huòzhě tā qù, shéi qù dōu kěyǐ.",
+        "translation": {"vi": "Chúng ta ba người, hoặc bạn đi, hoặc tôi đi, hoặc anh ấy đi, ai đi cũng được.", "en": "Among the three of us, either you go, I go, or he goes; anyone can go."}
+      }
+    ]
+  },
+  {
+    "id": "raner",
+    "metadata": {
+      "id": "四49",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.5", "label": "转折复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"…然而\" (tuy nhiên, nhưng)",
+      "en": "Structure \"…然而\" (however, nevertheless)",
+      "zh": "转折复句「…然而」"
+    },
+    "structure": "A，然而 B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị sự tương phản hoặc đối lập giữa A và B. \"然而\" thường đứng ở đầu vế sau, tương đương \"tuy nhiên\". Thường dùng trong văn viết.",
+      "en": "This structure expresses contrast or opposition between A and B. \"然而\" usually appears at the beginning of the second clause, equivalent to \"however\". Often used in writing.",
+      "zh": "该结构表示转折或对比，“然而”常放后分句句首，相当于“然而、可是”。常用于书面语。"
+    },
+    "examples": [
+      {
+        "hanzi": "我知道中文很有用，然而中文也太难了。",
+        "pinyin": "Wǒ zhīdào zhōngwén hěn yǒuyòng, rán'ér zhōngwén yě tài nán le.",
+        "translation": {"vi": "Tôi biết tiếng Trung rất hữu ích, tuy nhiên tiếng Trung cũng quá khó.", "en": "I know Chinese is very useful; however, it's also too difficult."}
+      },
+      {
+        "hanzi": "他说他不喜欢这部电影，然而我觉得很有意思。",
+        "pinyin": "Tā shuō tā bù xǐhuān zhè bù diànyǐng, rán'ér wǒ juéde hěn yǒuyìsi.",
+        "translation": {"vi": "Anh ấy nói anh ấy không thích bộ phim này, thế nhưng tôi thấy rất thú vị.", "en": "He said he doesn't like this movie; however, I find it very interesting."}
+      },
+      {
+        "hanzi": "这个计划很完美，然而实施起来困难重重。",
+        "pinyin": "Zhè ge jìhuà hěn wánměi, rán'ér shíshī qǐlai kùnnán chóngchóng.",
+        "translation": {"vi": "Kế hoạch này rất hoàn hảo, tuy nhiên thực hiện gặp nhiều khó khăn.", "en": "This plan is perfect; however, implementing it is fraught with difficulties."}
+      }
+    ]
+  },
+  {
+    "id": "fouze",
+    "metadata": {
+      "id": "四50",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.6", "label": "假设复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"…否则…\" (nếu không thì)",
+      "en": "Structure \"…否则…\" (otherwise, or else)",
+      "zh": "假设复句「…否则…」"
+    },
+    "structure": "A，否则 B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị nếu không thực hiện A thì sẽ xảy ra B. \"否则\" thường đứng ở đầu vế sau, mang nghĩa \"nếu không thì\". Dùng để cảnh báo hoặc đưa ra điều kiện.",
+      "en": "This structure indicates that if A is not done, B will happen. \"否则\" often starts the second clause, meaning \"otherwise\". Used for warnings or conditions.",
+      "zh": "该结构表示如果不做A，就会发生B。“否则”常放后分句句首，意为“否则、要不然”。用于警告或提出条件。"
+    },
+    "examples": [
+      {
+        "hanzi": "我要认真复习，否则考试会不及格的。",
+        "pinyin": "Wǒ yào rènzhēn fùxí, fǒuzé kǎoshì huì bù jígé de.",
+        "translation": {"vi": "Tôi phải ôn tập nghiêm túc, nếu không kỳ thi sẽ trượt.", "en": "I need to review seriously; otherwise, I will fail the exam."}
+      },
+      {
+        "hanzi": "记得带卡，否则进不了办公室。",
+        "pinyin": "Jìde dài kǎ, fǒuzé jìn bù liǎo bàngōngshì.",
+        "translation": {"vi": "Nhớ mang thẻ, nếu không sẽ không vào được văn phòng.", "en": "Remember to bring your card; otherwise, you can't enter the office."}
+      },
+      {
+        "hanzi": "上课前一定要预习好生词和课文，否则就听不懂老师讲的。",
+        "pinyin": "Shàngkè qián yīdìng yào yùxí hǎo shēngcí hé kèwén, fǒuzé jiù tīng bù dǒng lǎoshī jiǎng de.",
+        "translation": {"vi": "Trước giờ học nhất định phải chuẩn bị từ mới và bài khóa, nếu không sẽ không hiểu thầy giảng.", "en": "Be sure to preview new words and texts before class; otherwise, you won't understand what the teacher says."}
+      }
+    ]
+  },
+  {
+    "id": "jiaru-jiu",
+    "metadata": {
+      "id": "四51",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.6", "label": "假设复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"假如…（就）…\" (nếu… thì…)",
+      "en": "Structure \"假如…（就）…\" (if… then…)",
+      "zh": "假设复句「假如…（就）…」"
+    },
+    "structure": "假如 + A，（就）B",
+    "explanation": {
+      "vi": "\"假如\" dùng để giả định một tình huống và kết quả. \"就\" có thể xuất hiện ở vế sau để chỉ kết quả. Tương tự như \"如果\".",
+      "en": "\"假如\" introduces a hypothetical situation and its result. \"就\" may appear in the second clause to indicate the outcome. Similar to \"如果\".",
+      "zh": "「假如」用于假设情境和结果，后分句可用“就”表示结果，与“如果”类似。"
+    },
+    "examples": [
+      {
+        "hanzi": "假如有困难，你一定要告诉我。",
+        "pinyin": "Jiǎrú yǒu kùnnan, nǐ yīdìng yào gàosu wǒ.",
+        "translation": {"vi": "Nếu có khó khăn, bạn nhất định phải nói với tôi.", "en": "If you have any difficulties, you must tell me."}
+      },
+      {
+        "hanzi": "假如能通过这个考试，我就可以拿到学校的奖学金了。",
+        "pinyin": "Jiǎrú néng tōngguò zhè ge kǎoshì, wǒ jiù kěyǐ ná dào xuéxiào de jiǎngxuéjīn le.",
+        "translation": {"vi": "Nếu có thể vượt qua kỳ thi này, tôi có thể nhận được học bổng của trường.", "en": "If I can pass this exam, I can get the school scholarship."}
+      },
+      {
+        "hanzi": "假如明天下雨，我们就不去公园了。",
+        "pinyin": "Jiǎrú míngtiān xià yǔ, wǒmen jiù bù qù gōngyuán le.",
+        "translation": {"vi": "Nếu ngày mai trời mưa, chúng ta sẽ không đi công viên.", "en": "If it rains tomorrow, we won't go to the park."}
+      }
+    ]
+  },
+  {
+    "id": "wanyi-jiu",
+    "metadata": {
+      "id": "四52",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.6", "label": "假设复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"万一…（就）…\" (phòng khi, nếu như)",
+      "en": "Structure \"万一…（就）…\" (in case, if by any chance)",
+      "zh": "假设复句「万一…（就）…」"
+    },
+    "structure": "万一 + A，（就）B",
+    "explanation": {
+      "vi": "\"万一\" dùng để đưa ra một tình huống giả định ít có khả năng xảy ra nhưng cần đề phòng. Thường đi với \"就\" ở vế sau để chỉ kết quả.",
+      "en": "\"万一\" introduces a hypothetical situation that is unlikely but needs preparation. Often followed by \"就\" in the second clause.",
+      "zh": "「万一」用于提出可能性较小但需防范的假设，后分句常用“就”引出结果。"
+    },
+    "examples": [
+      {
+        "hanzi": "万一我没来，你就自己先去吧。",
+        "pinyin": "Wànyī wǒ méi lái, nǐ jiù zìjǐ xiān qù ba.",
+        "translation": {"vi": "Lỡ tôi không đến, bạn cứ đi trước đi.", "en": "In case I don't come, you go ahead by yourself."}
+      },
+      {
+        "hanzi": "一定要把你们的护照带上，万一需要，没带就麻烦了。",
+        "pinyin": "Yīdìng yào bǎ nǐmen de hùzhào dài shàng, wànyī xūyào, méi dài jiù máfan le.",
+        "translation": {"vi": "Nhất định phải mang hộ chiếu, phòng khi cần, nếu không mang sẽ rắc rối.", "en": "Be sure to bring your passports; in case you need them, it will be troublesome if you don't."}
+      },
+      {
+        "hanzi": "万一他不同意，我们怎么办？",
+        "pinyin": "Wànyī tā bù tóngyì, wǒmen zěnme bàn?",
+        "translation": {"vi": "Lỡ anh ấy không đồng ý, chúng ta làm sao?", "en": "What if he disagrees; what should we do?"}
+      }
+    ]
+  },
+  {
+    "id": "buguan-dou",
+    "metadata": {
+      "id": "四53",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.7", "label": "条件复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"不管…都/也…\" (bất kể… đều…)",
+      "en": "Structure \"不管…都/也…\" (no matter… still…)",
+      "zh": "条件复句「不管…都/也…」"
+    },
+    "structure": "不管 + A，都/也 + B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị dù điều kiện A có thay đổi thế nào, kết quả B vẫn không đổi. A thường chứa từ nghi vấn hoặc lựa chọn.",
+      "en": "This structure indicates that regardless of condition A, result B remains the same. A often contains a question word or alternatives.",
+      "zh": "该结构表示无论条件A如何变化，结果B都不变。A常包含疑问词或选择项。"
+    },
+    "examples": [
+      {
+        "hanzi": "不管明天是否下雨，我都要去看他。",
+        "pinyin": "Bùguǎn míngtiān shìfǒu xià yǔ, wǒ dōu yào qù kàn tā.",
+        "translation": {"vi": "Dù ngày mai có mưa hay không, tôi đều phải đi gặp anh ấy.", "en": "No matter whether it rains tomorrow, I will go to see him."}
+      },
+      {
+        "hanzi": "不管有多难，我也会坚持学下去。",
+        "pinyin": "Bùguǎn yǒu duō nán, wǒ yě huì jiānchí xué xiàqu.",
+        "translation": {"vi": "Dù có khó khăn thế nào, tôi cũng sẽ kiên trì học tiếp.", "en": "No matter how difficult it is, I will persist in learning."}
+      },
+      {
+        "hanzi": "不管谁去，都要提前通知我。",
+        "pinyin": "Bùguǎn shéi qù, dōu yào tíqián tōngzhī wǒ.",
+        "translation": {"vi": "Dù ai đi, cũng phải thông báo trước cho tôi.", "en": "No matter who goes, they must inform me in advance."}
+      }
+    ]
+  },
+  {
+    "id": "wulun-dou",
+    "metadata": {
+      "id": "四54",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.7", "label": "条件复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"无论…都/也…\" (bất luận… đều…)",
+      "en": "Structure \"无论…都/也…\" (regardless of… still…)",
+      "zh": "条件复句「无论…都/也…」"
+    },
+    "structure": "无论 + A，都/也 + B",
+    "explanation": {
+      "vi": "Tương tự như \"不管\" nhưng trang trọng hơn, thường dùng trong văn viết. A có thể là cụm từ chứa từ nghi vấn hoặc lựa chọn. Kết quả B luôn đúng.",
+      "en": "Similar to \"不管\" but more formal, often used in writing. A can contain a question word or alternatives. Result B always holds.",
+      "zh": "与“不管”类似，但更正式，常用于书面语。A可含疑问词或选择。结果B恒成立。"
+    },
+    "examples": [
+      {
+        "hanzi": "无论学习多么紧张，我都坚持每天锻炼一个小时。",
+        "pinyin": "Wúlùn xuéxí duōme jǐnzhāng, wǒ dōu jiānchí měitiān duànliàn yī gè xiǎoshí.",
+        "translation": {"vi": "Dù việc học có căng thẳng thế nào, tôi vẫn duy trì tập thể dục một giờ mỗi ngày.", "en": "No matter how intense the study is, I insist on exercising for an hour every day."}
+      },
+      {
+        "hanzi": "无论他怎么说，也没有人相信他。",
+        "pinyin": "Wúlùn tā zěnme shuō, yě méiyǒu rén xiāngxìn tā.",
+        "translation": {"vi": "Dù anh ấy có nói thế nào, cũng không ai tin anh ấy.", "en": "No matter what he says, no one believes him."}
+      },
+      {
+        "hanzi": "无论你去不去，我都会去。",
+        "pinyin": "Wúlùn nǐ qù bù qù, wǒ dōu huì qù.",
+        "translation": {"vi": "Dù bạn có đi hay không, tôi đều sẽ đi.", "en": "Whether you go or not, I will go."}
+      }
+    ]
+  },
+  {
+    "id": "jiran-jiu",
+    "metadata": {
+      "id": "四55",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.8", "label": "因果复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"既然…就…\" (vì… thì…)",
+      "en": "Structure \"既然…就…\" (since… then…)",
+      "zh": "因果复句「既然…就…」"
+    },
+    "structure": "既然 + A，就 + B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị nguyên nhân A dẫn đến kết luận B. A là điều đã biết, B là kết luận được suy ra. \"就\" thường đứng trước kết luận.",
+      "en": "This structure indicates that cause A leads to conclusion B. A is a known fact, B is the deduced conclusion. \"就\" often precedes the conclusion.",
+      "zh": "该结构表示原因A引出结论B。A是已知事实，B是推论的结论。“就”常放结论前。"
+    },
+    "examples": [
+      {
+        "hanzi": "既然这事你已经决定了，我就不说什么了。",
+        "pinyin": "Jìrán zhè shì nǐ yǐjīng juédìng le, wǒ jiù bù shuō shénme le.",
+        "translation": {"vi": "Vì bạn đã quyết định việc này rồi, tôi sẽ không nói gì thêm.", "en": "Since you have already decided, I won't say anything."}
+      },
+      {
+        "hanzi": "既然外面下雨了，我们就明天再去吧。",
+        "pinyin": "Jìrán wàimiàn xià yǔ le, wǒmen jiù míngtiān zài qù ba.",
+        "translation": {"vi": "Vì trời mưa, chúng ta đi vào ngày mai vậy.", "en": "Since it's raining outside, let's go tomorrow instead."}
+      },
+      {
+        "hanzi": "既然你来了，就一起吃饭吧。",
+        "pinyin": "Jìrán nǐ lái le, jiù yīqǐ chīfàn ba.",
+        "translation": {"vi": "Vì bạn đã đến, hãy ăn cơm cùng nhau đi.", "en": "Since you're here, let's have a meal together."}
+      }
+    ]
+  },
+  {
+    "id": "kejian-2",
+    "metadata": {
+      "id": "四56",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.8", "label": "因果复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"…可见…\" (vì vậy, có thể thấy)",
+      "en": "Structure \"…可见…\" (so, it can be seen)",
+      "zh": "因果复句「…可见…」"
+    },
+    "structure": "A，可见 B",
+    "explanation": {
+      "vi": "\"可见\" đứng giữa hai vế, vế trước là lý do, vế sau là kết luận. Nó dùng để đưa ra nhận xét hoặc suy luận từ sự việc trước đó.",
+      "en": "\"可见\" sits between the two clauses; the first is the reason, the second the conclusion. It is used to draw an opinion or inference from the preceding event.",
+      "zh": "「可见」位于两分句间，前为原因，后为结论，用于根据前文得出推断。"
+    },
+    "examples": [
+      {
+        "hanzi": "他的中文水平很高，可见他在留学期间学习是多么努力。",
+        "pinyin": "Tā de zhōngwén shuǐpíng hěn gāo, kějiàn tā zài liúxué qījiān xuéxí shì duōme nǔlì.",
+        "translation": {"vi": "Trình độ tiếng Trung của anh ấy rất cao, có thể thấy anh ấy đã học hành chăm chỉ trong thời gian du học.", "en": "His Chinese level is very high, so it can be seen how hard he studied during his study abroad period."}
+      },
+      {
+        "hanzi": "他在我困难的时候一直帮助我，可见他是我多么好的朋友。",
+        "pinyin": "Tā zài wǒ kùnnan de shíhou yīzhí bāngzhù wǒ, kějiàn tā shì wǒ duōme hǎo de péngyou.",
+        "translation": {"vi": "Anh ấy luôn giúp đỡ tôi khi tôi gặp khó khăn, có thể thấy anh ấy là người bạn tốt của tôi.", "en": "He always helps me when I'm in difficulty, so it can be seen what a good friend he is."}
+      },
+      {
+        "hanzi": "大家都笑了，可见他讲的笑话很有趣。",
+        "pinyin": "Dàjiā dōu xiào le, kějiàn tā jiǎng de xiàohua hěn yǒuqù.",
+        "translation": {"vi": "Mọi người đều cười, có thể thấy câu chuyện cười của anh ấy rất thú vị.", "en": "Everyone laughed, so it can be seen that his joke was very interesting."}
+      }
+    ]
+  },
+  {
+    "id": "napai-ye",
+    "metadata": {
+      "id": "四57",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.9", "label": "让步复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"哪怕…也/还…\" (dù… cũng…)",
+      "en": "Structure \"哪怕…也/还…\" (even if… still…)",
+      "zh": "让步复句「哪怕…也/还…」"
+    },
+    "structure": "哪怕 + A，也/还 + B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị dù điều kiện A có xảy ra, kết quả B vẫn xảy ra. Nó nhấn mạnh sự không lay chuyển được, thường dùng trong ngữ cảnh cảm xúc mạnh.",
+      "en": "This structure indicates that even if condition A occurs, result B still happens. It emphasizes unwavering determination, often used in strong emotional contexts.",
+      "zh": "该结构表示即使A发生，B也依然进行，强调坚定不移，常用于强烈语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "哪怕明天下雨，足球比赛也要继续进行。",
+        "pinyin": "Nǎpà míngtiān xià yǔ, zúqiú bǐsài yě yào jìxù jìnxíng.",
+        "translation": {"vi": "Dù ngày mai có mưa, trận bóng đá vẫn phải tiếp tục.", "en": "Even if it rains tomorrow, the football match will still go on."}
+      },
+      {
+        "hanzi": "哪怕再难，我也要坚持学下去。",
+        "pinyin": "Nǎpà zài nán, wǒ yě yào jiānchí xué xiàqu.",
+        "translation": {"vi": "Dù có khó khăn thế nào, tôi cũng sẽ kiên trì học tiếp.", "en": "Even if it's difficult, I will persist in learning."}
+      },
+      {
+        "hanzi": "哪怕机会不大，我还是要去试一试。",
+        "pinyin": "Nǎpà jīhuì bù dà, wǒ hái shì yào qù shì yī shì.",
+        "translation": {"vi": "Dù cơ hội không lớn, tôi vẫn phải thử một lần.", "en": "Even if the chances are slim, I still want to try."}
+      }
+    ]
+  },
+  {
+    "id": "hao",
+    "metadata": {
+      "id": "四58",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.10", "label": "目的复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"…好…\" (để, để mà)",
+      "en": "Structure \"…好…\" (so that, in order to)",
+      "zh": "目的复句「…好…」"
+    },
+    "structure": "A，好 B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị mục đích, B là mục đích của hành động A. \"好\" thường đứng trước vế chỉ mục đích, tương đương \"để\". Thường dùng trong khẩu ngữ.",
+      "en": "This structure expresses purpose; B is the goal of action A. \"好\" often precedes the purpose clause, equivalent to \"so that\" or \"in order to\". Often used in spoken Chinese.",
+      "zh": "该结构表示目的，B是A的目的。“好”常放目的分句前，相当于“以便”。常用于口语。"
+    },
+    "examples": [
+      {
+        "hanzi": "老师布置了听写作业，好帮助学生练习汉字。",
+        "pinyin": "Lǎoshī bùzhì le tīngxiě zuòyè, hǎo bāngzhù xuésheng liànxí hànzì.",
+        "translation": {"vi": "Thầy giao bài tập nghe viết để giúp học sinh luyện tập chữ Hán.", "en": "The teacher assigned dictation homework to help students practice Chinese characters."}
+      },
+      {
+        "hanzi": "我们应该不断地引导他，好让他对自己有信心。",
+        "pinyin": "Wǒmen yīnggāi bùduàn de yǐndǎo tā, hǎo ràng tā duì zìjǐ yǒu xìnxīn.",
+        "translation": {"vi": "Chúng ta nên liên tục hướng dẫn anh ấy để anh ấy tự tin vào bản thân.", "en": "We should guide him continuously so that he gains confidence in himself."}
+      },
+      {
+        "hanzi": "她每天都给家里打电话，好让父母放心。",
+        "pinyin": "Tā měitiān dōu gěi jiālǐ dǎ diànhuà, hǎo ràng fùmǔ fàngxīn.",
+        "translation": {"vi": "Cô ấy gọi điện về nhà mỗi ngày để bố mẹ yên tâm.", "en": "She calls home every day so that her parents won't worry."}
+      }
+    ]
+  },
+  {
+    "id": "wubiaoji-jinsuo",
+    "metadata": {
+      "id": "四59",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.11", "label": "紧缩复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Câu ghép rút gọn (không có kết từ)",
+      "en": "Contracted compound sentence (without conjunction)",
+      "zh": "紧缩复句（无标记）"
+    },
+    "structure": "A + B （A和B là 2 mệnh đề）",
+    "explanation": {
+      "vi": "Câu ghép rút gọn là hai mệnh đề kết hợp với nhau mà không có liên từ, thường là điều kiện - kết quả hoặc nhượng bộ. Ngữ điệu hoặc ngữ cảnh biểu thị quan hệ.",
+      "en": "A contracted compound sentence combines two clauses without a conjunction, often indicating condition-result or concession. Intonation or context implies the relationship.",
+      "zh": "紧缩复句是无连词连接的两个分句，常表示条件-结果或让步关系，依靠语气或语境理解。"
+    },
+    "examples": [
+      {
+        "hanzi": "你有事你先走。",
+        "pinyin": "Nǐ yǒu shì nǐ xiān zǒu.",
+        "translation": {"vi": "Bạn có việc thì bạn đi trước.", "en": "If you have something to do, you go first."}
+      },
+      {
+        "hanzi": "你不怕我怕。",
+        "pinyin": "Nǐ bù pà wǒ pà.",
+        "translation": {"vi": "Bạn không sợ, tôi sợ.", "en": "You're not afraid, but I am."}
+      },
+      {
+        "hanzi": "你想去你去。",
+        "pinyin": "Nǐ xiǎng qù nǐ qù.",
+        "translation": {"vi": "Bạn muốn đi thì bạn đi.", "en": "If you want to go, you go."}
+      },
+      {
+        "hanzi": "他不来我就走。",
+        "pinyin": "Tā bù lái wǒ jiù zǒu.",
+        "translation": {"vi": "Nếu anh ấy không đến thì tôi đi.", "en": "If he doesn't come, I'll leave."}
+      }
+    ]
+  },
+  {
+    "id": "bu-ye",
+    "metadata": {
+      "id": "四60",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.5", "label": "句子的类型"},
+        {"code": "A.4.5.2", "label": "复句"},
+        {"code": "A.4.5.2.11", "label": "紧缩复句"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Kết cấu \"不…也…\" (không… vẫn…)",
+      "en": "Structure \"不…也…\" (not… still…)",
+      "zh": "紧缩复句「不…也…」"
+    },
+    "structure": "不 + A，也 + B",
+    "explanation": {
+      "vi": "Kết cấu này biểu thị dù không làm A nhưng vẫn làm B, thường là sự nhấn mạnh vào tính cấp thiết hoặc bất chấp. A và B thường là động từ.",
+      "en": "This structure indicates that even without doing A, B still happens, often emphasizing urgency or disregard. A and B are usually verbs.",
+      "zh": "该结构表示即使不做A，B也发生，强调迫切性或不顾一切。A和B多为动词。"
+    },
+    "examples": [
+      {
+        "hanzi": "今天晚上我不睡觉也要把这篇作文写完。",
+        "pinyin": "Jīntiān wǎnshàng wǒ bù shuìjiào yě yào bǎ zhè piān zuòwén xiě wán.",
+        "translation": {"vi": "Tối nay tôi không ngủ cũng phải viết xong bài văn này.", "en": "I will finish this composition tonight even if I don't sleep."}
+      },
+      {
+        "hanzi": "他不吃饭也要帮我修电脑。",
+        "pinyin": "Tā bù chīfàn yě yào bāng wǒ xiū diànnǎo.",
+        "translation": {"vi": "Anh ấy không ăn cơm cũng phải giúp tôi sửa máy tính.", "en": "He will help me fix my computer even if he doesn't eat."}
+      },
+      {
+        "hanzi": "他不休息也要玩儿手机游戏。",
+        "pinyin": "Tā bù xiūxi yě yào wánr shǒujī yóuxì.",
+        "translation": {"vi": "Anh ấy không nghỉ ngơi cũng phải chơi game trên điện thoại.", "en": "He will play phone games even if he doesn't rest."}
+      }
+    ]
+  },
+  {
+    "id": "shucilai",
+    "metadata": {
+      "id": "四61",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.6", "label": "特殊表达法"},
+        {"code": "A.4.6.1", "label": "数的表示法"}
+      ],
+      "category": "概数表示法3"
+    },
+    "title": {
+      "vi": "Cách biểu thị số ước lượng: 数词+来+量词",
+      "en": "Approximate numbers: number + 来 + measure word",
+      "zh": "概数表示法3：数词+来+量词"
+    },
+    "structure": "数词 + 来 + 量词",
+    "explanation": {
+      "vi": "Kết cấu \"数词 + 来 + 量词\" dùng để biểu thị số lượng ước chừng, thường với số từ tròn chục hoặc 百, 千, 万. Nó chỉ một số lượng xấp xỉ, hơi ít hơn hoặc nhiều hơn con số đã cho. Thường dùng với \"十, 百, 千\".",
+      "en": "The structure \"number + 来 + measure word\" is used to express an approximate quantity, often with multiples of ten or hundred. It indicates an approximate number, slightly more or less than the given. Often used with \"十, 百, 千\".",
+      "zh": "“数词+来+量词”表示概数，常用于十、百、千等整数。表示接近该数，可能多一点或少一点。"
+    },
+    "examples": [
+      {
+        "hanzi": "十来本",
+        "pinyin": "Shí lái běn",
+        "translation": {"vi": "khoảng mười cuốn", "en": "about ten"}
+      },
+      {
+        "hanzi": "五十来斤",
+        "pinyin": "Wǔshí lái jīn",
+        "translation": {"vi": "khoảng năm mươi cân", "en": "about fifty jin"}
+      },
+      {
+        "hanzi": "一百来辆",
+        "pinyin": "Yībǎi lái liàng",
+        "translation": {"vi": "khoảng một trăm chiếc", "en": "about a hundred"}
+      },
+      {
+        "hanzi": "他大约有四十来岁。",
+        "pinyin": "Tā dàyuē yǒu sìshí lái suì.",
+        "translation": {"vi": "Anh ấy khoảng hơn bốn mươi tuổi.", "en": "He is about forty-something years old."}
+      }
+    ]
+  },
+  {
+    "id": "shu-fenshu-baifenshu-beishu",
+    "metadata": {
+      "id": "四62",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.6", "label": "特殊表达法"},
+        {"code": "A.4.6.1", "label": "数的表示法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Cách biểu thị số thập phân, phân số, phần trăm, bội số",
+      "en": "Expressing decimals, fractions, percentages, multiples",
+      "zh": "小数、分数、百分数、倍数的表示法"
+    },
+    "structure": "X.XX / 三分之二 / 百分之 X / X倍",
+    "explanation": {
+      "vi": "Số thập phân đọc từng chữ số, dấu chấm là \"点\" (ví dụ 0.3 = \"零点三\"). Phân số đọc là \"几分之几\" (ví dụ 2/3 = \"三分之二\"). Phần trăm đọc là \"百分之几\" (ví dụ 50% = \"百分之五十\"). Bội số đọc là \"几倍\" (ví dụ 5倍 = \"五倍\").",
+      "en": "Decimals read digit by digit with dot as \"点\" (e.g., 0.3 = \"零点三\"). Fractions read as \"几分之几\" (e.g., 2/3 = \"三分之二\"). Percentages read as \"百分之几\" (e.g., 50% = \"百分之五十\"). Multiples read as \"几倍\" (e.g., 5倍 = \"五倍\").",
+      "zh": "小数逐位读，点读“点”；分数读作“几分之几”；百分数读作“百分之几”；倍数读作“几倍”。"
+    },
+    "examples": [
+      {
+        "hanzi": "零点三",
+        "pinyin": "Líng diǎn sān",
+        "translation": {"vi": "không phẩy ba", "en": "0.3"}
+      },
+      {
+        "hanzi": "三分之二",
+        "pinyin": "Sān fēn zhī èr",
+        "translation": {"vi": "hai phần ba", "en": "two thirds"}
+      },
+      {
+        "hanzi": "百分之五十",
+        "pinyin": "Bǎi fēn zhī wǔshí",
+        "translation": {"vi": "năm mươi phần trăm", "en": "fifty percent"}
+      },
+      {
+        "hanzi": "五倍",
+        "pinyin": "Wǔ bèi",
+        "translation": {"vi": "năm lần", "en": "five times"}
+      },
+      {
+        "hanzi": "这一百个汉字，我认识三分之二。",
+        "pinyin": "Zhè yībǎi gè hànzì, wǒ rènshi sān fēn zhī èr.",
+        "translation": {"vi": "Trong một trăm chữ Hán này, tôi biết hai phần ba.", "en": "I know two thirds of these one hundred Chinese characters."}
+      },
+      {
+        "hanzi": "这支笔的价格比原来降低了百分之五十。",
+        "pinyin": "Zhè zhī bǐ de jiàgé bǐ yuánlái jiàngdī le bǎi fēn zhī wǔshí.",
+        "translation": {"vi": "Giá của chiếc bút này đã giảm 50% so với trước.", "en": "The price of this pen has decreased by fifty percent compared to before."}
+      },
+      {
+        "hanzi": "三班男生人数是女生人数的三倍。",
+        "pinyin": "Sān bān nánshēng rénshù shì nǚshēng rénshù de sān bèi.",
+        "translation": {"vi": "Số nam sinh lớp 3 gấp ba lần số nữ sinh.", "en": "The number of boys in Class 3 is three times the number of girls."}
+      }
+    ]
+  },
+  {
+    "id": "fanwen-2",
+    "metadata": {
+      "id": "四63",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.7", "label": "强调的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Câu hỏi tu từ để nhấn mạnh (dùng đại từ nghi vấn)",
+      "en": "Rhetorical questions for emphasis (using interrogative pronouns)",
+      "zh": "用反问句表示强调（疑问代词）"
+    },
+    "structure": "疑问代词 + ……（句号/问号）",
+    "explanation": {
+      "vi": "Câu hỏi tu từ dùng đại từ nghi vấn để nhấn mạnh ý phủ định hoặc khẳng định, thường không cần trả lời. Ví dụ: \"谁不知道？\" = \"Mọi người đều biết\". Các đại từ: 谁, 哪儿, 怎么, 什么.",
+      "en": "Rhetorical questions using interrogative pronouns to emphasize affirmation or negation, usually not requiring an answer. E.g., \"谁不知道？\" = \"Everyone knows\". Pronouns: 谁, 哪儿, 怎么, 什么.",
+      "zh": "用疑问代词构成反问句，强调肯定或否定，不需要回答。常用代词：谁、哪儿、怎么、什么。"
+    },
+    "examples": [
+      {
+        "hanzi": "他这么有名，谁不知道啊？",
+        "pinyin": "Tā zhème yǒumíng, shéi bù zhīdào a?",
+        "translation": {"vi": "Anh ấy nổi tiếng thế, ai mà chẳng biết?", "en": "He is so famous; who doesn't know him?"}
+      },
+      {
+        "hanzi": "他去哪儿，我怎么会知道呢？",
+        "pinyin": "Tā qù nǎr, wǒ zěnme huì zhīdào ne?",
+        "translation": {"vi": "Anh ấy đi đâu, tôi làm sao biết được?", "en": "How would I know where he went?"}
+      },
+      {
+        "hanzi": "作业这么多，我哪儿有时间出去玩儿？",
+        "pinyin": "Zuòyè zhème duō, wǒ nǎr yǒu shíjiān chūqù wánr?",
+        "translation": {"vi": "Bài tập nhiều thế, tôi đâu có thời gian đi chơi?", "en": "With so much homework, how can I have time to go out?"}
+      },
+      {
+        "hanzi": "你连这个都不知道？",
+        "pinyin": "Nǐ lián zhè ge dōu bù zhīdào?",
+        "translation": {"vi": "Bạn ngay cả cái này cũng không biết à?", "en": "You don't even know this?"}
+      }
+    ]
+  },
+  {
+    "id": "shuangchong-fouding",
+    "metadata": {
+      "id": "四64",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.7", "label": "强调的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Nhấn mạnh bằng phủ định kép",
+      "en": "Emphasis using double negation",
+      "zh": "用双重否定表示强调"
+    },
+    "structure": "没有…不… / 不可能不… / 不会不…",
+    "explanation": {
+      "vi": "Phủ định kép tạo ra ý nghĩa khẳng định mạnh mẽ. Các cấu trúc thường gặp: \"没有…不…\" (không có cái gì mà không), \"不可能不\" (không thể không), \"不会不\" (sẽ không không).",
+      "en": "Double negation produces a strong affirmative meaning. Common structures: \"没有…不…\" (there is no… not), \"不可能不\" (cannot not), \"不会不\" (will not not).",
+      "zh": "双重否定表示强烈肯定。常见结构有“没有…不…”、“不可能不”、“不会不”。"
+    },
+    "examples": [
+      {
+        "hanzi": "没有孩子不喜欢玩儿。",
+        "pinyin": "Méiyǒu háizi bù xǐhuān wánr.",
+        "translation": {"vi": "Không có đứa trẻ nào không thích chơi.", "en": "There is no child who doesn't like to play."}
+      },
+      {
+        "hanzi": "这么重要的活动我不可能不参加。",
+        "pinyin": "Zhème zhòngyào de huódòng wǒ bù kěnéng bù cānjiā.",
+        "translation": {"vi": "Hoạt động quan trọng thế này tôi không thể không tham gia.", "en": "I cannot not participate in such an important activity."}
+      },
+      {
+        "hanzi": "老师不会不答应我们的请求。",
+        "pinyin": "Lǎoshī bù huì bù dāyìng wǒmen de qǐngqiú.",
+        "translation": {"vi": "Thầy sẽ không từ chối yêu cầu của chúng tôi.", "en": "The teacher will not turn down our request."}
+      },
+      {
+        "hanzi": "我们家没有不喜欢唱歌的。",
+        "pinyin": "Wǒmen jiā méiyǒu bù xǐhuān chànggē de.",
+        "translation": {"vi": "Nhà tôi không ai không thích hát.", "en": "Everyone in my family likes to sing."}
+      }
+    ]
+  },
+  {
+    "id": "yi-liangci-ye-dou",
+    "metadata": {
+      "id": "四65",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.7", "label": "强调的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Nhấn mạnh với \"一+量词（+名词）+也/都+没（不）\"",
+      "en": "Emphasis with \"一+量词（+名词）+也/都+没（不）\"",
+      "zh": "用“一+量词（+名词）+也（都）/也没（不）…”表示强调"
+    },
+    "structure": "一 + 量词 + （名词） + 也/都 + 没/不 + 动词",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để nhấn mạnh sự phủ định tuyệt đối, nghĩa là \"không chút nào, không một cái nào\". Lượng từ có thể là 个, 本, 次, 句, v.v.",
+      "en": "This structure is used for absolute negation, meaning \"not even one\". The measure word can be 个, 本, 次, 句, etc.",
+      "zh": "该结构表示完全否定，意为“一个也没有”。量词可为“个、本、次、句”等。"
+    },
+    "examples": [
+      {
+        "hanzi": "我一本中文书也没看过。",
+        "pinyin": "Wǒ yī běn zhōngwén shū yě méi kàn guò.",
+        "translation": {"vi": "Tôi chưa đọc được một cuốn sách tiếng Trung nào.", "en": "I haven't read a single Chinese book."}
+      },
+      {
+        "hanzi": "我累得一步路都走不动了。",
+        "pinyin": "Wǒ lèi de yī bù lù dōu zǒu bù dòng le.",
+        "translation": {"vi": "Tôi mệt đến nỗi không bước nổi một bước.", "en": "I'm so tired that I can't walk a single step."}
+      },
+      {
+        "hanzi": "上海我一次也没去过。",
+        "pinyin": "Shànghǎi wǒ yī cì yě méi qù guò.",
+        "translation": {"vi": "Thượng Hải tôi chưa đi lần nào.", "en": "I have never been to Shanghai even once."}
+      },
+      {
+        "hanzi": "刚来中国时，他一句中文也听不懂。",
+        "pinyin": "Gāng lái Zhōngguó shí, tā yī jù zhōngwén yě tīng bù dǒng.",
+        "translation": {"vi": "Khi mới đến Trung Quốc, anh ấy không nghe hiểu một câu tiếng Trung nào.", "en": "When he first came to China, he couldn't understand a single word of Chinese."}
+      }
+    ]
+  },
+  {
+    "id": "lian-ye-dou",
+    "metadata": {
+      "id": "四66",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.7", "label": "强调的方法"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Nhấn mạnh với \"连…也/都…\" (ngay cả… cũng…)",
+      "en": "Emphasis with \"连…也/都…\" (even… still…)",
+      "zh": "用“连…也/都…”表示强调"
+    },
+    "structure": "连 + 名词/动词 + 也/都 + 谓語",
+    "explanation": {
+      "vi": "Cấu trúc này nhấn mạnh bằng cách đưa ra một trường hợp cực đoan hoặc điển hình, ngụ ý ngay cả trường hợp đó cũng vậy. Thường dùng để biểu thị sự bất ngờ hoặc nhấn mạnh mức độ.",
+      "en": "This structure emphasizes by citing an extreme or typical case, implying that even that case applies. Often used to express surprise or highlight degree.",
+      "zh": "该结构通过极端或典型事例加强语气，暗示连那情况也如此。常用于表示惊讶或程度。"
+    },
+    "examples": [
+      {
+        "hanzi": "他连这个作家的名字也没听说过。",
+        "pinyin": "Tā lián zhè ge zuòjiā de míngzi yě méi tīng shuō guò.",
+        "translation": {"vi": "Anh ấy thậm chí chưa nghe nói tên nhà văn này.", "en": "He hasn't even heard of this writer's name."}
+      },
+      {
+        "hanzi": "我连最简单的汉字都写不出来。",
+        "pinyin": "Wǒ lián zuì jiǎndān de hànzì dōu xiě bù chūlai.",
+        "translation": {"vi": "Tôi ngay cả chữ Hán đơn giản nhất cũng không viết được.", "en": "I can't even write the simplest Chinese characters."}
+      },
+      {
+        "hanzi": "他连饭都没吃就走了。",
+        "pinyin": "Tā lián fàn dōu méi chī jiù zǒu le.",
+        "translation": {"vi": "Anh ấy thậm chí không ăn cơm đã đi rồi.", "en": "He left without even eating."}
+      }
+    ]
+  },
+  {
+    "id": "bu-bai-bu",
+    "metadata": {
+      "id": "四67",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"不×白不×\" (không làm thì phí)",
+      "en": "Spoken pattern \"不×白不×\" (would be a waste not to do X)",
+      "zh": "口语格式「不×白不×」"
+    },
+    "structure": "不 + V + 白 + 不 + V",
+    "explanation": {
+      "vi": "Cấu trúc này có nghĩa \"nếu không làm thì phí, nên làm\". Thường dùng với động từ như \"吃\" (ăn), \"看\" (xem). Ý nói vì có cơ hội nên tận dụng.",
+      "en": "This structure means \"it would be a waste not to do X, so you should do it.\" Commonly used with verbs like \"吃\" (eat), \"看\" (look). It implies taking advantage of an opportunity.",
+      "zh": "该结构表示“不做得不偿失”，常用于口语，动词常为“吃、看”等。意为有机会就应利用。"
+    },
+    "examples": [
+      {
+        "hanzi": "今天班长请客，咱们不吃白不吃。",
+        "pinyin": "Jīntiān bānzhǎng qǐngkè, zánmen bù chī bái bù chī.",
+        "translation": {"vi": "Hôm nay lớp trưởng bao ăn, chúng ta không ăn thì phí.", "en": "The class monitor is treating us today; we'd be foolish not to eat."}
+      },
+      {
+        "hanzi": "这个电影是免费的，我们为什么不去看电影？不看白不看。",
+        "pinyin": "Zhè ge diànyǐng shì miǎnfèi de, wǒmen wèishénme bù qù kàn diànyǐng? Bù kàn bái bù kàn.",
+        "translation": {"vi": "Bộ phim này miễn phí, sao chúng ta không đi xem? Không xem thì phí.", "en": "This movie is free; why not go watch it? It would be a waste not to see it."}
+      },
+      {
+        "hanzi": "这酒不喝白不喝。",
+        "pinyin": "Zhè jiǔ bù hē bái bù hē.",
+        "translation": {"vi": "Rượu này không uống thì phí.", "en": "It would be a waste not to drink this wine."}
+      }
+    ]
+  },
+  {
+    "id": "dongci-yi-shi-yi",
+    "metadata": {
+      "id": "四68",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"动词+一×是一X\" (làm được gì hay nấy)",
+      "en": "Spoken pattern \"动词+一×是一X\" (do what you can)",
+      "zh": "口语格式「动词+一×是一X」"
+    },
+    "structure": "动词 + 一 + 量词/名词 + 是一 + 量词/名词",
+    "explanation": {
+      "vi": "Cấu trúc này biểu thị thái độ làm một cái được một cái, thường dùng trong tình huống khó khăn hoặc bất đắc dĩ, nghĩa là \"làm được bao nhiêu thì làm\". X thường là lượng từ hoặc danh từ.",
+      "en": "This structure expresses a \"do what you can\" attitude, often in difficult or forced situations, meaning \"do one, get one\". X is often a measure word or noun.",
+      "zh": "该结构表示“做一点算一点”，常用于困难或无奈情境，X多为量词或名词。"
+    },
+    "examples": [
+      {
+        "hanzi": "虽然日子过得很难，但也不能过一天是一天。",
+        "pinyin": "Suīrán rìzi guò de hěn nán, dàn yě bùnéng guò yī tiān shì yī tiān.",
+        "translation": {"vi": "Dù cuộc sống khó khăn, nhưng cũng không thể sống qua ngày.", "en": "Although life is hard, we can't just live from day to day without purpose."}
+      },
+      {
+        "hanzi": "事情实在太多了，能做一件是一件吧。",
+        "pinyin": "Shìqing shízài tài duō le, néng zuò yī jiàn shì yī jiàn ba.",
+        "translation": {"vi": "Việc thực sự quá nhiều, làm được việc nào hay việc đó.", "en": "There are too many things; just do what you can, one at a time."}
+      },
+      {
+        "hanzi": "做一道题是一道题，你一定能做完。",
+        "pinyin": "Zuò yī dào tí shì yī dào tí, nǐ yīdìng néng zuò wán.",
+        "translation": {"vi": "Làm được một câu là một câu, bạn nhất định sẽ làm xong.", "en": "Do one problem at a time; you will definitely finish."}
+      }
+    ]
+  },
+  {
+    "id": "mei-shenme-hao-v-de",
+    "metadata": {
+      "id": "四69",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"（没）有什么（好）X的\" (có gì đâu)",
+      "en": "Spoken pattern \"（没）有什么（好）X的\" (nothing to X about)",
+      "zh": "口语格式「（没）有什么（好）X的」"
+    },
+    "structure": "（没）有什么（好）+ V + 的",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để nói rằng không có gì đáng để làm V, thường để an ủi hoặc bác bỏ. \"好\" có thể thêm vào để nhấn mạnh.\nVí dụ: \"没什么好担心的\" (không có gì phải lo lắng).",
+      "en": "This structure says that there is nothing worth doing V, often used to comfort or dismiss. \"好\" can be added for emphasis.\nE.g., \"没什么好担心的\" (nothing to worry about).",
+      "zh": "该结构表示没什么值得V的，常用来安慰或否定。可加“好”加强语气。"
+    },
+    "examples": [
+      {
+        "hanzi": "这才刚刚开始，没有什么好激动的。",
+        "pinyin": "Zhè cái gānggāng kāishǐ, méiyǒu shénme hǎo jīdòng de.",
+        "translation": {"vi": "Mới bắt đầu thôi, có gì mà phấn khích.", "en": "It's just the beginning; there's nothing to get excited about."}
+      },
+      {
+        "hanzi": "你还是别担心了，有什么好害怕的。",
+        "pinyin": "Nǐ hái shì bié dānxīn le, yǒu shénme hǎo hàipà de.",
+        "translation": {"vi": "Bạn đừng lo nữa, có gì phải sợ.", "en": "Don't worry; there's nothing to be afraid of."}
+      },
+      {
+        "hanzi": "有什么好难过的，这是我们早就想到的结果。",
+        "pinyin": "Yǒu shénme hǎo nánguò de, zhè shì wǒmen zǎo jiù xiǎng dào de jiéguǒ.",
+        "translation": {"vi": "Có gì phải buồn, đây là kết quả chúng ta đã nghĩ đến từ lâu.", "en": "There's nothing to be sad about; we already expected this outcome."}
+      },
+      {
+        "hanzi": "没什么好说的。",
+        "pinyin": "Méi shénme hǎo shuō de.",
+        "translation": {"vi": "Không có gì phải nói.", "en": "There's nothing to say."}
+      }
+    ]
+  },
+  {
+    "id": "x-shi-x-y-shi-y",
+    "metadata": {
+      "id": "四70",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"X是X，Y是Y\" (cái này ra cái này)",
+      "en": "Spoken pattern \"X是X，Y是Y\" (X is X, Y is Y)",
+      "zh": "口语格式「X是X，Y是Y」"
+    },
+    "structure": "X 是 X，Y 是 Y",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để phân biệt rõ ràng hai đối tượng hoặc khía cạnh, nhấn mạnh chúng không lẫn lộn. Thường dùng khi cần làm rõ sự khác biệt hoặc từ chối.",
+      "en": "This structure clearly distinguishes two objects or aspects, emphasizing they are separate. Often used to clarify differences or to refuse.",
+      "zh": "该结构用于区分两个事物或方面，强调不能混为一谈。常用于澄清差异或拒绝。"
+    },
+    "examples": [
+      {
+        "hanzi": "一是一，二是二，这要分清楚。",
+        "pinyin": "Yī shì yī, èr shì èr, zhè yào fēn qīngchu.",
+        "translation": {"vi": "Một là một, hai là hai, phải phân biệt rõ ràng.", "en": "One is one, two is two; this must be distinguished clearly."}
+      },
+      {
+        "hanzi": "他是他，我是我，意见不同很正常。",
+        "pinyin": "Tā shì tā, wǒ shì wǒ, yìjiàn bùtóng hěn zhèngcháng.",
+        "translation": {"vi": "Anh ấy là anh ấy, tôi là tôi, ý kiến khác nhau là bình thường.", "en": "He is he, I am I; it's normal to have different opinions."}
+      },
+      {
+        "hanzi": "昨天是昨天，今天是今天，你得交作业。",
+        "pinyin": "Zuótiān shì zuótiān, jīntiān shì jīntiān, nǐ děi jiāo zuòyè.",
+        "translation": {"vi": "Hôm qua là hôm qua, hôm nay là hôm nay, bạn phải nộp bài tập.", "en": "Yesterday is yesterday, today is today; you have to hand in your homework."}
+      }
+    ]
+  },
+  {
+    "id": "x-dei-x-bu-dei-x",
+    "metadata": {
+      "id": "四71",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"X也得X，不X也得X\" (dù muốn hay không cũng phải)",
+      "en": "Spoken pattern \"X也得X，不X也得X\" (have to do X whether you like it or not)",
+      "zh": "口语格式「X也得X，不X也得X」"
+    },
+    "structure": "V + 也得 + V，不 + V + 也得 + V",
+    "explanation": {
+      "vi": "Cấu trúc này biểu thị việc bắt buộc phải làm V, bất kể muốn hay không. Thường dùng để áp đặt hoặc nhấn mạnh sự cần thiết.",
+      "en": "This structure expresses that one must do V whether they want to or not. Often used to impose or emphasize necessity.",
+      "zh": "该结构表示无论愿不愿意都得做，强调强制性。"
+    },
+    "examples": [
+      {
+        "hanzi": "这件事很重要，你做也得做，不做也得做。",
+        "pinyin": "Zhè jiàn shì hěn zhòngyào, nǐ zuò yě děi zuò, bù zuò yě děi zuò.",
+        "translation": {"vi": "Việc này rất quan trọng, bạn làm cũng phải làm, không làm cũng phải làm.", "en": "This matter is very important; you have to do it whether you want to or not."}
+      },
+      {
+        "hanzi": "你吃也得吃，不吃也得吃，不能浪费粮食。",
+        "pinyin": "Nǐ chī yě děi chī, bù chī yě děi chī, bùnéng làngfèi liángshi.",
+        "translation": {"vi": "Bạn ăn cũng phải ăn, không ăn cũng phải ăn, không được lãng phí lương thực.", "en": "You have to eat whether you want to or not; you can't waste food."}
+      },
+      {
+        "hanzi": "都病成这样了，医院你去也得去，不去也得去。",
+        "pinyin": "Dōu bìng chéng zhèyàng le, yīyuàn nǐ qù yě děi qù, bù qù yě děi qù.",
+        "translation": {"vi": "Bệnh đến mức này rồi, bạn phải đi bệnh viện dù có muốn hay không.", "en": "You are this sick; you have to go to the hospital whether you like it or not."}
+      }
+    ]
+  },
+  {
+    "id": "x-jiu-shi-le",
+    "metadata": {
+      "id": "四72",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"X就是了\" (cứ làm X đi)",
+      "en": "Spoken pattern \"X就是了\" (just do X)",
+      "zh": "口语格式「X就是了」"
+    },
+    "structure": "V + 就是了",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để khuyến khích hoặc bảo ai đó cứ làm gì đó một cách đơn giản, không cần suy nghĩ nhiều. Thể hiện thái độ thoải mái, không quan trọng.",
+      "en": "This structure is used to encourage someone to just do something simply, without overthinking. It conveys a relaxed attitude.",
+      "zh": "该结构用于鼓励或告诉别人“尽管做……就好”，表示轻松、不需顾虑。"
+    },
+    "examples": [
+      {
+        "hanzi": "你别浪费时间了，直接说就是了。",
+        "pinyin": "Nǐ bié làngfèi shíjiān le, zhíjiē shuō jiù shì le.",
+        "translation": {"vi": "Đừng lãng phí thời gian nữa, cứ nói thẳng đi.", "en": "Don't waste time; just say it directly."}
+      },
+      {
+        "hanzi": "你不要生气，以后别跟他说话就是了。",
+        "pinyin": "Nǐ bùyào shēngqì, yǐhòu bié gēn tā shuōhuà jiù shì le.",
+        "translation": {"vi": "Đừng giận, sau này đừng nói chuyện với anh ấy nữa là được.", "en": "Don't be angry; just don't talk to him later."}
+      },
+      {
+        "hanzi": "你想去就去就是了。",
+        "pinyin": "Nǐ xiǎng qù jiù qù jiù shì le.",
+        "translation": {"vi": "Muốn đi thì cứ đi.", "en": "If you want to go, just go."}
+      }
+    ]
+  },
+  {
+    "id": "hai-ne",
+    "metadata": {
+      "id": "四73",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"还X呢\" (còn X cơ đấy)",
+      "en": "Spoken pattern \"还X呢\" (and yet you call it X)",
+      "zh": "口语格式「还X呢」"
+    },
+    "structure": "还 + X + 呢",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để phản bác hoặc chế giễu, ngụ ý rằng điều gì đó không đáng được gọi là X. Thường dùng trong khẩu ngữ với giọng mỉa mai.",
+      "en": "This structure is used to refute or mock, implying that something does not deserve to be called X. Often used in spoken Chinese with a sarcastic tone.",
+      "zh": "该结构表示反驳或讽刺，暗示某事物不配称为X。常用于口语，带有嘲讽意味。"
+    },
+    "examples": [
+      {
+        "hanzi": "还名牌儿呢，我听都没听过。",
+        "pinyin": "Hái míngpái r ne, wǒ tīng dōu méi tīng guò.",
+        "translation": {"vi": "Còn hiệu nổi tiếng nữa, tôi nghe còn chưa nghe qua.", "en": "You call it a famous brand? I've never even heard of it."}
+      },
+      {
+        "hanzi": "还有名的专家呢，这水平还没我高。",
+        "pinyin": "Hái yǒumíng de zhuānjiā ne, zhè shuǐpíng hái méi wǒ gāo.",
+        "translation": {"vi": "Còn chuyên gia nổi tiếng nữa, trình độ còn chưa bằng tôi.", "en": "You call him a famous expert? His level isn't even as good as mine."}
+      },
+      {
+        "hanzi": "还著名诗人呢，这诗写的我都看不懂。",
+        "pinyin": "Hái zhùmíng shīrén ne, zhè shī xiě de wǒ dōu kàn bù dǒng.",
+        "translation": {"vi": "Còn nhà thơ nổi tiếng nữa, bài thơ này tôi đọc còn không hiểu.", "en": "You call him a famous poet? I can't even understand this poem."}
+      }
+    ]
+  },
+  {
+    "id": "ni-v-de-ba",
+    "metadata": {
+      "id": "四74",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"你X你的吧\" (bạn cứ làm việc của bạn đi)",
+      "en": "Spoken pattern \"你X你的吧\" (you go ahead and do your X)",
+      "zh": "口语格式「你X你的吧」"
+    },
+    "structure": "你 + V + 你的 + 吧",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để khuyến khích ai đó tiếp tục làm việc của họ mà không bị làm phiền, thường mang ý \"cứ làm đi, đừng lo cho tôi\".",
+      "en": "This structure is used to encourage someone to continue with their own business without being disturbed, often meaning \"go ahead, don't worry about me\".",
+      "zh": "该结构鼓励对方继续做自己的事，不必分心，意为“你做你的吧”。"
+    },
+    "examples": [
+      {
+        "hanzi": "你吃你的吧，别给我留。",
+        "pinyin": "Nǐ chī nǐ de ba, bié gěi wǒ liú.",
+        "translation": {"vi": "Bạn cứ ăn đi, đừng để phần tôi.", "en": "You go ahead and eat; don't save any for me."}
+      },
+      {
+        "hanzi": "没有什么事，你休息你的吧！",
+        "pinyin": "Méiyǒu shénme shì, nǐ xiūxi nǐ de ba!",
+        "translation": {"vi": "Không có việc gì, bạn cứ nghỉ ngơi đi!", "en": "There's nothing; you go ahead and rest."}
+      },
+      {
+        "hanzi": "你忙你的吧，我跟孩子玩儿一会儿。",
+        "pinyin": "Nǐ máng nǐ de ba, wǒ gēn háizi wánr yīhuìr.",
+        "translation": {"vi": "Bạn cứ bận việc của bạn, tôi chơi với bọn trẻ một lát.", "en": "You go ahead with your work; I'll play with the kids for a while."}
+      }
+    ]
+  },
+  {
+    "id": "rang-jiao-ni-v-ni-jiu-v",
+    "metadata": {
+      "id": "四75",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"让/叫你X你就X\" (bảo làm gì thì làm đấy)",
+      "en": "Spoken pattern \"让/叫你X你就X\" (just do as you're told)",
+      "zh": "口语格式「让/叫你X你就X」"
+    },
+    "structure": "让/叫 + 你 + V + 你就 + V",
+    "explanation": {
+      "vi": "Cấu trúc này dùng để ra lệnh hoặc khuyến khích ai đó làm theo yêu cầu một cách đơn giản, thường mang sắc thái hơi mạnh mẽ.",
+      "en": "This structure is used to give a command or encourage someone to follow instructions simply, often with a slightly forceful tone.",
+      "zh": "该结构用于命令或吩咐对方按指示做，语气稍显强势。"
+    },
+    "examples": [
+      {
+        "hanzi": "让你做你就做，别多问了。",
+        "pinyin": "Ràng nǐ zuò nǐ jiù zuò, bié duō wèn le.",
+        "translation": {"vi": "Bảo làm thì làm, đừng hỏi nhiều.", "en": "Do as you're told; don't ask so many questions."}
+      },
+      {
+        "hanzi": "叫你吃你就吃，其他的你别管。",
+        "pinyin": "Jiào nǐ chī nǐ jiù chī, qítā de nǐ bié guǎn.",
+        "translation": {"vi": "Bảo ăn thì ăn, chuyện khác đừng lo.", "en": "Eat when you're told; don't worry about other things."}
+      },
+      {
+        "hanzi": "让你安静你就安静，别那么多话。",
+        "pinyin": "Ràng nǐ ānjìng nǐ jiù ānjìng, bié nàme duō huà.",
+        "translation": {"vi": "Bảo yên lặng thì yên lặng, đừng nói nhiều.", "en": "Be quiet when told; don't talk so much."}
+      }
+    ]
+  },
+  {
+    "id": "shuo-shenme-ye-dei",
+    "metadata": {
+      "id": "四76",
+      "level": "HSK4",
+      "breadcrumb": [
+        {"code": "A.4.8", "label": "口语格式"}
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Mẫu câu khẩu ngữ \"说什么/怎么（着）也得X\" (dù sao cũng phải X)",
+      "en": "Spoken pattern \"说什么/怎么（着）也得X\" (must X no matter what)",
+      "zh": "口语格式「说什么/怎么（着）也得X」"
+    },
+    "structure": "说什么 / 怎么（着）也得 + V",
+    "explanation": {
+      "vi": "Cấu trúc này biểu thị sự quyết tâm hoặc bắt buộc phải làm V, bất kể điều kiện thế nào. Thường dùng để nhấn mạnh sự cần thiết phải làm.",
+      "en": "This structure expresses determination or necessity to do V, regardless of circumstances. Used to emphasize that something must be done.",
+      "zh": "该结构表示无论如何都要做某事，强调决心或必要性。"
+    },
+    "examples": [
+      {
+        "hanzi": "他生病了，我说什么也得去看看他。",
+        "pinyin": "Tā shēngbìng le, wǒ shuō shénme yě děi qù kàn kàn tā.",
+        "translation": {"vi": "Anh ấy bị bệnh, tôi nhất định phải đi thăm anh ấy.", "en": "He is sick; I must go see him no matter what."}
+      },
+      {
+        "hanzi": "这么重要的活动，你怎么也得来一下儿。",
+        "pinyin": "Zhème zhòngyào de huódòng, nǐ zěnme yě děi lái yīxiàr.",
+        "translation": {"vi": "Hoạt động quan trọng thế này, bạn nhất định phải đến một chút.", "en": "Such an important event; you must come at least for a while."}
+      },
+      {
+        "hanzi": "没时间了，说什么也得走了。",
+        "pinyin": "Méi shíjiān le, shuō shénme yě děi zǒu le.",
+        "translation": {"vi": "Hết giờ rồi, nhất định phải đi.", "en": "There's no time left; I have to go now."}
       }
     ]
   }

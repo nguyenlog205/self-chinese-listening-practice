@@ -1,64 +1,2523 @@
 [
   {
-    "id": "guo",
-    "title": {
-      "vi": "Trợ từ 过 (kinh nghiệm)",
-      "en": "Aspect particle 过 (experience)",
-      "zh": "经历助词「过」"
+    "id": "diyi-laoyi-xiaoyi",
+    "metadata": {
+      "id": "三01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.1",
+          "label": "语素"
+        },
+        {
+          "code": "A.3.1.1",
+          "label": "前缀"
+        }
+      ],
+      "category": null
     },
-    "structure": "V + 过",
+    "title": {
+      "vi": "Tiền tố 第-, 老-, 小-",
+      "en": "Prefixes 第-, 老-, 小-",
+      "zh": "前缀「第、老、小」"
+    },
+    "structure": "第 + 数词 ／ 老 + 数词／姓 ／ 小 + 姓",
     "explanation": {
-      "vi": "过 sau động từ diễn tả kinh nghiệm đã từng làm trong quá khứ, không nhấn mạnh thời điểm cụ thể.",
-      "en": "过 after a verb expresses a past experience, without emphasizing a specific time.",
-      "zh": "「过」放在动词后，表示曾经有过某种经历，不强调具体时间。"
+      "vi": "\"第\" đặt trước số từ để tạo số thứ tự (第一 = thứ nhất). \"老\" đặt trước số từ (thường là 老大, 老二...) để chỉ thứ bậc trong anh chị em, hoặc đặt trước họ (老王) để gọi thân mật người lớn tuổi/ngang vai. \"小\" đặt trước họ (小李) để gọi thân mật người trẻ hơn hoặc ngang vai. Đây là các tiền tố cấu tạo từ, không tự đứng một mình.",
+      "en": "\"第\" precedes a number to form ordinal numbers (第一 = first). \"老\" precedes a number (老大, 老二...) to mark birth order among siblings, or precedes a surname (老王) as a familiar way to address an older or peer person. \"小\" precedes a surname (小李) to address a younger or peer person familiarly. These are word-forming prefixes and cannot stand alone.",
+      "zh": "「第」加在数词前构成序数词（第一）。「老」加在数词前（老大、老二）表示排行，也可加在姓前（老王）表示对年长者或平辈的亲切称呼。「小」加在姓前（小李）表示对年轻人或平辈的亲切称呼。三者都是构词前缀，不能单独使用。"
     },
     "examples": [
       {
-        "hanzi": "我去过北京。",
-        "pinyin": "Wǒ qùguo Běijīng.",
+        "hanzi": "他是我们班的第一名。",
+        "pinyin": "Tā shì wǒmen bān de dì yī míng.",
         "translation": {
-          "vi": "Tôi đã từng đến Bắc Kinh.",
-          "en": "I have been to Beijing before."
+          "vi": "Anh ấy là hạng nhất lớp chúng tôi.",
+          "en": "He's the top student in our class."
         }
       },
       {
-        "hanzi": "他没吃过中国菜。",
-        "pinyin": "Tā méi chīguo Zhōngguó cài.",
+        "hanzi": "我家老大在北京工作，老二还在上学。",
+        "pinyin": "Wǒ jiā lǎodà zài Běijīng gōngzuò, lǎo'èr hái zài shàngxué.",
         "translation": {
-          "vi": "Anh ấy chưa từng ăn món Trung Quốc.",
-          "en": "He has never eaten Chinese food."
+          "vi": "Anh cả nhà tôi làm việc ở Bắc Kinh, đứa thứ hai vẫn còn đi học.",
+          "en": "My eldest sibling works in Beijing, and my second sibling is still in school."
+        }
+      },
+      {
+        "hanzi": "老王，好久不见！",
+        "pinyin": "Lǎo Wáng, hǎojiǔ bú jiàn!",
+        "translation": {
+          "vi": "Lão Vương, lâu rồi không gặp!",
+          "en": "Old Wang, long time no see!"
+        }
+      },
+      {
+        "hanzi": "小李，你来帮我一下。",
+        "pinyin": "Xiǎo Lǐ, nǐ lái bāng wǒ yíxià.",
+        "translation": {
+          "vi": "Tiểu Lý, cậu đến giúp tôi một chút.",
+          "en": "Xiao Li, come help me for a second."
+        }
+      }
+    ]
+  },
+  {
+    "id": "er-jia-men-tou-zi",
+    "metadata": {
+      "id": "三02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.1",
+          "label": "语素"
+        },
+        {
+          "code": "A.3.1.2",
+          "label": "后缀"
+        }
+      ],
+      "category": null
+    },
+    "title": {
+      "vi": "Hậu tố -儿, -家, -们, -头, -子",
+      "en": "Suffixes -儿, -家, -们, -头, -子",
+      "zh": "后缀「儿、家、们、头、子」"
+    },
+    "structure": "名词/动词 + 儿／家／们／头／子",
+    "explanation": {
+      "vi": "Đây là các hậu tố cấu tạo danh từ, gắn vào sau gốc từ mà không mang nghĩa thực rõ ràng. \"-儿\" tạo âm hưởng thân mật (画儿), \"-家\" chỉ người làm nghề chuyên môn (画家), \"-们\" đánh dấu số nhiều cho danh từ chỉ người (朋友们), \"-头\" gắn sau danh/động từ (石头, 里头), \"-子\" là hậu tố danh từ rất phổ biến (瓶子, 屋子). Không có quy luật ngữ nghĩa chặt chẽ, cần học thuộc từng từ ghép cụ thể.",
+      "en": "These are noun-forming suffixes attached to a root, usually without a clear standalone meaning. \"-儿\" adds a colloquial/diminutive flavor (画儿), \"-家\" marks a professional (画家), \"-们\" marks plurality on nouns referring to people (朋友们), \"-头\" attaches after nouns/verbs (石头, 里头), and \"-子\" is a very common noun suffix (瓶子, 屋子). There's no strict semantic rule; each combination must be learned individually.",
+      "zh": "这些是构成名词的后缀，附在词根后面，本身通常没有明确实义。「儿」带口语化、亲切的色彩（画儿），「家」表示某种职业的人（画家），「们」用于指人的名词表示复数（朋友们），「头」附在名词或动词后（石头、里头），「子」是很常见的名词后缀（瓶子、屋子）。没有严格的语义规律，需要逐个词记忆。"
+    },
+    "examples": [
+      {
+        "hanzi": "他喜欢画儿，想当画家。",
+        "pinyin": "Tā xǐhuan huàr, xiǎng dāng huàjiā.",
+        "translation": {
+          "vi": "Anh ấy thích tranh vẽ, muốn làm họa sĩ.",
+          "en": "He likes paintings and wants to be a painter."
+        }
+      },
+      {
+        "hanzi": "老师们都很喜欢这个班的学生们。",
+        "pinyin": "Lǎoshīmen dōu hěn xǐhuan zhège bān de xuéshengmen.",
+        "translation": {
+          "vi": "Các thầy cô đều rất thích học sinh lớp này.",
+          "en": "The teachers all really like the students in this class."
+        }
+      },
+      {
+        "hanzi": "石头放在里头。",
+        "pinyin": "Shítou fàng zài lǐtou.",
+        "translation": {
+          "vi": "Đá được đặt ở bên trong.",
+          "en": "The rocks are placed inside."
+        }
+      },
+      {
+        "hanzi": "瓶子里的水没有了，屋子里也没人。",
+        "pinyin": "Píngzi lǐ de shuǐ méiyǒu le, wūzi lǐ yě méi rén.",
+        "translation": {
+          "vi": "Nước trong chai hết rồi, trong phòng cũng không có ai.",
+          "en": "The water in the bottle is gone, and there's no one in the room either."
+        }
+      }
+    ]
+  },
+  {
+    "id": "gan",
+    "metadata": {
+      "id": "三03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "能愿动词"
+    },
+    "title": {
+      "vi": "Động từ năng nguyện \"敢\" (dám)",
+      "en": "Modal verb \"敢\" (dare to)",
+      "zh": "能愿动词「敢」"
+    },
+    "structure": "主语 + (不) 敢 + 动词短语",
+    "explanation": {
+      "vi": "\"敢\" là động từ năng nguyện biểu thị có đủ can đảm hoặc dũng khí để làm việc gì, đứng trước một động từ/cụm động từ khác. Phủ định dùng \"不敢\" (không dám). Dạng nghi vấn: \"敢不敢\" hoặc thêm \"吗\". \"敢\" khác với \"会\" (biết làm) và \"能\" (có khả năng khách quan) ở chỗ nó nhấn mạnh yếu tố tâm lý, can đảm chứ không phải năng lực.",
+      "en": "\"敢\" is a modal verb expressing having the courage or nerve to do something; it precedes another verb or verb phrase. The negative form is \"不敢\" (not dare to). The question form is \"敢不敢\" or add \"吗\". \"敢\" differs from \"会\" (know how to) and \"能\" (be objectively able to) in that it emphasizes psychological courage rather than ability.",
+      "zh": "「敢」是能愿动词，表示有勇气去做某事，用在另一个动词或动词短语前。否定式为「不敢」。疑问式可用「敢不敢」或加「吗」。「敢」与表示能力的「会」「能」不同，它强调的是心理上的胆量，而非客观能力。"
+    },
+    "examples": [
+      {
+        "hanzi": "这儿有两米高，你敢跳下去吗？",
+        "pinyin": "Zhèr yǒu liǎng mǐ gāo, nǐ gǎn tiào xiàqù ma?",
+        "translation": {
+          "vi": "Chỗ này cao hai mét, cậu dám nhảy xuống không?",
+          "en": "This is two meters high, do you dare to jump down?"
+        }
+      },
+      {
+        "hanzi": "我不敢在河里游泳。",
+        "pinyin": "Wǒ bù gǎn zài hé lǐ yóuyǒng.",
+        "translation": {
+          "vi": "Tôi không dám bơi ở sông.",
+          "en": "I don't dare swim in the river."
+        }
+      },
+      {
+        "hanzi": "他敢一个人去黑黑的房间吗？",
+        "pinyin": "Tā gǎn yí ge rén qù hēihēi de fángjiān ma?",
+        "translation": {
+          "vi": "Anh ấy có dám một mình vào căn phòng tối om không?",
+          "en": "Does he dare go into the dark room alone?"
+        }
+      },
+      {
+        "hanzi": "你敢不敢跟老板说实话？",
+        "pinyin": "Nǐ gǎn bu gǎn gēn lǎobǎn shuō shíhuà?",
+        "translation": {
+          "vi": "Cậu có dám nói thật với sếp không?",
+          "en": "Do you dare tell the boss the truth?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "xuyao",
+    "metadata": {
+      "id": "三04",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "能愿动词"
+    },
+    "title": {
+      "vi": "Động từ năng nguyện \"需要\" (cần)",
+      "en": "Modal verb \"需要\" (need to)",
+      "zh": "能愿动词「需要」"
+    },
+    "structure": "主语 + (不) 需要 + 动词短语／名词",
+    "explanation": {
+      "vi": "\"需要\" biểu thị sự cần thiết khách quan, có thể đứng trước động từ/cụm động từ (需要休息) hoặc trực tiếp trước danh từ làm tân ngữ (需要时间). Phủ định là \"不需要\", nghi vấn thêm \"吗\" hoặc dùng \"需不需要\". Khác với \"要\" (mang tính chủ quan, ý muốn), \"需要\" nghiêng về nhu cầu thực tế, khách quan hơn.",
+      "en": "\"需要\" expresses an objective necessity and can precede a verb/verb phrase (需要休息 need to rest) or directly take a noun object (需要时间 need time). The negative is \"不需要\"; questions add \"吗\" or use \"需不需要\". Unlike \"要\" (subjective wish), \"需要\" leans toward a real, objective requirement.",
+      "zh": "「需要」表示客观上的必要性，后面可接动词/动词短语（需要休息），也可直接带名词宾语（需要时间）。否定式为「不需要」，疑问式加「吗」或用「需不需要」。与偏主观意愿的「要」不同，「需要」更强调客观、实际的需求。"
+    },
+    "examples": [
+      {
+        "hanzi": "这件事需要大家一起努力。",
+        "pinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ nǔlì.",
+        "translation": {
+          "vi": "Việc này cần mọi người cùng nhau cố gắng.",
+          "en": "This matter needs everyone to work hard together."
+        }
+      },
+      {
+        "hanzi": "你现在最需要的是休息。",
+        "pinyin": "Nǐ xiànzài zuì xūyào de shì xiūxi.",
+        "translation": {
+          "vi": "Điều cậu cần nhất bây giờ là nghỉ ngơi.",
+          "en": "What you need most right now is rest."
+        }
+      },
+      {
+        "hanzi": "如果需要帮忙，随时给我打电话。",
+        "pinyin": "Rúguǒ xūyào bāngmáng, suíshí gěi wǒ dǎ diànhuà.",
+        "translation": {
+          "vi": "Nếu cần giúp đỡ, cứ gọi điện cho tôi bất cứ lúc nào.",
+          "en": "If you need help, call me anytime."
+        }
+      },
+      {
+        "hanzi": "这个问题不需要马上解决。",
+        "pinyin": "Zhège wèntí bù xūyào mǎshàng jiějué.",
+        "translation": {
+          "vi": "Vấn đề này không cần giải quyết ngay.",
+          "en": "This problem doesn't need to be solved right away."
+        }
+      }
+    ]
+  },
+  {
+    "id": "bangmang",
+    "metadata": {
+      "id": "三05-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"帮忙\" (giúp đỡ)",
+      "en": "Separable verb \"帮忙\" (to help)",
+      "zh": "动宾式离合词「帮忙」"
+    },
+    "structure": "帮 + (代词/数量) + 忙 ／ 帮 + 谁的忙",
+    "explanation": {
+      "vi": "\"帮忙\" là động từ ly hợp (động-tân), do \"帮\" (giúp) + \"忙\" (việc bận) ghép thành, nghĩa là giúp đỡ. Vì có cấu trúc động-tân bên trong nên KHÔNG mang tân ngữ trực tiếp phía sau như động từ thường (không nói 帮忙他), muốn chỉ rõ người được giúp phải dùng \"帮他的忙\" hoặc \"帮他忙\". Có thể chêm thành phần vào giữa: 帮了个忙, 帮什么忙.",
+      "en": "\"帮忙\" is a separable verb-object compound (帮 help + 忙 busy affairs), meaning \"to help\". Because it already contains an internal verb-object structure, it CANNOT take a direct object after it like a normal verb (you cannot say 帮忙他); to specify who is helped, use \"帮他的忙\" or \"帮他忙\". Elements can be inserted in the middle: 帮了个忙, 帮什么忙.",
+      "zh": "「帮忙」是动宾式离合词，由「帮」（帮助）+「忙」（事务）组成，意思是帮助。因为内部已经是动宾结构，所以后面不能直接再带宾语（不能说帮忙他），要说明帮助的对象需用「帮他的忙」或「帮他忙」。中间可以插入成分，如帮了个忙、帮什么忙。"
+    },
+    "examples": [
+      {
+        "hanzi": "你能帮我一个忙吗？",
+        "pinyin": "Nǐ néng bāng wǒ yí ge máng ma?",
+        "translation": {
+          "vi": "Cậu có thể giúp tôi một việc được không?",
+          "en": "Can you do me a favor?"
+        }
+      },
+      {
+        "hanzi": "谢谢你昨天帮了我的忙。",
+        "pinyin": "Xièxie nǐ zuótiān bāng le wǒ de máng.",
+        "translation": {
+          "vi": "Cảm ơn cậu hôm qua đã giúp tôi.",
+          "en": "Thanks for helping me out yesterday."
+        }
+      },
+      {
+        "hanzi": "这件事我帮不上忙。",
+        "pinyin": "Zhè jiàn shì wǒ bāng bu shàng máng.",
+        "translation": {
+          "vi": "Việc này tôi không giúp được.",
+          "en": "I can't help with this matter."
+        }
+      },
+      {
+        "hanzi": "需要帮忙的话，尽管开口。",
+        "pinyin": "Xūyào bāngmáng dehuà, jǐnguǎn kāikǒu.",
+        "translation": {
+          "vi": "Nếu cần giúp đỡ thì cứ nói.",
+          "en": "If you need help, just say so."
+        }
+      }
+    ]
+  },
+  {
+    "id": "diantou",
+    "metadata": {
+      "id": "三05-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"点头\" (gật đầu)",
+      "en": "Separable verb \"点头\" (to nod)",
+      "zh": "动宾式离合词「点头」"
+    },
+    "structure": "点 + (数量/了) + 头",
+    "explanation": {
+      "vi": "\"点头\" do \"点\" (gật, chấm) + \"头\" (đầu) ghép thành, nghĩa là gật đầu (thường để biểu thị đồng ý hoặc chào). Vì là động-tân nên không mang tân ngữ trực tiếp phía sau, các thành phần như \"了\", số lượng có thể chêm vào giữa: 点了点头, 点了两下头.",
+      "en": "\"点头\" is formed from \"点\" (to nod/tap) + \"头\" (head), meaning to nod one's head, usually to show agreement or greet someone. As a verb-object compound it cannot take a direct object after it; aspect markers or quantities are inserted in the middle: 点了点头 (nodded), 点了两下头 (nodded twice).",
+      "zh": "「点头」由「点」+「头」组成，意思是点头（多表示同意或打招呼）。因为是动宾结构，后面不能直接带宾语，「了」、数量等成分要插在中间，如点了点头、点了两下头。"
+    },
+    "examples": [
+      {
+        "hanzi": "他听完后点了点头，没说什么。",
+        "pinyin": "Tā tīng wán hòu diǎn le diǎn tóu, méi shuō shénme.",
+        "translation": {
+          "vi": "Nghe xong anh ấy gật đầu, không nói gì.",
+          "en": "After listening he nodded and said nothing."
+        }
+      },
+      {
+        "hanzi": "老师问大家懂不懂，同学们都点头。",
+        "pinyin": "Lǎoshī wèn dàjiā dǒng bu dǒng, tóngxuémen dōu diǎntóu.",
+        "translation": {
+          "vi": "Cô giáo hỏi mọi người có hiểu không, các bạn học đều gật đầu.",
+          "en": "The teacher asked if everyone understood, and the classmates all nodded."
+        }
+      },
+      {
+        "hanzi": "她只是笑着点了点头，就走了。",
+        "pinyin": "Tā zhǐshì xiàozhe diǎn le diǎn tóu, jiù zǒu le.",
+        "translation": {
+          "vi": "Cô ấy chỉ cười gật đầu rồi đi.",
+          "en": "She just smiled, nodded, and left."
+        }
+      }
+    ]
+  },
+  {
+    "id": "fangjia",
+    "metadata": {
+      "id": "三05-03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"放假\" (nghỉ lễ/nghỉ học)",
+      "en": "Separable verb \"放假\" (to have a holiday/break)",
+      "zh": "动宾式离合词「放假」"
+    },
+    "structure": "放 + (数量/了) + 假",
+    "explanation": {
+      "vi": "\"放假\" do \"放\" (thả, cho phép) + \"假\" (ngày nghỉ) ghép thành, nghĩa là được nghỉ (trường học, cơ quan). Không mang tân ngữ trực tiếp; muốn nói thời gian nghỉ bao lâu thì chêm số lượng vào giữa: 放三天假, hoặc đặt bổ ngữ thời lượng sau: 放假三天/放假了.",
+      "en": "\"放假\" is formed from \"放\" (to release/grant) + \"假\" (holiday), meaning to be on a break from school or work. It cannot take a direct object; to state the duration, insert the quantity in the middle: 放三天假, or place it as a complement after: 放假三天.",
+      "zh": "「放假」由「放」+「假」组成，指学校或单位放假休息。不能直接带宾语；说明放假时长时要把数量插在中间，如放三天假，也可说放假三天。"
+    },
+    "examples": [
+      {
+        "hanzi": "下周我们放假三天。",
+        "pinyin": "Xià zhōu wǒmen fàng jià sān tiān.",
+        "translation": {
+          "vi": "Tuần sau chúng tôi được nghỉ ba ngày.",
+          "en": "Next week we have a three-day break."
+        }
+      },
+      {
+        "hanzi": "学校已经放假了，学生们都回家了。",
+        "pinyin": "Xuéxiào yǐjīng fàngjià le, xuéshengmen dōu huí jiā le.",
+        "translation": {
+          "vi": "Trường đã nghỉ rồi, học sinh đều về nhà cả.",
+          "en": "The school is already on break, and the students have all gone home."
+        }
+      },
+      {
+        "hanzi": "什么时候放暑假？",
+        "pinyin": "Shénme shíhou fàng shǔjià?",
+        "translation": {
+          "vi": "Khi nào thì nghỉ hè?",
+          "en": "When does summer break start?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ganbei",
+    "metadata": {
+      "id": "三05-04",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"干杯\" (cạn ly)",
+      "en": "Separable verb \"干杯\" (to toast/bottoms up)",
+      "zh": "动宾式离合词「干杯」"
+    },
+    "structure": "为 + 某事 + 干杯 ／ 干 + 了 + 杯",
+    "explanation": {
+      "vi": "\"干杯\" do \"干\" (làm cạn) + \"杯\" (ly) ghép thành, nghĩa là uống cạn ly để chúc mừng. Thường dùng như câu chào mời độc lập (干杯！), hoặc kết hợp với \"为...干杯\" để nói rõ lý do chúc mừng. Là động-tân nên không mang tân ngữ trực tiếp phía sau.",
+      "en": "\"干杯\" is formed from \"干\" (to dry up/finish) + \"杯\" (cup), meaning to drink up as a toast. It's often used as a standalone toast (干杯！), or combined with \"为...干杯\" to state the reason for the toast. Being a verb-object compound, it cannot take a direct object after it.",
+      "zh": "「干杯」由「干」+「杯」组成，指为了祝贺而喝完杯中的酒。常单独用作祝酒语（干杯！），也可与「为……干杯」搭配说明祝贺的原因。因为是动宾结构，后面不能直接带宾语。"
+    },
+    "examples": [
+      {
+        "hanzi": "为我们的友谊干杯！",
+        "pinyin": "Wèi wǒmen de yǒuyì gānbēi!",
+        "translation": {
+          "vi": "Cạn ly vì tình bạn của chúng ta!",
+          "en": "Cheers to our friendship!"
+        }
+      },
+      {
+        "hanzi": "大家一起干杯，祝他生日快乐。",
+        "pinyin": "Dàjiā yìqǐ gānbēi, zhù tā shēngrì kuàilè.",
+        "translation": {
+          "vi": "Mọi người cùng nâng ly, chúc anh ấy sinh nhật vui vẻ.",
+          "en": "Everyone toasted together, wishing him a happy birthday."
+        }
+      },
+      {
+        "hanzi": "他干了三杯，脸都红了。",
+        "pinyin": "Tā gān le sān bēi, liǎn dōu hóng le.",
+        "translation": {
+          "vi": "Anh ấy cạn ba ly, mặt đỏ hết cả lên.",
+          "en": "He downed three cups, and his face turned red."
+        }
+      }
+    ]
+  },
+  {
+    "id": "jianmian",
+    "metadata": {
+      "id": "三05-05",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"见面\" (gặp mặt)",
+      "en": "Separable verb \"见面\" (to meet)",
+      "zh": "动宾式离合词「见面」"
+    },
+    "structure": "跟 + 某人 + 见面 ／ 见 + 了 + (一) + 面",
+    "explanation": {
+      "vi": "\"见面\" do \"见\" (gặp) + \"面\" (mặt) ghép thành, nghĩa là gặp mặt nhau. Vì mang cấu trúc động-tân nên không nói \"见面他\", phải dùng \"跟他见面\" hoặc \"和他见面\" để chỉ rõ đối tượng gặp. Trạng từ thời lượng chêm vào giữa: 见过一次面, 见了面.",
+      "en": "\"见面\" is formed from \"见\" (to see) + \"面\" (face), meaning to meet each other. Because of its internal verb-object structure, you cannot say \"见面他\"; use \"跟他见面\" or \"和他见面\" to specify who is met. Duration/frequency expressions are inserted in the middle: 见过一次面 (met once), 见了面.",
+      "zh": "「见面」由「见」+「面」组成，指彼此相见。因为是动宾结构，不能说「见面他」，要用「跟他见面」或「和他见面」表示对象。时量、次数成分插在中间，如见过一次面、见了面。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们好久没见面了。",
+        "pinyin": "Wǒmen hǎojiǔ méi jiànmiàn le.",
+        "translation": {
+          "vi": "Chúng ta lâu rồi không gặp mặt.",
+          "en": "We haven't met in a long time."
+        }
+      },
+      {
+        "hanzi": "明天我要跟客户见面。",
+        "pinyin": "Míngtiān wǒ yào gēn kèhù jiànmiàn.",
+        "translation": {
+          "vi": "Ngày mai tôi phải gặp khách hàng.",
+          "en": "Tomorrow I have to meet with a client."
+        }
+      },
+      {
+        "hanzi": "我们只见过一次面，不太熟。",
+        "pinyin": "Wǒmen zhǐ jiàn guo yí cì miàn, bú tài shú.",
+        "translation": {
+          "vi": "Chúng tôi chỉ gặp nhau một lần, chưa quen lắm.",
+          "en": "We've only met once, so we're not very familiar."
+        }
+      }
+    ]
+  },
+  {
+    "id": "jiehun",
+    "metadata": {
+      "id": "三05-06",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"结婚\" (kết hôn)",
+      "en": "Separable verb \"结婚\" (to get married)",
+      "zh": "动宾式离合词「结婚」"
+    },
+    "structure": "跟 + 某人 + 结婚 ／ 结 + 了 + 婚",
+    "explanation": {
+      "vi": "\"结婚\" do \"结\" (kết) + \"婚\" (hôn nhân) ghép thành, nghĩa là kết hôn. Không mang tân ngữ trực tiếp, muốn nói kết hôn với ai phải dùng \"跟/和...结婚\" chứ không nói \"结婚他\". Thành phần thời thể chêm vào giữa: 结了婚, 结过婚.",
+      "en": "\"结婚\" is formed from \"结\" (to tie/form) + \"婚\" (marriage), meaning to get married. It cannot take a direct object; to say \"marry someone\" use \"跟/和...结婚\", never \"结婚他\". Aspect particles are inserted in the middle: 结了婚 (got married), 结过婚 (has been married before).",
+      "zh": "「结婚」由「结」+「婚」组成，指结为夫妻。不能直接带宾语，说和某人结婚要用「跟/和……结婚」，不能说「结婚他」。时态成分插在中间，如结了婚、结过婚。"
+    },
+    "examples": [
+      {
+        "hanzi": "他们打算明年结婚。",
+        "pinyin": "Tāmen dǎsuàn míngnián jiéhūn.",
+        "translation": {
+          "vi": "Họ dự định sang năm kết hôn.",
+          "en": "They plan to get married next year."
+        }
+      },
+      {
+        "hanzi": "我表哥跟一个法国女孩结婚了。",
+        "pinyin": "Wǒ biǎogē gēn yí ge Fǎguó nǚhái jiéhūn le.",
+        "translation": {
+          "vi": "Anh họ tôi đã kết hôn với một cô gái người Pháp.",
+          "en": "My cousin got married to a French girl."
+        }
+      },
+      {
+        "hanzi": "她结过一次婚，现在一个人生活。",
+        "pinyin": "Tā jié guo yí cì hūn, xiànzài yí ge rén shēnghuó.",
+        "translation": {
+          "vi": "Cô ấy từng kết hôn một lần, giờ sống một mình.",
+          "en": "She's been married once before, and now lives alone."
+        }
+      }
+    ]
+  },
+  {
+    "id": "kanbing",
+    "metadata": {
+      "id": "三05-07",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"看病\" (khám bệnh)",
+      "en": "Separable verb \"看病\" (to see a doctor / see a patient)",
+      "zh": "动宾式离合词「看病」"
+    },
+    "structure": "去 + 看病 ／ 给 + 某人 + 看病",
+    "explanation": {
+      "vi": "\"看病\" do \"看\" (xem, khám) + \"病\" (bệnh) ghép thành, có hai chiều nghĩa: người bệnh đi khám bệnh (我去医院看病), hoặc bác sĩ khám cho bệnh nhân (医生给病人看病). Không mang tân ngữ trực tiếp phía sau như một động từ đơn.",
+      "en": "\"看病\" is formed from \"看\" (to see/examine) + \"病\" (illness), and works in two directions: a patient going to see a doctor (我去医院看病), or a doctor examining a patient (医生给病人看病). It cannot take a direct object after it like a simple verb.",
+      "zh": "「看病」由「看」+「病」组成，有两种方向：病人去看医生（我去医院看病），或医生给病人诊治（医生给病人看病）。不能像一般动词那样直接带宾语。"
+    },
+    "examples": [
+      {
+        "hanzi": "我今天下午要去医院看病。",
+        "pinyin": "Wǒ jīntiān xiàwǔ yào qù yīyuàn kànbìng.",
+        "translation": {
+          "vi": "Chiều nay tôi phải đi bệnh viện khám bệnh.",
+          "en": "I need to go to the hospital to see a doctor this afternoon."
+        }
+      },
+      {
+        "hanzi": "这位医生每天给很多病人看病。",
+        "pinyin": "Zhè wèi yīshēng měitiān gěi hěn duō bìngrén kànbìng.",
+        "translation": {
+          "vi": "Bác sĩ này mỗi ngày khám cho rất nhiều bệnh nhân.",
+          "en": "This doctor examines many patients every day."
+        }
+      },
+      {
+        "hanzi": "看病不用排队，网上就能挂号。",
+        "pinyin": "Kànbìng búyòng páiduì, wǎngshàng jiù néng guàhào.",
+        "translation": {
+          "vi": "Khám bệnh không cần xếp hàng, đăng ký trên mạng là được.",
+          "en": "You don't need to line up to see a doctor; you can register online."
+        }
+      }
+    ]
+  },
+  {
+    "id": "shuijiao",
+    "metadata": {
+      "id": "三05-08",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"睡觉\" (ngủ)",
+      "en": "Separable verb \"睡觉\" (to sleep)",
+      "zh": "动宾式离合词「睡觉」"
+    },
+    "structure": "睡 + (数量/了/过) + 觉",
+    "explanation": {
+      "vi": "\"睡觉\" do \"睡\" (ngủ) + \"觉\" (giấc) ghép thành, nghĩa là đi ngủ. Không mang tân ngữ; muốn nói ngủ bao lâu thì chêm số lượng vào giữa: 睡了八个小时的觉, hoặc dùng \"觉\" độc lập với bổ ngữ thời lượng phía sau: 睡了八个小时觉.",
+      "en": "\"睡觉\" is formed from \"睡\" (to sleep) + \"觉\" (sleep, as a noun), meaning to go to sleep. It cannot take an object; to state duration, insert the quantity in the middle: 睡了八个小时的觉, or place a duration complement after: 睡了八个小时觉.",
+      "zh": "「睡觉」由「睡」+「觉」组成，指去睡觉。不能带宾语；说明睡眠时长时，数量成分插在中间，如睡了八个小时的觉，也可说睡了八个小时觉。"
+    },
+    "examples": [
+      {
+        "hanzi": "我昨天晚上十一点才睡觉。",
+        "pinyin": "Wǒ zuótiān wǎnshang shíyī diǎn cái shuìjiào.",
+        "translation": {
+          "vi": "Tối qua mười một giờ tôi mới đi ngủ.",
+          "en": "I didn't go to sleep until 11 pm last night."
+        }
+      },
+      {
+        "hanzi": "他每天只睡五个小时的觉。",
+        "pinyin": "Tā měitiān zhǐ shuì wǔ ge xiǎoshí de jiào.",
+        "translation": {
+          "vi": "Mỗi ngày anh ấy chỉ ngủ năm tiếng.",
+          "en": "He only sleeps five hours a day."
+        }
+      },
+      {
+        "hanzi": "别玩手机了，快睡觉吧。",
+        "pinyin": "Bié wán shǒujī le, kuài shuìjiào ba.",
+        "translation": {
+          "vi": "Đừng chơi điện thoại nữa, đi ngủ đi.",
+          "en": "Stop playing on your phone, go to sleep."
+        }
+      }
+    ]
+  },
+  {
+    "id": "xizao",
+    "metadata": {
+      "id": "三05-09",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"洗澡\" (tắm)",
+      "en": "Separable verb \"洗澡\" (to bathe/shower)",
+      "zh": "动宾式离合词「洗澡」"
+    },
+    "structure": "洗 + (了/过) + 澡",
+    "explanation": {
+      "vi": "\"洗澡\" do \"洗\" (rửa, tắm) + \"澡\" (tắm) ghép thành, nghĩa là tắm rửa. Không mang tân ngữ trực tiếp; thành phần thời thể chêm vào giữa: 洗了个澡, 洗过澡.",
+      "en": "\"洗澡\" is formed from \"洗\" (to wash) + \"澡\" (bath), meaning to take a bath/shower. It cannot take a direct object; aspect particles are inserted in the middle: 洗了个澡 (took a shower), 洗过澡 (has showered).",
+      "zh": "「洗澡」由「洗」+「澡」组成，指洗身体。不能直接带宾语；时态成分插在中间，如洗了个澡、洗过澡。"
+    },
+    "examples": [
+      {
+        "hanzi": "我先去洗个澡再睡觉。",
+        "pinyin": "Wǒ xiān qù xǐ ge zǎo zài shuìjiào.",
+        "translation": {
+          "vi": "Tôi đi tắm trước rồi mới ngủ.",
+          "en": "I'll take a shower first, then go to sleep."
+        }
+      },
+      {
+        "hanzi": "他运动完就去洗澡了。",
+        "pinyin": "Tā yùndòng wán jiù qù xǐzǎo le.",
+        "translation": {
+          "vi": "Tập thể dục xong anh ấy đi tắm luôn.",
+          "en": "As soon as he finished exercising, he went to take a shower."
+        }
+      },
+      {
+        "hanzi": "小孩子今天还没洗澡呢。",
+        "pinyin": "Xiǎoháizi jīntiān hái méi xǐzǎo ne.",
+        "translation": {
+          "vi": "Đứa nhỏ hôm nay vẫn chưa tắm.",
+          "en": "The kid hasn't had a bath yet today."
+        }
+      }
+    ]
+  },
+  {
+    "id": "lifa",
+    "metadata": {
+      "id": "三05-10",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"理发\" (cắt tóc)",
+      "en": "Separable verb \"理发\" (to get a haircut)",
+      "zh": "动宾式离合词「理发」"
+    },
+    "structure": "去 + 理发 ／ 理 + (了/过) + 发",
+    "explanation": {
+      "vi": "\"理发\" do \"理\" (chỉnh sửa) + \"发\" (tóc) ghép thành, nghĩa là cắt/sửa tóc. Không mang tân ngữ trực tiếp; thành phần thời thể chêm vào giữa: 理了个发.",
+      "en": "\"理发\" is formed from \"理\" (to arrange/trim) + \"发\" (hair), meaning to get a haircut. It cannot take a direct object; aspect particles are inserted in the middle: 理了个发 (got a haircut).",
+      "zh": "「理发」由「理」+「发」组成，指剪、整理头发。不能直接带宾语；时态成分插在中间，如理了个发。"
+    },
+    "examples": [
+      {
+        "hanzi": "我的头发太长了，得去理发了。",
+        "pinyin": "Wǒ de tóufa tài cháng le, děi qù lǐfà le.",
+        "translation": {
+          "vi": "Tóc tôi dài quá rồi, phải đi cắt thôi.",
+          "en": "My hair is too long, I need to get a haircut."
+        }
+      },
+      {
+        "hanzi": "他刚理了个发，看起来精神多了。",
+        "pinyin": "Tā gāng lǐ le ge fà, kàn qǐlái jīngshen duō le.",
+        "translation": {
+          "vi": "Anh ấy vừa cắt tóc xong, trông tinh thần hơn hẳn.",
+          "en": "He just got a haircut and looks much more energetic."
+        }
+      },
+      {
+        "hanzi": "这家理发店的师傅理发理得很好。",
+        "pinyin": "Zhè jiā lǐfàdiàn de shīfu lǐfà lǐ de hěn hǎo.",
+        "translation": {
+          "vi": "Thợ ở tiệm cắt tóc này cắt rất đẹp.",
+          "en": "The stylist at this barbershop cuts hair very well."
+        }
+      }
+    ]
+  },
+  {
+    "id": "shuohua",
+    "metadata": {
+      "id": "三05-11",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动宾式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"说话\" (nói chuyện)",
+      "en": "Separable verb \"说话\" (to speak/talk)",
+      "zh": "动宾式离合词「说话」"
+    },
+    "structure": "跟 + 某人 + 说话 ／ 说 + 了 + 一句话",
+    "explanation": {
+      "vi": "\"说话\" do \"说\" (nói) + \"话\" (lời nói) ghép thành, chỉ hành động nói chung chung, không kèm nội dung cụ thể. Muốn nói \"nói chuyện với ai\" dùng \"跟...说话\". Khác với \"说\" đơn lẻ có thể mang tân ngữ nội dung cụ thể (说中文, 说这件事), \"说话\" thường không mang tân ngữ chỉ nội dung.",
+      "en": "\"说话\" is formed from \"说\" (to speak) + \"话\" (words), referring to the general act of speaking, without specifying content. To say \"talk with someone\", use \"跟...说话\". Unlike the bare verb \"说\", which can take a content object (说中文, 说这件事), \"说话\" generally doesn't take a content object.",
+      "zh": "「说话」由「说」+「话」组成，泛指说话这一动作，不带具体内容。要表示跟谁说话，用「跟……说话」。与可以带具体内容宾语的「说」（说中文、说这件事）不同，「说话」一般不带内容宾语。"
+    },
+    "examples": [
+      {
+        "hanzi": "上课的时候不要说话。",
+        "pinyin": "Shàngkè de shíhou bú yào shuōhuà.",
+        "translation": {
+          "vi": "Trong giờ học đừng nói chuyện.",
+          "en": "Don't talk during class."
+        }
+      },
+      {
+        "hanzi": "我想跟你单独说话。",
+        "pinyin": "Wǒ xiǎng gēn nǐ dāndú shuōhuà.",
+        "translation": {
+          "vi": "Tôi muốn nói chuyện riêng với cậu.",
+          "en": "I want to talk to you alone."
+        }
+      },
+      {
+        "hanzi": "他说话很直接，有什么说什么。",
+        "pinyin": "Tā shuōhuà hěn zhíjiē, yǒu shénme shuō shénme.",
+        "translation": {
+          "vi": "Anh ấy nói chuyện rất thẳng thắn, có gì nói nấy.",
+          "en": "He speaks very directly, saying whatever's on his mind."
+        }
+      }
+    ]
+  },
+  {
+    "id": "dakai",
+    "metadata": {
+      "id": "三06-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动补式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"打开\" (mở ra)",
+      "en": "Separable verb \"打开\" (to open)",
+      "zh": "动补式离合词「打开」"
+    },
+    "structure": "打 + 开 + 宾语 ／ 把 + 宾语 + 打开",
+    "explanation": {
+      "vi": "\"打开\" là động-bổ ly hợp gồm động từ \"打\" và bổ ngữ kết quả \"开\" (mở), nghĩa là mở (cửa, sách, hộp...). Có thể mang tân ngữ phía sau (打开门) hoặc dùng câu chữ \"把\" (把门打开). Dạng khả năng: 打得开 (mở được) / 打不开 (không mở được) chêm \"得/不\" giữa hai yếu tố.",
+      "en": "\"打开\" is a verb-resultative-complement compound: verb \"打\" + result complement \"开\" (open), meaning to open (a door, book, box, etc). It can take a direct object (打开门) or be used with the 把-construction (把门打开). Its potential form inserts 得/不 between the two parts: 打得开 (able to open) / 打不开 (unable to open).",
+      "zh": "「打开」是动补式离合词，由动词「打」加结果补语「开」组成，指把东西打开（门、书、盒子等）。可直接带宾语（打开门），也可用「把」字句（把门打开）。可能式在两部分中间插入「得/不」：打得开／打不开。"
+    },
+    "examples": [
+      {
+        "hanzi": "请把窗户打开，透透气。",
+        "pinyin": "Qǐng bǎ chuānghu dǎkāi, tòutou qì.",
+        "translation": {
+          "vi": "Làm ơn mở cửa sổ ra cho thoáng.",
+          "en": "Please open the window to let some air in."
+        }
+      },
+      {
+        "hanzi": "这个瓶盖太紧，我打不开。",
+        "pinyin": "Zhège pínggài tài jǐn, wǒ dǎ bu kāi.",
+        "translation": {
+          "vi": "Cái nắp chai này chặt quá, tôi mở không ra.",
+          "en": "This bottle cap is too tight, I can't open it."
+        }
+      },
+      {
+        "hanzi": "他打开电脑，开始工作。",
+        "pinyin": "Tā dǎkāi diànnǎo, kāishǐ gōngzuò.",
+        "translation": {
+          "vi": "Anh ấy mở máy tính, bắt đầu làm việc.",
+          "en": "He opened his computer and started working."
+        }
+      }
+    ]
+  },
+  {
+    "id": "kanjian",
+    "metadata": {
+      "id": "三06-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动补式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"看见\" (nhìn thấy)",
+      "en": "Separable verb \"看见\" (to see, to catch sight of)",
+      "zh": "动补式离合词「看见」"
+    },
+    "structure": "看 + 见 + 宾语",
+    "explanation": {
+      "vi": "\"看见\" gồm động từ \"看\" (nhìn) + bổ ngữ kết quả \"见\" (nhận ra được), nghĩa là nhìn thấy, nhấn mạnh kết quả của hành động nhìn (khác với \"看\" chỉ hành động chưa chắc thấy được). Phủ định thường dùng \"没看见\" (đã không thấy) chứ không dùng \"不\". Dạng khả năng: 看得见/看不见.",
+      "en": "\"看见\" combines the verb \"看\" (to look) with the result complement \"见\" (to perceive), meaning to actually see/notice something, emphasizing the result of looking (unlike bare \"看\", which doesn't guarantee the thing was perceived). Negation normally uses \"没看见\" (didn't see) rather than \"不\". The potential form is 看得见/看不见 (can/can't see, e.g. due to distance).",
+      "zh": "「看见」由动词「看」加结果补语「见」组成，表示看的结果是看到了（区别于只表示动作的「看」）。否定一般用「没看见」，而不用「不」。可能式为看得见／看不见（如因距离等原因能否看到）。"
+    },
+    "examples": [
+      {
+        "hanzi": "我昨天在超市看见他了。",
+        "pinyin": "Wǒ zuótiān zài chāoshì kànjiàn tā le.",
+        "translation": {
+          "vi": "Hôm qua tôi nhìn thấy anh ấy ở siêu thị.",
+          "en": "I saw him at the supermarket yesterday."
+        }
+      },
+      {
+        "hanzi": "太远了，我看不见黑板上的字。",
+        "pinyin": "Tài yuǎn le, wǒ kàn bu jiàn hēibǎn shàng de zì.",
+        "translation": {
+          "vi": "Xa quá, tôi không nhìn thấy chữ trên bảng.",
+          "en": "It's too far, I can't see the words on the blackboard."
+        }
+      },
+      {
+        "hanzi": "你有没有看见我的钥匙？",
+        "pinyin": "Nǐ yǒu méiyǒu kànjiàn wǒ de yàoshi?",
+        "translation": {
+          "vi": "Cậu có nhìn thấy chìa khóa của tôi không?",
+          "en": "Have you seen my keys?"
+        }
+      }
+    ]
+  },
+  {
+    "id": "likai",
+    "metadata": {
+      "id": "三06-03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动补式离合词"
+    },
+    "title": {
+      "vi": "Động từ ly hợp \"离开\" (rời khỏi)",
+      "en": "Separable verb \"离开\" (to leave)",
+      "zh": "动补式离合词「离开」"
+    },
+    "structure": "离 + 开 + 宾语(地点/人)",
+    "explanation": {
+      "vi": "\"离开\" gồm \"离\" (rời) + bổ ngữ \"开\" (tách ra), nghĩa là rời khỏi (một nơi, một người). Có thể mang tân ngữ trực tiếp là địa điểm hoặc người (离开北京, 离开她). Khác với giới từ \"离\" dùng để chỉ khoảng cách (离...远/近), \"离开\" là động từ chỉ hành động rời đi.",
+      "en": "\"离开\" combines \"离\" (to leave/be apart) + complement \"开\" (apart), meaning to leave a place or a person. It can directly take a place or person as its object (离开北京 leave Beijing, 离开她 leave her). Unlike the preposition \"离\" used for distance (离...远/近), \"离开\" is a verb denoting the act of departing.",
+      "zh": "「离开」由「离」加补语「开」组成，指离开某地或某人。可直接带地点或人作宾语（离开北京、离开她）。与表示距离的介词「离」（离……远/近）不同，「离开」是表示离去动作的动词。"
+    },
+    "examples": [
+      {
+        "hanzi": "他明天就要离开中国了。",
+        "pinyin": "Tā míngtiān jiù yào líkāi Zhōngguó le.",
+        "translation": {
+          "vi": "Ngày mai anh ấy sẽ rời Trung Quốc rồi.",
+          "en": "He's leaving China tomorrow."
+        }
+      },
+      {
+        "hanzi": "请不要离开座位。",
+        "pinyin": "Qǐng bú yào líkāi zuòwèi.",
+        "translation": {
+          "vi": "Xin đừng rời khỏi chỗ ngồi.",
+          "en": "Please don't leave your seat."
+        }
+      },
+      {
+        "hanzi": "自从她离开后，我们就没再联系了。",
+        "pinyin": "Zìcóng tā líkāi hòu, wǒmen jiù méi zài liánxì le.",
+        "translation": {
+          "vi": "Từ khi cô ấy rời đi, chúng tôi không còn liên lạc nữa.",
+          "en": "Since she left, we haven't been in touch anymore."
+        }
+      }
+    ]
+  },
+  {
+    "id": "wancheng",
+    "metadata": {
+      "id": "三06-04",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.1",
+          "label": "动词"
+        }
+      ],
+      "category": "动补式离合词"
+    },
+    "title": {
+      "vi": "Động từ \"完成\" (hoàn thành)",
+      "en": "Verb \"完成\" (to complete/finish)",
+      "zh": "动补式离合词「完成」"
+    },
+    "structure": "完成 + 宾语(任务/工作)",
+    "explanation": {
+      "vi": "\"完成\" gồm \"完\" (xong) + \"成\" (thành công), nghĩa là hoàn thành trọn vẹn một công việc/nhiệm vụ, thường mang tân ngữ trừu tượng như 任务, 作业, 工作. Khác với các cặp động-bổ như 打开/看见, \"完成\" đã trở thành một từ ghép ổn định, ít khi tách rời, nhưng vẫn có thể chêm \"得/不\" tạo dạng khả năng: 完成得了/完成不了.",
+      "en": "\"完成\" combines \"完\" (finished) + \"成\" (accomplished), meaning to fully complete a task or job, usually taking abstract objects like 任务 (task), 作业 (homework), 工作 (work). Unlike more separable pairs like 打开/看见, \"完成\" behaves more like a fixed compound and is rarely split, though it still allows the potential form with 得/不: 完成得了/完成不了.",
+      "zh": "「完成」由「完」+「成」组成，指圆满地完成任务或工作，常带抽象宾语如任务、作业、工作。与打开、看见等更易拆分的动补词不同，「完成」已较为固定，很少拆开使用，但仍可插入「得/不」构成可能式：完成得了／完成不了。"
+    },
+    "examples": [
+      {
+        "hanzi": "这个项目下个月就能完成。",
+        "pinyin": "Zhège xiàngmù xià ge yuè jiù néng wánchéng.",
+        "translation": {
+          "vi": "Dự án này tháng sau là có thể hoàn thành.",
+          "en": "This project can be completed next month."
+        }
+      },
+      {
+        "hanzi": "作业太多，我今天完成不了。",
+        "pinyin": "Zuòyè tài duō, wǒ jīntiān wánchéng bu liǎo.",
+        "translation": {
+          "vi": "Bài tập nhiều quá, hôm nay tôi làm không xong.",
+          "en": "There's too much homework, I can't finish it today."
+        }
+      },
+      {
+        "hanzi": "我们已经顺利完成了这次任务。",
+        "pinyin": "Wǒmen yǐjīng shùnlì wánchéng le zhè cì rènwù.",
+        "translation": {
+          "vi": "Chúng tôi đã hoàn thành thuận lợi nhiệm vụ lần này.",
+          "en": "We've successfully completed this task."
+        }
+      }
+    ]
+  },
+  {
+    "id": "renzhi",
+    "metadata": {
+      "id": "三07-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "疑问代词的非疑问用法"
+    },
+    "title": {
+      "vi": "Cách dùng phiếm chỉ (任指) của đại từ nghi vấn",
+      "en": "Universal/inclusive use of interrogative pronouns",
+      "zh": "疑问代词的任指用法"
+    },
+    "structure": "谁／什么／哪儿／怎么 + ...都/也 + 动词",
+    "explanation": {
+      "vi": "Khi đại từ nghi vấn (谁, 什么, 哪儿, 怎么...) đi kèm với \"都\" hoặc \"也\" phía sau, chúng không còn mang nghĩa hỏi mà chuyển thành nghĩa phiếm chỉ, bao quát toàn bộ (\"bất kỳ ai\", \"bất cứ cái gì\", \"ở đâu cũng\"...). Cấu trúc thường gặp: 谁都+ động từ (ai cũng...), 什么都+động từ (cái gì cũng...). Đây là cách dùng nhấn mạnh tính phổ quát, không phải câu hỏi.",
+      "en": "When an interrogative pronoun (谁, 什么, 哪儿, 怎么...) is followed by \"都\" or \"也\", it loses its questioning force and becomes an inclusive/universal reference (\"anyone\", \"anything\", \"everywhere\"...). Common patterns: 谁都 + verb (everyone...), 什么都 + verb (everything...). This use emphasizes totality rather than asking a question.",
+      "zh": "疑问代词（谁、什么、哪儿、怎么等）后面加「都」或「也」时，不再表示疑问，而表示任指，涵盖全部对象（任何人、任何事物、无论哪里）。常见格式：谁都+动词、什么都+动词。这是强调全部包括在内的用法，不是提问。"
+    },
+    "examples": [
+      {
+        "hanzi": "这件事谁都知道。",
+        "pinyin": "Zhè jiàn shì shéi dōu zhīdào.",
+        "translation": {
+          "vi": "Chuyện này ai cũng biết.",
+          "en": "Everyone knows about this."
+        }
+      },
+      {
+        "hanzi": "我今天什么都不想吃。",
+        "pinyin": "Wǒ jīntiān shénme dōu bù xiǎng chī.",
+        "translation": {
+          "vi": "Hôm nay tôi chẳng muốn ăn gì cả.",
+          "en": "I don't want to eat anything today."
+        }
+      },
+      {
+        "hanzi": "他哪儿都不想去，只想在家休息。",
+        "pinyin": "Tā nǎr dōu bù xiǎng qù, zhǐ xiǎng zài jiā xiūxi.",
+        "translation": {
+          "vi": "Anh ấy đâu cũng không muốn đi, chỉ muốn ở nhà nghỉ ngơi.",
+          "en": "He doesn't want to go anywhere; he just wants to rest at home."
+        }
+      },
+      {
+        "hanzi": "不管你怎么解释，他都不相信。",
+        "pinyin": "Bùguǎn nǐ zěnme jiěshì, tā dōu bù xiāngxìn.",
+        "translation": {
+          "vi": "Dù cậu giải thích thế nào, anh ấy vẫn không tin.",
+          "en": "No matter how you explain it, he won't believe it."
+        }
+      }
+    ]
+  },
+  {
+    "id": "budingzhi",
+    "metadata": {
+      "id": "三07-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "疑问代词的非疑问用法"
+    },
+    "title": {
+      "vi": "Cách dùng phiếm chỉ bất định (不定指) của đại từ nghi vấn",
+      "en": "Indefinite use of interrogative pronouns",
+      "zh": "疑问代词的不定指用法"
+    },
+    "structure": "谁／什么／哪儿 + (在陈述句中，不接都/也)",
+    "explanation": {
+      "vi": "Khác với cách dùng phiếm chỉ toàn bộ (任指) đi cùng \"都/也\", cách dùng \"不定指\" là đại từ nghi vấn xuất hiện trong câu trần thuật (không phải câu hỏi) để chỉ một đối tượng không xác định cụ thể là ai/cái gì (tương đương \"ai đó\", \"cái gì đó\"). Thường gặp sau các động từ như 好像, 有点, 似乎, hoặc trong câu phủ định.",
+      "en": "Unlike the inclusive \"任指\" use (with 都/也), the \"不定指\" use places an interrogative pronoun in a statement (not a question) to refer to some unspecified person/thing (roughly \"someone\", \"something\"). It commonly appears after words like 好像, 有点, 似乎, or in negative statements.",
+      "zh": "与和「都/也」搭配的任指用法不同，不定指用法是疑问代词出现在陈述句（而非疑问句）中，指某个不确定的人或事物（相当于\"某人\"\"某事\"）。常出现在「好像」「有点」「似乎」等词后，或否定句中。"
+    },
+    "examples": [
+      {
+        "hanzi": "好像有什么事发生了。",
+        "pinyin": "Hǎoxiàng yǒu shénme shì fāshēng le.",
+        "translation": {
+          "vi": "Hình như có chuyện gì đó xảy ra rồi.",
+          "en": "It seems something has happened."
+        }
+      },
+      {
+        "hanzi": "我好像在哪儿见过他。",
+        "pinyin": "Wǒ hǎoxiàng zài nǎr jiàn guo tā.",
+        "translation": {
+          "vi": "Hình như tôi đã gặp anh ấy ở đâu đó rồi.",
+          "en": "I feel like I've seen him somewhere before."
+        }
+      },
+      {
+        "hanzi": "刚才好像有谁在敲门。",
+        "pinyin": "Gāngcái hǎoxiàng yǒu shéi zài qiāo mén.",
+        "translation": {
+          "vi": "Vừa nãy hình như có ai đó gõ cửa.",
+          "en": "Just now it sounded like someone was knocking on the door."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ge",
+    "metadata": {
+      "id": "三08-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ định \"各\" (mỗi, các)",
+      "en": "Distributive pronoun \"各\" (each, every)",
+      "zh": "指示代词「各」"
+    },
+    "structure": "各 + 量词 + 名词 ／ 各 + 名词(集体)",
+    "explanation": {
+      "vi": "\"各\" chỉ từng cá thể riêng lẻ trong một tập hợp, nhấn mạnh \"mỗi... một cách riêng biệt\", tương tự \"mỗi\" trong tiếng Việt. Thường đi với lượng từ: 各个, 各种, 各位, hoặc trực tiếp với danh từ tập thể: 各国, 各地. Khác với \"每\" (nhấn mạnh tính toàn thể, không sót cái nào), \"各\" nhấn mạnh tính khác biệt/riêng biệt giữa các cá thể.",
+      "en": "\"各\" refers to each individual member of a set, emphasizing \"each one separately\", similar to \"each\" in English. It's often used with a measure word (各个, 各种) or directly with collective nouns (各国, 各地). Unlike \"每\" (which emphasizes completeness, no exceptions), \"各\" emphasizes the distinctness among individuals.",
+      "zh": "「各」指集合中的每一个个体，强调彼此各自不同，相当于\"每个，分别\"。常与量词搭配（各个、各种），或直接加集合名词（各国、各地）。与强调无一遗漏的「每」不同，「各」强调个体之间的差异性、各自性。"
+    },
+    "examples": [
+      {
+        "hanzi": "各个国家都有自己的文化传统。",
+        "pinyin": "Gège guójiā dōu yǒu zìjǐ de wénhuà chuántǒng.",
+        "translation": {
+          "vi": "Mỗi quốc gia đều có truyền thống văn hóa riêng của mình.",
+          "en": "Each country has its own cultural traditions."
+        }
+      },
+      {
+        "hanzi": "这个问题各有各的看法。",
+        "pinyin": "Zhège wèntí gè yǒu gè de kànfǎ.",
+        "translation": {
+          "vi": "Vấn đề này mỗi người mỗi cách nhìn nhận riêng.",
+          "en": "Everyone has their own view on this issue."
+        }
+      },
+      {
+        "hanzi": "各地的天气情况都不太一样。",
+        "pinyin": "Gèdì de tiānqì qíngkuàng dōu bú tài yíyàng.",
+        "translation": {
+          "vi": "Tình hình thời tiết mỗi nơi đều không giống nhau.",
+          "en": "The weather conditions in each place are all somewhat different."
+        }
+      }
+    ]
+  },
+  {
+    "id": "gewei",
+    "metadata": {
+      "id": "三08-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "\"各位\" (quý vị, mọi người)",
+      "en": "\"各位\" (everyone, ladies and gentlemen)",
+      "zh": "「各位」"
+    },
+    "structure": "各位 + (名词，指人) ／ 各位 + ，...",
+    "explanation": {
+      "vi": "\"各位\" là \"各\" kết hợp với \"位\" (lượng từ trang trọng chỉ người), dùng để gọi lịch sự, trang trọng tới một nhóm người đang nghe/đọc, tương đương \"quý vị\", \"các bạn\". Thường đứng đầu câu làm lời gọi (各位，大家好！) hoặc trước danh từ chỉ người: 各位老师, 各位同学. Mang sắc thái trang trọng hơn \"大家\".",
+      "en": "\"各位\" combines \"各\" with \"位\" (a polite measure word for people), used as a formal, respectful address to a group of listeners/readers, equivalent to \"everyone\" or \"ladies and gentlemen\". It typically opens a sentence as a form of address (各位，大家好！) or precedes a noun for people: 各位老师, 各位同学. It carries a more formal tone than \"大家\".",
+      "zh": "「各位」是「各」加上表示尊敬的量词「位」，用于礼貌、正式地称呼在场或在读的一群人，相当于\"诸位\"。常放句首作称呼语（各位，大家好！），或加在指人的名词前：各位老师、各位同学。语气比「大家」更正式。"
+    },
+    "examples": [
+      {
+        "hanzi": "各位，欢迎来到今天的会议。",
+        "pinyin": "Gèwèi, huānyíng lái dào jīntiān de huìyì.",
+        "translation": {
+          "vi": "Kính chào quý vị, hoan nghênh đến với cuộc họp hôm nay.",
+          "en": "Everyone, welcome to today's meeting."
+        }
+      },
+      {
+        "hanzi": "谢谢各位老师的支持和帮助。",
+        "pinyin": "Xièxie gèwèi lǎoshī de zhīchí hé bāngzhù.",
+        "translation": {
+          "vi": "Cảm ơn sự ủng hộ và giúp đỡ của các thầy cô.",
+          "en": "Thank you to all the teachers for your support and help."
+        }
+      },
+      {
+        "hanzi": "各位有什么问题，可以随时提出来。",
+        "pinyin": "Gèwèi yǒu shénme wèntí, kěyǐ suíshí tí chūlái.",
+        "translation": {
+          "vi": "Nếu quý vị có câu hỏi gì, có thể đặt ra bất cứ lúc nào.",
+          "en": "If any of you have questions, feel free to raise them at any time."
+        }
+      }
+    ]
+  },
+  {
+    "id": "gezhong",
+    "metadata": {
+      "id": "三08-03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "\"各种\" (các loại, mọi loại)",
+      "en": "\"各种\" (various kinds of, all sorts of)",
+      "zh": "「各种」"
+    },
+    "structure": "各种 + (的) + 名词",
+    "explanation": {
+      "vi": "\"各种\" là \"各\" kết hợp với lượng từ \"种\" (loại), nghĩa là \"các loại\", \"đủ loại\", nhấn mạnh sự đa dạng, phong phú về chủng loại. Đứng trước danh từ, có thể thêm \"的\" hoặc không: 各种(的)问题, 各种水果.",
+      "en": "\"各种\" combines \"各\" with the measure word \"种\" (kind/type), meaning \"various kinds of\" or \"all sorts of\", emphasizing diversity in category. It precedes a noun, with or without \"的\": 各种(的)问题 (various problems), 各种水果 (various fruits).",
+      "zh": "「各种」是「各」加量词「种」，指\"各类，多种多样\"，强调种类的丰富性。放在名词前，「的」可加可不加：各种（的）问题、各种水果。"
+    },
+    "examples": [
+      {
+        "hanzi": "超市里有各种水果和蔬菜。",
+        "pinyin": "Chāoshì lǐ yǒu gè zhǒng shuǐguǒ hé shūcài.",
+        "translation": {
+          "vi": "Trong siêu thị có đủ loại trái cây và rau củ.",
+          "en": "There are all kinds of fruits and vegetables in the supermarket."
+        }
+      },
+      {
+        "hanzi": "生活中会遇到各种各样的问题。",
+        "pinyin": "Shēnghuó zhōng huì yù dào gè zhǒng gè yàng de wèntí.",
+        "translation": {
+          "vi": "Trong cuộc sống sẽ gặp đủ mọi loại vấn đề.",
+          "en": "In life you'll run into all kinds of different problems."
+        }
+      },
+      {
+        "hanzi": "他对各种运动都很感兴趣。",
+        "pinyin": "Tā duì gè zhǒng yùndòng dōu hěn gǎn xìngqù.",
+        "translation": {
+          "vi": "Anh ấy rất hứng thú với đủ loại môn thể thao.",
+          "en": "He's interested in all kinds of sports."
+        }
+      }
+    ]
+  },
+  {
+    "id": "mei",
+    "metadata": {
+      "id": "三08-04",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "Đại từ chỉ định \"每\" (mỗi)",
+      "en": "Distributive pronoun \"每\" (every, each)",
+      "zh": "指示代词「每」"
+    },
+    "structure": "每 + 量词 + 名词 + (都) + 动词",
+    "explanation": {
+      "vi": "\"每\" nghĩa là \"mỗi\", nhấn mạnh tính bao quát toàn thể, không sót cái nào, thường đi kèm \"都\" ở vị ngữ để nhấn mạnh (每个人都...). Cấu trúc: 每 + lượng từ + danh từ. Khác với \"各\" (nhấn mạnh sự khác biệt riêng lẻ), \"每\" nhấn mạnh sự đồng nhất, áp dụng như nhau cho tất cả.",
+      "en": "\"每\" means \"every/each\", emphasizing totality with no exceptions, and is commonly paired with \"都\" in the predicate for emphasis (每个人都...). Structure: 每 + measure word + noun. Unlike \"各\" (which stresses individual distinctness), \"每\" stresses uniform applicability to all members.",
+      "zh": "「每」表示\"每一个\"，强调无一例外的整体性，谓语常带「都」加强语气（每个人都……）。结构为：每+量词+名词。与强调各自不同的「各」不同，「每」强调对所有成员同等适用。"
+    },
+    "examples": [
+      {
+        "hanzi": "每个人都有自己的梦想。",
+        "pinyin": "Měi ge rén dōu yǒu zìjǐ de mèngxiǎng.",
+        "translation": {
+          "vi": "Mỗi người đều có ước mơ của riêng mình.",
+          "en": "Everyone has their own dream."
+        }
+      },
+      {
+        "hanzi": "我每天早上都跑步。",
+        "pinyin": "Wǒ měitiān zǎoshang dōu pǎobù.",
+        "translation": {
+          "vi": "Mỗi sáng tôi đều chạy bộ.",
+          "en": "I go running every morning."
+        }
+      },
+      {
+        "hanzi": "每次考试他都考得不错。",
+        "pinyin": "Měi cì kǎoshì tā dōu kǎo de búcuò.",
+        "translation": {
+          "vi": "Mỗi lần thi anh ấy đều thi khá tốt.",
+          "en": "He does well every time he takes an exam."
+        }
+      }
+    ]
+  },
+  {
+    "id": "renhe",
+    "metadata": {
+      "id": "三08-05",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.2",
+          "label": "代词"
+        }
+      ],
+      "category": "指示代词"
+    },
+    "title": {
+      "vi": "\"任何\" (bất kỳ, bất cứ)",
+      "en": "\"任何\" (any, whatever)",
+      "zh": "「任何」"
+    },
+    "structure": "任何 + 名词 + 都/也 + (不/没) + 动词",
+    "explanation": {
+      "vi": "\"任何\" nghĩa là \"bất kỳ, bất cứ\", dùng để phủ định hoặc khẳng định một cách tuyệt đối, không có ngoại lệ. Thường xuất hiện trong câu có \"都\" hoặc trong câu phủ định với \"不/没\": 任何人都不能..., 没有任何理由. Mang sắc thái trang trọng, dùng nhiều trong văn viết, quy định, hợp đồng hơn khẩu ngữ thông thường.",
+      "en": "\"任何\" means \"any/whatever\", used to make an absolute statement (positive or negative) with no exceptions. It commonly appears with \"都\" or in negative sentences with \"不/没\": 任何人都不能... (no one may...), 没有任何理由 (there's no reason whatsoever). It has a formal register, more common in writing, regulations, and contracts than in everyday speech.",
+      "zh": "「任何」表示\"不论哪一个\"，用于表达绝对性的肯定或否定，没有例外。常与「都」连用，或用于「不/没」的否定句：任何人都不能……、没有任何理由。语体较正式，多用于书面语、规定、合同，口语中使用相对较少。"
+    },
+    "examples": [
+      {
+        "hanzi": "任何人都不能进入这个房间。",
+        "pinyin": "Rènhé rén dōu bù néng jìnrù zhège fángjiān.",
+        "translation": {
+          "vi": "Bất kỳ ai cũng không được vào phòng này.",
+          "en": "No one is allowed to enter this room."
+        }
+      },
+      {
+        "hanzi": "我没有任何理由拒绝你。",
+        "pinyin": "Wǒ méiyǒu rènhé lǐyóu jùjué nǐ.",
+        "translation": {
+          "vi": "Tôi không có lý do gì để từ chối cậu.",
+          "en": "I have no reason whatsoever to refuse you."
+        }
+      },
+      {
+        "hanzi": "任何时候你需要帮助，我都在。",
+        "pinyin": "Rènhé shíhou nǐ xūyào bāngzhù, wǒ dōu zài.",
+        "translation": {
+          "vi": "Bất cứ lúc nào cậu cần giúp đỡ, tôi đều ở đây.",
+          "en": "Whenever you need help, I'm here."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ba-liangci",
+    "metadata": {
+      "id": "三09-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"把\" (cái, nắm)",
+      "en": "Measure word \"把\" (for things with a handle, or a handful)",
+      "zh": "名量词「把」"
+    },
+    "structure": "一 + 把 + 名词",
+    "explanation": {
+      "vi": "\"把\" dùng làm lượng từ cho các vật có tay cầm (刀, 伞, 椅子, 剪刀) hoặc chỉ một nắm/một vốc (一把米, 一把花). Đây là loại từ hình dạng/công dụng, phải học thuộc theo từng nhóm danh từ đi kèm, không có công thức suy luận chung.",
+      "en": "\"把\" is used as a measure word for objects with a handle (刀 knife, 伞 umbrella, 椅子 chair, 剪刀 scissors) or for a handful of something (一把米 a handful of rice, 一把花 a bunch of flowers). This is a shape/function-based classifier that must be memorized with the nouns it pairs with; there's no general derivable rule.",
+      "zh": "「把」用作量词，指有柄的东西（刀、伞、椅子、剪刀），也可指一把、一束（一把米、一把花）。这是按形状/用途分类的量词，需要跟具体名词搭配记忆，没有通用推导规律。"
+    },
+    "examples": [
+      {
+        "hanzi": "他手里拿着一把伞。",
+        "pinyin": "Tā shǒu lǐ názhe yì bǎ sǎn.",
+        "translation": {
+          "vi": "Trong tay anh ấy cầm một cây ô.",
+          "en": "He's holding an umbrella in his hand."
+        }
+      },
+      {
+        "hanzi": "厨房里有几把刀。",
+        "pinyin": "Chúfáng lǐ yǒu jǐ bǎ dāo.",
+        "translation": {
+          "vi": "Trong bếp có mấy con dao.",
+          "en": "There are a few knives in the kitchen."
+        }
+      },
+      {
+        "hanzi": "她抓了一把糖给孩子们。",
+        "pinyin": "Tā zhuā le yì bǎ táng gěi háizimen.",
+        "translation": {
+          "vi": "Cô ấy nắm một nắm kẹo đưa cho bọn trẻ.",
+          "en": "She grabbed a handful of candy for the kids."
+        }
+      }
+    ]
+  },
+  {
+    "id": "hang",
+    "metadata": {
+      "id": "三09-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"行\" (hàng)",
+      "en": "Measure word \"行\" (row, line)",
+      "zh": "名量词「行」"
+    },
+    "structure": "一 + 行 + 名词",
+    "explanation": {
+      "vi": "\"行\" (đọc háng khi làm lượng từ) chỉ một hàng, một dòng vật sắp xếp theo chiều ngang hoặc dọc, thường dùng với cây cối, chữ viết: 一行树, 一行字. Cần phân biệt với \"行\" đọc xíng (đi, được).",
+      "en": "\"行\" (pronounced háng as a measure word) refers to a row or line of things arranged in order, commonly used with trees or lines of writing: 一行树 (a row of trees), 一行字 (a line of text). Note it must be distinguished from \"行\" pronounced xíng (to go, to be okay).",
+      "zh": "「行」（作量词时读háng）指排成一排的事物，常用于树木、文字：一行树、一行字。需与读xíng（表示\"可以、走\"）的「行」区分开。"
+    },
+    "examples": [
+      {
+        "hanzi": "路边种着一行树。",
+        "pinyin": "Lù biān zhòngzhe yì háng shù.",
+        "translation": {
+          "vi": "Bên đường trồng một hàng cây.",
+          "en": "There's a row of trees planted along the road."
+        }
+      },
+      {
+        "hanzi": "他在纸上写了几行字。",
+        "pinyin": "Tā zài zhǐ shàng xiě le jǐ háng zì.",
+        "translation": {
+          "vi": "Anh ấy viết mấy dòng chữ trên giấy.",
+          "en": "He wrote a few lines on the paper."
+        }
+      },
+      {
+        "hanzi": "第三行的那个字写错了。",
+        "pinyin": "Dì sān háng de nàge zì xiě cuò le.",
+        "translation": {
+          "vi": "Chữ ở dòng thứ ba viết sai rồi.",
+          "en": "That word on the third line is written wrong."
+        }
+      }
+    ]
+  },
+  {
+    "id": "jia",
+    "metadata": {
+      "id": "三09-03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"架\" (chiếc, cỗ máy)",
+      "en": "Measure word \"架\" (for machines/aircraft)",
+      "zh": "名量词「架」"
+    },
+    "structure": "一 + 架 + 名词",
+    "explanation": {
+      "vi": "\"架\" dùng cho các loại máy móc, khí cụ có giá đỡ hoặc cấu trúc phức tạp, điển hình là máy bay, đàn piano, máy ảnh, máy quay: 一架飞机, 一架钢琴. Cần học thuộc theo nhóm danh từ cụ thể.",
+      "en": "\"架\" is used for machines or instruments with a frame or complex structure, typically aircraft, pianos, cameras: 一架飞机 (an airplane), 一架钢琴 (a piano). It should be memorized together with its specific noun group.",
+      "zh": "「架」用于有支架或结构复杂的机械、仪器，典型的有飞机、钢琴、照相机：一架飞机、一架钢琴。需结合具体名词记忆。"
+    },
+    "examples": [
+      {
+        "hanzi": "天上飞过一架飞机。",
+        "pinyin": "Tiānshàng fēi guò yí jià fēijī.",
+        "translation": {
+          "vi": "Trên trời có một chiếc máy bay bay qua.",
+          "en": "An airplane flew by overhead."
+        }
+      },
+      {
+        "hanzi": "客厅里放着一架钢琴。",
+        "pinyin": "Kètīng lǐ fàngzhe yí jià gāngqín.",
+        "translation": {
+          "vi": "Trong phòng khách đặt một cây đàn piano.",
+          "en": "There's a piano in the living room."
+        }
+      },
+      {
+        "hanzi": "他买了一架新照相机。",
+        "pinyin": "Tā mǎi le yí jià xīn zhàoxiàngjī.",
+        "translation": {
+          "vi": "Anh ấy mua một chiếc máy ảnh mới.",
+          "en": "He bought a new camera."
+        }
+      }
+    ]
+  },
+  {
+    "id": "qun",
+    "metadata": {
+      "id": "三09-04",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"群\" (đàn, đám, nhóm)",
+      "en": "Measure word \"群\" (group, crowd, flock)",
+      "zh": "名量词「群」"
+    },
+    "structure": "一 + 群 + 名词(人/动物)",
+    "explanation": {
+      "vi": "\"群\" chỉ một nhóm/đàn số đông tụ tập lại, dùng cho người hoặc động vật: 一群人, 一群羊, 一群鸟. Nhấn mạnh số lượng đông, tụ họp thành khối chứ không đếm chính xác từng cá thể.",
+      "en": "\"群\" refers to a large group or crowd gathered together, used for people or animals: 一群人 (a crowd of people), 一群羊 (a flock of sheep), 一群鸟 (a flock of birds). It emphasizes a large number clustered together rather than counting exact individuals.",
+      "zh": "「群」指聚集在一起的一大群，用于人或动物：一群人、一群羊、一群鸟。强调数量多、聚集成群，而非精确计数个体。"
+    },
+    "examples": [
+      {
+        "hanzi": "公园里有一群孩子在玩游戏。",
+        "pinyin": "Gōngyuán lǐ yǒu yì qún háizi zài wán yóuxì.",
+        "translation": {
+          "vi": "Trong công viên có một đám trẻ đang chơi trò chơi.",
+          "en": "There's a group of kids playing games in the park."
+        }
+      },
+      {
+        "hanzi": "山上有一群羊在吃草。",
+        "pinyin": "Shān shàng yǒu yì qún yáng zài chī cǎo.",
+        "translation": {
+          "vi": "Trên núi có một đàn cừu đang ăn cỏ.",
+          "en": "There's a flock of sheep grazing on the mountain."
+        }
+      },
+      {
+        "hanzi": "天空中飞过一群鸟。",
+        "pinyin": "Tiānkōng zhōng fēi guò yì qún niǎo.",
+        "translation": {
+          "vi": "Trên bầu trời có một đàn chim bay qua.",
+          "en": "A flock of birds flew across the sky."
+        }
+      }
+    ]
+  },
+  {
+    "id": "shu",
+    "metadata": {
+      "id": "三09-05",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"束\" (bó)",
+      "en": "Measure word \"束\" (bundle, bunch)",
+      "zh": "名量词「束」"
+    },
+    "structure": "一 + 束 + 名词",
+    "explanation": {
+      "vi": "\"束\" chỉ một bó vật được buộc/gói lại với nhau, phổ biến nhất là hoa: 一束花. Cũng dùng cho ánh sáng: 一束光. Là lượng từ theo hình dạng \"gói/bó\", cần học theo danh từ cụ thể.",
+      "en": "\"束\" refers to a bundle of things tied or wrapped together, most commonly flowers: 一束花 (a bunch of flowers). It's also used for light: 一束光 (a beam of light). It's a shape-based classifier for \"bundled\" things and should be learned with its specific nouns.",
+      "zh": "「束」指捆扎在一起的一把，最常见的是花：一束花。也用于光线：一束光。是按\"捆、束\"形状分类的量词，需结合具体名词记忆。"
+    },
+    "examples": [
+      {
+        "hanzi": "他送给女朋友一束玫瑰花。",
+        "pinyin": "Tā sòng gěi nǚpéngyou yí shù méiguihuā.",
+        "translation": {
+          "vi": "Anh ấy tặng bạn gái một bó hoa hồng.",
+          "en": "He gave his girlfriend a bouquet of roses."
+        }
+      },
+      {
+        "hanzi": "一束阳光照进了房间。",
+        "pinyin": "Yí shù yángguāng zhào jìn le fángjiān.",
+        "translation": {
+          "vi": "Một tia nắng chiếu vào căn phòng.",
+          "en": "A beam of sunlight shone into the room."
+        }
+      },
+      {
+        "hanzi": "桌上放着一束白色的花。",
+        "pinyin": "Zhuō shàng fàngzhe yí shù báisè de huā.",
+        "translation": {
+          "vi": "Trên bàn đặt một bó hoa trắng.",
+          "en": "There's a bunch of white flowers on the table."
+        }
+      }
+    ]
+  },
+  {
+    "id": "shuang",
+    "metadata": {
+      "id": "三09-06",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"双\" (đôi)",
+      "en": "Measure word \"双\" (pair)",
+      "zh": "名量词「双」"
+    },
+    "structure": "一 + 双 + 名词(成对)",
+    "explanation": {
+      "vi": "\"双\" chỉ một đôi (hai vật đi thành cặp tự nhiên như tay chân, hoặc đồ vật dùng theo cặp): 一双鞋, 一双手, 一双筷子. Khác với \"对\" (cũng nghĩa đôi nhưng dùng cho cặp có quan hệ tương ứng như 一对夫妻), \"双\" thiên về vật thể đối xứng tự nhiên.",
+      "en": "\"双\" refers to a pair (two things naturally forming a set, like hands/feet, or items used in pairs): 一双鞋 (a pair of shoes), 一双手 (a pair of hands), 一双筷子 (a pair of chopsticks). Unlike \"对\" (also meaning \"pair\" but for correlated pairs like 一对夫妻 a married couple), \"双\" leans toward naturally symmetrical objects.",
+      "zh": "「双」指成双的一对（自然成对的肢体或成对使用的物品）：一双鞋、一双手、一双筷子。与用于相互对应关系的「对」（如一对夫妻）不同，「双」更偏向自然对称的物体。"
+    },
+    "examples": [
+      {
+        "hanzi": "我想买一双新鞋。",
+        "pinyin": "Wǒ xiǎng mǎi yì shuāng xīn xié.",
+        "translation": {
+          "vi": "Tôi muốn mua một đôi giày mới.",
+          "en": "I want to buy a new pair of shoes."
+        }
+      },
+      {
+        "hanzi": "她有一双漂亮的眼睛。",
+        "pinyin": "Tā yǒu yì shuāng piàoliang de yǎnjing.",
+        "translation": {
+          "vi": "Cô ấy có một đôi mắt xinh đẹp.",
+          "en": "She has a pair of beautiful eyes."
+        }
+      },
+      {
+        "hanzi": "请给我拿一双筷子。",
+        "pinyin": "Qǐng gěi wǒ ná yì shuāng kuàizi.",
+        "translation": {
+          "vi": "Làm ơn lấy cho tôi một đôi đũa.",
+          "en": "Please get me a pair of chopsticks."
+        }
+      }
+    ]
+  },
+  {
+    "id": "tai",
+    "metadata": {
+      "id": "三09-07",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"台\" (chiếc, cái - máy móc)",
+      "en": "Measure word \"台\" (for machines/appliances)",
+      "zh": "名量词「台」"
+    },
+    "structure": "一 + 台 + 名词(机器)",
+    "explanation": {
+      "vi": "\"台\" dùng cho các thiết bị, máy móc cỡ lớn hoặc cố định một chỗ: 电脑, 电视, 洗衣机, 空调. Khác với \"架\" (thiên về máy có cấu trúc phức tạp như máy bay, đàn piano), \"台\" phổ biến hơn cho đồ điện gia dụng và văn phòng.",
+      "en": "\"台\" is used for larger or stationary machines and appliances: 电脑 (computer), 电视 (TV), 洗衣机 (washing machine), 空调 (air conditioner). Unlike \"架\" (leaning toward complex-structure machines like planes or pianos), \"台\" is more common for household and office electronics.",
+      "zh": "「台」用于较大型或固定使用的机器设备：电脑、电视、洗衣机、空调。与偏向结构复杂机械（如飞机、钢琴）的「架」不同，「台」更常用于家用电器和办公设备。"
+    },
+    "examples": [
+      {
+        "hanzi": "办公室里有三台电脑。",
+        "pinyin": "Bàngōngshì lǐ yǒu sān tái diànnǎo.",
+        "translation": {
+          "vi": "Trong văn phòng có ba chiếc máy tính.",
+          "en": "There are three computers in the office."
+        }
+      },
+      {
+        "hanzi": "我家新买了一台洗衣机。",
+        "pinyin": "Wǒ jiā xīn mǎi le yì tái xǐyījī.",
+        "translation": {
+          "vi": "Nhà tôi vừa mua một chiếc máy giặt mới.",
+          "en": "My family just bought a new washing machine."
+        }
+      },
+      {
+        "hanzi": "客厅里放着一台大电视。",
+        "pinyin": "Kètīng lǐ fàngzhe yì tái dà diànshì.",
+        "translation": {
+          "vi": "Trong phòng khách đặt một chiếc ti vi lớn.",
+          "en": "There's a big TV in the living room."
+        }
+      }
+    ]
+  },
+  {
+    "id": "zhang",
+    "metadata": {
+      "id": "三09-08",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"张\" (tờ, tấm)",
+      "en": "Measure word \"张\" (for flat/sheet-like things)",
+      "zh": "名量词「张」"
+    },
+    "structure": "一 + 张 + 名词(平面物)",
+    "explanation": {
+      "vi": "\"张\" dùng cho vật có bề mặt phẳng, mỏng: 纸, 照片, 桌子, 床, 票, 脸. Là lượng từ theo hình dạng phẳng, cần học theo nhóm danh từ.",
+      "en": "\"张\" is used for flat, sheet-like objects: 纸 (paper), 照片 (photo), 桌子 (table), 床 (bed), 票 (ticket), 脸 (face). It's a shape-based classifier for flat surfaces and should be learned with its noun group.",
+      "zh": "「张」用于扁平、有平面的物体：纸、照片、桌子、床、票、脸。是按扁平形状分类的量词，需结合具体名词记忆。"
+    },
+    "examples": [
+      {
+        "hanzi": "请给我一张纸。",
+        "pinyin": "Qǐng gěi wǒ yì zhāng zhǐ.",
+        "translation": {
+          "vi": "Làm ơn đưa cho tôi một tờ giấy.",
+          "en": "Please give me a piece of paper."
+        }
+      },
+      {
+        "hanzi": "我买了两张电影票。",
+        "pinyin": "Wǒ mǎi le liǎng zhāng diànyǐngpiào.",
+        "translation": {
+          "vi": "Tôi mua hai vé xem phim.",
+          "en": "I bought two movie tickets."
+        }
+      },
+      {
+        "hanzi": "房间里有一张桌子和一张床。",
+        "pinyin": "Fángjiān lǐ yǒu yì zhāng zhuōzi hé yì zhāng chuáng.",
+        "translation": {
+          "vi": "Trong phòng có một cái bàn và một cái giường.",
+          "en": "There's a desk and a bed in the room."
+        }
+      }
+    ]
+  },
+  {
+    "id": "zhi-liangci",
+    "metadata": {
+      "id": "三09-09",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"支\" (cây, chiếc - vật dài)",
+      "en": "Measure word \"支\" (for slender stick-like things)",
+      "zh": "名量词「支」"
+    },
+    "structure": "一 + 支 + 名词(细长物)",
+    "explanation": {
+      "vi": "\"支\" dùng cho các vật hình que, dài và mảnh: 笔, 烟, 蜡烛, 花(单枝), cũng dùng cho đội/nhóm nhỏ: 一支队伍. Cần phân biệt với \"枝\" (cũng chỉ vật dài, dùng cho cành cây/hoa), hai chữ nhiều khi dùng thay thế nhau tùy vùng miền.",
+      "en": "\"支\" is used for slender, stick-shaped objects: 笔 (pen), 烟 (cigarette), 蜡烛 (candle), a single stem of 花 (flower); it's also used for a small team/group: 一支队伍 (a team). It should be distinguished from \"枝\" (also for elongated things like tree branches or flower stems), though the two are sometimes used interchangeably regionally.",
+      "zh": "「支」用于细长的棍状物：笔、烟、蜡烛、单枝花，也用于小队伍：一支队伍。需与同样表细长物的「枝」（多用于树枝、花枝）区分，两者在某些地区可能通用。"
+    },
+    "examples": [
+      {
+        "hanzi": "他手里拿着一支笔。",
+        "pinyin": "Tā shǒu lǐ názhe yì zhī bǐ.",
+        "translation": {
+          "vi": "Trong tay anh ấy cầm một cây bút.",
+          "en": "He's holding a pen in his hand."
+        }
+      },
+      {
+        "hanzi": "生日蛋糕上插着五支蜡烛。",
+        "pinyin": "Shēngrì dàngāo shàng chāzhe wǔ zhī làzhú.",
+        "translation": {
+          "vi": "Trên bánh sinh nhật cắm năm cây nến.",
+          "en": "There are five candles stuck on the birthday cake."
+        }
+      },
+      {
+        "hanzi": "这支队伍训练得很好。",
+        "pinyin": "Zhè zhī duìwǔ xùnliàn de hěn hǎo.",
+        "translation": {
+          "vi": "Đội này được huấn luyện rất tốt.",
+          "en": "This team is very well trained."
+        }
+      }
+    ]
+  },
+  {
+    "id": "zhi",
+    "metadata": {
+      "id": "三09-10",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"只\" (con - động vật, chiếc - một trong đôi)",
+      "en": "Measure word \"只\" (for animals, or one of a pair)",
+      "zh": "名量词「只」"
+    },
+    "structure": "一 + 只 + 名词(动物/单个成对物)",
+    "explanation": {
+      "vi": "\"只\" (đọc zhī) là lượng từ phổ biến nhất cho động vật: 一只猫, 一只狗, 一只鸟, và cũng dùng cho một chiếc lẻ trong cặp (khi tách khỏi \"双\"): 一只鞋, 一只手. Cần phân biệt với \"只\" đọc zhǐ (chỉ,副词).",
+      "en": "\"只\" (pronounced zhī) is the most common measure word for animals: 一只猫 (a cat), 一只狗 (a dog), 一只鸟 (a bird), and it's also used for a single item from a pair (splitting from 双): 一只鞋 (one shoe), 一只手 (one hand). It must be distinguished from \"只\" pronounced zhǐ (meaning \"only\", an adverb).",
+      "zh": "「只」（读zhī）是最常用于动物的量词：一只猫、一只狗、一只鸟，也用于成对物品中的单个（区别于「双」）：一只鞋、一只手。需与读zhǐ（\"只是\"，副词）的「只」区分。"
+    },
+    "examples": [
+      {
+        "hanzi": "我家养了一只猫。",
+        "pinyin": "Wǒ jiā yǎng le yì zhī māo.",
+        "translation": {
+          "vi": "Nhà tôi nuôi một con mèo.",
+          "en": "My family has a cat."
+        }
+      },
+      {
+        "hanzi": "树上有一只小鸟在唱歌。",
+        "pinyin": "Shù shàng yǒu yì zhī xiǎoniǎo zài chànggē.",
+        "translation": {
+          "vi": "Trên cây có một con chim nhỏ đang hót.",
+          "en": "There's a little bird singing in the tree."
+        }
+      },
+      {
+        "hanzi": "他只穿了一只鞋就出门了。",
+        "pinyin": "Tā zhǐ chuān le yì zhī xié jiù chūmén le.",
+        "translation": {
+          "vi": "Anh ấy chỉ mang một chiếc giày đã ra khỏi nhà.",
+          "en": "He went out with only one shoe on."
+        }
+      }
+    ]
+  },
+  {
+    "id": "zhong-liangci",
+    "metadata": {
+      "id": "三09-11",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "名量词"
+    },
+    "title": {
+      "vi": "Lượng từ \"种\" (loại)",
+      "en": "Measure word \"种\" (kind, type)",
+      "zh": "名量词「种」"
+    },
+    "structure": "一 + 种 + 名词",
+    "explanation": {
+      "vi": "\"种\" là lượng từ chỉ loại, chủng loại, dùng rất rộng cho hầu hết mọi danh từ khi muốn nhấn mạnh \"một loại/kiểu\": 一种方法, 一种感觉, 一种水果. Đây là lượng từ trừu tượng, không giới hạn theo hình dạng vật lý.",
+      "en": "\"种\" is a classifier for kinds/types/categories and is very broadly applicable to almost any noun when emphasizing \"a kind/type of\": 一种方法 (a method/kind of method), 一种感觉 (a kind of feeling), 一种水果 (a kind of fruit). It's an abstract classifier, not limited by physical shape.",
+      "zh": "「种」是表示种类的量词，用途非常广泛，几乎可用于任何名词，强调\"一种/一类\"：一种方法、一种感觉、一种水果。这是抽象量词，不受物理形状限制。"
+    },
+    "examples": [
+      {
+        "hanzi": "这是一种解决问题的好方法。",
+        "pinyin": "Zhè shì yì zhǒng jiějué wèntí de hǎo fāngfǎ.",
+        "translation": {
+          "vi": "Đây là một cách hay để giải quyết vấn đề.",
+          "en": "This is a good way to solve the problem."
+        }
+      },
+      {
+        "hanzi": "他有一种说不出的感觉。",
+        "pinyin": "Tā yǒu yì zhǒng shuō bu chū de gǎnjué.",
+        "translation": {
+          "vi": "Anh ấy có một cảm giác khó diễn tả.",
+          "en": "He has an indescribable feeling."
+        }
+      },
+      {
+        "hanzi": "市场上有很多种水果。",
+        "pinyin": "Shìchǎng shàng yǒu hěn duō zhǒng shuǐguǒ.",
+        "translation": {
+          "vi": "Ở chợ có rất nhiều loại trái cây.",
+          "en": "There are many kinds of fruit at the market."
+        }
+      }
+    ]
+  },
+  {
+    "id": "dun",
+    "metadata": {
+      "id": "三10-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "动量词"
+    },
+    "title": {
+      "vi": "Động lượng từ \"顿\" (bữa, trận)",
+      "en": "Verbal measure word \"顿\" (for meals or a scolding/beating)",
+      "zh": "动量词「顿」"
+    },
+    "structure": "动词 + 一 + 顿",
+    "explanation": {
+      "vi": "\"顿\" là động lượng từ đo số lần của một hành động trọn vẹn, phổ biến nhất là bữa ăn (吃一顿饭) và các hành động như mắng, đánh (骂一顿, 打一顿). Đứng sau động từ, trước hoặc sau tân ngữ tùy cấu trúc: 吃了一顿饭 / 骂了他一顿.",
+      "en": "\"顿\" is a verbal measure word counting instances of a complete action, most commonly meals (吃一顿饭 eat a meal) and actions like scolding or beating (骂一顿 give a scolding, 打一顿 give a beating). It follows the verb, before or after the object depending on structure: 吃了一顿饭 / 骂了他一顿.",
+      "zh": "「顿」是动量词，用于计量一次完整动作的次数，最常见的是吃饭（吃一顿饭），也用于骂、打等动作（骂一顿、打一顿）。放在动词后，根据结构可在宾语前或后：吃了一顿饭／骂了他一顿。"
+    },
+    "examples": [
+      {
+        "hanzi": "我们中午吃了一顿很丰盛的饭。",
+        "pinyin": "Wǒmen zhōngwǔ chī le yí dùn hěn fēngshèng de fàn.",
+        "translation": {
+          "vi": "Trưa nay chúng tôi ăn một bữa rất thịnh soạn.",
+          "en": "We had a very lavish meal at noon."
+        }
+      },
+      {
+        "hanzi": "他因为迟到被老板骂了一顿。",
+        "pinyin": "Tā yīnwèi chídào bèi lǎobǎn mà le yí dùn.",
+        "translation": {
+          "vi": "Anh ấy vì đến muộn bị sếp mắng cho một trận.",
+          "en": "He got scolded by his boss for being late."
+        }
+      },
+      {
+        "hanzi": "一天只吃两顿饭对身体不好。",
+        "pinyin": "Yì tiān zhǐ chī liǎng dùn fàn duì shēntǐ bù hǎo.",
+        "translation": {
+          "vi": "Một ngày chỉ ăn hai bữa không tốt cho sức khỏe.",
+          "en": "Only eating two meals a day isn't good for your health."
+        }
+      }
+    ]
+  },
+  {
+    "id": "kou",
+    "metadata": {
+      "id": "三10-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "动量词"
+    },
+    "title": {
+      "vi": "Động lượng từ \"口\" (miếng, ngụm)",
+      "en": "Verbal measure word \"口\" (a bite/sip)",
+      "zh": "动量词「口」"
+    },
+    "structure": "动词(吃/喝) + 一 + 口 + (名词)",
+    "explanation": {
+      "vi": "\"口\" đo số lần \"cắn/hớp\" liên quan đến miệng, dùng với động từ ăn, uống, cắn: 吃一口, 喝一口, 咬一口. Có thể mang tân ngữ phía sau: 吃一口饭, 喝一口水.",
+      "en": "\"口\" counts mouth-related actions like biting or sipping, used with verbs like eat, drink, bite: 吃一口 (take a bite), 喝一口 (take a sip), 咬一口 (take a bite/nibble). It can take an object after it: 吃一口饭, 喝一口水.",
+      "zh": "「口」用于计量与嘴有关的动作次数，如吃、喝、咬：吃一口、喝一口、咬一口。后面可带宾语：吃一口饭、喝一口水。"
+    },
+    "examples": [
+      {
+        "hanzi": "他喝了一口水，接着说下去。",
+        "pinyin": "Tā hē le yì kǒu shuǐ, jiēzhe shuō xiàqù.",
+        "translation": {
+          "vi": "Anh ấy uống một ngụm nước, rồi tiếp tục nói.",
+          "en": "He took a sip of water and continued speaking."
+        }
+      },
+      {
+        "hanzi": "尝一口，看看好不好吃。",
+        "pinyin": "Cháng yì kǒu, kànkan hǎo bu hǎochī.",
+        "translation": {
+          "vi": "Nếm một miếng xem có ngon không.",
+          "en": "Take a bite and see if it's good."
+        }
+      },
+      {
+        "hanzi": "小狗咬了他一口。",
+        "pinyin": "Xiǎogǒu yǎo le tā yì kǒu.",
+        "translation": {
+          "vi": "Con chó nhỏ cắn anh ấy một cái.",
+          "en": "The puppy bit him once."
+        }
+      }
+    ]
+  },
+  {
+    "id": "yan",
+    "metadata": {
+      "id": "三10-03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "动量词"
+    },
+    "title": {
+      "vi": "Động lượng từ \"眼\" (cái nhìn, liếc)",
+      "en": "Verbal measure word \"眼\" (a glance/look)",
+      "zh": "动量词「眼」"
+    },
+    "structure": "看／瞧 + 一 + 眼 + (名词)",
+    "explanation": {
+      "vi": "\"眼\" đo số lần liếc nhìn nhanh, thường đi với \"看\" hoặc \"瞧\": 看一眼, nhấn mạnh cái nhìn thoáng qua, ngắn ngủi hơn so với \"看一下\" (nhìn một chút, chưa hẳn nhanh).",
+      "en": "\"眼\" counts quick glances, usually with \"看\" or \"瞧\": 看一眼 (take a glance), emphasizing a brief, fleeting look, more emphatically brief than \"看一下\" (take a look/moment).",
+      "zh": "「眼」用于计量迅速看一下的次数，常与「看」「瞧」搭配：看一眼，强调短促、一瞥的动作，比「看一下」更强调快速、短暂。"
+    },
+    "examples": [
+      {
+        "hanzi": "他看了我一眼，什么也没说。",
+        "pinyin": "Tā kàn le wǒ yì yǎn, shénme yě méi shuō.",
+        "translation": {
+          "vi": "Anh ấy liếc nhìn tôi một cái, chẳng nói gì.",
+          "en": "He glanced at me once and said nothing."
+        }
+      },
+      {
+        "hanzi": "我只瞧了一眼，就知道出问题了。",
+        "pinyin": "Wǒ zhǐ qiáo le yì yǎn, jiù zhīdào chū wèntí le.",
+        "translation": {
+          "vi": "Tôi chỉ liếc một cái là biết có vấn đề rồi.",
+          "en": "I only glanced once and knew something was wrong."
+        }
+      },
+      {
+        "hanzi": "临走前，她又看了一眼那张照片。",
+        "pinyin": "Lín zǒu qián, tā yòu kàn le yì yǎn nà zhāng zhàopiàn.",
+        "translation": {
+          "vi": "Trước khi đi, cô ấy lại nhìn tấm ảnh đó một cái.",
+          "en": "Before leaving, she took one more glance at the photo."
+        }
+      }
+    ]
+  },
+  {
+    "id": "liangci-chongdie",
+    "metadata": {
+      "id": "三11",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.3",
+          "label": "量词"
+        }
+      ],
+      "category": "量词重叠"
+    },
+    "title": {
+      "vi": "Lượng từ điệp âm dạng AA",
+      "en": "Reduplicated measure words (AA form)",
+      "zh": "量词重叠 AA 式"
+    },
+    "structure": "量词 + 量词 (AA)，如 个个／条条／件件",
+    "explanation": {
+      "vi": "Lượng từ điệp âm dạng AA (个个, 条条, 件件...) mang nghĩa \"mỗi cái đều\", tương đương \"每 + 量词\" nhưng sắc thái nhấn mạnh, sinh động hơn, thường dùng trong câu khẳng định để nhấn mạnh tính bao quát không sót cái nào. Khi làm chủ ngữ hoặc trạng ngữ, thường đi kèm \"都\" phía sau.",
+      "en": "Reduplicated measure words in the AA pattern (个个, 条条, 件件...) mean \"each and every one\", equivalent to \"每 + measure word\" but with a more emphatic, vivid tone, typically used in affirmative statements to stress that nothing is excluded. As subject or adverbial, they're usually followed by \"都\".",
+      "zh": "量词AA重叠式（个个、条条、件件等）表示\"每一个都\"，相当于「每+量词」，但语气更强、更生动，多用于肯定句强调无一例外。作主语或状语时后面常带「都」。"
+    },
+    "examples": [
+      {
+        "hanzi": "这些苹果个个都很新鲜。",
+        "pinyin": "Zhèxiē píngguǒ gège dōu hěn xīnxiān.",
+        "translation": {
+          "vi": "Những quả táo này quả nào cũng tươi ngon.",
+          "en": "These apples are all fresh, every single one."
+        }
+      },
+      {
+        "hanzi": "他做的事件件都很认真。",
+        "pinyin": "Tā zuò de shì jiànjiàn dōu hěn rènzhēn.",
+        "translation": {
+          "vi": "Việc anh ấy làm việc nào cũng đều nghiêm túc.",
+          "en": "Everything he does, he does seriously."
+        }
+      },
+      {
+        "hanzi": "路上条条大路都堵车了。",
+        "pinyin": "Lù shàng tiáotiáo dàlù dōu dǔchē le.",
+        "translation": {
+          "vi": "Trên đường con đường lớn nào cũng tắc xe.",
+          "en": "Every single main road is jammed with traffic."
         }
       }
     ]
   },
   {
     "id": "bijiao",
-    "title": {
-      "vi": "Câu so sánh với 比",
-      "en": "Comparisons with 比",
-      "zh": "比字句"
+    "metadata": {
+      "id": "三12-01",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.4",
+          "label": "副词"
+        }
+      ],
+      "category": "程度副词"
     },
-    "structure": "A + 比 + B + Adj",
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"比较\" (khá, tương đối)",
+      "en": "Degree adverb \"比较\" (relatively, comparatively)",
+      "zh": "程度副词「比较」"
+    },
+    "structure": "比较 + 形容词／动词(心理)",
     "explanation": {
-      "vi": "比 dùng để so sánh hai đối tượng, tính từ đặt sau B, không thêm 很 trước tính từ.",
-      "en": "比 compares two things; the adjective follows B, and 很 is not added before it.",
-      "zh": "「比」用于比较两者，形容词放在 B 之后，前面不加「很」。"
+      "vi": "\"比较\" đứng trước tính từ hoặc động từ tâm lý để biểu thị mức độ tương đối, không quá cao cũng không thấp, thường mang tính khách quan, so sánh ngầm với một chuẩn mực chung. Khác với \"很\" (nhấn mạnh mức độ cao rõ rệt), \"比较\" nhẹ nhàng, khiêm tốn hơn.",
+      "en": "\"比较\" precedes an adjective or a psychological verb to express a relative, moderate degree, neither too high nor too low, often carrying an implicit comparison against a general standard. Unlike \"很\" (emphasizing a clearly high degree), \"比较\" is milder and more modest in tone.",
+      "zh": "「比较」用在形容词或心理动词前，表示程度适中，不高也不低，隐含与一般标准的比较，语气较客观。与强调程度高的「很」不同，「比较」语气更缓和、含蓄。"
     },
     "examples": [
       {
-        "hanzi": "他比我高。",
-        "pinyin": "Tā bǐ wǒ gāo.",
+        "hanzi": "这个方法比较简单，容易学。",
+        "pinyin": "Zhège fāngfǎ bǐjiào jiǎndān, róngyì xué.",
         "translation": {
-          "vi": "Anh ấy cao hơn tôi.",
-          "en": "He is taller than me."
+          "vi": "Phương pháp này khá đơn giản, dễ học.",
+          "en": "This method is relatively simple and easy to learn."
         }
       },
       {
-        "hanzi": "今天比昨天冷。",
-        "pinyin": "Jīntiān bǐ zuótiān lěng.",
+        "hanzi": "我比较喜欢安静的环境。",
+        "pinyin": "Wǒ bǐjiào xǐhuan ānjìng de huánjìng.",
         "translation": {
-          "vi": "Hôm nay lạnh hơn hôm qua.",
-          "en": "Today is colder than yesterday."
+          "vi": "Tôi khá thích môi trường yên tĩnh.",
+          "en": "I rather prefer a quiet environment."
+        }
+      },
+      {
+        "hanzi": "今年的天气比较冷。",
+        "pinyin": "Jīnnián de tiānqì bǐjiào lěng.",
+        "translation": {
+          "vi": "Thời tiết năm nay khá lạnh.",
+          "en": "The weather this year is relatively cold."
+        }
+      }
+    ]
+  },
+  {
+    "id": "gengjia",
+    "metadata": {
+      "id": "三12-02",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.4",
+          "label": "副词"
+        }
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ chỉ mức độ \"更加\" (càng, hơn nữa)",
+      "en": "Degree adverb \"更加\" (even more)",
+      "zh": "程度副词「更加」"
+    },
+    "structure": "更加 + 形容词／动词",
+    "explanation": {
+      "vi": "\"更加\" là \"更\" mức độ trang trọng hơn, biểu thị mức độ tăng lên so với trước đó hoặc so với đối tượng khác, thường dùng trong câu so sánh hoặc câu có tính liệt kê tăng tiến. Nghiêng về văn viết, trang trọng hơn \"更\" thông thường.",
+      "en": "\"更加\" is a more formal version of \"更\", expressing an increased degree compared to before or compared to another object, often used in comparative or progressively intensifying sentences. It leans toward written, formal register, more so than plain \"更\".",
+      "zh": "「更加」是「更」的书面化说法，表示程度比之前或比其他对象有所增加，常用于比较句或递进句。语体偏书面，比一般的「更」更正式。"
+    },
+    "examples": [
+      {
+        "hanzi": "经过这次训练，他更加自信了。",
+        "pinyin": "Jīngguò zhè cì xùnliàn, tā gèngjiā zìxìn le.",
+        "translation": {
+          "vi": "Qua đợt huấn luyện này, anh ấy càng thêm tự tin.",
+          "en": "After this training, he became even more confident."
+        }
+      },
+      {
+        "hanzi": "这样做会使问题更加复杂。",
+        "pinyin": "Zhèyàng zuò huì shǐ wèntí gèngjiā fùzá.",
+        "translation": {
+          "vi": "Làm như vậy sẽ khiến vấn đề càng thêm phức tạp.",
+          "en": "Doing it this way will make the problem even more complicated."
+        }
+      },
+      {
+        "hanzi": "我们应该更加努力地工作。",
+        "pinyin": "Wǒmen yīnggāi gèngjiā nǔlì de gōngzuò.",
+        "translation": {
+          "vi": "Chúng ta nên làm việc chăm chỉ hơn nữa.",
+          "en": "We should work even harder."
+        }
+      }
+    ]
+  },
+  {
+    "id": "hai-du",
+    "metadata": {
+      "id": "三12-03",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.4",
+          "label": "副词"
+        }
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ mức độ \"还\" (cũng khá, tạm được)",
+      "en": "Degree adverb \"还\" (fairly, passably)",
+      "zh": "程度副词「还」（表程度）"
+    },
+    "structure": "还 + 形容词 ／ 还 + 可以／行",
+    "explanation": {
+      "vi": "Khi làm phó từ chỉ mức độ, \"还\" biểu thị mức độ ở ngưỡng chấp nhận được, không cao lắm nhưng cũng không tệ, thường mang hàm ý so với kỳ vọng ban đầu không quá thấp. Cần phân biệt với \"还\" chỉ thời gian/tiếp diễn (还没, 还在). Thường xuất hiện trong 还可以, 还不错, 还行.",
+      "en": "As a degree adverb, \"还\" indicates a passable, acceptable degree, not particularly high but not bad either, often implying it meets a not-too-low expectation. It must be distinguished from the temporal/continuative \"还\" (还没 not yet, 还在 still). It commonly appears in 还可以, 还不错, 还行 (all meaning \"pretty good/okay\").",
+      "zh": "作程度副词时，「还」表示程度尚可，不算很高，但也不差，常隐含\"没有低于预期\"的意味。需与表时间/持续的「还」（还没、还在）区分。常见搭配：还可以、还不错、还行。"
+    },
+    "examples": [
+      {
+        "hanzi": "这家餐厅的菜还不错。",
+        "pinyin": "Zhè jiā cāntīng de cài hái búcuò.",
+        "translation": {
+          "vi": "Món ăn ở nhà hàng này cũng khá ổn.",
+          "en": "The food at this restaurant is pretty good."
+        }
+      },
+      {
+        "hanzi": "他的中文说得还可以。",
+        "pinyin": "Tā de Zhōngwén shuō de hái kěyǐ.",
+        "translation": {
+          "vi": "Tiếng Trung anh ấy nói cũng tạm được.",
+          "en": "His Chinese is passable."
+        }
+      },
+      {
+        "hanzi": "考试成绩还行，没有想象中那么差。",
+        "pinyin": "Kǎoshì chéngjì hái xíng, méiyǒu xiǎngxiàng zhōng nàme chà.",
+        "translation": {
+          "vi": "Kết quả thi cũng tạm ổn, không tệ như tưởng tượng.",
+          "en": "The exam results were okay, not as bad as I imagined."
+        }
+      }
+    ]
+  },
+  {
+    "id": "xiangdang",
+    "metadata": {
+      "id": "三12-04",
+      "level": "HSK3",
+      "breadcrumb": [
+        {
+          "code": "A.3.2",
+          "label": "词类"
+        },
+        {
+          "code": "A.3.2.4",
+          "label": "副词"
+        }
+      ],
+      "category": "程度副词"
+    },
+    "title": {
+      "vi": "Phó từ mức độ \"相当\" (khá, tương đối cao)",
+      "en": "Degree adverb \"相当\" (quite, fairly high degree)",
+      "zh": "程度副词「相当」"
+    },
+    "structure": "相当 + 形容词／动词",
+    "explanation": {
+      "vi": "\"相当\" biểu thị mức độ khá cao, gần bằng hoặc vượt mức mong đợi, mạnh hơn \"比较\" nhưng chưa đến mức \"很/非常\". Thường dùng trong văn viết hoặc ngữ cảnh trang trọng, có sắc thái khách quan, đánh giá.",
+      "en": "\"相当\" expresses a fairly high degree, close to or exceeding expectations, stronger than \"比较\" but not as strong as \"很/非常\". It's often used in writing or formal contexts, carrying an objective, evaluative tone.",
+      "zh": "「相当」表示程度较高，接近或超出预期，比「比较」语气强，但还不到「很/非常」的程度。多用于书面语或正式场合，带有客观评价的色彩。"
+    },
+    "examples": [
+      {
+        "hanzi": "这次考试的题目相当难。",
+        "pinyin": "Zhè cì kǎoshì de tímù xiāngdāng nán.",
+        "translation": {
+          "vi": "Đề thi lần này khá khó.",
+          "en": "This exam's questions were quite difficult."
+        }
+      },
+      {
+        "hanzi": "他对这个领域相当了解。",
+        "pinyin": "Tā duì zhège lǐngyù xiāngdāng liǎojiě.",
+        "translation": {
+          "vi": "Anh ấy hiểu khá rõ về lĩnh vực này.",
+          "en": "He has a fairly thorough understanding of this field."
+        }
+      },
+      {
+        "hanzi": "这个城市的发展相当快。",
+        "pinyin": "Zhège chéngshì de fāzhǎn xiāngdāng kuài.",
+        "translation": {
+          "vi": "Sự phát triển của thành phố này khá nhanh.",
+          "en": "This city's development is quite rapid."
         }
       }
     ]
