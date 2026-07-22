@@ -1,0 +1,2033 @@
+{
+  "experiment_id": "wav2vec2-large-wenetspeech-onnx_common-voice-zh_20260722005855",
+  "timestamp": "2026-07-22T00:58:55.585441+00:00",
+  "model": {
+    "name": "wav2vec2-large-wenetspeech-onnx",
+    "checkpoint": "wbbbbb/wav2vec2-large-chinese-zh-cn",
+    "runtime": "onnxruntime"
+  },
+  "dataset": "common-voice-zh",
+  "environment": {
+    "device": "cpu",
+    "cpu": "x86_64",
+    "python_version": "3.14.6",
+    "onnxruntime_providers": [
+      "CPUExecutionProvider"
+    ]
+  },
+  "metrics": {
+    "accuracy": {
+      "wer": 0.176,
+      "cer": 0.0942,
+      "tone_accuracy": 0.9961
+    },
+    "performance": {
+      "cold_start_ms": 1767.19,
+      "inference_latency_ms": 800.0963,
+      "rtf": 0.1295,
+      "throughput_samples_per_sec": 1.2498
+    }
+  },
+  "samples": [
+    {
+      "audio_id": "commonvoice_000",
+      "duration_sec": 8.3,
+      "ground_truth": "汉元鼎六年，武帝平定南越国，南越之地重新划郡，番禺仍为南海郡治。",
+      "prediction": "汉元鼎六年武帝平定南越国南越之地重新划郡番禺仍为南海郡治",
+      "wer": 0.2353,
+      "cer": 0.125,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1094.01
+    },
+    {
+      "audio_id": "commonvoice_001",
+      "duration_sec": 7.42,
+      "ground_truth": "梅瑞迪安是位于美国加利福尼亚州克恩县的一个非建制地区。",
+      "prediction": "梅瑞迪安是位于美国加利福尼亚州克恩县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.037,
+      "tone_accuracy": 1.0,
+      "inference_ms": 928.02
+    },
+    {
+      "audio_id": "commonvoice_002",
+      "duration_sec": 3.36,
+      "ground_truth": "制作时将各原料研磨。",
+      "prediction": "制作时将各原料研磨",
+      "wer": 0.1429,
+      "cer": 0.1,
+      "tone_accuracy": 1.0,
+      "inference_ms": 392.13
+    },
+    {
+      "audio_id": "commonvoice_003",
+      "duration_sec": 7.42,
+      "ground_truth": "印第安维尔斯是位于美国加利福尼亚州克恩县的一个非建制地区。",
+      "prediction": "印蒂安维尔斯是位于美国加利福尼亚州克恩县的一个非建制地区",
+      "wer": 0.1538,
+      "cer": 0.069,
+      "tone_accuracy": 1.0,
+      "inference_ms": 903.19
+    },
+    {
+      "audio_id": "commonvoice_004",
+      "duration_sec": 4.87,
+      "ground_truth": "此举被网民及媒体称为是“用爱发电”。",
+      "prediction": "此举被网民及媒体称为是用爱发电",
+      "wer": 0.3333,
+      "cer": 0.1667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 580.64
+    },
+    {
+      "audio_id": "commonvoice_005",
+      "duration_sec": 5.98,
+      "ground_truth": "除了停泊船只外，鼓山渔港也设有鱼市场等渔业设施。",
+      "prediction": "除了停泊船只外鼓山渔港也设有鱼市场等渔业设施",
+      "wer": 0.1333,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 721.05
+    },
+    {
+      "audio_id": "commonvoice_006",
+      "duration_sec": 9.14,
+      "ground_truth": "蔡英，原籍江西南昌县，移籍山东禹城县，明朝政治人物、进士出身。",
+      "prediction": "蔡因原籍江西南昌县以籍山东渔城县明朝政治人物进士出身",
+      "wer": 0.4706,
+      "cer": 0.2581,
+      "tone_accuracy": 0.9231,
+      "inference_ms": 1181.34
+    },
+    {
+      "audio_id": "commonvoice_007",
+      "duration_sec": 6.79,
+      "ground_truth": "定展和轮展将协助参观者瞭解好莱坞电影业所作出的文化贡献。",
+      "prediction": "进展和轮展将协助参观者瞭解好莱坞电影业所作出的文化贡献",
+      "wer": 0.1333,
+      "cer": 0.0714,
+      "tone_accuracy": 1.0,
+      "inference_ms": 834.41
+    },
+    {
+      "audio_id": "commonvoice_008",
+      "duration_sec": 8.3,
+      "ground_truth": "本品的特色为能对抗多种抗药性极强的病原体，如耐甲氧西林金黄色葡萄球菌等。",
+      "prediction": "本品的特色为能对抗多种抗药性极强的病原体如耐甲氧息磷金黄色葡萄球菌等",
+      "wer": 0.2632,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1027.21
+    },
+    {
+      "audio_id": "commonvoice_009",
+      "duration_sec": 5.23,
+      "ground_truth": "滋阳山遗址，位于山东省兖州市颜店镇。",
+      "prediction": "思阳山遗址位于山东省兖州市颜店镇",
+      "wer": 0.3,
+      "cer": 0.1667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 625.71
+    },
+    {
+      "audio_id": "commonvoice_010",
+      "duration_sec": 3.12,
+      "ground_truth": "治所在悉唐县。",
+      "prediction": "治所在悉唐县",
+      "wer": 0.2,
+      "cer": 0.1429,
+      "tone_accuracy": 1.0,
+      "inference_ms": 420.53
+    },
+    {
+      "audio_id": "commonvoice_011",
+      "duration_sec": 5.45,
+      "ground_truth": "因迪安的座标为，而该地的平均海拔高度为米。",
+      "prediction": "因迪安的座标为而该地的平均海拔高度为米",
+      "wer": 0.1429,
+      "cer": 0.0952,
+      "tone_accuracy": 1.0,
+      "inference_ms": 644.15
+    },
+    {
+      "audio_id": "commonvoice_012",
+      "duration_sec": 2.57,
+      "ground_truth": "宠爱她的阿公",
+      "prediction": "宠爱她的阿公",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 292.36
+    },
+    {
+      "audio_id": "commonvoice_013",
+      "duration_sec": 7.42,
+      "ground_truth": "计算机辅助设计与其相比具有一些优势，在某些情况下包括三维建模。",
+      "prediction": "计算机辅助设计与其相比具有一定优势在某些情况下包括三维建模",
+      "wer": 0.1875,
+      "cer": 0.0968,
+      "tone_accuracy": 0.931,
+      "inference_ms": 894.97
+    },
+    {
+      "audio_id": "commonvoice_014",
+      "duration_sec": 5.06,
+      "ground_truth": "大石桥，位于山东省济宁市市中区古槐街道。",
+      "prediction": "大石桥位于山东省济宁市市中区古槐街道",
+      "wer": 0.2222,
+      "cer": 0.1,
+      "tone_accuracy": 1.0,
+      "inference_ms": 594.42
+    },
+    {
+      "audio_id": "commonvoice_015",
+      "duration_sec": 5.11,
+      "ground_truth": "本列表为贝宁驻中华人民共和国历任大使名录。",
+      "prediction": "本列表为贝宁驻中华人民共和国历任大使名录",
+      "wer": 0.1,
+      "cer": 0.0476,
+      "tone_accuracy": 1.0,
+      "inference_ms": 594.62
+    },
+    {
+      "audio_id": "commonvoice_016",
+      "duration_sec": 3.31,
+      "ground_truth": "其同分异构体如下：",
+      "prediction": "其同分异构体如下",
+      "wer": 0.2,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 383.65
+    },
+    {
+      "audio_id": "commonvoice_017",
+      "duration_sec": 3.46,
+      "ground_truth": "罗兹城市活力艺术节官网",
+      "prediction": "罗兹城市活力艺术节官网",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 434.62
+    },
+    {
+      "audio_id": "commonvoice_018",
+      "duration_sec": 6.05,
+      "ground_truth": "袁捷，湖北省英山县红山镇金家墩人。",
+      "prediction": "袁捷湖北省英山县红山镇金家墩人",
+      "wer": 0.2,
+      "cer": 0.1176,
+      "tone_accuracy": 1.0,
+      "inference_ms": 785.61
+    },
+    {
+      "audio_id": "commonvoice_019",
+      "duration_sec": 6.22,
+      "ground_truth": "哈里斯是位于美国亚利桑那州莫哈维县的一个非建制地区。",
+      "prediction": "哈里斯是位于美国亚利桑那州莫哈维县的一个非建制地区",
+      "wer": 0.0833,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 758.6
+    },
+    {
+      "audio_id": "commonvoice_020",
+      "duration_sec": 5.23,
+      "ground_truth": "柬埔寨昔日的首都乌栋就位于乌栋县境内。",
+      "prediction": "柬埔寨昔日的首都乌栋就位于乌栋县境内",
+      "wer": 0.0909,
+      "cer": 0.0526,
+      "tone_accuracy": 1.0,
+      "inference_ms": 608.37
+    },
+    {
+      "audio_id": "commonvoice_021",
+      "duration_sec": 4.06,
+      "ground_truth": "精彩且钜细靡遗的分享",
+      "prediction": "精彩且钜细靡遗的分享",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 466.2
+    },
+    {
+      "audio_id": "commonvoice_022",
+      "duration_sec": 8.93,
+      "ground_truth": "胡椒钟螺，又名花蜑马蹄螺，是一个海螺的物种，属于钟螺科的海洋腹足纲软体动物。",
+      "prediction": "胡椒钟螺又名花蜑马蹄螺是一个海螺的物种属于钟螺科的海洋腹足纲软体动物",
+      "wer": 0.2609,
+      "cer": 0.1053,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1145.41
+    },
+    {
+      "audio_id": "commonvoice_023",
+      "duration_sec": 6.5,
+      "ground_truth": "盖普福德是位于美国加利福尼亚州金斯县的一个非建制地区。",
+      "prediction": "盖普福德是位于美国加利福尼亚州金斯县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.037,
+      "tone_accuracy": 1.0,
+      "inference_ms": 779.13
+    },
+    {
+      "audio_id": "commonvoice_024",
+      "duration_sec": 3.17,
+      "ground_truth": "最近一套获奖电影是《黑豹》。",
+      "prediction": "最近一套获奖电影是黑豹",
+      "wer": 0.3333,
+      "cer": 0.2143,
+      "tone_accuracy": 1.0,
+      "inference_ms": 364.13
+    },
+    {
+      "audio_id": "commonvoice_025",
+      "duration_sec": 4.94,
+      "ground_truth": "闫笑然认为《随想录》版本可分为“手稿本”。",
+      "prediction": "闫笑然认为随想录版本可分为手稿本",
+      "wer": 0.3846,
+      "cer": 0.2381,
+      "tone_accuracy": 1.0,
+      "inference_ms": 602.03
+    },
+    {
+      "audio_id": "commonvoice_026",
+      "duration_sec": 5.86,
+      "ground_truth": "南极冰海葵是目前已知唯一生活于冰中的海葵。",
+      "prediction": "南极冰海葵是目前已知唯一生活于冰中的海葵",
+      "wer": 0.0769,
+      "cer": 0.0476,
+      "tone_accuracy": 1.0,
+      "inference_ms": 703.66
+    },
+    {
+      "audio_id": "commonvoice_027",
+      "duration_sec": 7.75,
+      "ground_truth": "许多标榜马克思主义的政权是由共产主义政党一党专政的国家，例如前东德。",
+      "prediction": "许多标榜马克思主义的政权是由共产主义政党一党专政的国家例如前东德",
+      "wer": 0.1111,
+      "cer": 0.0588,
+      "tone_accuracy": 1.0,
+      "inference_ms": 962.34
+    },
+    {
+      "audio_id": "commonvoice_028",
+      "duration_sec": 8.54,
+      "ground_truth": "当猎巫行动的受害者陆续开始复活时，博士意识到猎巫的起因是可能与外星生物有关。",
+      "prediction": "当猎巫行动的受害者陆续开始复活时博士意识到猎巫的起因是可能与外星生物有关",
+      "wer": 0.087,
+      "cer": 0.0526,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1069.82
+    },
+    {
+      "audio_id": "commonvoice_029",
+      "duration_sec": 6.02,
+      "ground_truth": "随后，警方原来的“过激学生群体”称呼的也变为“极左暴力集体”。",
+      "prediction": "随后警方原来的过激学生群体称呼的也变为极所暴力集体",
+      "wer": 0.35,
+      "cer": 0.2258,
+      "tone_accuracy": 1.0,
+      "inference_ms": 758.91
+    },
+    {
+      "audio_id": "commonvoice_030",
+      "duration_sec": 5.71,
+      "ground_truth": "阿陀斯是位于美国亚利桑那州莫哈维县的一个非建制地区。",
+      "prediction": "阿陀斯是位于美国亚利桑那州莫哈维县的一个非建制地区",
+      "wer": 0.0833,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 675.02
+    },
+    {
+      "audio_id": "commonvoice_031",
+      "duration_sec": 6.1,
+      "ground_truth": "土砖是位于美国亚利桑那州马里科帕县的一个非建制地区。",
+      "prediction": "土砖是位于美国亚利桑那州马里科帕县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 717.92
+    },
+    {
+      "audio_id": "commonvoice_032",
+      "duration_sec": 5.21,
+      "ground_truth": "薛刚父子带兵追剿武则天，一直把她赶到定海关城。",
+      "prediction": "薛刚副子带兵追剿武则天一直把她赶到定海关城",
+      "wer": 0.2143,
+      "cer": 0.1304,
+      "tone_accuracy": null,
+      "inference_ms": 607.53
+    },
+    {
+      "audio_id": "commonvoice_033",
+      "duration_sec": 6.43,
+      "ground_truth": "中共广慈医院党委召开紧急会议，要求破除迷信，努力抢救。",
+      "prediction": "中共广慈医院党委召开紧急会议要求破除迷信努力抢救",
+      "wer": 0.2308,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 763.73
+    },
+    {
+      "audio_id": "commonvoice_034",
+      "duration_sec": 4.06,
+      "ground_truth": "他还学习了路德维希·莫泽的物理课。",
+      "prediction": "他还学习了路德维希莫泽的物理课",
+      "wer": 0.2,
+      "cer": 0.1176,
+      "tone_accuracy": 1.0,
+      "inference_ms": 469.71
+    },
+    {
+      "audio_id": "commonvoice_035",
+      "duration_sec": 7.34,
+      "ground_truth": "官方媒体新华社采访了中国各领域的人士，认为该纪录片引发了社会的共鸣。",
+      "prediction": "官方媒体新华社采访了中国各领域的人士认为该纪录片引发了社会的共鸣",
+      "wer": 0.1,
+      "cer": 0.0588,
+      "tone_accuracy": 1.0,
+      "inference_ms": 900.42
+    },
+    {
+      "audio_id": "commonvoice_036",
+      "duration_sec": 6.48,
+      "ground_truth": "阿克钦村是位于美国亚利桑那州皮纳尔县的一个人口普查指定地区。",
+      "prediction": "阿克钦村是位于美国亚利桑那州皮纳尔县的一个人口普查指定地区",
+      "wer": 0.0714,
+      "cer": 0.0333,
+      "tone_accuracy": 1.0,
+      "inference_ms": 773.79
+    },
+    {
+      "audio_id": "commonvoice_037",
+      "duration_sec": 8.47,
+      "ground_truth": "包欣芳，字荣臯，号凤笙，四川叙州府南溪县人，原籍福建上杭县，行五，民籍。",
+      "prediction": "高欣芳字容臯号风生四川叙州府南溪县人沿籍福建上杭县行武民籍",
+      "wer": 0.5909,
+      "cer": 0.3611,
+      "tone_accuracy": 0.9655,
+      "inference_ms": 1046.7
+    },
+    {
+      "audio_id": "commonvoice_038",
+      "duration_sec": 6.67,
+      "ground_truth": "如果数据不是实时获取的话，那么这样的行为就被称为“访问留存的数据”。",
+      "prediction": "如果数据不是实时获取的话那么这样的行为就被称为访问留存的数据",
+      "wer": 0.1905,
+      "cer": 0.1176,
+      "tone_accuracy": 1.0,
+      "inference_ms": 854.73
+    },
+    {
+      "audio_id": "commonvoice_039",
+      "duration_sec": 5.26,
+      "ground_truth": "萨塞斯是一个位于美国阿肯色州克莱县的市镇。",
+      "prediction": "萨塞斯是一个位于美国阿肯色州克莱县的市镇",
+      "wer": 0.0833,
+      "cer": 0.0476,
+      "tone_accuracy": 1.0,
+      "inference_ms": 614.22
+    },
+    {
+      "audio_id": "commonvoice_040",
+      "duration_sec": 4.99,
+      "ground_truth": "这项交易被认为是洋基与运动家之间最糟糕的交易。",
+      "prediction": "这项交易被认为是洋基与运动家之间最糟糕的交易",
+      "wer": 0.0667,
+      "cer": 0.0435,
+      "tone_accuracy": 1.0,
+      "inference_ms": 608.66
+    },
+    {
+      "audio_id": "commonvoice_041",
+      "duration_sec": 5.98,
+      "ground_truth": "皮尼奥是位于美国加利福尼亚州拉森县的一个非建制地区。",
+      "prediction": "皮尼奥是位于美国加利福尼亚州拉森县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 735.36
+    },
+    {
+      "audio_id": "commonvoice_042",
+      "duration_sec": 4.08,
+      "ground_truth": "若月惠，日本漫画家。",
+      "prediction": "若月惠日本漫画家",
+      "wer": 0.4,
+      "cer": 0.2,
+      "tone_accuracy": 1.0,
+      "inference_ms": 465.55
+    },
+    {
+      "audio_id": "commonvoice_043",
+      "duration_sec": 5.14,
+      "ground_truth": "在任期间，他曾尝试将东孟加拉并入巴基斯坦。",
+      "prediction": "在任期间他曾尝试将东孟加拉并入巴基斯坦",
+      "wer": 0.1667,
+      "cer": 0.0952,
+      "tone_accuracy": 1.0,
+      "inference_ms": 638.93
+    },
+    {
+      "audio_id": "commonvoice_044",
+      "duration_sec": 3.79,
+      "ground_truth": "占巴塞王是昭阿努的儿子。",
+      "prediction": "占巴塞王是昭阿努的儿子",
+      "wer": 0.1429,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 488.73
+    },
+    {
+      "audio_id": "commonvoice_045",
+      "duration_sec": 3.38,
+      "ground_truth": "决赛中，他充任第四官员。",
+      "prediction": "决赛中他充任第四官员",
+      "wer": 0.25,
+      "cer": 0.1667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 426.23
+    },
+    {
+      "audio_id": "commonvoice_046",
+      "duration_sec": 8.76,
+      "ground_truth": "之后他迁任河南道御史，因为提出意见被贬谪归乡，和陈子壮复修南园社。",
+      "prediction": "之后他迁任河南道御史因为提出意见被贬谪归乡和陈子壮复修南源社",
+      "wer": 0.25,
+      "cer": 0.1212,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1159.47
+    },
+    {
+      "audio_id": "commonvoice_047",
+      "duration_sec": 5.04,
+      "ground_truth": "两个最重要的过境通道为友谊口岸。",
+      "prediction": "两个最重要的过境通道为友谊口岸",
+      "wer": 0.1,
+      "cer": 0.0625,
+      "tone_accuracy": 1.0,
+      "inference_ms": 591.2
+    },
+    {
+      "audio_id": "commonvoice_048",
+      "duration_sec": 7.06,
+      "ground_truth": "派因是位于美国亚利桑那州希拉县的一个人口普查指定地区。",
+      "prediction": "派因是位于美国亚利桑那州希拉县的一个人口普查指定地区",
+      "wer": 0.0714,
+      "cer": 0.037,
+      "tone_accuracy": 1.0,
+      "inference_ms": 891.85
+    },
+    {
+      "audio_id": "commonvoice_049",
+      "duration_sec": 8.74,
+      "ground_truth": "它是白色固体，微溶于水，可溶于丙酮、沸水、热乙醇、热氯仿和乙醚。",
+      "prediction": "它是白色固体微溶于水可溶于丙酮废水热乙醇热氯仿和乙醚",
+      "wer": 0.3913,
+      "cer": 0.2188,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1262.82
+    },
+    {
+      "audio_id": "commonvoice_050",
+      "duration_sec": 7.15,
+      "ground_truth": "宁诚，字克敬，明朝正德时期的御马监太监。",
+      "prediction": "宁诚字克敬明朝正德时期的御马监太监",
+      "wer": 0.2727,
+      "cer": 0.15,
+      "tone_accuracy": 1.0,
+      "inference_ms": 906.44
+    },
+    {
+      "audio_id": "commonvoice_051",
+      "duration_sec": 8.33,
+      "ground_truth": "该方法的成功，使得在北京市中心不进行大规模开挖的条件下修建地铁成为可能。",
+      "prediction": "该方法的成功使得在北京市中心不进行大规模开挖的条件下修建地铁成为可能",
+      "wer": 0.0952,
+      "cer": 0.0556,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1145.0
+    },
+    {
+      "audio_id": "commonvoice_052",
+      "duration_sec": 5.86,
+      "ground_truth": "有指近来的司法趋势开始转向有利于被侵害人的方向。",
+      "prediction": "有指近来的司法趋势开始转向有利于被侵害人的方向",
+      "wer": 0.0714,
+      "cer": 0.0417,
+      "tone_accuracy": 1.0,
+      "inference_ms": 772.63
+    },
+    {
+      "audio_id": "commonvoice_053",
+      "duration_sec": 5.81,
+      "ground_truth": "哈灵顿广场是位于美国亚利桑那州皮马县的一个非建制地区。",
+      "prediction": "哈灵顿广场是位于美国亚利桑那州皮马县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.037,
+      "tone_accuracy": 1.0,
+      "inference_ms": 760.65
+    },
+    {
+      "audio_id": "commonvoice_054",
+      "duration_sec": 3.0,
+      "ground_truth": "目前的等级为二等站。",
+      "prediction": "目前的等级为二等站",
+      "wer": 0.1429,
+      "cer": 0.1,
+      "tone_accuracy": 1.0,
+      "inference_ms": 355.12
+    },
+    {
+      "audio_id": "commonvoice_055",
+      "duration_sec": 8.69,
+      "ground_truth": "食浮游生物动物为以浮游生物为食的水生生物，包括浮游动物与浮游植物。",
+      "prediction": "食浮游生物动物为以浮游生物为食的水生生物包括浮游动物与浮游植物",
+      "wer": 0.125,
+      "cer": 0.0606,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1236.26
+    },
+    {
+      "audio_id": "commonvoice_056",
+      "duration_sec": 3.41,
+      "ground_truth": "有人在抢卫生纸抢到打架",
+      "prediction": "有人在抢卫生纸抢到打架",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 408.99
+    },
+    {
+      "audio_id": "commonvoice_057",
+      "duration_sec": 8.18,
+      "ground_truth": "通过一系列的收购与兼并，环球公司是欧洲目前最大的私人商业电台业主公司。",
+      "prediction": "通过一系列的收购与兼并环球公司是欧洲目前最大的私人商业电台业主公司",
+      "wer": 0.1,
+      "cer": 0.0571,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1075.79
+    },
+    {
+      "audio_id": "commonvoice_058",
+      "duration_sec": 5.28,
+      "ground_truth": "百日王朝期间，拿破仑一世任命他为自卫队骑兵司令。",
+      "prediction": "百日王朝期间拿破仑一世任命他为自卫队骑兵司令",
+      "wer": 0.1538,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 657.75
+    },
+    {
+      "audio_id": "commonvoice_059",
+      "duration_sec": 7.42,
+      "ground_truth": "此节目内容被转载到大陆后，“大陆人吃不起茶叶蛋”的观点遭到网络上群体嘲笑。",
+      "prediction": "此节目内容被转载到大陆后大陆人吃不起茶叶蛋的观点遭到网络上群体嘲笑",
+      "wer": 0.1739,
+      "cer": 0.1081,
+      "tone_accuracy": 1.0,
+      "inference_ms": 986.01
+    },
+    {
+      "audio_id": "commonvoice_060",
+      "duration_sec": 5.74,
+      "ground_truth": "因斯派里申是位于美国亚利桑那州希拉县的一个非建制地区。",
+      "prediction": "因斯派利申是位于美国亚利桑那州希拉县的一个非建制地区",
+      "wer": 0.2143,
+      "cer": 0.0741,
+      "tone_accuracy": 0.96,
+      "inference_ms": 808.54
+    },
+    {
+      "audio_id": "commonvoice_061",
+      "duration_sec": 3.36,
+      "ground_truth": "出身海宁查氏望族。",
+      "prediction": "出身海宁查氏望族",
+      "wer": 0.2,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 453.32
+    },
+    {
+      "audio_id": "commonvoice_062",
+      "duration_sec": 6.26,
+      "ground_truth": "瓦亚钦是位于美国亚利桑那州皮马县的一个非建制地区。",
+      "prediction": "瓦亚钦是位于美国亚利桑那州皮马县的一个非建制地区",
+      "wer": 0.0833,
+      "cer": 0.04,
+      "tone_accuracy": 1.0,
+      "inference_ms": 827.12
+    },
+    {
+      "audio_id": "commonvoice_063",
+      "duration_sec": 5.74,
+      "ground_truth": "昂恩被废黜，并娶杰·杰塔四世之女为妻。",
+      "prediction": "昂恩被废黜并娶杰杰塔逝世之女为妻",
+      "wer": 0.4615,
+      "cer": 0.2105,
+      "tone_accuracy": 1.0,
+      "inference_ms": 714.9
+    },
+    {
+      "audio_id": "commonvoice_064",
+      "duration_sec": 6.48,
+      "ground_truth": "齐庄园是位于美国加利福尼亚州埃尔多拉多县的一个非建制地区。",
+      "prediction": "奇庄园是位于美国加利福尼亚州埃尔多拉多县的一个非建制地区",
+      "wer": 0.1333,
+      "cer": 0.069,
+      "tone_accuracy": 1.0,
+      "inference_ms": 819.19
+    },
+    {
+      "audio_id": "commonvoice_065",
+      "duration_sec": 7.13,
+      "ground_truth": "另据报道称，因“老赖”造成的痼疾，严重影响了“社会的和谐稳定”。",
+      "prediction": "另据报道称因老赖造成的痼疾严重影响了社会的和谐稳定",
+      "wer": 0.4286,
+      "cer": 0.2188,
+      "tone_accuracy": 1.0,
+      "inference_ms": 906.97
+    },
+    {
+      "audio_id": "commonvoice_066",
+      "duration_sec": 7.68,
+      "ground_truth": "与此同时，社民党内立即有正统马克思主义者反击了修正主义派的这一理论。",
+      "prediction": "与此同时社民党内立即有正统马克思主义者反击了修正主义派的这一理论",
+      "wer": 0.1176,
+      "cer": 0.0588,
+      "tone_accuracy": 1.0,
+      "inference_ms": 991.25
+    },
+    {
+      "audio_id": "commonvoice_067",
+      "duration_sec": 8.38,
+      "ground_truth": "后者在蒸鱼时盖在鱼身上，鱼熟了，网油的甘香也随之沁入鱼身。",
+      "prediction": "后者在蒸鱼时盖在鱼身上鱼熟了网油的单香也随之沁入鱼身",
+      "wer": 0.2105,
+      "cer": 0.1379,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1131.12
+    },
+    {
+      "audio_id": "commonvoice_068",
+      "duration_sec": 5.54,
+      "ground_truth": "当妹妹被无辜施暴时，他因懦弱而束手旁观。",
+      "prediction": "当妹妹被无辜施暴时她因懦弱而束手旁观",
+      "wer": 0.2308,
+      "cer": 0.15,
+      "tone_accuracy": 1.0,
+      "inference_ms": 694.8
+    },
+    {
+      "audio_id": "commonvoice_069",
+      "duration_sec": 7.58,
+      "ground_truth": "根据传说，教堂附近地区是阿方索三世被他三个儿子反叛围困的地方。",
+      "prediction": "根据传说教堂附近地区是阿方索三时被他三个儿子反叛围困的地方",
+      "wer": 0.1667,
+      "cer": 0.0968,
+      "tone_accuracy": 0.963,
+      "inference_ms": 923.61
+    },
+    {
+      "audio_id": "commonvoice_070",
+      "duration_sec": 4.97,
+      "ground_truth": "因为他认为国际版权的限制将阻碍该国的出版业。",
+      "prediction": "因为他认为国际版权的限制将阻碍该国的出版业",
+      "wer": 0.0769,
+      "cer": 0.0455,
+      "tone_accuracy": 1.0,
+      "inference_ms": 583.03
+    },
+    {
+      "audio_id": "commonvoice_071",
+      "duration_sec": 5.66,
+      "ground_truth": "她积极参与和联合国委员会，以提高世界妇女的地位。",
+      "prediction": "她积极参与联合国委员会以提高世界妇女的地位",
+      "wer": 0.2308,
+      "cer": 0.125,
+      "tone_accuracy": null,
+      "inference_ms": 720.8
+    },
+    {
+      "audio_id": "commonvoice_072",
+      "duration_sec": 3.84,
+      "ground_truth": "多年来，他曾数次转换政党。",
+      "prediction": "多年来他曾数次转换政党",
+      "wer": 0.2222,
+      "cer": 0.1538,
+      "tone_accuracy": 1.0,
+      "inference_ms": 450.32
+    },
+    {
+      "audio_id": "commonvoice_073",
+      "duration_sec": 8.3,
+      "ground_truth": "除树盲蝽亚科物种外，其余各亚科物种均无单眼。",
+      "prediction": "除树盲蝽亚科物种外细鱼各亚科物种均无单眼",
+      "wer": 0.2857,
+      "cer": 0.1818,
+      "tone_accuracy": 0.95,
+      "inference_ms": 1108.39
+    },
+    {
+      "audio_id": "commonvoice_074",
+      "duration_sec": 6.26,
+      "ground_truth": "玻璃屋字面意思为玻璃做成的屋子，此外它可以指：",
+      "prediction": "玻璃屋是逆意师为玻璃做成的屋子此外它可以指",
+      "wer": 0.3571,
+      "cer": 0.2174,
+      "tone_accuracy": null,
+      "inference_ms": 823.2
+    },
+    {
+      "audio_id": "commonvoice_075",
+      "duration_sec": 6.46,
+      "ground_truth": "故事围绕着纳奥米·奥美蒂这个极先进的“第三系列”类人机器人发生。",
+      "prediction": "故事围绕着纳奥米奥美蒂这个提先进的第三系列类人机器人发生",
+      "wer": 0.2632,
+      "cer": 0.1562,
+      "tone_accuracy": 1.0,
+      "inference_ms": 765.79
+    },
+    {
+      "audio_id": "commonvoice_076",
+      "duration_sec": 9.0,
+      "ground_truth": "以下列出列夫·托尔斯泰所着小说《战争与和平》中的人物，括号给出其首次出现章节。",
+      "prediction": "以下列出列夫托尔斯泰索着小说战争与和平中的人物或号给出其首次出现章节",
+      "wer": 0.3333,
+      "cer": 0.1795,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1139.85
+    },
+    {
+      "audio_id": "commonvoice_077",
+      "duration_sec": 8.14,
+      "ground_truth": "贝约维斯塔是位于美国加利福尼亚州康特拉科斯塔县的一个非建制地区。",
+      "prediction": "贝约维斯塔是位于美国加利福尼亚州康特斯拉科斯塔县的一个非建制地区",
+      "wer": 0.125,
+      "cer": 0.0625,
+      "tone_accuracy": null,
+      "inference_ms": 995.24
+    },
+    {
+      "audio_id": "commonvoice_078",
+      "duration_sec": 5.23,
+      "ground_truth": "在计算机科学中，互斥关系是一种数据库关系。",
+      "prediction": "在计算机科学中互斥关系是一种数据库关系",
+      "wer": 0.1818,
+      "cer": 0.0952,
+      "tone_accuracy": 1.0,
+      "inference_ms": 621.66
+    },
+    {
+      "audio_id": "commonvoice_079",
+      "duration_sec": 4.3,
+      "ground_truth": "报中央目的事业主管机关备查",
+      "prediction": "报中央目的事业主管机关备查",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 508.5
+    },
+    {
+      "audio_id": "commonvoice_080",
+      "duration_sec": 8.47,
+      "ground_truth": "艾瑞克·瓦伦丁·戈登是加拿大语言学家，曾于英国利兹大学与曼彻斯特大学任教。",
+      "prediction": "艾伦克瓦伦丁戈登是加拿大语言学家曾于英国历兹大学与曼彻斯特大学任教",
+      "wer": 0.5333,
+      "cer": 0.1622,
+      "tone_accuracy": 0.9697,
+      "inference_ms": 1054.86
+    },
+    {
+      "audio_id": "commonvoice_081",
+      "duration_sec": 6.77,
+      "ground_truth": "尼斯是位于美国加利福尼亚州莱克县的一个人口普查指定地区。",
+      "prediction": "尼斯是位于美国加利福尼亚州莱克县的一个人口普查指定地区",
+      "wer": 0.0769,
+      "cer": 0.0357,
+      "tone_accuracy": 1.0,
+      "inference_ms": 825.9
+    },
+    {
+      "audio_id": "commonvoice_082",
+      "duration_sec": 3.02,
+      "ground_truth": "呼噜噜爱心市集主办人。",
+      "prediction": "呼噜噜爱心市集主办人",
+      "wer": 0.2,
+      "cer": 0.0909,
+      "tone_accuracy": 1.0,
+      "inference_ms": 341.82
+    },
+    {
+      "audio_id": "commonvoice_083",
+      "duration_sec": 4.63,
+      "ground_truth": "林恩是一个位于美国阿肯色州劳伦斯县的城镇。",
+      "prediction": "林恩是一个位于美国阿肯色州劳伦斯县的城镇",
+      "wer": 0.1,
+      "cer": 0.0476,
+      "tone_accuracy": 1.0,
+      "inference_ms": 540.88
+    },
+    {
+      "audio_id": "commonvoice_084",
+      "duration_sec": 7.51,
+      "ground_truth": "奥罗利维是位于美国加利福尼亚州比尤特县的一个非建制地区。",
+      "prediction": "奥罗利维是位于美国加利福尼亚州比尤特县的一个非建制地区",
+      "wer": 0.0714,
+      "cer": 0.0357,
+      "tone_accuracy": 1.0,
+      "inference_ms": 917.53
+    },
+    {
+      "audio_id": "commonvoice_085",
+      "duration_sec": 6.89,
+      "ground_truth": "威海卫学校旧址，位于山东省威海市环翠区孙家疃镇。",
+      "prediction": "威海卫学校旧址位于山东省威海市环翠区孙家疃镇",
+      "wer": 0.1667,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 840.1
+    },
+    {
+      "audio_id": "commonvoice_086",
+      "duration_sec": 7.82,
+      "ground_truth": "金太祖收国二年，独吉义随父秘剌领户三百归附金太祖，独吉义为谋克。",
+      "prediction": "金太祖收国二年独吉义随父秘剌领户三百归父金太祖独吉义为谋克",
+      "wer": 0.2353,
+      "cer": 0.125,
+      "tone_accuracy": 1.0,
+      "inference_ms": 954.82
+    },
+    {
+      "audio_id": "commonvoice_087",
+      "duration_sec": 5.38,
+      "ground_truth": "安门头遗址，位于山东省沂水县诸葛镇。",
+      "prediction": "安门头遗址位于山东省沂水县诸葛镇",
+      "wer": 0.2222,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 622.4
+    },
+    {
+      "audio_id": "commonvoice_088",
+      "duration_sec": 6.41,
+      "ground_truth": "我们感觉就像是背叛者一样，受到保护且就救朋友一事做得不够。",
+      "prediction": "我们感觉就像是背叛者一样受到保护且就救朋友一事做得不够",
+      "wer": 0.1111,
+      "cer": 0.069,
+      "tone_accuracy": 1.0,
+      "inference_ms": 752.54
+    },
+    {
+      "audio_id": "commonvoice_089",
+      "duration_sec": 4.44,
+      "ground_truth": "一度得到中共中央肯定并在全国推广。",
+      "prediction": "一度得到中共中央肯定应在全国推广",
+      "wer": 0.2222,
+      "cer": 0.1176,
+      "tone_accuracy": 0.9375,
+      "inference_ms": 511.68
+    },
+    {
+      "audio_id": "commonvoice_090",
+      "duration_sec": 2.62,
+      "ground_truth": "食物的问题怎么办？",
+      "prediction": "食物的问题怎么办",
+      "wer": 0.2,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 346.45
+    },
+    {
+      "audio_id": "commonvoice_091",
+      "duration_sec": 6.19,
+      "ground_truth": "塔格是位于美国阿肯色州波普县的一个非建制地区。",
+      "prediction": "塔格是位于美国阿肯色州波普县的一个非建制地区",
+      "wer": 0.0833,
+      "cer": 0.0435,
+      "tone_accuracy": 1.0,
+      "inference_ms": 751.43
+    },
+    {
+      "audio_id": "commonvoice_092",
+      "duration_sec": 5.02,
+      "ground_truth": "小学和中学期间，她在大石道场练习柔道。",
+      "prediction": "小学和中学期间他在大石道场练习柔道",
+      "wer": 0.25,
+      "cer": 0.1579,
+      "tone_accuracy": 1.0,
+      "inference_ms": 596.85
+    },
+    {
+      "audio_id": "commonvoice_093",
+      "duration_sec": 9.22,
+      "ground_truth": "此后，弥利憍苴试图解决东敦枝、央米丁，、东吁等地区割据一方、形同独立的问题。",
+      "prediction": "此后弥利憍苴试图解决东敦枝央米丁东吁等地区割据一方形同独立的问题",
+      "wer": 0.4348,
+      "cer": 0.1579,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1195.18
+    },
+    {
+      "audio_id": "commonvoice_094",
+      "duration_sec": 6.94,
+      "ground_truth": "因弗内斯是位于美国加利福尼亚州马林县的一个人口普查指定地区。",
+      "prediction": "因弗内斯是位于美国加利福尼亚州马林县的一个人口普查指定地区",
+      "wer": 0.0714,
+      "cer": 0.0333,
+      "tone_accuracy": 1.0,
+      "inference_ms": 825.88
+    },
+    {
+      "audio_id": "commonvoice_095",
+      "duration_sec": 6.0,
+      "ground_truth": "明特村是位于美国加利福尼亚州克恩县的一个非建制地区。",
+      "prediction": "明特村是位于美国加利福尼亚州克恩县的一个非建制地区",
+      "wer": 0.0833,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 704.47
+    },
+    {
+      "audio_id": "commonvoice_096",
+      "duration_sec": 6.82,
+      "ground_truth": "圣埃米迪奥是位于美国加利福尼亚州克恩县的一个非建制地区。",
+      "prediction": "圣埃米迪奥是位于美国加利福尼亚州克恩县的一个非建制地区",
+      "wer": 0.0714,
+      "cer": 0.0357,
+      "tone_accuracy": 1.0,
+      "inference_ms": 809.86
+    },
+    {
+      "audio_id": "commonvoice_097",
+      "duration_sec": 6.34,
+      "ground_truth": "克雷斯特是位于美国加利福尼亚州拉森县的一个非建制地区。",
+      "prediction": "克雷斯特是位于美国加利福尼亚州拉森县的一个非建制地区",
+      "wer": 0.0833,
+      "cer": 0.037,
+      "tone_accuracy": 1.0,
+      "inference_ms": 742.65
+    },
+    {
+      "audio_id": "commonvoice_098",
+      "duration_sec": 2.9,
+      "ground_truth": "薛崇，唐朝官员。",
+      "prediction": "薛崇唐朝官员",
+      "wer": 0.4,
+      "cer": 0.25,
+      "tone_accuracy": 1.0,
+      "inference_ms": 330.72
+    },
+    {
+      "audio_id": "commonvoice_099",
+      "duration_sec": 2.71,
+      "ground_truth": "之后不断减少。",
+      "prediction": "之后不断减少",
+      "wer": 0.25,
+      "cer": 0.1429,
+      "tone_accuracy": 1.0,
+      "inference_ms": 314.14
+    },
+    {
+      "audio_id": "commonvoice_100",
+      "duration_sec": 8.16,
+      "ground_truth": "康拉德·瑙曼，德国统一社会党政治局候补委员，东德柏林专区党委第一书记。",
+      "prediction": "康拉德瑙曼德国统一社会党政治局候补委员东德柏林专区党委第一书记",
+      "wer": 0.25,
+      "cer": 0.1143,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1163.99
+    },
+    {
+      "audio_id": "commonvoice_101",
+      "duration_sec": 6.62,
+      "ground_truth": "布赖特赛德是位于美国加利福尼亚州阿拉米达县的一个非建制地区。",
+      "prediction": "布赖特赛德是位于美国加利福尼亚州阿拉米达县的一个非建制地区",
+      "wer": 0.0714,
+      "cer": 0.0333,
+      "tone_accuracy": 1.0,
+      "inference_ms": 926.31
+    },
+    {
+      "audio_id": "commonvoice_102",
+      "duration_sec": 2.09,
+      "ground_truth": "买了巴士票",
+      "prediction": "买了巴士票",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 265.45
+    },
+    {
+      "audio_id": "commonvoice_103",
+      "duration_sec": 6.55,
+      "ground_truth": "警视厅及兵库县警察对在日朝鲜人的嫌疑犯发布国际通缉。",
+      "prediction": "警视厅及兵库县警察对在日朝鲜人的嫌疑犯发布国际通缉",
+      "wer": 0.0714,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 913.08
+    },
+    {
+      "audio_id": "commonvoice_104",
+      "duration_sec": 8.09,
+      "ground_truth": "第二高位被用来选择第二级交换机的输出口，依此类推直到到达最终的输出。",
+      "prediction": "第二高位被用来选择第二级交换机的输出口依此类推直到到达最终的输出",
+      "wer": 0.1111,
+      "cer": 0.0588,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1202.56
+    },
+    {
+      "audio_id": "commonvoice_105",
+      "duration_sec": 5.69,
+      "ground_truth": "少量青瓷也出现单独的镶嵌折枝纹。",
+      "prediction": "少量青瓷也出现单独的镶嵌折枝纹",
+      "wer": 0.1,
+      "cer": 0.0625,
+      "tone_accuracy": 1.0,
+      "inference_ms": 798.52
+    },
+    {
+      "audio_id": "commonvoice_106",
+      "duration_sec": 5.54,
+      "ground_truth": "埃德蒙德·汉森为一位美国音讯工程师。",
+      "prediction": "埃德蒙德汉森为一名美国音讯工程师",
+      "wer": 0.3,
+      "cer": 0.1667,
+      "tone_accuracy": 0.9375,
+      "inference_ms": 779.05
+    },
+    {
+      "audio_id": "commonvoice_107",
+      "duration_sec": 8.45,
+      "ground_truth": "起初奥斯曼帝国只对唯一一个穆夫提的地位予以官方承认，是为大穆夫提。",
+      "prediction": "起初奥斯曼帝国只对唯一一个穆夫提的地位予以官方承认是为大穆夫提",
+      "wer": 0.1111,
+      "cer": 0.0606,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1211.06
+    },
+    {
+      "audio_id": "commonvoice_108",
+      "duration_sec": 5.09,
+      "ground_truth": "他是电台司令的吉他手强尼·格林伍德的哥哥。",
+      "prediction": "他是电台司令的吉他手强尼格林伍德的哥哥",
+      "wer": 0.1538,
+      "cer": 0.0952,
+      "tone_accuracy": 1.0,
+      "inference_ms": 677.74
+    },
+    {
+      "audio_id": "commonvoice_109",
+      "duration_sec": 6.7,
+      "ground_truth": "劳特布龙嫩或格林德瓦并可以转乘伯恩高地铁路。",
+      "prediction": "劳特布龙嫩或格林德瓦并可以转乘伯恩高地铁路",
+      "wer": 0.0833,
+      "cer": 0.0455,
+      "tone_accuracy": 1.0,
+      "inference_ms": 924.94
+    },
+    {
+      "audio_id": "commonvoice_110",
+      "duration_sec": 6.12,
+      "ground_truth": "章西田氏家祠，位于山东省巨野县章缝镇。",
+      "prediction": "章西田氏家祠位于山东省巨野县章缝镇",
+      "wer": 0.1818,
+      "cer": 0.1053,
+      "tone_accuracy": 1.0,
+      "inference_ms": 819.67
+    },
+    {
+      "audio_id": "commonvoice_111",
+      "duration_sec": 2.59,
+      "ground_truth": "率兵西击铁木真。",
+      "prediction": "率兵西击铁木真",
+      "wer": 0.25,
+      "cer": 0.125,
+      "tone_accuracy": 1.0,
+      "inference_ms": 318.25
+    },
+    {
+      "audio_id": "commonvoice_112",
+      "duration_sec": 7.58,
+      "ground_truth": "哈斯福德高地是位于美国加利福尼亚州康特拉科斯塔县的一个非建制地区。",
+      "prediction": "哈斯福德高地是位于美国加利福尼亚州康特拉科斯塔县的一个非建制地区",
+      "wer": 0.0588,
+      "cer": 0.0303,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1028.9
+    },
+    {
+      "audio_id": "commonvoice_113",
+      "duration_sec": 7.63,
+      "ground_truth": "菲尔布里克米尔是位于美国加利福尼亚州门多西诺县的一个非建制地区。",
+      "prediction": "菲尔布里克米尔是位于美国加利福尼亚州门多西诺县的一个非建制地区",
+      "wer": 0.0667,
+      "cer": 0.0312,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1038.36
+    },
+    {
+      "audio_id": "commonvoice_114",
+      "duration_sec": 7.15,
+      "ground_truth": "该效应是影视镜头语言的基础理论，也是对爱森斯坦蒙太奇理论的证明。",
+      "prediction": "该效应是影视镜头语言的基础理论也是对爱森斯坦蒙太奇理论的证明",
+      "wer": 0.1053,
+      "cer": 0.0625,
+      "tone_accuracy": 1.0,
+      "inference_ms": 936.75
+    },
+    {
+      "audio_id": "commonvoice_115",
+      "duration_sec": 6.46,
+      "ground_truth": "阿尔斯兰·伊斯拉里，乌古斯人基尼克部族首领。",
+      "prediction": "阿尔斯兰伊苏拉里乌古斯人基尼克部族首领",
+      "wer": 0.4167,
+      "cer": 0.1818,
+      "tone_accuracy": 1.0,
+      "inference_ms": 838.6
+    },
+    {
+      "audio_id": "commonvoice_116",
+      "duration_sec": 5.4,
+      "ground_truth": "伯顿米尔是位于美国加利福尼亚州克恩县的一个非建制地区。",
+      "prediction": "伯顿米尔是位于美国加利福尼亚州克恩县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.037,
+      "tone_accuracy": 1.0,
+      "inference_ms": 694.33
+    },
+    {
+      "audio_id": "commonvoice_117",
+      "duration_sec": 3.84,
+      "ground_truth": "毒驾是违法的，不管驾驶表现。",
+      "prediction": "毒驾是违法的不管驾驶表现",
+      "wer": 0.2222,
+      "cer": 0.1429,
+      "tone_accuracy": 1.0,
+      "inference_ms": 502.24
+    },
+    {
+      "audio_id": "commonvoice_118",
+      "duration_sec": 5.81,
+      "ground_truth": "覃裕春，柳州府象州人，南明军事人物。",
+      "prediction": "覃裕春柳州府象州人南明军事人物",
+      "wer": 0.5455,
+      "cer": 0.1667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 789.77
+    },
+    {
+      "audio_id": "commonvoice_119",
+      "duration_sec": 7.87,
+      "ground_truth": "比克斯勒是位于美国加利福尼亚州康特拉科斯塔县的一个非建制地区。",
+      "prediction": "比克斯勒是位于美国加利福尼亚州康特拉科斯塔县的一个非建制地区",
+      "wer": 0.0588,
+      "cer": 0.0323,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1105.39
+    },
+    {
+      "audio_id": "commonvoice_120",
+      "duration_sec": 5.95,
+      "ground_truth": "目前是埃及规模最大的图书馆，藏有许多珍贵书籍与手稿。",
+      "prediction": "目前是埃及规模最大的图书馆藏有许多珍贵书籍与手稿",
+      "wer": 0.1333,
+      "cer": 0.0769,
+      "tone_accuracy": 1.0,
+      "inference_ms": 775.37
+    },
+    {
+      "audio_id": "commonvoice_121",
+      "duration_sec": 7.87,
+      "ground_truth": "万一皇上顾念宗亲，可以另外派遣边境的人适量给予用品，说明恩德。",
+      "prediction": "万一皇上顾念宗亲可以另外派遣边境的人适量给予用品说明恩德",
+      "wer": 0.1667,
+      "cer": 0.0968,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1079.49
+    },
+    {
+      "audio_id": "commonvoice_122",
+      "duration_sec": 6.38,
+      "ground_truth": "后来撤乡为管理区，又改为桐丽人民公社。",
+      "prediction": "后来撤乡为管理区又改为桐丽人民公社",
+      "wer": 0.2,
+      "cer": 0.1053,
+      "tone_accuracy": 1.0,
+      "inference_ms": 854.25
+    },
+    {
+      "audio_id": "commonvoice_123",
+      "duration_sec": 9.1,
+      "ground_truth": "萨默塞特公爵唯一的附属头衔是西摩男爵，作为对公爵长子或继承人的礼称。",
+      "prediction": "萨默赛特公爵唯一的附属头衔是西摩男爵作为对公爵长指或继承人的礼称",
+      "wer": 0.2632,
+      "cer": 0.1176,
+      "tone_accuracy": 0.9667,
+      "inference_ms": 1261.08
+    },
+    {
+      "audio_id": "commonvoice_124",
+      "duration_sec": 6.96,
+      "ground_truth": "但可以确定的是塞尔柱人的联军规模确实比蒙古军队来的更加庞大。",
+      "prediction": "但可以确定的是塞尔柱人的联军规模确实比蒙古军队来得更加庞大",
+      "wer": 0.1579,
+      "cer": 0.0667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 905.15
+    },
+    {
+      "audio_id": "commonvoice_125",
+      "duration_sec": 2.88,
+      "ground_truth": "看着外婆落寞的身影",
+      "prediction": "看着外婆落寞的身影",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 348.35
+    },
+    {
+      "audio_id": "commonvoice_126",
+      "duration_sec": 8.04,
+      "ground_truth": "粗尾袋鼠亚科，又名短脸袋鼠亚科，是袋鼠科之下的一个亚科。",
+      "prediction": "粗尾袋鼠亚科又名短脸袋鼠亚科是袋鼠科之下的一个亚科",
+      "wer": 0.1765,
+      "cer": 0.1071,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1093.56
+    },
+    {
+      "audio_id": "commonvoice_127",
+      "duration_sec": 9.36,
+      "ground_truth": "关渡双年展是由国立台北艺术大学关渡美术馆所主办之两年一次的当代艺术类双年展。",
+      "prediction": "官渡双年展是由国立台北艺术大学官渡美术馆所主办之两年一次的当代艺术类双年展",
+      "wer": 0.15,
+      "cer": 0.0789,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1306.05
+    },
+    {
+      "audio_id": "commonvoice_128",
+      "duration_sec": 3.67,
+      "ground_truth": "从来都不是停止练习的借口",
+      "prediction": "从来都不是停止练习的借口",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 441.41
+    },
+    {
+      "audio_id": "commonvoice_129",
+      "duration_sec": 5.02,
+      "ground_truth": "本列表为几内亚驻中华人民共和国历任大使名录。",
+      "prediction": "本列表为几内亚驻中华人民共和国历任大使名录",
+      "wer": 0.1,
+      "cer": 0.0455,
+      "tone_accuracy": 1.0,
+      "inference_ms": 669.25
+    },
+    {
+      "audio_id": "commonvoice_130",
+      "duration_sec": 9.53,
+      "ground_truth": "宋钦宗靖康元年正月，李棁由正奉大夫、守吏部尚书担任同知枢密院事，成为宰执。",
+      "prediction": "宋钦宗静康元年正月李棁由正奉大夫守吏部尚书担任同知枢书密院事成为宰执",
+      "wer": 0.3182,
+      "cer": 0.1622,
+      "tone_accuracy": null,
+      "inference_ms": 1525.07
+    },
+    {
+      "audio_id": "commonvoice_131",
+      "duration_sec": 6.17,
+      "ground_truth": "比奇格罗夫是位于美国阿肯色州格林县的一个非建制地区。",
+      "prediction": "比奇克罗夫是位于美国阿肯色州格林县的一个非建制地区",
+      "wer": 0.1429,
+      "cer": 0.0769,
+      "tone_accuracy": 0.9583,
+      "inference_ms": 784.24
+    },
+    {
+      "audio_id": "commonvoice_132",
+      "duration_sec": 3.84,
+      "ground_truth": "陈明仙，又名陈明仙、明轩。",
+      "prediction": "陈明仙又名陈明仙明轩",
+      "wer": 0.5556,
+      "cer": 0.2308,
+      "tone_accuracy": 1.0,
+      "inference_ms": 510.11
+    },
+    {
+      "audio_id": "commonvoice_133",
+      "duration_sec": 6.38,
+      "ground_truth": "瓜笄霉好发于高温高湿的环境，并且会在土壤中盘据。",
+      "prediction": "瓜笄霉爆发于高温高湿的环境并且会在土壤中盘据",
+      "wer": 0.2353,
+      "cer": 0.125,
+      "tone_accuracy": 0.9524,
+      "inference_ms": 852.11
+    },
+    {
+      "audio_id": "commonvoice_134",
+      "duration_sec": 2.18,
+      "ground_truth": "与大家分享",
+      "prediction": "与大家分享",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 269.0
+    },
+    {
+      "audio_id": "commonvoice_135",
+      "duration_sec": 4.9,
+      "ground_truth": "相对于其他哲学史丛书，这本书较深入浅出。",
+      "prediction": "相对于其他哲学史丛书这本书较深入浅出",
+      "wer": 0.1818,
+      "cer": 0.1,
+      "tone_accuracy": 1.0,
+      "inference_ms": 620.91
+    },
+    {
+      "audio_id": "commonvoice_136",
+      "duration_sec": 4.87,
+      "ground_truth": "该市镇总面积平方公里，年时的人口为人。",
+      "prediction": "该市镇总面积平方公里年时的人口为人",
+      "wer": 0.1667,
+      "cer": 0.1053,
+      "tone_accuracy": 1.0,
+      "inference_ms": 663.19
+    },
+    {
+      "audio_id": "commonvoice_137",
+      "duration_sec": 7.18,
+      "ground_truth": "纳赞加是蒙博托和他第二任妻子波比·拉达瓦的长子。",
+      "prediction": "纳赞加是蒙博托和他第二任妻子波比拉达瓦的长子",
+      "wer": 0.1429,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 962.88
+    },
+    {
+      "audio_id": "commonvoice_138",
+      "duration_sec": 4.8,
+      "ground_truth": "因此，应该确保组织结构兼容于产品架构。",
+      "prediction": "因此应该确保组织结构兼容于产品架构",
+      "wer": 0.1818,
+      "cer": 0.1053,
+      "tone_accuracy": 1.0,
+      "inference_ms": 633.5
+    },
+    {
+      "audio_id": "commonvoice_139",
+      "duration_sec": 8.88,
+      "ground_truth": "法案表决后，直选议员苏嘉豪在发表声明并叫口号：「还我市政代表，民选市政代表！",
+      "prediction": "法表决后直选议员苏佳豪在发表声明并叫口号还我市政代表明选市政代表",
+      "wer": 0.3478,
+      "cer": 0.2105,
+      "tone_accuracy": null,
+      "inference_ms": 1391.88
+    },
+    {
+      "audio_id": "commonvoice_140",
+      "duration_sec": 4.06,
+      "ground_truth": "协助口头承租农地之耕作者",
+      "prediction": "协助口头承租农地之耕作者",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 525.34
+    },
+    {
+      "audio_id": "commonvoice_141",
+      "duration_sec": 4.75,
+      "ground_truth": "巴龙列谢八世之子乔华二世继位。",
+      "prediction": "巴龙列谢八世之子乔华二世继位",
+      "wer": 0.125,
+      "cer": 0.0667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 618.21
+    },
+    {
+      "audio_id": "commonvoice_142",
+      "duration_sec": 9.36,
+      "ground_truth": "陈广豪，生于香港，香港足球运动员，司职前锋，现时效力香港超级联赛球会佳联元朗。",
+      "prediction": "陈广豪生于香港香港足球运动员司职前锋现时效力香港超级联赛球会嘉联元朗",
+      "wer": 0.4,
+      "cer": 0.1538,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1359.96
+    },
+    {
+      "audio_id": "commonvoice_143",
+      "duration_sec": 4.32,
+      "ground_truth": "清朝沿置，为不辖县的散州。",
+      "prediction": "清朝沿置为不辖县的散州",
+      "wer": 0.25,
+      "cer": 0.1538,
+      "tone_accuracy": 1.0,
+      "inference_ms": 546.37
+    },
+    {
+      "audio_id": "commonvoice_144",
+      "duration_sec": 5.06,
+      "ground_truth": "集美工业学校，是「集美学村」家族成员。",
+      "prediction": "集美工业学校是集美学村家族成员",
+      "wer": 0.3636,
+      "cer": 0.2105,
+      "tone_accuracy": 1.0,
+      "inference_ms": 609.85
+    },
+    {
+      "audio_id": "commonvoice_145",
+      "duration_sec": 7.1,
+      "ground_truth": "这也是第一次东道主暨连续六届冠军没有赢得冠军，只排名第四。",
+      "prediction": "这也是第一次东道主暨连续六届冠军没有赢得冠军只排名第四",
+      "wer": 0.1176,
+      "cer": 0.069,
+      "tone_accuracy": 1.0,
+      "inference_ms": 961.89
+    },
+    {
+      "audio_id": "commonvoice_146",
+      "duration_sec": 4.51,
+      "ground_truth": "参与改组社会党为罗马尼亚社会民主党。",
+      "prediction": "参与傣组社会党为罗马尼亚社会民主党",
+      "wer": 0.2857,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 577.58
+    },
+    {
+      "audio_id": "commonvoice_147",
+      "duration_sec": 3.17,
+      "ground_truth": "我会找专家来处理",
+      "prediction": "我会找专家来处理",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 467.23
+    },
+    {
+      "audio_id": "commonvoice_148",
+      "duration_sec": 5.11,
+      "ground_truth": "不久即以二十多岁的年龄，成为一贯道的点传师。",
+      "prediction": "不久即以二十多岁的年龄成为一贯道的点传师",
+      "wer": 0.1667,
+      "cer": 0.0909,
+      "tone_accuracy": 1.0,
+      "inference_ms": 784.48
+    },
+    {
+      "audio_id": "commonvoice_149",
+      "duration_sec": 7.08,
+      "ground_truth": "后来他背弃了绘画，转向前卫和实验艺术形式，包括行为艺术和视频。",
+      "prediction": "后来他背提了绘画转向前卫和实验艺术形式包括行为艺术和视频",
+      "wer": 0.2778,
+      "cer": 0.129,
+      "tone_accuracy": 0.963,
+      "inference_ms": 1103.54
+    },
+    {
+      "audio_id": "commonvoice_150",
+      "duration_sec": 3.14,
+      "ground_truth": "从家庭衔接职场",
+      "prediction": "从家庭衔接职场",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 413.26
+    },
+    {
+      "audio_id": "commonvoice_151",
+      "duration_sec": 5.57,
+      "ground_truth": "对于更高阶的导数，我们可以继续同样的过程。",
+      "prediction": "对于更高阶的导数我们可以继续同样的过程",
+      "wer": 0.1538,
+      "cer": 0.0952,
+      "tone_accuracy": 1.0,
+      "inference_ms": 797.82
+    },
+    {
+      "audio_id": "commonvoice_152",
+      "duration_sec": 7.82,
+      "ground_truth": "乳头凹陷也称为乳头内陷，是指乳头凹陷，未突出乳房的情形。",
+      "prediction": "乳头凹陷也称为乳头内线是指乳头凹陷未突出乳房的情系",
+      "wer": 0.2778,
+      "cer": 0.1786,
+      "tone_accuracy": 0.9583,
+      "inference_ms": 1198.92
+    },
+    {
+      "audio_id": "commonvoice_153",
+      "duration_sec": 8.54,
+      "ground_truth": "在很多情况下借词中的被读作而非，甚至在源语言中读作时也如此。",
+      "prediction": "在很多情况下借词中的被读作而非甚至在源语言中读作时也如此",
+      "wer": 0.0952,
+      "cer": 0.0667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1188.01
+    },
+    {
+      "audio_id": "commonvoice_154",
+      "duration_sec": 3.62,
+      "ground_truth": "身体被安全带拉住",
+      "prediction": "身体被安全带拉住",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 471.44
+    },
+    {
+      "audio_id": "commonvoice_155",
+      "duration_sec": 6.79,
+      "ground_truth": "营运者感经营困难，遂向运输署申请加价。",
+      "prediction": "营运者感经营困难遂向运输署申请加价",
+      "wer": 0.1538,
+      "cer": 0.1053,
+      "tone_accuracy": 1.0,
+      "inference_ms": 998.13
+    },
+    {
+      "audio_id": "commonvoice_156",
+      "duration_sec": 8.16,
+      "ground_truth": "和益州、雍州、安远州怀义军、威州武宁军，都是龙州黄龙府的支郡。",
+      "prediction": "和益宗雍州安远州怀义军威州武宁军都是龙州黄龙府的支郡",
+      "wer": 0.35,
+      "cer": 0.1935,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1155.84
+    },
+    {
+      "audio_id": "commonvoice_157",
+      "duration_sec": 6.84,
+      "ground_truth": "萨勒河畔施瓦岑巴赫是德国巴伐利亚州的一个市镇。",
+      "prediction": "萨勒河畔施瓦岑巴赫是德国巴伐利亚州的一个市镇",
+      "wer": 0.0909,
+      "cer": 0.0435,
+      "tone_accuracy": 1.0,
+      "inference_ms": 854.66
+    },
+    {
+      "audio_id": "commonvoice_158",
+      "duration_sec": 4.75,
+      "ground_truth": "区块链是今年最火热的科技趋势了",
+      "prediction": "区块链是今年最火热的科技趋势了",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 588.57
+    },
+    {
+      "audio_id": "commonvoice_159",
+      "duration_sec": 8.78,
+      "ground_truth": "地坛庙会，又称地坛春节文化庙会，是指每年春节期间在北京地坛公园举办的庙会活动。",
+      "prediction": "地坛庙会又称地坛春节文化庙会是指每年春节期间在北京地坛公园举办的庙会活动",
+      "wer": 0.1364,
+      "cer": 0.0769,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1293.42
+    },
+    {
+      "audio_id": "commonvoice_160",
+      "duration_sec": 6.91,
+      "ground_truth": "宋正本，隋朝末年民变人物，窦建德大夏政权中纳言。",
+      "prediction": "宋正本隋朝末年民变人物窦建德大夏政权中纳言",
+      "wer": 0.2143,
+      "cer": 0.125,
+      "tone_accuracy": 1.0,
+      "inference_ms": 976.28
+    },
+    {
+      "audio_id": "commonvoice_161",
+      "duration_sec": 9.55,
+      "ground_truth": "收到许多人指控政府死者与被拘留者家属提出抗议，并威胁该国的一些人权护卫者。",
+      "prediction": "收到许多人指控政府死者与被拘留者家属提出抗议并威胁该国一些人权护卫者",
+      "wer": 0.1429,
+      "cer": 0.0811,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1396.63
+    },
+    {
+      "audio_id": "commonvoice_162",
+      "duration_sec": 7.34,
+      "ground_truth": "为了迈向环球小姐而努力不懈，日夜都十分憧憬的女优：幸田真理子。",
+      "prediction": "为了迈向环球小姐而努力不现日夜都十分憧憬的女优信田真离子",
+      "wer": 0.3889,
+      "cer": 0.1935,
+      "tone_accuracy": 0.96,
+      "inference_ms": 1115.55
+    },
+    {
+      "audio_id": "commonvoice_163",
+      "duration_sec": 5.52,
+      "ground_truth": "果敢的杨氏土司原为兴达户土目。",
+      "prediction": "果敢的杨氏土司原为兴达户土目",
+      "wer": 0.125,
+      "cer": 0.0667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 737.1
+    },
+    {
+      "audio_id": "commonvoice_164",
+      "duration_sec": 3.74,
+      "ground_truth": "然而告知旁人均不被重视。",
+      "prediction": "然而告知旁人均不被重视",
+      "wer": 0.125,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 453.8
+    },
+    {
+      "audio_id": "commonvoice_165",
+      "duration_sec": 7.03,
+      "ground_truth": "该网站的公司还开拓研究服务并预测电影的可能收入。",
+      "prediction": "该网站的公司还开拓研究服务并预测电影的可能收入",
+      "wer": 0.0667,
+      "cer": 0.0417,
+      "tone_accuracy": 1.0,
+      "inference_ms": 960.88
+    },
+    {
+      "audio_id": "commonvoice_166",
+      "duration_sec": 8.5,
+      "ground_truth": "默特尔敦是位于美国加利福尼亚州洪堡县的一个人口普查指定地区。",
+      "prediction": "默特尔敦是位于美国加利福尼亚州洪堡县的一个人口普查指定地区",
+      "wer": 0.0714,
+      "cer": 0.0333,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1313.36
+    },
+    {
+      "audio_id": "commonvoice_167",
+      "duration_sec": 6.79,
+      "ground_truth": "查茨沃思是一个位于美国乔治亚州莫雷县的城市。",
+      "prediction": "查茨沃斯是一个位于美国乔治亚州莫雷县的城市",
+      "wer": 0.2,
+      "cer": 0.0909,
+      "tone_accuracy": 1.0,
+      "inference_ms": 937.94
+    },
+    {
+      "audio_id": "commonvoice_168",
+      "duration_sec": 9.26,
+      "ground_truth": "印第安松是位于美国亚利桑那州纳瓦霍县的一个非建制地区。",
+      "prediction": "印蒂安松是位于美国亚利桑那州纳瓦霍县的一个非建制地区",
+      "wer": 0.2308,
+      "cer": 0.0741,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1304.2
+    },
+    {
+      "audio_id": "commonvoice_169",
+      "duration_sec": 7.63,
+      "ground_truth": "按省道养护管理权限的不同，上海的省道可以分为市管省道和区管省道。",
+      "prediction": "按省道养护管理权限的不同上海的省道可以分为市管省道和区管省道",
+      "wer": 0.1,
+      "cer": 0.0625,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1040.24
+    },
+    {
+      "audio_id": "commonvoice_170",
+      "duration_sec": 6.38,
+      "ground_truth": "龚明鑫，中华民国政治人物，现任行政院政务委员。",
+      "prediction": "龚明鑫中华民国政治人物现任行政院政务委员",
+      "wer": 0.3,
+      "cer": 0.1304,
+      "tone_accuracy": 1.0,
+      "inference_ms": 862.03
+    },
+    {
+      "audio_id": "commonvoice_171",
+      "duration_sec": 4.9,
+      "ground_truth": "派拉蒙影业已退出制作，改由参与制作。",
+      "prediction": "派拉蒙影业已退出制作改由参与制作",
+      "wer": 0.2,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 633.76
+    },
+    {
+      "audio_id": "commonvoice_172",
+      "duration_sec": 4.3,
+      "ground_truth": "萤幕上白色游标闪烁刺眼",
+      "prediction": "萤幕上白色游标闪烁刺眼",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 541.87
+    },
+    {
+      "audio_id": "commonvoice_173",
+      "duration_sec": 5.62,
+      "ground_truth": "状态可能依照其「流条件」有离散的变化。",
+      "prediction": "状态可能依照流条件有离散的变化",
+      "wer": 0.3077,
+      "cer": 0.2105,
+      "tone_accuracy": null,
+      "inference_ms": 725.38
+    },
+    {
+      "audio_id": "commonvoice_174",
+      "duration_sec": 6.91,
+      "ground_truth": "曹晏豪饰演王翔的弟弟王杰，和林子熙饰演的角色是情侣。",
+      "prediction": "曹晏豪饰演王翔的弟弟王杰和林子熙饰演的角色是情侣",
+      "wer": 0.125,
+      "cer": 0.0769,
+      "tone_accuracy": 1.0,
+      "inference_ms": 936.03
+    },
+    {
+      "audio_id": "commonvoice_175",
+      "duration_sec": 8.16,
+      "ground_truth": "片中访问许多历任国台办官员、海协会会长及涉台专家等。",
+      "prediction": "片中访问许多历任国台办官员海协会会长及涉台专家等",
+      "wer": 0.1429,
+      "cer": 0.0769,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1120.93
+    },
+    {
+      "audio_id": "commonvoice_176",
+      "duration_sec": 4.39,
+      "ground_truth": "毕业后在教会任职传道人。",
+      "prediction": "毕业后在教会任职传道人",
+      "wer": 0.125,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 559.07
+    },
+    {
+      "audio_id": "commonvoice_177",
+      "duration_sec": 6.29,
+      "ground_truth": "对道路的扩建加高并不能真正改善城市交通拥堵的状况。",
+      "prediction": "对道路的扩建加高并不能真正改善道路交通拥堵的状况",
+      "wer": 0.1429,
+      "cer": 0.12,
+      "tone_accuracy": 0.9545,
+      "inference_ms": 859.05
+    },
+    {
+      "audio_id": "commonvoice_178",
+      "duration_sec": 10.06,
+      "ground_truth": "凯耶斯维尔是位于美国加利福尼亚州克恩县的一个非建制地区。",
+      "prediction": "凯耶斯维尔是位于美国加利福尼亚州克恩县的一个非建制地区",
+      "wer": 0.0769,
+      "cer": 0.0357,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1429.12
+    },
+    {
+      "audio_id": "commonvoice_179",
+      "duration_sec": 8.06,
+      "ground_truth": "此一低气压位于锋面边缘，并纳入飓风佛罗伦斯消散后的残余。",
+      "prediction": "此一低气压位于封面边缘并纳入飓风佛罗伦丝消散后的残余",
+      "wer": 0.25,
+      "cer": 0.1429,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1077.08
+    },
+    {
+      "audio_id": "commonvoice_180",
+      "duration_sec": 5.88,
+      "ground_truth": "研究秦汉史、土地制度史、经济史、史学理论。",
+      "prediction": "研究秦汉史土地制度史经济史史学理论",
+      "wer": 0.3077,
+      "cer": 0.1905,
+      "tone_accuracy": 1.0,
+      "inference_ms": 760.69
+    },
+    {
+      "audio_id": "commonvoice_181",
+      "duration_sec": 5.69,
+      "ground_truth": "该属中的物种之前被分类在鹤属。",
+      "prediction": "该属中的物种之前被分类在鹤属",
+      "wer": 0.0833,
+      "cer": 0.0667,
+      "tone_accuracy": 1.0,
+      "inference_ms": 723.78
+    },
+    {
+      "audio_id": "commonvoice_182",
+      "duration_sec": 2.5,
+      "ground_truth": "也许是因为后悔",
+      "prediction": "也许是因为后悔",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 296.94
+    },
+    {
+      "audio_id": "commonvoice_183",
+      "duration_sec": 9.96,
+      "ground_truth": "盲蝽亚科是半翅目异翅亚目臭虫下目之下盲蝽科一个生物多样性最高的昆虫亚科。",
+      "prediction": "盲蝽亚柯是半翅目异翅亚目臭虫下目之下盲蝽科一个生物多样性最高的昆虫亚科",
+      "wer": 0.1429,
+      "cer": 0.0556,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1498.63
+    },
+    {
+      "audio_id": "commonvoice_184",
+      "duration_sec": 3.58,
+      "ground_truth": "一番折腾后她回到家里",
+      "prediction": "一番折腾后她回到家里",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 438.53
+    },
+    {
+      "audio_id": "commonvoice_185",
+      "duration_sec": 9.96,
+      "ground_truth": "沃托克是位于美国加利福尼亚州弗雷斯诺县的一个非建制地区。",
+      "prediction": "沃托克是位于美国加利福尼亚州弗雷斯诺县的一个非建制地区",
+      "wer": 0.0714,
+      "cer": 0.0357,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1438.43
+    },
+    {
+      "audio_id": "commonvoice_186",
+      "duration_sec": 6.02,
+      "ground_truth": "他的早期项目包括商业广告、电视节目和电影。",
+      "prediction": "他的早期项目包括商业广告电视节目和电影",
+      "wer": 0.1818,
+      "cer": 0.0952,
+      "tone_accuracy": 1.0,
+      "inference_ms": 762.68
+    },
+    {
+      "audio_id": "commonvoice_187",
+      "duration_sec": 7.3,
+      "ground_truth": "伯德尔是位于美国加利福尼亚州马林县的一个非建制地区。",
+      "prediction": "伯德尔是位于美国加利福尼亚州马林县的一个非建制地区",
+      "wer": 0.0714,
+      "cer": 0.0385,
+      "tone_accuracy": 1.0,
+      "inference_ms": 992.71
+    },
+    {
+      "audio_id": "commonvoice_188",
+      "duration_sec": 4.54,
+      "ground_truth": "比如生活的意义、上帝，真理等。",
+      "prediction": "比如生活的意义上帝真理等",
+      "wer": 0.3,
+      "cer": 0.2,
+      "tone_accuracy": 1.0,
+      "inference_ms": 559.06
+    },
+    {
+      "audio_id": "commonvoice_189",
+      "duration_sec": 7.25,
+      "ground_truth": "萨比科是一个位于美国阿肯色州洛根县的城镇。",
+      "prediction": "萨比科是一个位于美国阿肯色州洛根县的城镇",
+      "wer": 0.0909,
+      "cer": 0.0476,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1028.31
+    },
+    {
+      "audio_id": "commonvoice_190",
+      "duration_sec": 2.95,
+      "ground_truth": "白俄罗斯广播电台。",
+      "prediction": "白俄罗斯广播电台",
+      "wer": 0.3333,
+      "cer": 0.1111,
+      "tone_accuracy": 1.0,
+      "inference_ms": 389.74
+    },
+    {
+      "audio_id": "commonvoice_191",
+      "duration_sec": 4.2,
+      "ground_truth": "趣里，日本女演员，东京都出身。",
+      "prediction": "趣里日本女演员东京都出身",
+      "wer": 0.375,
+      "cer": 0.2,
+      "tone_accuracy": 1.0,
+      "inference_ms": 625.77
+    },
+    {
+      "audio_id": "commonvoice_192",
+      "duration_sec": 2.57,
+      "ground_truth": "没有发不动的问题",
+      "prediction": "没有发不动的问题",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 349.17
+    },
+    {
+      "audio_id": "commonvoice_193",
+      "duration_sec": 7.75,
+      "ground_truth": "周恩来指定方毅和章汉夫研究起草成立该机构的方案。",
+      "prediction": "周恩来指立方毅和章汉夫研究起草成立该机构的方案",
+      "wer": 0.3077,
+      "cer": 0.0833,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1115.65
+    },
+    {
+      "audio_id": "commonvoice_194",
+      "duration_sec": 1.99,
+      "ground_truth": "居士戒。",
+      "prediction": "居士戒",
+      "wer": 0.3333,
+      "cer": 0.25,
+      "tone_accuracy": 1.0,
+      "inference_ms": 239.23
+    },
+    {
+      "audio_id": "commonvoice_195",
+      "duration_sec": 8.45,
+      "ground_truth": "他曾与一位政治家考尔特的妻子发生关系，导致了两人女儿莱拉的出生。",
+      "prediction": "他曾与一位政治家考尔特的妻子发出生关系导致了两人女儿莱拉的出生",
+      "wer": 0.2,
+      "cer": 0.0938,
+      "tone_accuracy": null,
+      "inference_ms": 1218.57
+    },
+    {
+      "audio_id": "commonvoice_196",
+      "duration_sec": 2.3,
+      "ground_truth": "生意刚刚起步",
+      "prediction": "生意刚刚起步",
+      "wer": 0.0,
+      "cer": 0.0,
+      "tone_accuracy": 1.0,
+      "inference_ms": 278.17
+    },
+    {
+      "audio_id": "commonvoice_197",
+      "duration_sec": 8.26,
+      "ground_truth": "芒廷梅萨是位于美国加利福尼亚州克恩县的一个人口普查指定地区。",
+      "prediction": "芒廷梅萨是位于美国加利福尼亚州克恩县的一个人口普查指定地区",
+      "wer": 0.0833,
+      "cer": 0.0333,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1138.44
+    },
+    {
+      "audio_id": "commonvoice_198",
+      "duration_sec": 9.46,
+      "ground_truth": "里奥里科是位于美国亚利桑那州圣克鲁斯县的一个人口普查指定地区。",
+      "prediction": "里奥里科是位于美国亚利桑那州圣克鲁斯县的一个人口普查指定地区",
+      "wer": 0.0714,
+      "cer": 0.0323,
+      "tone_accuracy": 1.0,
+      "inference_ms": 1383.47
+    },
+    {
+      "audio_id": "commonvoice_199",
+      "duration_sec": 6.86,
+      "ground_truth": "例如，强迫公民使用的姓氏或国民身分证统一编号。",
+      "prediction": "例如强迫公民使用姓氏或国民身份证统一编号",
+      "wer": 0.3077,
+      "cer": 0.1739,
+      "tone_accuracy": 1.0,
+      "inference_ms": 888.44
+    }
+  ]
+}

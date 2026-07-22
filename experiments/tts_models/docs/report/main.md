@@ -196,7 +196,43 @@ Ngưỡng "model size < 500MB" đặt ra ban đầu **quá khắt khe** so với
 4. **Không nên kết luận cuối cùng chỉ dựa trên bộ common-voice-zh** — cần chạy lại đúng pipeline này (`scripts/benchmark_all.sh`) trên youtube-samples (ưu tiên cao nhất, đại diện đúng "người nói ngoài đời thực") và synthetic-noisy trước khi đưa ra khuyến nghị triển khai cuối cùng.
 5. Nếu muốn phân định rõ SenseVoice vs wav2vec2-WenetSpeech (hiện chưa có ý nghĩa thống kê), cần tăng cỡ mẫu đáng kể hoặc gộp kết quả từ nhiều bộ dữ liệu để tăng statistical power.
 
-## 6. Cách tái tạo báo cáo
+## 6. Bổ sung: Export ONNX & Benchmark ONNX Runtime (wav2vec2-WenetSpeech)
+
+**Ngày:** 2026-07-22
+**Mục tiêu:** Vì wav2vec2-WenetSpeech được xác định là phương án dự phòng (mục 5.3) nếu accuracy được ưu tiên hơn latency, thử nghiệm này đánh giá liệu convert model sang ONNX Runtime có cải thiện latency trên CPU hay không, phục vụ mục tiêu edge deployment (CPU-only) đã đặt ra trong STATEMENT.md.
+
+### 6.1. Phương pháp
+
+- **Export**: `torch.onnx.export` (legacy TorchScript exporter, `dynamo=False`), opset 14, `dynamic_axes` trên chiều sequence length để chấp nhận audio độ dài bất kỳ.
+- **Verify correctness**: so sánh logits và predicted token giữa PyTorch và ONNX Runtime trên 1 sample trước khi benchmark diện rộng — đạt **100% predicted-token agreement**, max abs logit diff = 0.0063 (sai số dấu phẩy động chấp nhận được).
+- **Benchmark**: chạy lại đúng pipeline scoring (CER/WER/tone accuracy, mục 2.2–2.4) trên toàn bộ 200 samples common-voice-zh, để so sánh trực tiếp, công bằng với baseline PyTorch ở bảng 3.1.
+- **Runtime**: `onnxruntime` 1.27.0, `CPUExecutionProvider` mặc định — **chưa** bật graph optimization, quantization, hay tune số thread.
+
+### 6.2. Kết quả
+
+| | PyTorch (baseline, mục 3.1) | ONNX Runtime (CPU, mặc định) |
+|---|---|---|
+| CER | 0.0942 | **0.0942** (khớp tuyệt đối) |
+| Latency/sample (avg) | 776.4 ms | 800.1 ms |
+| RTF | 0.128 | 0.130 |
+
+**Correctness**: CER khớp tuyệt đối trên toàn bộ 200 samples (không chỉ 1 sample sanity check) → khẳng định export ONNX chính xác, không có sai lệch numeric ảnh hưởng đến chất lượng transcription thực tế.
+
+**Performance**: ONNX Runtime session mặc định **không nhanh hơn** PyTorch eager mode trên CPU — thực chất chậm hơn nhẹ (**0.97x**, tức −3%). Đây là kết quả thật ghi nhận được, không phải lỗi cấu hình: PyTorch CPU backend (MKL/oneDNN) vốn đã được tối ưu tốt, nên ONNX Runtime cần thêm bước tối ưu ở session level (`graph_optimization_level=ORT_ENABLE_ALL`, tune `intra_op_num_threads`) hoặc quantization (INT8) mới có cơ hội vượt qua baseline này.
+
+### 6.3. Ý nghĩa với đề xuất triển khai
+
+Kết quả này **không thay đổi** khuyến nghị ở mục 5 — SenseVoice-small vẫn là ứng viên hàng đầu cho real-time nhờ RTF vượt trội. Nó bổ sung một điểm quan trọng cho phương án dự phòng (wav2vec2-WenetSpeech, mục 5.3): nếu sau này cần triển khai model này trên CPU, **convert sang ONNX Runtime đơn thuần (chưa optimize) sẽ không tự động cải thiện latency** — cần đầu tư thêm bước quantization/graph-tuning trước khi mang lại lợi ích thực sự so với chạy PyTorch trực tiếp. Ngược lại, việc export mang lại giá trị rõ ràng ở khía cạnh **portability** (ONNX Runtime không phụ thuộc PyTorch runtime đầy đủ khi đóng gói ứng dụng desktop).
+
+### 6.4. Cách tái tạo
+
+```bash
+cd experiments/tts_models/scripts
+python export_onnx.py       # export sang ONNX + sanity check (1 sample)
+python benchmark_onnx.py    # benchmark full 200 samples, so sánh với baseline PyTorch
+```
+
+## 7. Cách tái tạo báo cáo
 
 ```bash
 cd experiments/tts_models
